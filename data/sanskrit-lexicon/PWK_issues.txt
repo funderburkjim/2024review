@@ -1,0 +1,10 @@
+issue	date	state	#comm	title
+111	2024-12-26	closed	2	Bot tags
+110	2024-12-09	closed	4	BHĀGAVATAPURĀṆA PWKVN literary source markup
+109	2024-12-08	open	11	BHĀGAVATAPURĀṆA PW literary source markup
+108	2024-04-06	open	3	Ideas for further work following issue 106
+107	2024-03-12	closed	1	pw scans for vn
+106	2024-03-25	closed	108	Alternate headwords for pw
+105	2024-02-09	closed	1	Malten headword classifications
+104	2024-02-09	closed	8	appending pwkvn to pwk
+103	2024-02-07	closed	38	pwkvn revisions, based on AB version(s)

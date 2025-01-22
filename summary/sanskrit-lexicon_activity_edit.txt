@@ -1,0 +1,70 @@
+ncommit	nissues	repo
+200	266	csl-orig	Mostly user-corrections. 
+118	5	csl-corrections	Bulk handling Scott's corrections
+54	25	MWS		TODO
+62	9	csl-websanlexicon	TODO
+53	3	csl-apidev	most commits for consistency with csl-websanlexicon
+31	16	PWG	See PWK_issues.txt TODO
+17	19	COLOGNE	hwextra-Lbody conversion for various dictionaries
+41	3	csl-pywork   abbreviations. new tags. DTD
+27	9	PWK	See PWK_issues.txt TODO
+11	1	BOP	#3. Some commits relate to #6, Andhrabharati version adapted to cdsl ?
+6	2	MD	#11, #12. OPEN Abbreviations and subheadwords. 
+5	1	AMAR	Gender information.  Status of this dictionary?
+4	2	csl-devanagari	#39, #40. BOP Avestan/greek. Issues closed.
+4	1	ApteES	Work towards a better AE -- TODO
+4	1	BUR	#5 abbrev tooltip review; Odile helped.
+5	0	hwnorm1	update commits. Should be redone, since used in simple/search. Binary?
+3	2	SCH	BhP (done). SCH_AB.txt open; todo: compare to sch.txt
+3	1	Frish	Sanskrit Russian dictionary. status?
+2	2	GRA	#34 Lbody for alternate headwords
+2	1	cologne-stardict	#38 Fix correction link in stardicts
+2	1	LRV	#25 closed. LRV headwords 
+3	0	VCP	3 commits by Dhaval -- typos. installed in csl-orig? 
+1	1	BEN	#4 new scanned images. Done. Jim closed recently.
+1	1	BHS	#4 Tooltip revision. Anna is working on this - it's hard!
+1	1	csl-homepage	LRV link added.
+0	1	BOR	Practical S. E. Dictionary, Borooah add prefaces to doc repo
+0	0	CORRECTIONS	  Abbrv lists for all dictionaries
+0	1	csl-ldev	a pull request related to csl-devanagari
+0	1	GreekInSanskrit	Jonathan migliori -- any more for him to do?
+0	1	VEI	Panini links in minor dictionaries
+0	0	ACC
+0	0	alternateheadwords
+0	0	AP90
+0	0	ArabicInSanskrit
+0	0	avlinks
+0	0	CAE
+0	0	CCS
+0	0	cologne-hugo
+0	0	csl-doc
+0	0	csl-inflect
+0	0	csl-json
+0	0	csl-kale
+0	0	csl-lnum
+0	0	csl-newsletter
+0	0	csl-santam
+0	0	csl-westergaard
+0	0	csl-whitroot
+0	0	DCS
+0	0	hwnorm2
+0	0	INM
+0	0	KRM
+0	0	literarysource
+0	0	MCI
+0	0	mw-dev
+0	0	MW72
+0	0	MWinflect
+0	0	rvlinks
+0	0	sanskrit-fonts
+0	0	sanskrit-lexicon.github.io
+0	0	santamlegacy
+0	0	SKD
+0	0	STC
+0	0	temp_corrections_acc
+0	0	temp_corrections_ae
+0	0	temp_corrections_ap90
+0	0	temp_corrections_mw
+0	0	test_cologne_push
+0	0	WIL
+0	0	Wil-YAT

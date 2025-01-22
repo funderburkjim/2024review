@@ -1,0 +1,42 @@
+date	sha	title
+2024-12-06	f62fcfe49667f9c09e8a51cdeafead8ec9b2f6dc	init_query modify to work with python 3.12.6 LB Ref: #34
+2024-10-22	c433efab76eb0381f8815f1cd94b8914169e3aa8	MW: See corrections_mw_insert.txt at LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-12	44c0932b7d06c25cea20b97880cf5c9cefa60462	AP90: ap90ab revised
+2024-10-07	8c9e33d6a0cb64f877e6e3e0e0be0f507e310138	PWG: missing VN LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/76
+2024-09-11	84cc07f8c3d6ad26a4feee2a1b353d291d4effcd	in pwgauth/redo.sh, change 'python' to 'python3'. LB Cologne server doesn't recognize 'python'
+2024-09-01	cccc9d1020e246fd194363e657aae7a804f737eb	VCP: hwxetra-Lbody conversion. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/432
+2024-09-01	d26d2b5964e306313580028a57003ee95d071119	SKD: hwxetra-Lbody conversion. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/431
+2024-09-01	4e0b2c8b51bece6fd308c9eba7ca5c85243fca0f	SHS: hwxetra-Lbody conversion. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/429
+2024-09-01	ef7f45f77d6bf9c5a23bc132fa854c9110b35fba	PWKVN: hwxetra-Lbody conversion. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/428
+2024-08-31	b74e5afd81c5a100978157f0a380d849ce164b67	PW: hwxetra-Lbody conversion. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/427
+2024-08-31	de5a631a85176dec16bea322bdc97f3fe81dc779	LRV: hwxetra-Lbody conversion. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/426
+2024-08-28	05077a1e3e8d35de71269a807f6941b08aef2c04	CAE: hwxetra-Lbody conversion. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/425
+2024-08-28	ac8b7973a50338afaef850b00ce0a62c5ea54e04	BUR: hwxetra-Lbody conversion. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/424
+2024-08-27	9807e8d55c182123c24da9084642e08b59f900cf	AP90: hwxetra-Lbody conversion. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/423
+2024-08-27	64d26754179ff6ce2025a70917efe62963df6028	ACC: hwxetra-Lbody conversion. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/422
+2024-08-27	e79bffd376f78f45ea4447b040cd0b8b26160228	BEN: Lbody groups. LB Ref: https://github.com/sanskrit-lexicon/BEN/tree/master/issues/issue9
+2024-08-24	7b7e84e3cbdcfe4e0b35cb77f11c943b43992f03	MW: LB  Ref: https://github.com/sanskrit-lexicon/MWS/issues/176
+2024-08-03	f7ac3c09bcaa74a518d2d8c7212bbe16b3c04db5	mwab_input.txt correction
+2024-06-29	9d0595ca5ed23e488d783625906d5b81360521e4	mw:  mwab_input edit. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/166
+2024-06-27	2656b9f40058dcad2371fa4a69afc70db0ba43fc	BUR:  burab edited
+2024-06-23	d0c981a0938c8a85747b42579a48b16f9cc4bd29	schauth directory: remove 2 unneeded files
+2024-06-23	13f12f74a633460078dce1343c1fed75c04036b9	pwgauth -- tooltip for 'Verz. d. Oxf. H.'
+2024-05-07	6b76d3371289b69a631fb86187792d1e24f4c18d	BOP: https://github.com/sanskrit-lexicon/BOP/issues/6
+2024-04-25	8c378e3d45055beaaf2e2e6147d798de731f781c	mwab_input.txt edit
+2024-04-24	a241588bff8ef7f289a8914aa4de334f22a8a6ff	mwab_input.txt edit - 1 change
+2024-04-17	a99a47faad642a48f0d3618f2122c0a7162d0f6f	stcab:  1) add flex. LB 2) remove <id>X</id> from stcab_input.txt. LB flex change courtesy user Odile.
+2024-04-17	5bdd69a7836a8cd9c2052e94bf9b40f1cc72565e	mwab_input revised LB Ref: https://github.com/sanskrit-lexicon/mws/issues/65
+2024-04-16	f5f252579d0388a0da09a40c990310de620a266c	MW lang tag and related. LB Ref: https://github.com/sanskrit-lexicon/mws/issues/65
+2024-04-10	13c623ebf13abef24ba7a0510dee616bf37df413	mwab_input.txt  #33. format revised to exclude <id>X</id> subfield.
+2024-04-04	4877c0f725656ecd069b4562ef6d1f02058a2454	mwab_input.txt revised. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/17#issuecomment-2037914437
+2024-04-01	d6fb7b681aadcb9e05d404e9e2c13b959356529c	Minot revision of burab_input.txt. LB Ref: https://github.com/sanskrit-lexicon/BUR/issues/5
+2024-03-30	5ed7e3caa2746db54e2f72fe44b291d9ee72383c	More revision of burab_input.txt. LB Ref: https://github.com/sanskrit-lexicon/BUR/issues/5
+2024-03-29	ef82511cc7f059a3f84d2c654cbb3708c698f919	Revise burab_input.txt. LB Ref: https://github.com/sanskrit-lexicon/BUR/issues/5
+2024-02-15	ea445a99b7dfe819e4360811f7e49bab956ad752	pwab remove duplicate line
+2024-02-05	b18c3459c1efe6b77e9e99a2b08c6e7e5ed9db88	Add 'issues' directory, and issue32 subdirectory. # 32
+2024-02-05	dac4adbfed3d5408f87a0080fed24527c895a903	per tag. #32
+2024-02-05	32864c91892735de5f77e41b27bdeb5ff6da33eb	SCH: schauth. DhātupB.  DHĀTUPĀṬHA, Ausg. von Böhtlingk . LB Ref: https://github.com/sanskrit-lexicon/mws/issues/126
+2024-01-30	8b9c5c675c8bbc8c99ae12b0087525125d454a6e	mwauth - revise tip for Dhatup. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/126
+2024-01-28	495eef019a3b1c719300d05f2ff9c63f05c9a9f1	mwab_input.txt  remove duplicate abbreviations
+2024-01-25	ef720881964aa066fa4791ff5657dad7394053da	MW: mwab_input.txt. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/127
+2024-01-22	0110a48ec1c5f28bb2a4014f407f9ca337c62cb3	pe:  remove pe=person tag in pe.dtd. LB Ref: #32

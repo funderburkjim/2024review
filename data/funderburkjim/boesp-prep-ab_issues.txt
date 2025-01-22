@@ -1,0 +1,11 @@
+issue	date	state	#comm	title
+10	2022-07-07	open	16	corrections for verses
+9	2022-03-31	closed	0	Error in verse 3193
+8	2022-03-31	closed	8	verses volume 1, comparison 01
+7	2022-03-31	closed	5	Boesp volume 2
+6	2022-03-31	closed	10	Fix of initial problems 
+5	2021-09-09	closed	5	any correction in encoding needed?
+4	2021-09-08	closed	1	Heading wrongly placed?
+3	2021-09-08	closed	1	10 strings inside <s>...</s> unconverted
+2	2021-09-08	closed	2	Letter followed by number in 15 lines
+1	2021-09-08	closed	3	Why are the 4-liner poems made into 2-liners?

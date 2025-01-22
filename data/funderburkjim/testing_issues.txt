@@ -1,0 +1,42 @@
+issue	date	state	#comm	title
+41	2023-02-21	open	0	test of greek phi
+40	2021-12-28	open	0	Python for Anna: Install
+39	2021-01-04	open	0	test issue re tsv
+38	2019-09-02	open	3	work on csl-websanlexicon servepdf documentation
+37	2019-01-03	open	4	Nominals of 1 stem ending in guttural consonant
+36	2019-01-03	open	6	Nominals of 1 stem ending in dental consonant
+35	2019-01-06	open	16	Pronoun Declension
+34	2018-12-22	open	16	Cardinal number declension
+33	2018-12-19	open	2	inflection _an work
+32	2018-07-19	open	2	work on pw iast comment
+31	2018-06-27	open	0	mw72 iast work
+30	2017-05-18	open	14	alternate headwords for acc
+29	2017-04-26	open	2	test issue for formatting comment on sch
+28	2017-03-28	open	4	A test issue for writing issue comments
+27	2017-02-23	open	0	youngsinn vedic accent 
+26	2016-12-23	open	1	include path for python and php
+25	2017-01-23	open	1	Parsing links
+24	2017-02-06	open	3	machine learning links
+23	2017-01-10	open	2	use lxml for xml validation against a dtd
+22	2016-07-14	open	0	naive bayes example
+21	2015-11-23	open	0	tensorflow
+20	2015-10-01	open	0	mwlexnorm readme work
+19	2015-08-18	open	0	Devanagari Emacs Windows 10
+18	2015-08-12	open	0	lisp and python
+17	2015-08-09	open	0	laghu siddhanta link
+16	2015-07-25	open	0	conda ipython
+15	2015-07-30	open	1	sanskrit sorting
+14	2015-07-21	open	0	allen downey
+13	2015-07-18	open	0	gita links
+12	2015-07-09	open	0	email archiving - mailstore
+11	2015-08-19	open	4	javascript links
+10	2015-05-30	open	0	php refs
+9	2015-05-29	open	0	html5 and css for web dev
+8	2015-05-14	open	0	aritificial intelligence 
+7	2015-04-12	open	0	sources of botanical data
+6	2015-03-16	open	0	review of sanskrit-lexicon corrections:faultfinder
+5	2015-08-21	open	7	links
+4	2015-03-11	open	0	comment on abstract
+3	2015-01-29	open	5	Issue created by githubtest2.py
+2	2015-02-14	open	1	Found a bug, take 2
+1	2015-01-22	open	0	Found a bug

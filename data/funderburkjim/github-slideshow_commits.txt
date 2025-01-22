@@ -1,0 +1,45 @@
+date	sha	title
+2020-12-12	e27c68357e1526cd17fc4892f52e3946ce0bd17f	Merge pull request #3 from funderburkjim/my-slide
+
+Create 0000-01-02-funderburkjim.md
+2020-09-09	d64d18660190ae168abca68d747611affb4be584	bump github-pages
+2020-05-08	5431165ee7d727f3d4580cbdaa1ebf04aff97e98	Merge pull request #13 from githubtraining/remove-baseurl
+
+Comment out `baseurl`
+2020-03-25	70411855679ad6d73c638735eed1119118169b3b	Update marked.js
+2020-03-25	960d9eb839d430edaf4a3d2fe4c11bea67c1aa79	remove use of circleci
+2020-03-25	78e8155e1514e475fdc03a71d7e6a6ad38f39306	fix references to nonexistent submodule
+2020-03-25	64285746c008efb5915b455691bfdfc894eea93e	remove dependencies now in the submodule
+2020-03-25	158c33ac1331a5363e80546cb0bc0556f7e66f96	use node module for reveal.js
+2020-03-25	749192b3e6e2af4a49c1231e065e420f77e50b3d	removed submodule
+2020-03-03	ca02c304541e31f546546dc2836a638bdd30a780	Merge pull request #12 from githubtraining/dependabot/bundler/nokogiri-1.10.8
+2019-11-25	b38108e7c7a4cd04d6273111f8696dc56108aaa6	Merge pull request #11 from githubtraining/snyk-fix-adfba2ead3f8458c04ccb3c335587f79
+
+[Snyk] Fix for 1 vulnerabilities
+2019-10-23	40194c70174235c60c1b0998c25e40c564eb2f32	update dependencies
+2019-10-10	b487edb26f2175ee99e4ed396c8ae139893e3ef1	Merge pull request #10 from githubtraining/snyk-fix-d8874bf5e4d0570a38806a5bbbfded43
+
+[Snyk] Fix for 1 vulnerabilities
+2019-08-14	da0efb4533b54b611a1e15a2502686fe8c24807a	Merge pull request #8 from githubtraining/setup-for-OSS
+
+Getting ready to OSS this repo
+2019-03-01	c06403ff4035df3fe2bd5f16600eab2fbff0e35c	Merge pull request #7 from githubtraining/stoe/fix-issue-6
+
+Remove MathJax dependency
+2019-01-24	864b78624ae3f27c1c131290bf425f1b063df4fa	Merge pull request #5 from amyschoen/books
+
+Updating description in README.md
+2018-10-12	78deb92b5bb80db160bfb691ebf3d424750c60d1	Merge pull request #3 from brianamarie/master
+
+Update dependencies
+2018-09-17	ca64ee27e4711b33c8679005050e321fa8145007	Merge pull request #2 from githubtraining/ffi-update
+
+Update to latest version of FFI to resolve security alert
+2018-04-18	137eed70d4f20c66f036082647b84fb7b5394425	Update README.md
+2018-04-18	ee5d9d532806965d1a06190ce253576f38190846	Update README.md
+2018-04-18	d5edbbc5222e267c824e02ad2b90a66f71499a80	Merge pull request #1 from githubtraining/nokogiri-update
+
+Update nokogiri dependency
+2018-01-31	099075d6e4a9db375d9c814edf75c5749b02f0ed	Update README.md
+2018-01-31	546cac38aba10eeb4cea0378c55f4bed6741b9bd	Update _config.yml
+2018-01-23	139e863474cab9c2412ce59f6a14782c830cc283	Initial commit

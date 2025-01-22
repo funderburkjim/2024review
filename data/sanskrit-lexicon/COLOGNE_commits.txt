@@ -1,0 +1,18 @@
+date	sha	title
+2024-09-01	6815cfcfbc68a12dab6db21b6e6185c11bd91f39	VCP: hwextra-Lbody conversion #432
+2024-09-01	1610df3a288eceb27e5de443c47833d3d2a692bf	SKD: hwextra-Lbody conversion #431
+2024-09-01	ca2882daf03d31f2c8c386cf8048deece2396b5f	SHS: hwextra-Lbody conversion #429
+2024-09-01	3e2eef29f80607b7b635a4e4dbd28f0f802cc97c	PWKVN: hwextra-Lbody conversion #428
+2024-09-01	a7715eff71e0eacf07a5476f40e3e3fda099277c	PWKVN: hwextra-Lbody conversion #428
+2024-08-31	8d63ec79c3ba3877b45e73306cc280e146665808	PW: hwextra-Lbody conversion #427
+2024-08-31	5f09e4079f59e4996af8fa218390d446a3e83bae	version 6 minor changes. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/426
+2024-08-31	2ff28da6cd675772f868912f93393f5144156a89	LRV: hwextra-Lbody conversion #426
+2024-08-28	bc0db97a92db993d30d61f620bcd1127b14fdb7f	CAE: hwextra-Lbody conversion #425
+2024-08-28	ae4944857c92579d352575023f54f9317893fe46	BUR: hwextra-Lbody conversion #424
+2024-08-28	7981e396f5b763be27045a406c5486fcfe59752d	AP90: hwextra-Lbody conversion #423
+2024-08-27	dfbb963d23317a73ea2bc33f937532a36d051ad0	ACC: hwextra-Lbody conversion #422
+2024-07-03	727183ee5f9c6b85a21effe5efd107d2338f07ea	Revise eascii statistics. #421
+2024-07-01	1b7e788ecd5ad275a55e821feca3492f880815e2	Rerun the xmltag study
+2024-07-01	d333db558b192464bc4c7263a31d5a07b81e9521	unicode_dump.py utility (enhancements/code)
+2024-02-08	876719e35cf880aa44a23a5781af4dbe07d8f2f4	recompute xmltag after changing 'pe' tag to 'per'. LB #366
+2024-02-03	6b6d0b02bb67220fa1f75c8c18b05a605ae5a88c	Update all_xmltags (to see which use 'pe' tag) in xxx.txt. #366

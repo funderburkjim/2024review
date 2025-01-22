@@ -1,0 +1,2 @@
+issue	date	state	#comm	title
+25	2024-10-27	closed	3	LRV headwords not marked as per CDSL style

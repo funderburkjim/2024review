@@ -1,0 +1,9 @@
+date	sha	title
+2019-11-28	8b896c6f50bca26bfbba70045949be9460067bda	this repository now unneeded
+
+I inadvertently created it here, in funderburkjim, rather than in sanskrit-lexicon organization.
+2019-11-27	c1d4a8daa6d84cd690964f253e80931f2c5cea0a	adjust noun model to conform with lgmodel. Changing pydecl might be a better solution
+2019-11-27	874fa8b88f06ea11647f56e726cb9118c3d15b71	minor improvements
+2019-11-27	1a46abf2c5e22a5768350cd2ac93fbe84a30f24b	remove python transcode directory. It is not used.
+2019-11-27	3945e534a655f5afa4e1b1a139dfa91092800fa9	Create LICENSE
+2019-11-27	d49fe31a06bbf48c11f58f5e171653bdc35b6a98	Initial commit, based upon zipped download of MWinflect repository

@@ -1,0 +1,28 @@
+date	sha	title
+2022-04-06	d4b374a26c0acbb03df79afb9d5b9112d01795b0	boesp-2_slp1_sam1b is Sampada's revision of boesp-2_slp1_sam1a.
+boesp2_diffcomments_sam1b.txt are Sampada's comments
+2022-03-30	c9ac443c53aec0d20aafb9495aadfc82e8310c0b	material for first revision by Sampada of boesp-2. #4
+2022-03-27	5addadb1b5d9b011e02cbf3bfc367e6da3495294	Sampada's commit till end of vol 2
+2022-03-25	ebd6c83cf9c3d6e2421e0199e79c8b50564b3fa6	Sampada's commit till 4400
+2022-03-20	e2ae95fc7e45b1637634a591833a3f358cb5c815	Sampada's commit till 4150
+2022-03-17	d502ac2cdbdb7a1cf1f3fa7d1f93319c96d00981	Sampada's commit till 3850
+2022-03-11	1e444adb931b4513cd23f6bdd33ff45c8964866f	Sampada's commit till 3450
+2022-02-16	ec1abcf5c53dde408ee903a6b8fa5c5b75b74c55	Sampada's commit till 3000
+2022-02-02	37170308e3908bd24e2cc959e680e56aae21f152	Sampada's commit
+2022-01-21	e5703101863d881d4563fced12bb8501cffd5152	Sampada's first commit for vol 2
+2022-01-10	895d443e71ffa541af8777a3120b235674701b23	Sanskrit verses for volume 3 prepared for editing.
+> Ref: https://github.com/funderburkjim/boesp-prep/issues/49
+2022-01-10	9500706067fc4788ca064e488381ececa074af59	New version of verses from volume 2, in slp1 coding.
+Ref: https://github.com/funderburkjim/boesp-prep/issues/48
+2022-01-10	2343e9c8aff0dd9bf51c71f475f9a38a095a50ab	Push Sampada's second round of revisions for volume 1
+2021-11-29	fa171823197cb82ac5a7fc09a24750327212fae0	First comparison of proofread Sanskrit verses from volume 1.
+#5
+2021-11-28	8748af21c9791c4a790cc0de1d336f9ee71e35f3	Merge branch 'main' of https://github.com/funderburkjim/boesp-prep-sam into main
+forgot to pull Sampada's changes.
+2021-11-28	63cc247154d39ab4936794a1e31d5a7be738ad15	Initial commit of volume 2 Sanskrit sayings from boesp
+2021-09-14	3a22b486900024bc796a4024caa142d40b1e8ef6	Sampada's commit
+2021-09-08	497c9631b93e838520d83dc7f6b198abf58734ce	Trial commit
+2021-09-08	f882e13841033587ea9e6301f17640a5859606b9	Revise boesp-1_slp1/txt.  #2
+2021-09-05	7926f58a56782de11115be6f6221c27bf3c8c046	Initialize files for Proofreading of Sanskrit verses in
+Indishe spruche,  using slp1 to represent Sanskrit.
+2021-09-05	f8b2cfc01d782532549b40be15a1f227421bf0fc	Initial commit

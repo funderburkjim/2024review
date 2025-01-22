@@ -1,0 +1,3 @@
+issue	date	state	#comm	title
+2	2022-10-11	open	0	split the pdf files - code
+1	2022-10-11	open	0	script to generate pdffiles.txt to put in csl-websanlexicon repository

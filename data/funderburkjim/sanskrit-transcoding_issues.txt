@@ -1,0 +1,6 @@
+issue	date	state	#comm	title
+5	2024-03-24	open	0	Javascript version of transcoding
+4	2021-05-11	open	0	granthawork
+3	2019-10-06	closed	0	transcoder.py Python3 ready
+2	2017-02-23	open	1	Revision for transcoding from slp1 to/from Devanagari
+1	2015-08-31	closed	5	unicode error in transcoder.py

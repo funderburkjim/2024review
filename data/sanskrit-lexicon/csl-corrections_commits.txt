@@ -1,0 +1,119 @@
+date	sha	title
+2025-01-15	5d674255ba09b21e7fd4488c6392fdecb60eca2f	batch_20240616.  This is the first instance of a batch LB handling of changes submitted by Scott Rhodes.
+2025-01-14	c17732915575a68566d412b815651e1b60b4ccc2	batch_20250114 correctionform files created from scott.tsv
+2025-01-14	0adbc0223e25c76b5585f7e4e0613b6a0a0531b0	Separate out Scott updates. See readme_snowcrest_tsv.txt in batch_20250114
+2025-01-14	47524b3e4e63f018ecc8b6117b4ea056bbaa3242	reorg:  batch_20240623 contains work product from LB previous batch handling of Scott Rhodes correction submissions.
+2025-01-14	c8a14edb4f80cd5dada5770956a63ad5c607da32	cfr.tsv on Cologne server since last commit
+2024-12-21	bee33f5f044320ecedf8c3bb1ca2b539c3407dc8	PW: bot tag print changes LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/111
+2024-12-10	5ebea78f6dc49edfe928649157255f05dd1f0cfb	sch_printchange.txt for Bhāg. P. LB Ref: https://github.com/sanskrit-lexicon/SCH/issues/10
+2024-12-09	75d48fdbbc86f3a3766eba1e88fafe7fcda6dec0	MW: standardization of links for 'BhP.' LB Ref: https://github.com/sanskrit-lexicon/MWS/mwsissues/issue182
+2024-12-09	df2b1baadebaa204733938e5afa6b6dff31ee7c3	PW print change revision apravizwa 7,12,15 LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/110
+2024-12-07	036854e2615e7c1b3823eb51303aa3bddbbbe1f9	PWKVN: print changes LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/110
+2024-12-07	fab57da359591ef365358fcf3f94f13856318248	PW: print changes LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/109
+2024-12-06	e716196ee09b315c9259a02f7c9b68f391fbd264	PWG: print change revision under sarj. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/81
+2024-12-06	155fc5907ea88d8f4344441e9155b2f7dbb9f99d	PWG: print changes LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/81
+2024-11-11	abab6ef06c98d3a74f757d7137d94f5617a3190a	VEI: apacit print change. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/614
+2024-11-11	41ffef0814f6aa7564b8921b5889080bb99f15b0	typo correction in Study.revsuphom.summary.txt #91
+2024-11-11	86b94c668340f37031ca10d085082b8aeb11f589	See corrections_extra3.AB.comments.txt, LB Study.revsuphom.summary.txt, diff_mw_15_16.txt  at #91
+2024-11-07	44044661fd25ef3a68f7ad5fe2bb5270f91cfab5	correction_response_20241105.txt, diff_mw_14_15.txt  at #91
+2024-11-05	a201fe2534d4d5691a977aaf19682120044c21a1	corrections_extra3.txt, diff_mw_13_14.txt  at #91
+2024-11-03	9baff8d11c14d980970061a8cc6fee6a931feeab	corrections_extra2.txt, diff_mw_12_13.txt  at #91
+2024-11-02	8952ffb96d51ac909dcc75a4fd73e07ba8ce7c7c	non-Scott, and non_mw user corrections since last update of cfr.tsv (4 records)
+2024-11-02	ba4899c6ac54bcce995a26dcc266ecb301c58e42	corrections_extra1_insert.txt, diff_mw_11_12.txt  at #91
+2024-11-02	b159cd65797b09b3f513878c43cfc55d73ce0476	mw_printchange.txt related to temp_mw_11 at #91
+2024-10-30	afb7d2b821b7fa6e9316d3892769b74f6893dbda	#91 corrections_mw_not_abbrev.AB.comments.-P.2.AB.response.txt processed by Jim
+2024-10-29	b9b438d8bd432de6908d03d867c4ff0a6cba5ac0	#91 Process AB comments on recent corrections
+2024-10-29	5dd2a0390314c5a5fad679a801972e2c7c220d0c	update readme.txt of issue91 -- will this be accepted at cologne?
+2024-10-27	6529c01bed42e3f68fa3f5f2daca759e7e396337	#91 starting with issue91/change_search_insert_1.txt
+2024-10-27	148db5a4ad14a5f1c6849010fd688108a2f906ab	cfr.tsv 4 extra lines
+2024-10-27	b1e7ea381639ed73dffa58f280d65b82647f87d1	Merge remote-tracking branch 'refs/remotes/origin/master' LB Bitte geben Sie eine Commit-Beschreibung ein, um zu erklären, warum dieser LB Jim is trying to sync csl-corrections.
+2024-10-27	91741e553b3b0103f573d39076aae40371dca121	Try again to push unchanged cfr.tsv
+2024-10-27	79b92dbd83ec79acd368c9a67625b445d27eb7e0	cfr.tsv sync to github
+2024-10-24	c10fe9c3ef91d01648c164421ec08c8f65a24bc7	Scott last submission of 10-24-2024
+2024-10-24	36fd31132d0559bdb44fa55d287e4cfd63f437fa	#91 See corrections_mw_alpha.AB.comments.txt
+2024-10-22	054439b30647242b643a84fc564e69c89b03bbbd	Add 3 non-MW corrections from scott (10/12/2024 and 10/19/2024)
+2024-10-22	2d0bdf09e748bae4b8818564aaec69cb31442a91	add 2 non-scott entries to cfr.tsv
+2024-10-22	0211d2adccbdc35c3f4800e83051b2566f844ea5	Try to undo previous change to cfr.tsv
+2024-10-22	ed5be1a6284d0d2182cad080666e6ba88bbe652d	cfr.tsv update non-scott submissions
+2024-10-22	9fdfe0a5679bc8ad25f922679799fae80f15f79a	#97 cleanup readme
+2024-10-22	c4e4381165918f3f7a7906968a54246c54cc7f84	#91 See corrections_mw_insert.txt
+2024-10-21	6bb0c87de5950a0d0c812b48afb091129848148e	#91 corrections_mw_alpha.txt
+2024-10-21	0b9fa51cc816caff599ed42edb1584e7871c2f4e	#97. changes_mw_3.txt
+2024-10-20	7d50698807f8be8e826136ed223689ef43370e7d	#91 changes_abbrev.txt
+2024-10-19	030e2f9280cd09d7f737aee0a0d26b306963e722	#91  Indentation in list display
+2024-10-19	7bf063cc41b131671fb65ce92f5379d07903514f	#91 corrections_mw_not_abbrev.txt
+2024-10-14	b6ace216b2b359cacfa86e893c9e00972b0b4c3a	#91  corrections_mw_abbrev.txt
+2024-10-12	a1c7a9e5f302162f99f24b96d9776a96653b4d11	AP90: ap90ab revised
+2024-10-12	38676490139c3b0685d804e046ec8adae8a57415	corrections_pui.txt #91
+2024-10-12	40a7f0f7bc5f5a8263f621e40e29e02ae279d136	shs corrections.  #91
+2024-10-11	1ba9ce787a104c47f6fce506df564c6511a61f4b	corrections_lrv.txt  #91
+2024-10-10	e072c86ecdf0266627e6ba66e3dd118b8a346f49	update readme
+2024-10-10	d3f974b7a159c95814e4c356a2aaf3a0e44bed20	Process non-scott corrections. #91
+2024-10-08	2e1973dd378b9f84047939c166ab4ef19d6638f6	#91 - temp_cfr_2.tsv
+2024-10-08	2c2451a4745d55077f201970c9d08594bd53d89c	#91 backlog of 1700+ usercorrections since Jun 26, 2024
+2024-06-28	ff9bfc59414f83ad0ab12d467ff26177687c40da	User corrections, various dictionaries
+2024-06-25	e3540cc2d2bf27c89b49fdc74fba06adc070e70d	commit cfr.tsv unprocessed user corrections
+2024-06-25	d59f017af0e9bb4dcd376cd482fc63d4c60db80b	SHS print changes:  correction backlog, 6. LB  Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1645
+2024-06-25	f1a56316b1cca95e43e23a5ddb3f92efb341455b	MW print changes:  correction backlog, 6. LB  Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1645
+2024-06-25	71c48f7a1786f976169b3ecd7c3d76d584158f2c	readme_batchnotes - another way to process user corrections
+2024-06-23	f767be660dea3b064c6818af049325ffc98e3be2	offload snowcrest batch corrections
+2024-06-23	8f878c26ac82f983f78096b0baa30a7ceac402a4	cfr.tsv user revisions
+2024-06-21	a89fe57a04f5e8e479088fe54176d1af0220414f	mw print change. L=61878. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1643#issuecomment-2169099447
+2024-06-16	6e223affb083e869925966f94d8576af9b6ba8d8	MW: LB  Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1643#issuecomment-2171829518
+2024-06-15	edbf286b3ace473970bb47d6b474b949466b2eb6	MW:  dityavah; 180506 : vajrahUna -> vajrahURa LB  Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1643
+2024-06-14	2d208cbfd840e820035691eb61c50c713c718e4d	MW: sanskrit spelling corrections '<s>[^<]*n[kKgG]' LB  Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1643
+2024-06-13	67972559a18118fd2713b4e2c14085085857038a	MW: mw_todo_dhatup1 LB  Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1643
+2024-06-13	2a4d43468d4089c4ca4caeb637fd32cf87bdc5f2	MW: #1643 mw_todo_misc1.txt LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1643
+2024-06-12	f7fe7e1ec8fb83b2946d0f6dbe408f195af97c9d	MW: incomplete dhatup refs. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1643
+2024-06-11	0a259998548c69a14bff15cef3c5cdcf3ef3ac9a	MW: Remove '213663 : SaraRa : fr. Sf : fr. SF'; LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1639#issuecomment-2161353202
+2024-06-10	347e024c0c8bcf559b2de72d230bd5c6fe049ac9	MW: print changes. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1639
+2024-06-09	585f91a639c153ef07187fd2d7fdd6a60d66a44f	PUI: LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1642
+2024-06-09	22ac339484d98ab44c54b9f1b1322f3684161f7c	AP90: print changes. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1642
+2024-06-08	60615724828a2e07417c4096789e61a6e73cd4aa	SHS print changes. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1640
+2024-06-08	3f923c6ead5f9ed3746ab15c85ce5f512e03a454	MW print change revision. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1638 LB batch2_rev1
+2024-06-06	828cab52872d6c4a68468caf61ce88cfffa1af21	mw print changes re backlog of Scott Rhodes corrections. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1639
+2024-05-29	45047a3e2d7a02ff9b6a1ec03c9337c945514cf2	minor edit
+2024-05-29	581f69fade93c7442b94c4b7b4a09431199b485a	Handle backlog. #90
+2024-05-29	fc97843b693385a550105c505d8a430db0328fe7	Remove unusable input lines from cfr.tsv.
+2024-05-28	43fcb191569efa3ec2efa1dc237243435d5b7b72	MW: trayodaSama  print change
+2024-05-28	a29c5639236cbdd1090d0961e5d80e5844a89311	updates to cfr.tsv
+2024-05-16	0ad775eb05ac88f9d78934f9baf3c29431faca77	MW: druh. print change LB Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/74
+2024-05-09	7cd1473623cef5e4aa5ec1612e5dd35456fa808f	MW: GArteya. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1634
+2024-03-29	f42e53f51e079f7820912297d42f07b495b9903f	bur print change. LB Ref: https://github.com/sanskrit-lexicon/BUR/issues/5
+2024-03-29	70b10c533baf2584e8435ae2e99b3549c41bc2bb	sync cfr.tsv
+2024-03-25	ed99771f0ebd1694774be18a39ddc034ad1db3aa	PW print changes noted. LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/106
+2024-03-25	4383962b49100a857ed29e3b4c3bcec638ff5562	commit cfr.tsv
+2024-03-18	b7245f9863dce6731c317896871c7cb25a1292f4	MW: 243366 print change
+2024-03-18	04b3d125dc65c24dbf3f37904d4abeddd01c0463	commit cfr.tsv
+2024-02-05	9b4cde86471ecc0afca5c760e4f777d7bbe8e328	MW:250321 print change. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/161
+2024-02-05	ec6b8ab09ca58d63aaa56e761f85363848f5c506	cfr.tsv update
+2024-02-01	3859b74965fff987aab3856259d10ba7bc5521fb	PWG: print change. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/126
+2024-02-01	e670a2719c5d8ee9027f5c3b4f99361aff7d5735	update before adding a print change
+2024-01-30	20c5d09e6e66ed41dbb513aa7755a8e19f8f6746	MW print change. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/126#issuecomment-1916078204
+2024-01-30	f520922e760081d0ec6e98e0c1b65c7a4271ad92	new user correction, preparing for mw printchange
+2024-01-29	bb90add8d6481208fc702acfb65e78a1a56a3306	GRA - printchange. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/646
+2024-01-29	861f5e0749be59e46a005abf9414a5726d718347	latest cfr.tsv
+2024-01-26	097358b9bbc23819cb03aeaa6c85afb13a083a12	MW print change
+2024-01-26	2c6956cb8d2a64e9ff800daf10afa5e3c06a56d1	corrections made till 26 Jan 2024
+2024-01-26	0aa7ec80a9ac97b719d87d372b57b865c3d05017	redo cfr
+2024-01-26	392655d897cfce34ea183b954221c7697e0ca5cd	redo cfr
+2024-01-26	0ed5acddc129c2be580d7d00610782ac39a7f5ac	manual copying of corrections from cfr.tsv
+2024-01-24	350dc072a83571a8579dc4feba917f18221ada66	new corrections till 24 Jan 2024 pulled from server
+2024-01-24	16adbf9d33b50495a60f934af7df10c370ef5614	MW only 3 pending
+2024-01-24	5e3e6b79034f54afcac167cfbf2c363ccf1bbc5f	redo cfr
+2024-01-24	fce03509a79839e5b0fb72f2accf148175f3db2b	Merge remote-tracking branch 'refs/remotes/origin/master'
+2024-01-24	148450544526b0549f44b324886f51d59efb7273	small update
+2024-01-15	c3d17294838cc0504f21d89209f4312fac7947bb	user corrections
+2024-01-15	cdbdd9925d23024ce036b4fc4966e547880bfea3	update last_cfr_line
+2024-01-15	16af433a37fa56fad014e40fb61b05096f8f351b	user corrections copied from Cologne while we were processing earlier corrections
+2024-01-15	44e2d4fc10d6dac747fd72053531cfa1600a79d5	additional corrections copied from Cologne server
+2024-01-15	1a4b2484e1f28d92a89eea0af6b4b32580fd29a5	user corrections
+2024-01-15	eb2ec708c870b1ec8b812a73f7d3655ed379e659	user corrections in SHS
+2024-01-15	1d0ff2bbaa28b693f47fedc4d2bdbf3f74ecd81b	user corrections
+2024-01-15	b412d28d388bb3265790dd90e34f899ff2ae7711	user corrections
+2024-01-14	8fb1093e9acf345e835fdc2bb0fd604b30c5831e	user corrections 38 pending
+2024-01-14	7cf7452c89970f8a69cd3536b31ad5027e884ca7	user corrections 68 pending
+2024-01-14	bde0a9bbf6c6d3d57fcadca4e9a244730f9c0c5c	user upadtes
+2024-01-13	c15ef4fb8522832cbee2d23b4b89abee99dd91e8	user corrections
+2024-01-12	7bb8bd523ad2af5ed207710b6e2b263135cf993f	corrections pulled till 12 Jan 2024
+2024-01-12	ab93ed0c60396421ac594ea8b3c73bb9505d7d66	user corrections

@@ -1,0 +1,5 @@
+date	sha	title
+2021-10-04	bc1985bd1e7aa802fde5e2c6b68441c046679b6e	Delete LICENSE
+2021-10-01	ffd7effdec3f1fad3d3b155e65d37ec04eda6b36	Update README.md
+2019-11-01	c209ff17b0b801d783c0b6a3aca5bef15c78b610	Add pdfpages
+2019-11-01	4c1cb15353ff8c7823d9c1b722cf13180718bb8d	first commit

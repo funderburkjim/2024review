@@ -1,0 +1,81 @@
+date	sha	title
+2019-07-14	cc1b8f20f771c9ac493a281f66fe517a2aef7789	Update readme.md
+2019-01-15	e9fce7c8860c43f3a45b361fc5c6ddaa0f51def1	Close 'bio' span in webtc/disp.php
+2018-11-30	32484d214011f594ba879c8cc47ea074a29caa0e	minor adjustment to ap90 compound display
+2018-11-30	76b3c3e4b5f6a35628c7ad96faea0e2f9b07e392	ap90 line breaks on subcompounds
+2018-11-24	b5422944c05e9faa9208fc8f231b05f04382ded9	gray text for 'ID=' portions
+2018-11-17	e96cec94603f6f142aa1bc320f267c96fda65c2c	Remove dbg print statement
+2018-11-16	c942e765214b2910550d1bd69c1938ca8a192524	Correct syntax error, which causes parse error with php 5.5.23
+2018-11-15	f450c40139c928a10845e84485d4c5ff8edbef0c	change http:// to protocol relative '//' in preparation for https at Cologne
+2018-11-13	e90812c9710537a33a8610f0008e9fa56e748d7a	improve apidev instructions
+2018-11-13	d789ca9d6f1ae11536917cc4cc5a5dc0ccb7a9c1	mw in verbs, 'Caus.' etc. bold
+2018-11-13	99836d69d12eeaa0f2fdc2563061e46d78aa5dc5	adjust mw display for background color
+2018-11-13	5846842ebf083d7f0348ad38f1b46b79409095c9	Correct duplicates in webtc2
+2018-09-28	7f0f9e266ec8cf8af9c668121d3316eb160b2549	Use &#8217; (right curly single quote) instead -- for benefit of xml_parser
+2018-09-28	17c9b6d1a181dd882ff8039236d4ebf571f4c8df	handle ampersands in lex abbreviations, and single quotes in ls references.
+2018-09-16	2bff88b8ffce8996d8425bebe30d30c507258e33	revise for CORS calls
+2018-09-13	2c0685688dc717628f5ba1f14c38e8329afe01e1	revise to correct for  (a)Cologne memory error and (b) MW filter condition
+2018-09-07	c3c8fd933ec6f505509a12c1caa8e17d821b69a4	Correct bug. Ref: https://github.com/sanskrit-lexicon/Cologne/issues/235
+2018-08-30	564fbe3f79002f0b9f0a1f299f56e557f37910da	instructions for apidev update following websanlexicon update
+2018-08-30	8f8e5ab83ff7899c7493e43297290d9d0d03f576	grassman rvlinks
+2018-08-22	d0222c2f6f794240e3f0ee1b270396009a29e0db	Allow local scanned images, if available
+2018-07-30	aa1cb5c78dd59b05338a2732da9b4723c44a4106	Improve capitalization for IAST text words
+2018-07-30	5c8b3408da24d1aa1fb11331de8d6a8462e7cb07	v00 conversion for acc. This completes the v00 conversions
+2018-07-28	4a66affcd2698b82ba28446255c96b5ba3161591	version v00 conversion for snp, vei
+2018-07-28	d472ffc75d3d63fa3493d060726598aee25f4e6d	version v00 conversion for pui, sch
+2018-07-28	c894989e0ae184c2b6e55e35e987a9e1fa452d81	v00 conversion for PE and PGN
+2018-07-28	cda44408e8acfee4fab16e39ad41152286464b5c	pre-version v00 backups of pe, pgn, pui, sch, snp, vei, acc
+2018-07-28	a857e17a55e5f2fc1ef5c683b8a3cdde2d26f6aa	v00 conversion of web displays for mci
+2018-07-27	7fa583dd1f24ccfcc508d12d2da27cf08dedf219	v00 conversion of web displays for krm
+2018-07-27	a1bdee193501d8f89adad9d1021619a7811ed531	v00 conversion of web displays for inm
+2018-07-27	eced8103acda10a05356c45a38c2f4b76a7e486a	v00 conversion for ieg
+2018-07-27	c8bf103409bf7658028b5666ebbe6e97a7a82fb9	pre-conversion backups of web displays for ieg, inm, krm, mci
+2018-07-26	1804d60589a46ae45423002a7bec871a7928b37f	install version v00 of mw72 displays
+2018-07-26	7ce0a3b0abb675b6608b15da41d9ba8db9b59b83	install version v00 of mwe
+2018-07-26	c8f93a0c1442ac095553c00d37a11d5cf4f1c9bd	v00 conversion for md
+2018-07-26	354970af3882a3c617642b13a2b1fd67dc30e7cd	v00 conversion for ccs
+2018-07-26	60bcae69c3c18c83b7cb590ca91750f406dbd3ed	correction dictname in bor (was blank)
+2018-07-26	9b9320b12e8473ac96368729c6d566b5106c4e3f	install version v00 of bor
+2018-07-26	c359c23761db1da566525f8d1b3bbbecd0064cdf	install version v00 of bop
+2018-07-25	0e1db14498f85444e5615a41d93d23c870ff6bcc	install v00 for ben
+2018-07-25	df35c7ff8ab7a0c85b36883392ca9a21a037a988	pre-v00 convernsion backups of ben, bop, bor
+2018-07-25	1948b6d930ddc1b447468818424238db8cfae6c0	install version v00 of vcp
+2018-07-25	3f68d0bd33038479096e60147ddb5f21b39b30bf	mod readme_cologne
+2018-07-25	340f20c915700e949aff341cbee291b0dc6dd519	install version v00 for gst
+2018-07-25	fd9ee0911260a3e9bca140597d2d84560d03ea30	correct readme
+2018-07-25	9e92a28e000a5379360a71247e8da6ac2356f8e6	install v00 versions for yat, shs
+2018-07-24	3d767eb9106ff79dda0f583475dc04ae8ca81350	revise for wil
+2018-07-24	08f92daf68c9abd10a891bfe19300a376eff12ba	version v00 of wil
+2018-07-23	797360a89b7686b5bb2cfe72cabd85530e25091d	minor revision to readme_cologne
+2018-07-23	79bf914a901d4859d122d88497a1897187215fe7	v00 conversion for bhs
+2018-07-23	ac4eed4566901dd5ef295a0b50097f5ffb34480b	minor change readme_cologne
+2018-07-23	5c4f3d363d3f1beaa0ba471a3b7ea6244442e384	v00 conversion for pd
+2018-07-23	582f8ef4135723f4cc932b7d8bc8c3e63422d338	minor correction to readme_cologne
+2018-07-23	a62415037ed193ba9ff5773361e4be82ecb8360c	v00 conversion for ap
+2018-07-23	40b0f7c082628b856784fa00fff0d6fc567d1f87	conversion of ap90 to v00
+2018-07-23	05f2a11399ddd8f789f6f2882238e2a28be2eb4d	backup of ap90, ap
+2018-07-20	dd9d0464df9deb7001863caf0a9f5d9172addf4d	minor revision
+2018-07-20	9895d86a18d7a16e7aab2d3ff6643a7cb1315910	sqlite/redo.sh and def.sql treated as templates
+2018-07-20	02112360593c855ab37217bffff1f23ba0ca321c	pw backup
+2018-07-20	6aed0fd05dd669b77bfda0650a585090247880b6	pw conversion. There are also changes to pwauth
+2018-07-19	97ceb4013275782614e0dcdce0bd4ccf510dd739	finish installation of gra, bur, cae, stc, pwg, mw, skd, ae
+2018-07-18	d9168e5824459c92d2d95ce8d690de751b63cbbe	conversion for dictionary 'bur'
+2018-07-18	928bb4d3633a917c3a57caad22a4e6928aa1ac45	correct file system capitalization difference between windows and linux; add microversion to webtc/dictcode; Cologne specific documentation
+2018-07-18	158e7e235d1a0b089663634ea5f4f102d48e617c	install mako 1.0.7 as pure python in v00, but change gitignore to exclude it from git
+2018-07-18	86d995510140c6ad69630a25d65822ab2628e6b6	revise readme documentation
+2018-07-17	740213c2624a89f34fd6e711be57f15222baa597	add 'ae' (english-sanskrit dictionary)
+2018-07-16	22a826e6ec573437d7096d004541756fd2d5b7e4	conversion for skd
+2018-07-13	5a02a686d835cc9a73ee841bd7a4ec5a933fc435	backup of mw code prior to version 00
+2018-07-13	c1ebea5fd62f51a7d2517e1aa5aaf4beb9574d34	images from Cologne; compatibility with apidev1
+2018-07-10	361d86f0cf07a57420d748e9a0164d8314686b8b	remove decodeURIComponent call in displayDB of webtc1
+2018-07-10	a666547bb38a7bd93d785db01f4f1e0a00943967	pwg mostly installed
+2018-07-09	a0e71d933097b03e8d7b4a000ee72d579d3372af	stc installation
+2018-07-07	0d7aa94a9aa2bde2c7b933230516fbe3b1532cef	revise webtc2. tested on gra, bur
+2018-07-07	05105840db219f8f20aa60ee5ff0b0fbf9c27ffe	improve advanced search; also init_query.py replaces .php
+2018-07-05	087f015f0f9a512a6a4ee1391dec0f3dcc323e04	bur backup;  add parms for download.html
+2018-07-05	82d1cb02928ca22396bbd4a53efb3255937d9d00	remove mobile1/monier_serveimg.css -- not used
+2018-07-05	aacb57a80e2ac9f2e1624d4c97baa026c5f44ee1	sqlite def.sql and redo.sh depend on dict code; remove pdffiles.txt -- make part of install copy
+2018-07-05	9dd72c0e9df0287e4080b6fdec1b671de3bd102e	separate out div function in webtc/disp.php
+2018-07-05	b66f40fb470421f529486d79c1723f4169f6cfeb	version 00 of installation python script
+2018-07-05	01aa411e81515641cb827a276feba14e943a4621	Initial template driven version v00
+2018-07-02	70d100e4cf792164a153fc2bc053ea6931072fb2	Initial webinstall commit -- gra backup

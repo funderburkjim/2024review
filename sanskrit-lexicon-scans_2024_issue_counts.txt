@@ -1,0 +1,5 @@
+  2 data/sanskrit-lexicon-scans/bhagp_bur_issues.txt
+  1 data/sanskrit-lexicon-scans/hariv_issues.txt
+  1 data/sanskrit-lexicon-scans/manu_issues.txt
+  1 data/sanskrit-lexicon-scans/mbhcalc_issues.txt
+  5 total

@@ -1,0 +1,12 @@
+date	sha	title
+2020-11-12	b6f08d1567be87770c7aefffc6d9d516fec8b3f7	css maximum width for p and section elements in pages2c display.
+Ref: https://github.com/funderburkjim/WhitneyGrammar/issues/1#issuecomment-726333434
+2020-11-11	13b6399206602b0234c2f562bc2b7415514c7049	pages2c.html -- a one-page display of Whitney's Grammar
+2020-11-10	036b637c5123c7acb08c4ee89ade113c38f0be42	corrections to tables.  also made in pages2b.txt
+2020-11-10	06ad94d77a428954070100bcdf094652b5f4d615	minor corrections difficult to correct otherwise
+2020-11-10	dc568cd3e0466f1b4d1654bec775a11e96d2e26a	step1.  construct pages2b.txt
+2020-11-06	499b10f7f32cd7626bb4293fdaaeaec82ce66b18	Make pages2.py Python3 compatible
+2020-11-06	3b39e41876c072296ae974302892718e8a5a642c	Acknowledge difficulty in recreating the data from 2015,
+due to changes in wikisource
+2020-11-06	df753fd8c7555b0eb1c3b4c6683d5c83ee56e73c	Initialize with 2015 work formerly in Onedrive
+2020-11-06	c0cfb7f818359babe040884e159a8316a4353cf8	Create readme.MD

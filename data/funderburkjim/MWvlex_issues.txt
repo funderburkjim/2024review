@@ -1,0 +1,3 @@
+issue	date	state	#comm	title
+2	2021-01-06	open	2	Compare current MW verb list with that of 2008
+1	2014-11-01	open	3	Corrections re step0

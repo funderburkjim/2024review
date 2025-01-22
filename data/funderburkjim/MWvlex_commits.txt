@@ -1,0 +1,13 @@
+date	sha	title
+2021-01-10	9c41005cd5cf3a5bea921ea731c6a3845e33098a	remove spaces after '2014'
+2016-08-30	6101c1da6b6e1f27a09371f3b29c1d11e2faa6ba	revise verb_cp to handle _10 in BaRq
+2016-08-28	72e301ddb5f9830ebab894a7dcd34d622e1a6051	step1: simplified class-pada list for roots
+2016-01-22	f4664c4f024f09156f2f347c0dc95a5d06af0491	recompute after MW update
+2015-12-30	ae4a8f538c1c2fbe189b9b289d3d6a15dbed0054	Recompute, based on MW update
+2015-02-23	7ad7e7c1640eeccdad5786e1e4a9d5d8b481d994	bring up to date with mw.xml
+2015-02-22	a54b37de8d678ccd548b34f469801302144382f6	Revision after MW verb additions
+2015-02-20	41cb3e3a61c0751ff3251647109b18036b752993	Bring up to date with mw.xml
+2014-11-02	aecc0458274737967eff6f29be9b43620159dab7	DCS and Excel comparison
+2014-11-02	01c805a4d74b40fd6bdf3ef042e661e62c4ef2c8	compare verb_step0a.txt to verb-prep4.out
+2014-10-30	62023cfbbc4b525a268578e813ec900ddaeca99c	Revise after MW changes
+2014-10-28	e9a0e61de06f4859c6ec712cf1ee8d806068efe6	step0

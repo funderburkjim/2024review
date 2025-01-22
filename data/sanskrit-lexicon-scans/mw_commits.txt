@@ -1,0 +1,5 @@
+date	sha	title
+2023-01-02	23a40acadbc9bd1c3f2bdd397c53e7a2a21ec827	initialize colorfront and coverpdf. LB These are not currently utilized in pdfpages (or elsewhere).
+2022-12-29	ca343f47fb0c2950583029177bee890784b7ab38	upload pdfpages
+2022-12-29	34a0f1d83579e59a0c2a05fd5be09b2ae51cb842	Initial commit
+2022-12-29	8a34d579347dbbc3054c605501d41dd4655cd9d2	Initial commit

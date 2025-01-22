@@ -1,0 +1,50 @@
+date	sha	title
+2019-11-12	74ed8e5ed4807b923e808ec2e4af8d3dd826a7a4	Remove pythonanywhere reference
+2019-11-12	541edd143344ea49aa3951b6f5e36563f245afb6	Remove pythonanywhere references in remaining apps
+2019-11-12	125ae5e2ad70cb0edefdd31ad0db58e294f4c694	Remove reference to pythonanywhere in basicv0.2
+2018-11-19	ba462891e4c685b74d23c4a8ae8575848c310b9a	work on lines 1350-1550
+2018-11-12	a5743e61846d50aa46bd644e4d02c33cc10dbe50	lines 1150-1350 work
+2018-11-05	53fa195b208439c4c6734d4f26967f326074ad17	work on lines 1010-1149
+2018-10-28	d71f927a7c94faa5fa8ab7d9c22ebd738b1f4daf	work on lines 750 1010
+2018-10-22	dded4837e7f4f6216103f2efb0d4d86ca7c09db4	work on lines 550-749
+2018-10-20	f661aab5a7a2a1a185eb83e7c8f7b201d9b7c7ed	initialize wordlists for lines 550-699
+2018-10-08	26dc086fa3dfbf42a19367a6f7c396425c295136	lines 500-549
+2018-10-07	0b354f0cb87e5962ff10f379a9bc9512cd1bda5e	words for line 450-499 of hitopadesha
+2018-10-07	da66a59689a24ea48add6c03e86c6269c27e3af0	words for lines 400-449 of hitopadesha-slp1
+2018-10-07	b2d5824ce5bfcdc1ad3812ebd18978d23b9c2740	words for lines 350-399 of hitopadesha-slp1
+2018-10-06	1245b110ca375572e6e796e49221ec0ae7afdd74	words from lines 300-349 of hitopadesha-slp1
+2018-10-02	2fac2b2d783ba9c3b84d1ea20abf474e692b8488	words for lines 250-299 of hitopadesha-slp1
+2018-10-01	68cad43f7d1e44a879d03892596be2720b205156	Update hitopadesha05.txt
+2018-10-01	41a2f9d778b837fc725f5c61cdc3106084c209be	Update hitopadesha05.txt
+2018-10-01	fe761dfee9b7f09a6bfaa8a8b80b414e3d8e34a6	Update hitopadesha05.txt
+2018-09-30	c897a2600d0b1f9edc6e395495575617bacfdeab	words for lines 200-249 of hitopadesha-slp1
+2018-09-29	6ff26d7c62258323e952246d3dff76d9fcbacabc	words for lines 150-199 of hitopadesha_slp1
+2018-09-28	899c6653becb65e94e082bf5ae445a88f997eb54	Update hitopadesha03.txt
+2018-09-25	7f96e390e1ead6e8cab0a5cce20fc913a5b00b13	Update hitopadesha03.txt
+2018-09-20	0cd68a248a90c6b3eab06852eb979774fb23d0ff	Update hitopadesha03.txt
+2018-09-13	7cb991695700f284e9d674fa918196187fe908eb	refine wordlist
+2018-09-12	9f832e27f5c74ac4ce993a2236213a1e3e2be037	basic display with two dictionaries
+2018-09-12	f93580c927a2ae984ad009d440e349e248cfd39e	refactor based on basicv0.4
+2018-09-12	87f4f493bdc398b668da2227b032a9246a2fb38a	Update Bhāgavatapurāṇa_letter_c_.csv
+
+merge 2 caitya entries
+2018-09-12	65ec49d70bde4c13e3a0ee651f151fa949422a15	Update hitopadesha01.txt
+2018-09-12	ada9b8c69ce469050bb2795b9a5b7cc8f0c52d75	allow comments in wordlist - line starting with ';'
+2018-09-12	22af5c5cc9b77aa27265c0ffc50cdf0838a3bc9f	another wordlist
+2018-09-11	3f1cd9a487f9251044a4dd1ba90d1f103d263fe9	Update hitopadesha01.txt
+2018-09-11	dfa40d8d1d95b09a0ba09b8ea26964a2dd45fe54	Update hitopadesha01.txt
+2018-09-11	b28ebe5ae6e584288ffac101e6d28aa8a55dabb4	Update app-wordlists.js
+2018-09-10	4079d0c589651398fc20bbc6f4badeaec0e11170	change relative path from ../wordlists to wordlists
+2018-09-10	34a1f16124ca0479d27b6d03e52fc042e95868f2	application with DCS wordlists
+2018-09-10	53c5be8ca5b23823eb5d3da61f3b06626e54e34a	roman -> iast
+2018-09-10	a6cff148acb40a568155ccb94b299257a63d3b85	correct to handle iast
+2018-09-09	379c2176c75c031823049fbb23d1998abfdc37cd	Basicv0.4 -- refactoring of Basicv0.3
+2018-09-07	87708bd5bab315bd6531a7b5abc9905cd8cd962a	correction - missing quote
+2018-09-07	04646fb580f6cf131b0feecf1e6f0d75f176b613	Update app-wordlists.js
+
+through line 0099 of hitopadesha-slp1
+2018-09-05	834a692d7228f4bf255af8246e1f6a427088063f	Update app-wordlists.js
+2018-09-05	123c5f3d86de72e8203bbab6795fad7b22b6def1	minor correction
+2018-09-05	81d9e407829729a5cce6f458f7fb3ed5b3b86795	document
+2018-09-05	be2a2635e2dca4cec82699e249b6ca78c382b5a7	Initial commit
+2018-09-05	ea955a6f5469baed43f24d644c678cdadfad59b8	Initial commit

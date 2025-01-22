@@ -1,0 +1,10 @@
+issue	date	state	#comm	title
+43	2024-11-15	closed	7	`<listinfo n="sup1"/>` markup in list display
+42	2024-07-05	closed	4	GRA display bug : abbrevs after chg
+41	2024-06-21	closed	5	Homonym repetition in pwg display
+40	2024-06-20	closed	2	list display, homonym centering
+39	2024-06-07	open	0	hiatus iast transcoding
+38	2024-04-17	closed	6	'python' at cologne
+37	2024-03-29	closed	1	Bug re the <per> tag
+36	2024-03-03	closed	5	Advanced Search highlighting Optional
+35	2024-02-01	open	0	Advanced Search highlighting oddity

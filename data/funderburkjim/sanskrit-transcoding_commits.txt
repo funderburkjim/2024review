@@ -1,0 +1,14 @@
+date	sha	title
+2024-03-24	1cbd3d76fc69fa006dd802022e6e2f12050959fd	transcode_js_v0: work on a javascript version of transcoding
+2021-05-11	ae82e95f382d400cef814188d859c3dee92b7e04	Granthawork
+2021-01-09	14bb27740cdde554b21cef5aefe61e001e1aa392	Minor edits to deva and roman transcoding to/from slp1
+2021-01-09	d3e2dc69b93314f17c4ecc5c8faf24dbd9372b6e	Revise transcoders between slp1 and roman (IAST
+2021-01-09	6429d6cbabc15e532a69c4e3f94d805e2a35fdf8	slp1_deva add Z, V
+2021-01-08	3121e1c0295441732a86e2ae724bee4f8635e9b2	Revise transcoding between slp1 and devanagari
+2019-10-06	5d706934ab29cfe101035e8130eeaa3cb0e68e83	transcoder.py now runs in either python2 or 3, continued
+2019-10-06	8112e601ede84c2efc5aaeb807e415445e0251e0	transcoder.py now runs in either python2 or 3
+2017-02-23	263197093a10414b2f9aa6dc8c2308f7bfcbf9bb	tests/demok illustrates slp1 to deva unicode sequences
+2017-02-23	b81566335c3e50758a6112df37a98a8337bb7fd6	revision of transcoder.py allows slp1_devaXXX.xml
+2017-02-23	3b68ec17c044a0f0530d8f68e435c27235bebd81	output of test
+2015-07-16	8212fafa0cc2642f343d1556dca1e822a612048f	Initial commit
+2015-07-15	87ac91de0836fddc4d0a3bfc5c146518ae5b4c78	Initial commit

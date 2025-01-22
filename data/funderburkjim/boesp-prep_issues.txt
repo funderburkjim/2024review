@@ -1,0 +1,55 @@
+issue	date	state	#comm	title
+54	2023-07-11	closed	3	Proof-reading footnotes
+53	2022-11-25	open	10	German word corrections
+52	2022-06-03	closed	1	German word corrections
+51	2022-01-18	open	6	Two html link targets
+50	2022-01-17	open	4	Serve html pages
+49	2022-08-11	closed	29	Proof-reading sanskrit verses, vol 3
+48	2023-01-07	closed	8	Proof-reading sanskrit verses, vol 2.
+47	2022-01-11	open	5	HTML ideas
+46	2022-01-05	closed	16	Greek text
+45	2022-01-08	closed	17	AS convert to IAST
+44	2022-01-11	closed	7	Sanskrit text vol. 1, 2nd revision
+43	2022-01-09	closed	4	transcoding boesp.xml
+42	2021-12-30	open	6	<S> tag improvement
+41	2021-12-25	closed	2	Remove `<lg>` and `<l>` 
+40	2021-12-25	closed	1	Remove FDUMMY 
+39	2022-01-18	closed	42	HS entries
+38	2021-12-19	closed	3	page corrections
+37	2021-12-19	closed	5	F4.1 -> V4, F4.2 -> V5 ?
+36	2021-12-24	closed	1	Corrections to the German translation in Boesp
+35	2021-12-03	open	7	boesp_utf8.xml
+34	2021-12-01	open	3	Misc. changes
+33	2021-11-30	closed	4	Ordering of F,V sections
+32	2021-11-29	closed	1	Remove extra verse in D3193
+31	2021-11-29	closed	10	Undigitized V3
+30	2021-11-28	open	4	Changes preparatory to volume 2 Sanskrit corrections
+29	2021-11-29	closed	8	boesp editing after 4.1, 4.2
+28	2022-01-18	closed	18	Reformat <S> lines
+27	2021-11-05	open	6	new version of boesp.all_ansi.txt uploaded
+26	2021-10-29	open	9	eine best.
+25	2021-10-20	closed	1	space between period and digit
+24	2022-01-18	closed	2	superscript-2 implies italic
+23	2021-10-25	closed	14	AS checking
+22	2021-10-20	closed	9	F section problems
+21	2022-01-18	closed	2	Two 'blank-line' corrections
+20	2022-01-18	closed	7	Multiple D groups
+19	2021-10-18	closed	8	D sequence problems
+18	2021-12-01	open	7	boesp `<ls>`
+17	2021-09-27	open	9	First errors in boesp.all
+16	2021-09-19	closed	22	Greek in BOESP
+15	2022-01-12	open	5	Scanning and full-text digitization of missing parts or supplement or desiderata 
+14	2021-09-11	closed	5	the joy of git diff
+13	2021-09-09	closed	1	Missing verse 1626
+12	2022-01-18	closed	5	Page break errors
+11	2021-09-11	closed	2	Missing verse at D545
+10	2021-09-09	closed	19	D1725 HS problem/question
+9	2022-01-18	closed	3	HS remove in D1286; R2 -> RR
+8	2021-09-17	closed	24	Sample form for sanskrit proofreading
+7	2021-09-18	closed	9	Suggested changes in boesp-1_ansi, Part 4
+6	2022-01-12	open	1	step1 Version Freeze for sanskrit proofreading
+5	2021-09-03	closed	11	Suggested changes in boesp-1_ansi, Part 3
+4	2022-01-18	closed	16	Suggested changes in boesp-1_ansi, Part 2
+3	2021-08-31	closed	10	Sequencing problems in boesp-1_ansi
+2	2021-08-30	open	1	Pull before push
+1	2021-08-29	open	1	Extended Ascii in boesp-1

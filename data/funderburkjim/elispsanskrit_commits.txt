@@ -1,0 +1,123 @@
+date	sha	title
+2020-04-21	d8006bc253926bf98a2c4e8ffd763f91bfc28ba2	.gitignore: remove tracking of any 'temp' files
+2016-12-05	be2bb07a861be6da8156dcbc25f6d3866a855983	bring up to date
+2016-09-25	e167ca335f36e075e01898a05f98fafd1be8f604	minor corrections to pysanskritv1/test2.py
+
+Based upon comparisons with SanskritVerb.
+2016-09-25	173b868c65393c71d1afef636173d3fb26dc9249	corrections to pysan and update of verbdata
+2016-09-20	de3db62e168b7dabe6c10c8989b84bde29f705d1	update after revisions to verbdata
+
+265 differences in present-tense conjugations, 2446 are the same.
+2016-09-20	58f1573a0768325fa6c9fbe29bb4d47a6754c0e5	Sync verbdata.txt and generatedforms.xml from SanskritVerb
+2016-09-18	d1def5c83f4a588a81fcb64967e85fe6c715b59e	reompute present tense comparisons
+2016-09-18	f1396c94a128f4e42c5d54c396352ab7e803d176	recompute conj_pre_map1 after revision to sanverb_map1
+2016-09-18	58827d10c223c3eb09c2a973a2585f8c70f233a7	move dhaval/conjtab/mapped to dhaval/pysanconjtab/sanverb
+
+refactoring
+2016-09-18	255ce2c607f137df4e1a66e045508b4217d5e4d5	rerun redo
+2016-09-18	eaad9a138b451190ccfa7a110a37ec6f645fe5fd	move verbdata_map
+
+move verbdata_map from dhaval/roots to dhaval/pysanroots
+Change verbdata_map1 to use roots_a1 as well as roots_a
+2016-09-18	98c46350b4a7ddf22b1dd0f61b0323e4e0cbf198	roots_a1, log file
+2016-09-18	c23cd72e032abded41f34a14e78fefefcd9b8358	roots_a1
+2016-09-17	00a701b3726d99cca6be0f4f61b20f2c620ce444	modify redo.sh for new file location
+2016-09-17	72c53cfcb3343b16633f3a0fd3650c3dc107aae6	reposition work on comparing pysan and sanverb roots
+
+move pysanskritv1/roots to pysanskritv1/dhaval/pysanroots
+2016-09-17	3999237d94eb1df20e262e5fb3684784e146ca12	minor edits
+2016-09-11	632da15b4694856ba2872c1aacd35accc21ae4cd	revise a readme
+2016-09-11	52e05da22252b4072257ba31950ea13a1e174a6f	compare SanskritVerb and Pysan present tense conjugations
+2016-09-11	66afb0bbe1d2d77b349e5a4e9248c8b06df6ac48	map verbdata to MW
+2016-09-11	4321040bb93cb0b78bcb43619232e6d0e35c9b26	remove obsolete
+2016-09-10	19eff4575e3286081dc3c2089d68a8c0231f7e10	verbdata_map1
+
+Refine verbdata_map based on roots_a
+2016-09-10	ed4f1b9d3cd0ba4e843d41a306bca9e1aeaa1217	verbdata_map
+
+Mapping from roots in SanskritVerb to roots in MW.
+2016-09-08	dc13c963eb6082d3e50607042d385a1d93207f0c	webapp for comparea_class_pada.txt
+
+In huetcompare/verbs-prim-prs/20160906-huet-class10/ folder.
+2016-09-04	67d7d8405692b943c09d37af408a95fae89a213e	revise roots/mwvlex1_cp
+
+correct error
+2016-09-04	3300dcbebe86fe73f9d33d19b559b3daccd50046	recompute, based on update to SanskritVerb
+2016-09-03	b7f0b0763cbe61ceb54495e5578784e34650e122	refine update from verbdata
+2016-09-03	0c58e017fd8f260412ad6a238d116c8edaa1aa59	revise SanskritVerb-MWvlex root comparisons
+2016-09-02	b0f78c8733245c73e8ccb5e28568a2781ea98a20	check verbdata for class 10 pada exceptions
+2016-09-02	df7410a2154e85128091b43e720f7dcfc4a1a4c1	revise roots_a to show more forms.
+2016-09-02	f172f7319531f5fab1bec1e9804d0f6195f19756	roots_a.txt
+
+pysanskritv1/roots/roots_a.txt
+2016-09-01	e6ff4cbbb1a6e7dc8070614e3cb8fd140058a49c	compare sanverb, mwvlex roots after verbdata update
+
+file pysanskrit1/roots/sanverb_mwvlex_cp.txt
+2016-09-01	4b46c8ea5c285011cf2d2df8c0d63a1916d763a0	revise sanverb based on verbdata
+
+revised pysanskritv1/roots/sanverb_cp.txt, conjtab_cp.txt, and
+sanverb_conjtab_cp.txt
+2016-09-01	a9871c6ead82bbab08f740f9e656951b926abcdf	Add supplementary roots, and the dhatupatha
+
+These are from Dhaval in re https://github.com/drdhaval2785/SanskritVerb
+2016-09-01	905e6692f0e2d00f32f789d1ea1d3a09a6caec20	update dhaval/verbdata.
+
+Also, regenerate roots/verbdata_dupnorm, verbdata_dupsutra
+2016-09-01	1b0185587f4ab98862b51e8b63352f6064cfbca0	class10 a roots in huet
+
+huetcompare/verbs-prim-prs/comparea_class_pada.txt
+2016-08-31	247916317dd7da83772b82de5e6ae63759c1032a	mwvlex1 - force ubhayapada for class 10 roots
+2016-08-30	6bbb8a32704009cff0dd7e35db02a1cb877f09bd	root-class-pada from mwvlex
+2016-08-30	5bc6f1706c21d693ed7b2d644a6aba3f921eaa93	roots readme
+2016-08-30	e70cacf0d80d1b108345764007666bb3bcd45826	SanskritVerb root-class-pada lists
+2016-08-29	39e3850a909fd5753ad4067b0a400777f459ec94	reorg of pysanskritv1
+2016-08-28	cc7ad1b4e0fe4e0f0ef02d0848113c502b5a44bf	verbdata dupsutra
+2016-08-28	3498a2bc03049f953cf9c0a7cdacfe830e4a7992	verbdata_dupnorm
+2016-08-28	353ab5177ccec373aabb25736e9f00901889f94a	module to access verbdata from Dhaval
+2016-08-27	5c531cd3ccdc2d6e83d0e3843914500dfcebdb80	extract verbdata from function.php
+2016-08-27	6d599d8f01155933b7d215de5979139d2e43cc62	present tense conjugation tables from SanskritVerb
+2016-08-27	c702676449e3ef63177fd02d4ae7ccfe57a24950	add copy of SanskritVerb generated forms for comparison
+2016-08-26	9a819a18a58dd5683389c36a5c97d0b59ec39e4b	Begin pysanskritv1 as copy of pysanskrit
+2016-08-20	896962368fff25ab581aadc4ff10f1dd4d81f37c	huetcompare, infinitives
+2016-08-20	30180059c4122d1ff5ecad69c865f0edab657ef6	huetcompare, absolutive in 'ya'
+2016-08-20	b1561809ed9e13ba5bac872e19319e0db68d3525	revise readme for huetcompare/advs-ipp
+2016-08-20	983fd0363f58fd7bd4664c5b87fea5cbf59af92b	huetcompare, indeclineable past participle (absolutive)
+2016-08-19	b3cfdac9b3b80ec346559ec70097b13055ca627b	revise readme
+2016-08-19	51974b137a4b9ac3b760bcde24005a2feddbfcb8	huetcompare, perfect participle atmanepada
+2016-08-18	5b9d89aec62457a6dd062cd3be104050c211a72c	rename directory
+2016-08-18	12c44df5336def763dc1df550ec88caa0616e203	huetcompare, perfect participle parasmaipada
+2016-08-18	3c2a1789c3741c8acb2df3c8a1b8c4dec15e38c2	huetcompare, perfect participle parasmaipada
+2016-08-18	8c3878810869ca8970e26a92f2aac77d62603a5c	huetcompare, future passive participles (gerundives)
+2016-08-18	b56c5a92b5a2916cbf97f446df7841b03db01e9e	huetcompare, present passive participle
+2016-08-18	d1eaf365622508921e690914695ccb9b30e6e559	modify readme
+2016-08-18	d18f984a457330b2880dc4edf0c3ba6ec4dc4844	huetcompare, past active participle
+2016-08-18	1a0dff86c07bfe4552a6c2aa0b403a9e5f5ccaf2	huetcompare, past passive participle
+2016-08-17	06eda4c760fd1882e16970908e274da63a5b4b6c	huetcompare, future participle atmanepada
+2016-08-17	892b8fb682023bed9561826372b923674ae1ada2	minor revision
+2016-08-17	004141d882f175d6f862bc15f72e328a1874dad9	Huetcompare, future participle parasmaipada
+2016-08-17	ef673bfedc73b8a83255faff9ef343052aa0e358	huetcompare, present participle atmanepada
+2016-08-17	f59b4ddfc36b247a98e40db97cbc8480bd658430	Huetcompare, present parasmaipada participles
+2016-08-16	f312bee2758e46bfcc516222fec2e4d57b3e98e7	modify readme
+2016-08-16	25411de4eaeabe5af99c76de5350b6e09be9a518	readme update
+2016-08-16	124831f0a4ef8e926755231e78913cdbd5a5cddf	huetcompare, verbs, aorist injunctive (root aorist)
+2016-08-15	38137cc5955cad3642a4d17b0944d6b4ae0dd441	correct readme issue number
+2016-08-15	22710f11f659ee2c6ed5aafafbc2881bbdf93449	huetcompare, verbs, periphrastic perfect
+2016-08-15	a1f01ed9174ec7f125ab7b3ead8de101ceebd41c	huetcompare, verbs, aorist
+2016-08-15	a6fa08eb8f4deb0164c6274daa28c4c4f559bd3b	huetcompar, verbs, perfect tense
+2016-08-15	142ff49a210382d78a991dad94c90059df05ca3e	huetcompare, verbs, benedictive tense
+2016-08-15	e837f8c6d97318a2173f07972a6ee1f6af14fada	huetcompare, verbs, conditional tense
+2016-08-15	c2f0c793dca56ce9ee661f4c09e247f46c1dea40	huetcompare, verbs, future tense
+2016-08-13	8b7caf45b8a429c47176f5b5eab10d5b4729914c	huetcompare, verbs, primary passive
+2016-08-13	6db01acd1d5526f47e994ee1b25ebd0be2f037af	edit readme
+2016-08-13	951f5ac42cf20433a0b8e38771db7b7909880f68	huetcompare verbs (primary present conjugations)
+2016-08-12	9e6ff39d9e8ffac1e197be29765ac7613384c012	edit huetcompare-nouns-readme
+2016-08-12	e6b743b57e5a1e7154ca37f99c1a2b66659a623f	huetcompare - nouns
+2016-08-10	88f3b53e5506c6fb6f6e18c9d8d47df23070bade	readme for huetcompare/pronouns
+2016-08-10	f16be8d8b88d1f89b871e9a1071c465aa309cf6a	huetcompare, pronouns
+2016-08-01	afb667d77ffda31894f66bbac2f695cbdcac1948	Install pysanskrit
+2016-08-01	a962a93f2f155c9168924a3c6786f75731b36547	construct participle declension tables.
+2016-07-12	057867466d2bb1d8253998b786fcd77db40f3180	aorist form for all roots
+2016-07-10	fd159f7d289e552b38b01c867fbfa2b6ec640d67	compute aorist varieties for all verbs
+2016-07-10	a206219d06ccbcfe4dbebb04438e4422317aa0f6	minor modifications
+2015-10-18	d9fb54ebe682581e150598c9980d40b1cc53da0c	remove some temp files, include .elc Elisp byte code files
+2015-10-18	f224fce35f87c7dfe5e77138c337e7518c26ff00	initial commit

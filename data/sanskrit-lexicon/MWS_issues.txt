@@ -1,0 +1,26 @@
+issue	date	state	#comm	title
+183	2025-01-17	open	0	tādṛśī vs. tādṛśa as f. headword
+182	2024-12-10	closed	6	Standardizing ls markup in MW (BhP)
+181	2024-11-28	open	3	Grassmanizing and/or groups, continued
+180	2024-09-29	open	0	Eliminate 1 out of 2 verticall scrolls
+179	2024-09-28	open	0	N. of one of the poets of the RV. viii, 85, 3
+178	2024-09-07	open	24	AB3 alternate form for mws
+177	2024-08-25	closed	5	Devanagari accent display error
+176	2024-09-02	closed	47	Grassmanizing and/or groups
+175	2024-09-03	closed	5	Standardize group entries
+174	2024-08-21	closed	6	Jumbled up order of P. Ā. (at the qualifier portion of the dhātu entries), as Ā. P.
+173	2024-07-13	closed	8	DIsplay of 'rev' and 'sup' items in mw
+172	2024-08-24	open	17	Different markup for 'titular abbreviations'
+171	2024-08-04	closed	23	Hierarchy placement of supplement entries
+170	2024-07-03	open	2	web font for iast?
+169	2024-07-04	closed	16	The accent saga continues
+168	2024-07-01	open	0	tag inventory
+167	2024-07-04	closed	7	Some stray errors in mw data
+166	2024-07-01	closed	2	dot corrections
+165	2024-06-21	closed	3	k1-k2 discrepancies
+164	2024-06-17	closed	5	recoding shortlong
+163	2024-09-03	open	11	Grouped entries like GRA
+162	2024-04-04	open	2	'Bad' Side-effects of <ab n="> and <ls> tagging
+161	2024-02-05	closed	4	सुषुप्स question
+160	2024-01-26	closed	5	A strange error in display-code
+159	2024-01-29	closed	8	Gram. 54 Link to Whitney Sanskrit Grammar

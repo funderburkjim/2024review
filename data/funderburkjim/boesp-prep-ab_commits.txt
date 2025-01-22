@@ -1,0 +1,16 @@
+date	sha	title
+2022-03-29	06eeeefff4fee9fa00715faa146d4106aa14c997	Volume 2 first difference. #10
+2022-01-12	bc7a31a2eb0b0577939cb8be3873cf1b5e6a485a	Repost boesp-3_deva.txt.
+Ref: https://github.com/funderburkjim/boesp-prep/issues/39#issuecomment-1011224285
+2022-01-10	acbfa5eb17759bb20d442c340401fdb0644e403e	Sanskrit verses for volume 3 prepared for editing.
+Ref: https://github.com/funderburkjim/boesp-prep/issues/49
+2022-01-10	a402244cf478724377d62b50e3315866158d6e97	Sanskrit verses for volume 2 prepared for editing.
+Ref: https://github.com/funderburkjim/boesp-prep/issues/48
+2021-11-29	fe75ab856b0ca3e8f99b37e985268ceca8146110	Create boesp-1_deva_AB (rev. 29 Nov).txt
+2021-11-29	92edc0e92599cbc5dd2373cced84d79e3d6e2faa	differences in comparison number 01 of verses from volume 1.
+#8
+2021-11-28	249710a64cd48b2ca3d1fef9a0314f28f8ec7fc6	Initial commit volume 2 of Boehtlingk's sayings.
+2021-11-20	8547c74308611369dc8c71e013b80bed30a19937	Create boesp-1_deva_AB (11th Sep).txt
+2021-09-08	c5ae738b3858941b47d7e8d7f6b0aa228bb6a561	boesp-1_deva_rev.txt : #6
+2021-09-05	be11a32e19501425d70f66556833705efa8d83f4	initial boesp-1_deva.txt for proofreading of Sanskrit verses
+2021-09-05	6eee3e8ad38330699d7f58d6890a1125c8100932	Initial commit

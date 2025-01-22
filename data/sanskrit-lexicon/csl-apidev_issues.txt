@@ -1,0 +1,4 @@
+issue	date	state	#comm	title
+40	2024-11-15	closed	1	upgrade jquery to 3.5.0
+39	2024-11-12	closed	1	clickable link to page in "rev (page,col)"
+38	2024-03-22	open	0	hiatus in input=simple for simple-search

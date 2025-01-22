@@ -1,0 +1,5 @@
+date	sha	title
+2021-10-04	65fea7df90ccaf45654941d00751b3d4c6ea1f19	Delete LICENSE
+2019-11-01	5b8875dfc288fc860b999dda99508ece2042ce36	revise license to nc-by-sa
+2019-10-26	c4387bd3b4abcc32d1f5752e3bb6eac49c4c392d	Add pdfpages
+2019-10-26	f283e44786d02796c569a76650d733bd6a4081f2	first commit

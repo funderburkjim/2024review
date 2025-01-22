@@ -1,0 +1,17 @@
+issue	date	state	#comm	title
+16	2021-01-06	open	4	project summary
+15	2015-07-17	open	6	snp06 - merging parenthetical botanical words
+14	2015-06-23	closed	9	snp05 - removing markup of non-botanical words
+13	2015-06-16	closed	2	snplist2 - list <c> elements, refinement
+12	2015-06-12	open	6	snplist1 - listing all the <c> elements
+11	2015-06-11	open	9	snp04: merging lines
+10	2015-06-04	open	12	Suggestions for snp03
+9	2015-05-23	open	1	snp02.py
+8	2015-05-28	open	4	Correct snp01.txt to use XML markup conventions
+7	2015-05-22	open	4	how to remove the unused files from github
+6	2015-05-19	open	1	Added collaborators
+5	2015-05-19	open	3	Background information
+4	2015-05-31	open	11	Using Github
+3	2015-05-23	open	10	Ideas regarding the SNP capitalization problem
+2	2015-05-18	open	1	Example of SNP capitalization problem
+1	2015-05-18	open	1	Context of the SNP capitalization problem

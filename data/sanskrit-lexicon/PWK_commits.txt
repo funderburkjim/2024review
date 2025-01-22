@@ -1,0 +1,28 @@
+date	sha	title
+2024-12-22	2a11f5ae093c87fd4e3cdf40eb781f98add12694	#111 readme_auth_unknown.txt extracted from readme.txt
+2024-12-21	d335af337f3a3fa21955aad62ce5d0c0c556a1eb	#111  bot tag revisions
+2024-12-09	bff7613442f23b1f7dc5c26ce4acb957e63cf864	pw: apravizwa 7,12,15
+2024-12-09	52ecb2ae2705228f59b7957cda2c8ab88addf699	 apravizwa 7,12,15 revision for pwkvn. #110
+2024-12-07	d9d3fa1383a9efc89258c79fe40cc73e11772a40	#110
+2024-12-07	3a9d9a86eeeb114f8441476eee9d979e743dccfc	#109
+2024-04-02	df0fb6bf2c1a28e620d3b212bd7c9c6e8a6ea876	italic_tooltips_2.html: italic and non-italic tooltips. #97
+2024-04-02	3673c052e0c953b997d80d64be9ca3d86b8ce0bb	italic_tooltips_1.html example
+2024-04-02	ecca4ed9dd369a0cfa892e55ab50905ed9d5b06f	revise italic_tooltips_0.html. #97
+2024-04-02	025dc1c58398d2cb8bfccdc34608617b517d84ff	removing double vision - first examples. #97
+2024-04-02	450d51460d580c3213d0e7043274d199b75dead1	italic tooltip experiements. #97
+2024-03-25	9545457a422fce7a48be03cb565297d7993d2a50	revisions to readme files re print changes
+2024-03-24	4b84e604ed76cff3136acf9674ce6ed018eea5f8	remove two accidental files
+2024-03-24	f6edde64c2d75bd68c1372925d34d546bc7e2322	version 9b. #106
+2024-03-21	21f2ce0ab5012de018f2e398d86112c35e59b727	versions 8 and 8a of pw. #106
+2024-03-18	6826bce541b98f7411ca76238d80fd01abaf6095	pw_7_work. #106
+2024-03-15	267b82ea280cead35ac30c52fe25d9d1551192a1	pw_6a_work  #106
+2024-03-13	56f530d8220ec52cf2199e455239eafb533e0f21	Preliminary work on expanding 'Chr.' ls references. # 106
+2024-03-11	52ecc981e3de0765e89556451facc311d0b961bf	edit of pw_6_work/readme
+2024-03-11	97ec3b052adb307ed98f629773a4673edb933bb5	change_5_6 #106
+2024-03-07	b6170987ce28f834730a56963179b07ed27d2960	revise pw_5_work readme
+2024-03-07	ff7bf946d5625d9828242e1342e6521ccfda1caf	further revision to pwkvn portion pw.txt. temp_pw_4a and 5. See pw_5_work. #106
+2024-03-04	56a6e709638b1ed6da56a62c9817c75ca3cbcad6	count_k2.py
+2024-03-04	e634745685056536d640a295cd1eec3085cfb3c4	change_2_3.txt updated from Feb 23 (https://github.com/sanskrit-lexicon/PWK/issues/106#issuecomment-1962073856) LB change_3_4.txt  alternate headword and k2.
+2024-02-21	adeccb1d255c55af8f1641661d8d7b10b55ea50d	issue106 initial commit. #106
+2024-02-09	7abfc7c3af448befc2a9f1ddc8c5340ebd181558	PW: remove <e>N codes from metaline. LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/105
+2024-02-09	32c9ad9e1a3dcebb5249eefb0f77fb645d4ebb92	#104

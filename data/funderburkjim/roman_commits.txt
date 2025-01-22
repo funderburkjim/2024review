@@ -1,0 +1,30 @@
+date	sha	title
+2018-10-24	afba542f3a09619fb8d445ed1dc4612319116d39	Create a wheel on the next release.
+2018-10-24	162893c20d7b235a8e42f531a9836b4a0948059f	Back to development: 3.2
+2018-10-24	16cd7baef5b55a989260cc18bb91f3c0ffbc260c	Preparing release 3.1
+2018-10-19	4a48371b6af51668875e45e8c66e16292ee26723	Support Python 3.7.
+2018-05-28	8b2654f58bb411bda6a7e02796b6ed218dd45a42	Back to development: 3.1
+
+[skip ci]
+2018-05-28	81939dbd52582c643ae7f9a9e197cb1951af1d2c	Preparing release 3.0
+
+[skip ci]
+2018-05-25	67665555cf3beccfd901b53b25a9a64cb47341be	Add support for Python 3.6, drop support for Python 2.6, 3.3, 3.4.
+2016-11-19	e2f544f43112d3ccc2b07b3d3b540610febf033c	Merge pull request #1 from gforcada/patch-1
+
+Test with python 3.5 and pypy3
+2015-11-08	6b6fa6995a00413def470fa85c7dc7822d91fdea	Stop using deprecated --use-mirrors
+2013-03-04	34db102097d1b0a56435e8665d57ab8f69b6bf94	'Updated Travis YAML.'
+2013-03-04	ef0fd217c946c9973c9caf5eb93f20adbfd2d3ca	Updated Travis YAML.
+2013-03-04	a3edf296796f06150ead2de74f72f080516d0e68	Updated Travis YAML.
+2013-03-04	656059470613b5057e2eed1793b673183fb6f809	Updated Travis YAML.
+2013-03-04	0b12722a5b3930495002d62e7249f84c7d553205	Updated Travis YAML.
+2013-03-04	614c2e16deac057bc2fcdfe8b9dcc26f8e0d6582	Updated Travis YAML.
+2013-03-04	be98007f0e2893872a408ed94fee238a91704687	Updated Travis YAML.
+2013-03-04	6877797d300ffd9310e1feff1ad9d1de5f5ba8b7	Updated Travis YAML.
+2013-02-25	0dc75895ec7208c5e8b4b88972cb59750206618f	Back to development: 2.0.1
+2013-02-25	209289c41819ead7339589b093b6456ca1155f30	Preparing release 2.0.0
+2013-02-25	6fa967e575f4fd51aaca3b904b4dde3e0a00d858	Ported to Python 3.3 and PyPy. Also added tests.
+2009-07-23	2b5ff3480fdebc3b2283a6f1bbbd7a337eac9a5b	Create a proper Python module egg setup.
+2009-07-23	d372e165d39b57c845d4fb0c047e66ef73d055da	Fix license Trove classifier.
+2009-07-23	6ccfc571030c9e70d81e11e7a102929098f30bf5	Import code and setup.

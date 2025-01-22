@@ -1,0 +1,4 @@
+issue	date	state	#comm	title
+70	2025-01-22	open	22	katha-sarit-sagara link target 
+69	2024-06-25	closed	8	Verz. D. Oxf. H. links
+68	2024-06-24	closed	2	An interesting observation wrt displaying homonym numbers in PWG!!

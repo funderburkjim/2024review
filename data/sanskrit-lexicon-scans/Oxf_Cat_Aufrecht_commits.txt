@@ -1,0 +1,4 @@
+date	sha	title
+2024-06-22	f6f96499eae1b95fc2c85324d878b5f60a29caf2	minor revision to index.html, main.js - 578 is last page
+2024-06-22	0fae96c426df27b5755eb57c1b1c8720890f895d	index.html, main.js
+2024-06-22	047ceb419b2db3426a9397708efa19df9561efb9	Initial commit

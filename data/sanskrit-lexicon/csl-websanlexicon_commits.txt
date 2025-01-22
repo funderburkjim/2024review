@@ -1,0 +1,63 @@
+date	sha	title
+2025-01-13	d311f447160ade0f9edca210946ea7fabb98435e	basicadjust.php modified re links to bhagavata purana. LB skandhas 1-9 use bhagp_bur, and 10-12 to bhagp_bom.  This applies to LB dictionaries pwg, pw, sch, and mw. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/81
+2024-12-10	54c2e40ac4bb0ae7aeac1a72166efd52a8994b26	basicadjust.php for sch references, corrected. Also Bhag.P. LB Ref: https://github.com/sanskrit-lexicon/SCH/issues/10
+2024-12-08	225e3d5bb2f62335d12a14c614f446015391cb58	SCH, etc. links for 'Bhāg. P.' LB Ref: https://github.com/sanskrit-lexicon/SCH/issues/110
+2024-11-15	27549a00c39ddfb320cb09937f000c08623e6ed9	Hariv. link references missing. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/80
+2024-11-15	f678289579eda9906e60666e4ab9a0a84357c2c0	MW page links for <col>X</col> tags. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/64   'col link'
+2024-11-14	8e8071c3bfa65a4c98a8cdfa5a57740b5a144023	Revise page links, hoping to avoid 'click to load pdf' messages. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/64#issuecomment-2474787451 2nd try
+2024-11-14	64ab5957668206b1a938f432d9cb269c74503ac0	Revise page links, hoping to avoid 'click to load pdf' messages. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/64#issuecomment-2474787451
+2024-11-14	f2e8cbdebefb59fe687e73ba982d6f309c4b445d	MW: Links for page references. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/64#issuecomment-2474787451
+2024-11-12	598507b0dc89c3728577f8bd74b54dcaaedf4011	#44 revision to use different way to get
+2024-11-12	a9ddb83f5a9af065e9c26fabb510136712c9ffef	#44 - clickable linke rev (page, col)
+2024-11-08	45076a9b02277867d1f61f14c1b55a2e52e94154	MW: apavarga flaw - #43
+2024-11-08	d04f93fbcfd99255aa28e8f6b481af3a7928281e	add debug section in listhiermodel.php/ list_center function
+2024-11-08	648e0a6089342a9e3e9432613b56158d8ba203d5	Correct error in webtc1/listparm.php
+2024-11-05	237ddf7ba2ae18aef19c84c2b6581cf30550b39b	MW: In list display, avoid SS and RR LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-27	c526f94572a7893f06091b03559b0d22a4117948	MW: Do not display artificial homonyms in list display LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-26	370a6eb2dbf7926a2a3a79d75564c4285f278c05	MW: list display. Allow circle-R circle-S LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-22	cc7e175902e4b354cc9d9cfd75555d42c21bc9c2	MW: See corrections_mw_insert.txt at LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-08	916ddc9c3ee98b54ef79548be380e70c0497f5b5	RV links in pwg with 2 parameters but no 3rd verse parameter. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/59#issuecomment-2395931982
+2024-10-07	325a0575a9065e6eab38ff42e8b2c1888a91cf6d	PWG: missing VN LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/76
+2024-10-01	438ba985e33b480dd5596c6cdaf2b8f8bf383245	Revise pdffiles for VN pages. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/76
+2024-09-28	f9f1809892380ef2d162e59eb16915875fefd4ab	deva1_slp1.xml transcoder file. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/76
+2024-09-17	98bb8b8c41a5f472b4da21a5545cf00569bc0056	PWG: Ref. https://github.com/sanskrit-lexicon/PWG/issues/74 version 10
+2024-09-17	8c3932d00f15d2722cabe89eb04f38f43b108148	PWG: Ref. https://github.com/sanskrit-lexicon/PWG/issues/74
+2024-09-09	2d7b40604f8c0aca4402c05922791f81b50f16cf	pwg, pw, pwkvn, sch, mw: manu link target for BLAM displays LB  Ref: https://github.com/sanskrit-lexicon/PWG/issues/73
+2024-09-08	c15a6192342cb0e0a1ed1e5f76869ea85bb3ccb0	PWG: activate 'M.' (Manava dharmashastra) link target LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/73
+2024-08-25	1889ad6b704e808d00e6dec6331cdd6400fe42e4	Correction to slp1_deva2.xml: This currently only is LB used in MW dictionary.  UdAtta accent also not shown before M,H,~. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/177
+2024-08-24	753c30a949b7160cd014b4a8ea6046117209975c	MW: LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/176
+2024-07-28	e2cb7519e9d4210abf34de6ee2f7935a785f39f9	MW Kathās. link target. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/70
+2024-07-28	0f0801a522ffeeaac5d8d82104b8d5ec7c101210	SCH link target. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/70
+2024-07-27	44d3e4f64500733c8f4e75e443984ebe0221e297	Katha-sarit-sagara link target. For PWG, etc. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/70
+2024-07-27	c8f473b699cb1b2c373c4e759ed78c40ba1a1a80	Correct typo in apidev_copy.sh
+2024-07-12	b2d09d69cca7ae8d1301028f8c44de35740d26f0	revise apidev_copy.sh -- coordination between LB csl-websanlexicon and csl-apidev repositories
+2024-07-11	8915dabe073c2f9aa678f9d24adfa6927116d178	changes getwordClass and getword_data to reduce LB differences with the same modules of csl-apidev
+2024-07-11	c75a0923203aec7cf3874cc770657d96a53ca05b	 1. rev-sup display https://github.com/sanskrit-lexicon/MWS/issues/173 LB 2. titular abbreviations https://github.com/sanskrit-lexicon/MWS/issues/172
+2024-07-04	25b609dd085d6c2ed4fa5eb55275d365a214c60e	Remove confusion between '<abbr>X</abbr>' and '<ab>X</ab>'. LB Ref: #42
+2024-07-03	659071e41f599f34239c299768736fb51a837cf1	transcoding of slp1 'L' to iast, now using ḻ. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/169
+2024-07-03	47564bd9b101a68b9b9140b27b55fbfdce18f26f	MW display accents:  udAtta not shown, svarita shows as LB  U+0951 = (DEVANAGARI STRESS SIGN UDATTA); LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/169
+2024-07-02	fd4ef4615813c8165538d5e52a028cb55d476c77	MW devanagari accents: udAtta invisible, svarita as in PW. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/169
+2024-07-02	39e3f3b7087ce30687aed2df7430755ae502f563	MW:  Use PW transcoding slp1_deva1.xml . LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/169
+2024-06-23	70ab5737ef3ec5f5645027350c34a671bd9ba1cd	ls links for 'Verz. D. Oxf. H.'; LB for dictionaries pwg, pw, pwkvn, sch. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/69
+2024-06-21	0de4d41e2c61cc47bdb2c50eee91baea029876ad	Remove display of hom in head. Rest of dictionaries. #41
+2024-06-20	a4cdf2d907705391d50f0215f84c8f16655e6b93	Remove homonym doubling in pwg displays. #41
+2024-06-20	7c990216ba95c035a20547826bff5044e353e5d8	list display recentering. #40; LB Also see https://github.com/sanskrit-lexicon/csl-orig/issues/1639
+2024-04-16	16140c35c52cce820a9b4ce6568c5019cbcb21fc	MW lang tag and related. LB Ref: https://github.com/sanskrit-lexicon/mws/issues/65
+2024-04-09	842247331447ba5ea8c97cd9edc07e7c1113e4a8	Reset dbg to false
+2024-04-08	6eb9a26e72006553d8594a4f4763e1312fe0e37a	greek text in mw italic. LB Ref: https://github.com/sanskrit-lexicon/mws/issues/65
+2024-03-30	e15ab439376f117d99060e2736910d5ab3d532fe	Use python3 in generate_web.sh.  'python' command is not LB found when 'sh generate_web.sh gra xxx' is run, but 'python3' works
+2024-03-29	1f4af9ba1974642b85c79161df64f8ef3aee7015	#37
+2024-03-12	280124943f3507eb80f0471d1451e7af2da6d18d	pw:  pdffiles.txt change to fix bug. LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/107
+2024-02-22	cc13f25f16983000df26aa0b2b06a6132ff11d7e	4th try at optional highlighting. #36
+2024-02-21	c64974d0986b879cd98cc50d6d063a40a2792f44	3rd try at optional highlighting. #36
+2024-02-21	1e907c9055e50299b6e298a4b0e6e3729905a43c	#36.  2nd try for highlighting option
+2024-02-21	b5cbee493e1e514281368c51380138c0b07621e3	revert highlight options. Cologne showed an error.
+2024-02-21	3a4be3111c345fec5be9d0de2ed73c83959f4725	advanced search highlighting made optional.
+2024-02-09	8bf24cfdd19a2bbd7a6f35d466408ad42199758b	pwk display for '<info n=sup_N/>'. LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/104
+2024-02-05	4f9c6b1ee31bebf55edf0c249a80de307a7bab9e	gra, md  and 'per' tag; LB Ref: https://github.com/sanskrit-lexicon/csl-pywork/issues/32
+2024-02-01	fda709ca256f1bb6e19f41995134c1a83669fb2c	SCH:  implement link to Westergaard dhatupatha. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/126
+2024-01-30	1c5dd1ba037f53bb5058fa2181ec38cdad3822f0	Link target for Westergaard Dhatupatha. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/126
+2024-01-30	151e184894cf675300c6389d719c25ee0cddaa06	Ref: https://github.com/sanskrit-lexicon/MWS/issues/160 LB copilot dialog as example of 'prompt engineering'
+2024-01-26	3d91570f0f6cf358d5bcd078352533b5af5af824	Advanced Search highlighting refinement to solve problem. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/160
+2024-01-19	be8dc6b930e43c555314952056adc920a9a820b4	MW Ramayana links for Kanda i, ii link to Schlegel. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/151
+2024-01-19	18e3c1705cf54fcb58a627fb6d372b168935532a	Advanced search highlighting. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/5

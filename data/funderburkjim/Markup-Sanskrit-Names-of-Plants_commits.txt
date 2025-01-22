@@ -1,0 +1,54 @@
+date	sha	title
+2015-07-09	93108b774b5863dc30ae90b30abd06c7751c6969	some fine modification
+2015-07-09	01af9e88d0f318ac87f1a421342bae624a06dd24	summary of project
+2015-07-06	bf7103a178a3ffddff909f5d368badc11c76f6aa	snp06 corrected
+2015-06-22	aafdc676cb1340d5c88b49906f886f9b6c540662	snp06.py and snp06.txt ,snp06_log.txt ,snp06_list1.txt,snp06_list2.txt
+2015-06-19	656a937ff0432efb2e7eafd336ee376c9d389d05	corrected snp05.py and snp05.txt
+2015-06-17	13a5ad7e5c6665d64bd6ad4f59b19ae847d16255	snp05.py and snp05.txt done
+2015-06-16	63af71bd5b49ba8c390460124c245a8aafeca680	Manual extracts from shp04_list2.txt
+2015-06-15	05a246d406d94783ca7ee66f356d671e0c4604c4	notes updated
+2015-06-15	9f37a7bc46c3a0f37931ab883f021448f015f85d	snplist2.py and snp04_list2.txt
+2015-06-12	1285b1bb75cbe62f6bab00c7f64f683856ed8215	done snplist.py and snp04_list.txt
+2015-06-12	5c5cf00d7e99325d0c20a9355fea59c27e8b331a	snplist1.py and snp04_list.txt
+2015-06-10	7a7f2e5447c3474a025d588aac3b5bbe165589b7	snp05.py and snp05.txt
+2015-06-06	21a4b286851db139d2f27ff33585ba821834d7c1	snp04.py ,snpo4.txt added and notes modified
+2015-06-05	8b578275d4a5125f22f739860604c5f841ba4294	deleted unused files
+2015-06-04	827c97d92b470313413ff150af6dab99a3a9d0c9	adjust snp02 and snp03
+
+beenooyadav
+2015-06-03	6bf3642e97b074507e37f4b60767267c774c1a6c	dfsdf
+
+dfdsgdfg
+2015-06-02	817705158fb4b3cb8a2462449202d072947d751d	first revision of snp03.py, uploaded for beenoo yadav
+2015-05-31	67350c2b556e0aac5ed39629753ade731b019c4c	Update notes.txt for snp02 creation command
+2015-05-31	25fe9acc673e0b72ccb32a587cd4bd341c07baae	delete snp01.py from pywork/data directory
+2015-05-31	9eb728e42ed0898177163c2d540f1f48e2fa89e1	delete snp01.txt from top-level directory
+2015-05-31	a3976e87bffb0e2f487c5f3f8ef8ea42d8b40684	made changes from shubham3796's zip file.
+
+Ref:
+https://github.com/funderburkjim/Markup-Sanskrit-Names-of-Plants/issues/4
+2015-05-22	02cf7d5cf89e7b26419f373d9ed7b4612109f719	Added notes.txt file.
+2015-05-22	1e2d7d545a315b9270ba48352c7a741e35251e32	Make an empty file to explain issue#7
+2015-05-22	84042a3a508aa57207bbfb6039f01acb5948e482	update as funderburkjim has suggested
+2015-05-18	4eb4260d8519110a365d1ef2fb55bd306de15cf9	capitalization
+
+two files added
+2015-05-18	e3eaedb79deb0be2a86252b2228e0df37c5fbc9a	Revert "Revert "Initial commit""
+
+This reverts commit 0ba51c419b88252f4df72b5e2c48000067dc3b30.
+2015-05-18	0ba51c419b88252f4df72b5e2c48000067dc3b30	Revert "Initial commit"
+
+This reverts commit 81c860fee27a325e1b69472b42e8d2224447ff6e.
+
+Conflicts:
+	README.md
+2015-04-15	442760749e2444e722d759a31d5976371059f360	Update readme
+2015-04-15	90e0df7c7a6d1cd3658a9d929c349d17b8a55107	update readme
+2015-04-14	88b9b7acd20cfe4e240c844d8dea3b2a489bc2e5	update readme
+2015-04-14	d20a03442ae75484aac5627592c6b7d4021eb3b6	Update readme
+2015-04-14	56c0fe9ece5af96ed420a3ee9f997236287e9ee8	Interim changes
+2015-04-14	bc9e376bac6f3ff4066d7dc0e918f69dff054e4f	Digitization of Sanskrit Names of Plants
+2015-04-14	51af70dd3c74c049f5356ae2fd47692159db8e2d	Ignore Emacs backup files (end in ~)
+2015-04-14	25ca55c2f26ffa9a0742729396c24e5cc11bd20f	Update LICENSE.md
+2015-04-14	2197f95e79d62f8718e6a1aed8db561ad2eed054	Update and rename LICENSE to LICENSE.md
+2015-04-14	81c860fee27a325e1b69472b42e8d2224447ff6e	Initial commit

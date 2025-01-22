@@ -1,0 +1,13 @@
+issue	date	state	#comm	title
+12	2021-04-07	open	2	2020 Update
+11	2020-04-21	open	2	aśvin m. du. (ínā or inau)
+10	2016-03-18	open	0	# misc. issues
+9	2016-02-11	open	0	Abbreviation List Used at DCS
+8	2015-10-06	open	5	Quantity of Grammar Models
+7	2015-10-05	open	4	Lessons from Gérard Huet's Remake
+6	2014-10-30	open	2	`L` Number Mismatch (62, 63, 64, 68, 75)
+5	2014-10-15	open	0	64745 vs. 64759
+4	2014-10-14	open	0	Abbreviation List Used in lexnorm1.txt
+3	2020-03-16	open	5	Issues in lexnorm1.txt
+2	2014-11-03	closed	2	Request for explanation
+1	2014-10-14	closed	2	183 Non-standard Entries

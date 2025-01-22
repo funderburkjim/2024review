@@ -1,0 +1,47 @@
+date	sha	title
+2020-12-17	22037de2f80db19c2054788e824762a319c85b66	minor edit
+2020-10-30	885f406d5a11cc5ec7076892e9e67b71660d771e	refine .gitignore so temp.html is not tracked
+2020-10-30	257d41a42809bf572a63bbb516692f0d18c0b14b	lit-getword05  my-app1 element somewhat simplifies comparing
+results from two dictionaries (namely mw and mw72).
+2020-10-30	fdcfefd7b113754ea11be951727754117b223fd6	lit-getword05 -- enhance csl-citation to permit use of
+getsuggest.php API for suggestions.
+Also, use network fonts  (../fonts.css) for Devanagari and other purposes
+based on basicdisplay.php logic.
+2020-10-30	3bdb1ac966abbd084932d66bcdee6bbb576f7aa9	minor revisions of lit-getword04
+2020-10-30	03402386113240a2ee3482512b0851eb012ef5ce	remove lit-getword04a
+2020-10-30	60e8ba44363c8d9949d6e2c51c561adccb99b7d5	remove lit-getword04.1.  It has no obvious interest
+2020-10-30	4dd9e5de4779abaded863b0eef341a38399f88ca	minor adjustments to lit-getword03
+2020-10-29	407c6b6564674786ce5730ee457ee96cc26ae774	minimize differences between lit-getword02 and lit-getword02_v.
+always use Cologne server for getword.
+2020-10-22	02cdaa2a06d6c91a1d91322322e00dda31e8a4f2	lit-getword03a.1   An experiment to adjust height by
+style attribute of my-app.  This fails to work as expected.
+2020-10-22	4c39caaf0f346405eb78b94f54ec41f8a89cf77b	lit-getword03.1  drop use of 'appname' attribute in csl-citation and my-app components.
+2020-10-21	10e75f552f2f127d92c7efe6a8f20c4d03b3ece6	lit-getword02_v0  minor revisions
+2020-10-21	9e69cc75b6bc7e1f715f09a979a4fcdb94bd6bdb	minor changes to lit-getword01 and lit-getword01a
+2020-10-21	a3f7d1e733e97515f173835deec834f3cbc16156	remove unused files in lit-datalist01a;  Revise csl-getword01
+element in lit-getword01 to always use Cologne server.
+2020-10-21	7614fd2cb2e4d9f22e2bcb69e91693e179d7f0d9	lithtml-adam-bar1 : Same as lithtml-adam-bar, but uses
+a local version of lit-html library instead of a CDN reference to unpkg.com
+2020-10-21	52629a9002c8a1a460e5fce7d98c9b3c4559415d	datalist-with-ajax: revise to use url on server for json array
+of html tag names
+2020-10-16	7520cf61b8a018cb7fa942a7bed2718077f5baa0	lit-getword01a as a variant of lit-getword01.  Uses web
+fonts and (by default) cologne server (csl-apidev)
+2020-10-16	90452ed2067beac9449c81047938e5c3949cffdd	Minor changes to lit-getword01
+2020-10-16	de175949e409f3c5cf94d7ff460882c12142e785	Revise lit-fetch02 to get data from local file
+2020-10-15	89f587e86b8f851064de0335adae4b11c2dfb56f	remove lit-elemen03b.  Duplicates example of lit-element03 and lit-fetch01
+2020-10-15	abd2fe9b0a6234a750705f1882e3976afb34eecf	Refactor lit-fetch01 example from previous lit-element03b/fetch.html
+2020-10-15	6687bae5ebf15036c28f6aaf9af3c5f691c3fd54	remove lit-element03a.  Duplicate of lit-element02.
+But uses a CDN for the lit-element modules
+2020-10-15	bcb7e1d6a3e24de9ea009ac1fb80bb0336929a82	Revise lit-element03
+2020-10-15	890823438eeaf94b8fd996c6dee9ef7846a20eeb	Revise lit-element02
+2020-10-15	1a28bb4f9ee08fc6bbf6cfb5d527d557d0726f06	revise lit-datalist01
+2020-10-15	e1a218d5d60c41a7aa777b89b5567e95b4475fd5	correct lit-fetch02
+2020-10-14	dc670babc09ee03204a91c3a005cc9a5d4117bf0	revise readme1.md
+2020-10-14	44cd22dbaca979a7e147c7313ddb9126cc7c45ca	revise readme1.md
+2020-10-14	be323b7fbbb35012b864f0b090f462f21d5de759	remove lit-html01. It duplicates lithtml-adam-bar
+2020-10-14	0ed7e2c4fef0717cb74e8420321f11c6134e41a3	remove autocomplete-datalist-using-ajax, since it doesn't work
+2020-10-14	7c6da465b3a12fd7c6b972014b6d9ffd0f3d6377	begin readme1.md.  Remove search-try
+2020-10-14	7fdf6badf245ec0d9a8689d0c5592e28b79d3e81	remove *~ files.  Not sure why not handled by .gitignore.
+2020-08-11	e59a7c7c8f2a681d815bcb9a91ae25710ef915f8	update .gitignore
+2020-08-11	bb164fbd0a11df2a882db49e22c0dd72d4354000	Initial commit
+2020-08-11	ddc264c411510e27e2a3805d3010084dd83b2a16	Initial commit

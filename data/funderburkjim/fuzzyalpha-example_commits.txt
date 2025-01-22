@@ -1,0 +1,4 @@
+date	sha	title
+2015-04-21	74e20a49c4bb78828fe3a3b0293da7f4d9694017	extensions for some other dictionaries
+2015-04-20	0b8e2dd01e3069166fcef98aeb5605c551d326be	Initial commit
+2015-04-20	b0fd681bfadc4aa22ac3eaf356786bbe6b1a1dda	Initial commit

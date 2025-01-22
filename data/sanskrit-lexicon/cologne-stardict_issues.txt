@@ -1,0 +1,2 @@
+issue	date	state	#comm	title
+38	2024-02-07	closed	2	Fix correction link in stardicts

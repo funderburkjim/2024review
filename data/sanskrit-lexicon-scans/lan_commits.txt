@@ -1,0 +1,4 @@
+date	sha	title
+2021-10-04	359144209c0c8c3b4eee6e57fda2eb9fa49abc1b	Delete LICENSE
+2020-12-22	54b359727ffb4b4b50c23e1eecd5935ea572fc2d	Initial commit
+2020-12-22	81dcb9ee54b8622156c88dd3164f4e72364abf29	Initial commit

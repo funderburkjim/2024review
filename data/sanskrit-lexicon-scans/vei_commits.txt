@@ -1,0 +1,4 @@
+date	sha	title
+2021-10-04	ef89d9843adc8273a7e0be70862c4da813b37db7	Delete LICENSE
+2019-11-01	e0d51ca7e19176f76a3b121fa48e18d6e58480da	Add pdfpages
+2019-11-01	3a5a148d9c154ccab9e6914946d84706c1af2698	first commit

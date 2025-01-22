@@ -1,0 +1,32 @@
+date	sha	title
+2024-12-06	aa9744891a65e9767e08bd08bf89cc87edba535d	#81 Revise correction to sarj
+2024-12-06	f969b4db6f5b3f79312a66c21df9367409475fcb	#81 - implement readme_check_bur---.Unsolved.Problems.txt
+2024-12-06	ab36bfae41ac5b418599dbe43515107ecb42d07c	issue81 - remove change_2a.txt. Not used. #81
+2024-12-06	bef0b949af330a49cff5937de715b7ca26415cf2	inital commit of issue81. #81
+2024-11-26	184547be72b279f54bf4210534e222784b0cd9f0	pwgissues table of contents readme
+2024-10-07	b179d060ca4d486d737b13f3b7f53f32082d1990	#76  missing vn added to pwg.txt.
+2024-10-06	366b4f51d8b63003481664a33174f3651aada4ec	#78 first test
+2024-10-01	941e5704e2e9fadafca3ad0adb5401a97e27f8b4	pdfs for VN pages integrated with Cologne displays #76
+2024-09-28	9d02d99f3e92dc573f646c748dd35572ddb4153a	#76. compare current transcodepwg/pwgtranscoder2/deva1_slp1.xml to prior version. LB The current transcodepwg/pwgtranscoder2/deva1_slp1.xml is slightly better. Use it
+2024-09-28	7662ef67a0d99a20c9d85c09c0ae4a6977eb94f5	#76.  vntxt_1_rev.txt
+2024-09-26	812777846b5751371d3ade8ac30f9ed6c60f20fd	slp1 accent corrections. vntxt_1.txt  #76
+2024-09-26	05b07230683179d84844c5e175498a2e18178969	vntxt_0.txt  transcoding of vntext_0_deva.txt. #76
+2024-09-25	a67a6b73c3872d978d1ccfba190787ee8b6e7971	Revise readme_cdsl_vn.txt
+2024-09-20	cc330be3ce08732e1c6816a6d831b57a64c20d48	Possible last commit for #77
+2024-09-20	94a012e129733ab68a237c4a2541ab3e3252ea66	#77 misc. changes 09-20-2024
+2024-09-20	fc8eff382ceeba9074f473c7b8c1961c0cb79b0d	#77 readme typo
+2024-09-20	230fe3166faf33f06f7cd68151c615bfb4fd33ee	#77
+2024-09-18	83d115bc09e9e1af2c2976b98ac76acbd18cc3f9	Revise readme_cdsl_vn, add PWGScanpng_vn_files.txt. #76
+2024-09-18	92a5375709483ff91608282d50d4ee6c4315170c	initial commit #76
+2024-09-17	8302073507329536282f54bb788af0840a36aca7	#74  version 10
+2024-09-17	3020d84a5f29e7c36cdac11e1cc24ccc132ec634	#74
+2024-09-14	b641d9b4fdda26a706ca8e0ba5ecc54912836ff2	 #74  change_4 and change_5
+2024-09-12	fac69210fd7b8b399b08d260b55c683c48497649	invalid adhyaya,shloka.  #74
+2024-09-11	02fbcb95ae2070da2c79330ac9ae8fc50b9036bb	#74 initial commit
+2024-09-09	4174b00b204511c96b5f4975cbccd84e720587a1	finish this issue. #73
+2024-09-07	e7a23c224471a1dfab7fa25d767647badd3bbb40	#73  Construction of link target for manu
+2024-08-01	1f6c65070baf67aac3e843a07cd117e74ec7bf09	Andhrabharati's index file for KATHAS. #70
+2024-08-01	44aa22fd871834dd4e8179e969228bde518208ac	issue71 work. #71
+2024-07-28	f9d4266834bb1ebfe1db8ffb86acaa1a423d0b24	Revise readme. #70
+2024-07-27	b6c3e77797363425f40ab0eb9bda34f94b4ae998	correction to readme
+2024-07-27	9a0a1731834e0fe8f792919561473de4d2feb808	#70  link target details

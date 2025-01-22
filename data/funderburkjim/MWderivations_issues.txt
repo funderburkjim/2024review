@@ -1,0 +1,16 @@
+issue	date	state	#comm	title
+15	2023-03-03	open	1	Left + Right. How about Right + Left?
+14	2022-04-30	open	9	How to redo the algo on another list?
+13	2023-01-06	open	11	12 subtypes of `:su:`
+12	2021-03-10	open	6	Longest samāsa in MW
+11	2021-01-05	open	0	rules of gender for the Sanskrit noun
+10	2021-03-10	open	6	Refine derivations from suffix 'Iya'
+9	2021-03-08	open	4	Derivations via participle stems
+8	2016-07-29	open	0	AKya as adjective form of AKyA
+7	2016-07-28	closed	0	Revise floating_compound to allow gender variants
+6	2021-01-05	open	7	headword augmentation 
+5	2021-01-05	open	3	Using HBC headwords to resolve compounds
+4	2021-03-08	open	3	Variations in prefix 'ud'
+3	2021-01-06	open	2	srs3 derivation method
+2	2021-01-06	open	31	Summary of step4
+1	2021-01-06	open	2	helpmorphids Stats

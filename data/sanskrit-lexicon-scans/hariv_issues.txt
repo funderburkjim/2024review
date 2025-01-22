@@ -1,0 +1,2 @@
+issue	date	state	#comm	title
+1	2024-11-16	closed	2	Jumping verse numbers

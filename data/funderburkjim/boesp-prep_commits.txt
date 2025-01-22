@@ -1,0 +1,166 @@
+date	sha	title
+2023-07-11	ec36de89b652f370580c06c5eae7ff2a49cb445a	Footnote corrections. 5500-6200
+2023-07-07	4b44a4a4c5be1b2840914a99e6035d057510cd0a	Footnote corrections from Sampada. 6200-7613
+2023-05-29	3c81f85f421ffb9f4d62b9c424f927e8c4d4a2f3	Footnote corrections from Sampada. 5000-5499.1
+2023-04-30	19a5f4a0823c793a07dd2c63041ef8fa6c3b4503	Footnote corrections from Sampada. 4500-4999
+2023-03-30	c5f475974aab95e3d4a26a995ae651b2ffb5ffd5	Footnote corrections from Sampada. 4000-4499
+2023-02-09	69239541c9c53978d921a5049e95c33527db6101	footnote proofread 3500-3999. # 54
+2023-02-03	61426036ef8bfdacdf557a2eca8d2123f112438a	footnote proofread 3000-3499  #54
+2023-01-09	9542505ca68e6617ad4d3921746cb478f25380df	footnote proofread 2500-2999.  #54
+2022-12-27	350af8352f5600f65dd895f6e0e0dd080eee03d0	footnote proofread 2000-2499.  #54
+2022-10-20	8cfef17f6651ab2c8b8cd3fef2cf4aa49897089b	footnote proofread 1500-1999. #54
+2022-10-02	bfd140a5e19abb5cf7a05c97a9fb26d4583b8cce	footnote proofread 1000-1499. #54
+2022-09-25	95848861296f60bdf782326c329ca0c668dd7134	Proofread 601-999
+2022-09-16	bcbd8603e755cd442b46ba3927c5d0306fbf0670	update footnote readme
+2022-09-16	112bd2dc13dea8308132e73902ceaebcf6efd68a	Footnote proofread 265-600
+2022-09-11	332243f64f732fe42d7dfdfdb5839d3dfe3753d7	L_0265_0600 begin
+2022-09-10	4242fc7a1ae0554635595fc2699cf86443377eea	step4footnote readme.org
+2022-09-10	331fce5e5b1d2429b8714f634f2b156ccdccfa25	Footnote proofread entries 1-265. #54
+2022-08-11	03087abcc050711a0e7f339d5f2bb428117ebdb5	Finish Sanskrit verse proofreading for volume 3.
+Ref: https://github.com/funderburkjim/boesp-prep/issues/49
+2022-08-10	c8ac9b107dde71d8b49c452220a8f6714bf2cfd1	Revise readme in step4a3
+2022-08-10	86a2e93504f0124497f0ad4c5107d1a9e909ac39	Resolution of corrections to Sanskrit verses in volume 3.
+Ref: https://github.com/funderburkjim/boesp-prep/issues/49
+2022-08-03	924bf718bc5dcbd74c42a022e30b9625e39f8b0b	Sanskrit verse proofing, volume 3, continued. #49
+2022-07-11	04154c4d33b28047b2cd0b4b495ddc3b52d2d4fd	diff1_rev1  :  rev1 of AB version of volume 3 verses. #49
+2022-07-08	26a19708ce3b03b67da654df8460b0b70ae6303c	diff1 for proof-reading verses, volume 3.  #49
+2022-06-06	3265a0591d8a255d0101902895f078e338f53836	German word corrections (1). #53
+2022-06-03	6be8bc3367672c65f1fdbe419b271b6896e07b83	Update web1 display for German word corrections. #52
+2022-06-03	c4dd6a116d0287c822c402502b47682a64905da3	German word corrections. #52
+2022-04-11	7b65368cc21fc5b0d08231a3d47a1e380a124e20	print changes noted in volume 2 verses. #48
+2022-04-11	a404bf697a361791b9b64e6a922ac17d4740232b	final1 version of verses from volume 2. #48
+2022-04-06	990fd7e7f2f07dd62384c2e3da7baf55109bbc1b	Add devanagari version step4a2/boesp-2_deva_diff_ab2a_final.txt
+#48
+2022-04-06	4bd8fc5fccd71525f1a16e2ba7d39b278d4df018	Resolve revisions from AB and Sampada.
+boesp-2_slp1_final.txt is result.
+boesp-2_slp1_diff_ab2a_final.txt shows remaining diffs from AB.
+boesp-2_slp1_diff_sam1b_final.txt shows remaining diffs from Sampada
+#48  and https://github.com/funderburkjim/boesp-prep-ab/issues/10
+2022-03-29	174e3c30a43fef496b2e062bed79594291cc5a0a	First difference in proofreading of volume 2 verses.
+#48
+2022-01-18	a8738671a8f8760feb945f4932bf4f2d19ed4f86	Revised web1 files
+2022-01-17	498b173ac8424f19fda6df528017493bab91a891	web1 link target. Use json, javascript, and url parsing. #51
+2022-01-17	9ae3d6bd021bf73b0c895f8643dffd3638c2ba76	web0 Anchor approach to linkable target. #51
+2022-01-17	878cdb905bdf8c193195edece83559a57ac05751	#39.  Add missing v3,v4,v5 and also aufrecht entries.  See step4f/readme.txt
+under temp_boesp_AB_03.xml and temp_boesp_AB_04.xml
+2022-01-17	472bb77d6cc462d511ecdea4ce35f3efc7a46327	#39: corrections derived from boesp_deva (AB)_1b.txt
+2022-01-13	ac3586131b38ad26cbe548467fe49e0ba3ab9d3a	revise readme.txt
+2022-01-13	5f48ba4194ddac6a136af1785e8603718df8c90b	Revise aufrecht verses. #39
+2022-01-13	97e003d450b6bd057d6a8570c3d38cc20a6169eb	correct page at L=7873 to 6.29, for deva version  #39
+2022-01-13	59d10370a841b0b63d54c53c102fce8322a1b5f5	correct page at L=7873 to 6.29
+2022-01-13	17359b59d75147bf6206e28319a058abcf151ca7	Typing of 13 aufrecht entries. #39
+2022-01-10	7eb435519247fbcefeaea9371ad3ee5a4c436172	step4e:  h3/h4 moved into HS entries. #39
+2022-01-10	9f08caa756d300ee8a7f5b2bd436232d705a13d7	Extract volume 3 Sanskrit verses for proofreading. #49
+2022-01-10	edb75a80a63d376ad4bacd6745c27b61c635706d	Sanskrit proof-reading for verses of Volume 2. Ref #48
+2022-01-09	fa76cebb0fb04c1838d3b8eceaa07636ded2e53b	Misc. corrections.
+Ref: https://github.com/funderburkjim/boesp-prep/issues/43#issuecomment-1008294756
+2022-01-08	a244fe721ade3bf5afc7fab3caf23e8693bef4a3	Break long Greek text lines into shorter lines. #45
+2022-01-08	de93d5502bed9af0871e9f1bc858d4757e0cd6b0	Reformat Sanskrit verses with 4 lines in Volume 3. #45
+2022-01-06	a189843e0ad8788742ac131c3765c8e05f666ee0	Misc. Corrections. #45
+2022-01-05	c30e186b73cc3bc7e2bbfb2bc12f82f3bca13343	greek text. Remaining Vol. 2 instances. #46
+2022-01-05	d79f03d4cc427338f5448887e8c60489409b45fd	Greek text. <gr> tag change to <g>
+Add text for D6075, D7046. Correction to F6109. #46
+2022-01-05	8d6c2bad953674a641122ad3e68bc64db07c6ebd	Greek text added per the 6 'corrected' files in 'greektext' directory. #46
+2022-01-05	656610bab80840ffc3e8111ce60ca915f026e356	Greek text at footnotes 6109, 6491, 6483, 7496. #46
+2022-01-04	f20eda859c3cd6abe02feaaf557b36b4df8305c9	Mismarked Greek text at Footnote 5001. #46
+2022-01-04	6ef13d3506bf50bf5321be43ef82950b54ed37f4	Greek single letters in <gr> tags. #46
+2022-01-03	c594eb3896f38732551280512d35345b24848f71	boesp AS changed to IAST. #45
+2022-01-03	879ed2eff81cf2f1e79137f37fc855c16264f27f	Preliminary corrections to boesp, before conversion to IAST. #45
+2022-01-02	c774b7cc176837ce81631f2b2fa946f50b6e4f48	Sanskrit verse print change corrections, vol. 1. #44
+2022-01-02	3e2c8a990c234cbb5e50e4a3b6f098c6e2954219	Correction to pages for S elements with preceding HS element on prior page. # 44
+2022-01-02	3aa59f0b619fd549a31178649a866d3cad3fec71	Install Sanskrit corrections for verses of Volume 1. #44
+2022-01-01	3c8e5381982dda13126a3ff7bf1469b201970bf7	Sanskrit text vol. 1 rev 2. #44
+2021-12-30	780e8c808a463ba4083907b867580b58dfc2903c	transcoded versions of boesp_utf8.xml. #43
+2021-12-29	ef22c7e9ed57347b215751b739947486044804d8	S tag improvement. #42
+2021-12-29	ee7a681ddf6d2dda7a205deb1d5bee0ea1eda278	Preliminary corrections before S-tag improvement. #42
+2021-12-25	4a77f886c21375594deba1753365850eb0fd7412	Remove lg, l markup. #41
+2021-12-25	0946cab3d060ef1f0f5bfece55acca490f00088e	Remove FDUMMY elements from boesp_utf8.xml. #40
+2021-12-25	a65ab1e87c4b5f31043d5359921535902ea61621	Remove unused code from step3a/hsrevise.py
+2021-12-24	943d0af41e5326e8e4b65d7994a30e98b5dad446	Move HS groups into separate entries. #39
+2021-12-19	47c9427082a52d0ac3151545099adee1c12bd692	Change F4.1, F4.2 to V4, V5, etc.  #37
+2021-12-19	e44550f2e5b400929e8b9a332cf157ba919fe0e9	Revise value of page attribute of info element in boesp xml.
+Ref: #38
+2021-12-17	cfd83c809d8ef43fc2d8d0afe89363a66bc0a35b	step0 xml file correction. Ref #36
+2021-12-03	e7e032476e604eb63af30bc16cf55277c1e08d12	boesp_utf8.xml  #35
+2021-12-03	6f0537f48a633fe04587c1d4e7312dd54a1daae6	boesp_25 -- changes in preparation for step2 xml version
+2021-12-01	464a2784fb213f6876c0ada3be99c06fa5826045	editing boesp. #34
+2021-11-30	a3be03d2f1b726c13ad250a9107c3dc7591eef78	ordering of V1,V2,V3,F4.1,F4.1 sections. #33
+2021-11-29	880a3b0e990693e8442bc29335e7365feffb9901	<V3>4815. format correction
+2021-11-29	5e9783d88048e29319fb4d0c655ae8f8cde177cc	#32
+2021-11-29	0ef482832dc48fb5bad92d8a715cb0560b64c5e9	Correct V1,V2,V3. #31
+2021-11-29	c72f18ff2e3c82444c32ed0ef8b0be73afadc0bd	handle the 9 F4.1C's.  #29
+2021-11-29	8774f4425719c5f23621efd4e6a4f281070faa27	comparison of revision 01 of volume 1 verses
+2021-11-28	e72af94eb7a137f6587693872a39a0821e69fbb4	Prepare slp1 and Devanagari versions of volume 2 verses for
+proofreading.
+2021-11-28	4aa4f9d77daaa73032a4fdf2bfd790dce174172d	#30
+2021-11-28	5d13bff11c14cda8e2a0e4bcb8dca74e232ff919	boesp_20:  put 'long' verses on 4 lines
+2021-11-28	ca0e7e2acd81a2eae426a86e0321a6dce77c9ae1	boesp_19:  put all HS blocks on single line
+2021-11-28	5bc44e2650c0264d94ee0462d773c17bbf1f7493	boesp_18: separate multiple HS blocks
+2021-11-28	edd74446d13d84091925bc1e3da514d782493281	boesp_17: manual hk corrections
+2021-11-28	a046ea38ea49f903ff8c073504412eeb4570d6fc	copies of boesp_utf8 at commits 7c6e7914 and 9bfe9ee2
+2021-11-28	eaf593c4bc70d3944f48802b0aad89e812a382f4	Revisions to step1 and step2 and step0
+2021-11-26	9bfe9ee22fe0a61e40508eb8b414c873fe2b28a5	#29
+2021-11-13	7c6e7914ad789a55a2b75a9d292c6924a59eb54a	21/11/13 new version of boesp.all_ansi.txt
+2021-11-09	262fee29abdcd913fc089f1d801c2afe06ca21a0	Add dummy F-groups after compound F-groups. #28
+2021-11-09	0d46f23dcbcb8abcf7c734c4ab43c1c038d4a807	Changes preparatory for adding emtpy <F> groups for compound <F>. #28
+2021-11-08	3da4409b4e1925d4f3668f22d1cabf6d0b1f84cc	Revise boesp4.2B_ansi.txt and related. See step0/changes/change_boesp4.2B_01.txt.  #28
+2021-11-08	448893f1cf44173c1e9de17263e9dacc6e0d123a	Minor spelling changes to boesp.all
+2021-11-07	7837cd291f734fd07965e11c624a0f89c9b7a258	Rename boesp4.2(B.)_ansi.txt -- the parentheses are awkward in file names
+2021-11-06	e54aa8730149c322eb052b143d52987e2c3a9a35	Corrections re duplicate verses. About 25 verses changed. #28
+2021-11-06	3b0772d7e86fe08c218236f0c6749c0bc8d7e688	Merge branch 'main' of https://github.com/funderburkjim/boesp-prep into main
+merging Thomas work.
+2021-11-06	bd09c68af65c39c3f4bfe4f12b7f9a3e51db26e7	reformat S groups. #28
+2021-11-06	3866288b0a05b7bf23ca1bb91971ee66acd121a6	Format of <S> lines -- preparation. #28
+2021-11-06	9de19611c453716ab8eb08e1db9b98a23378e31d	boesp_09.txt
+2021-11-05	e7eab309e047ccffb6d015bb78429a0bfe9f100e	Merge branch 'main' of https://github.com/funderburkjim/boesp-prep
+2021-11-05	273a364e1fc30ae7f0bc79af66f479e31e4f1fae	11/05/21 addes boesp-4.1+2_ansi.txt
+2021-11-03	7a232aeb3bfbe46c9cca049d5a8485c044992e3a	10/29/21 latest version of boesp.all_ansi.txt
+2021-10-25	4628ff006643db15f5ea285ca778297b9e5720c3	boesp_07:  SH -> S2 corrections. #23
+2021-10-25	728a77d4ae7cc3c7dbf00fbac53efd695589329a	change_06 to boesp: #23
+2021-10-23	d0edad42a8f8ca26eab36b8fe56110cec37f6409	Normalize AS spelling in LS. #23
+2021-10-23	c59610405f73b889609a7497d61fe3b63dd080d6	step2 code and working files
+2021-10-23	0e073aea19bb76ac81e5dacd1961598453131b74	LS spelling corrections. #23
+2021-10-20	9226fb4d7cac3f3f767636de803b95012a5eff7e	update changelog
+2021-10-20	54b16736082bab1a18de709d3a608a27cfa373a5	superscript 2 and italics cleanup. #24
+2021-10-20	7cc2dda6d9a4afbe18b726f7964bee99269bfcc1	revise changelog
+2021-10-20	b8a1fb28baf91829a8a5e14fee2d1c3de74016a0	boesp_02:  space between period and digit. #25
+2021-10-20	983ef76013662f0778233c54de302b8231d74e35	revise changelog
+2021-10-20	6515e2ae6f5b6698197e5324648dc7de8a459e55	Revise changelog
+2021-10-20	1cc043f70fca3439aa4e276f967ede912dc73013	changelog to md format
+2021-10-20	38111a391a3fe076c40c5aca1fb5aeefb7cbab8c	revise changelog for version 01
+2021-10-20	d9e0853033152da46624a89bf0539759e7273f09	boesp_01
+2021-10-20	c553cca134324073dcf61bc908cc7899968482ff	Initialize boesp_utf8.txt
+2021-10-20	f8db83d4bfd69c8dec4f136e4cbfa7d248044f46	Reorganize step0 directory
+2021-10-18	9c65125099022e35148c424453f5fc4fdbded852	10/18/21(2) latest version of boesp.all_ansi.txt
+2021-10-18	7e903ac9ce9b99d63c6fe946641b8cb08e0b06bd	10/18/21 latest version of boesp.all_ansi.txt
+2021-10-05	48c3552b82672eddd61590b66fcdaa781d3074c8	10/5/21 latest version of boesp.all_ansi.txt
+2021-10-03	8c81bd0a63e3f435e095ec0f4fb8a6d932a7ede6	10/3/21 latest version of boesp.all_ansi.txt
+2021-09-29	ffa74d7292eb9b2ed1caa7b4502e13228402163d	9/29/21 latest version of boesp.all_ansi.txt
+2021-09-27	4b156515d92fc81fc13def3ea9305b5eb11b4919	9/26/21 latest version of boesp.all_ansi.txt and boesp_nachtr_ansi.txt
+2021-09-27	949866e11e1abd95663b0f3bd1ecf42d3630b2c8	9/27/21 corrected boesp.all_ansi.txt
+2021-09-26	ec3e4098dfb77e83545e7806aec9cd3bdfeef216	9/26/21 latest version of boesp.all_ansi.txt
+2021-09-26	c68cac8f80084ce5419023dfc92bb809dd852f12	9/26/21 new version of boesp.all_ansi.txt
+2021-09-19	9159696ad7b0e74be443b95a3492af372088ae02	9/19/2021 upload of boesp-all_ansi.txt
+2021-09-19	d80898c9fd8f0d80ef7446dddd0a7ee90c9cce86	9/19/2021 upload of all three boesp-1(2)(3)_ansi.txt with fixed linelength
+2021-09-17	3868349b4c5682d86096fdf9c2aea3e09a4e4ce3	Greek text in notes and Addenda.
+Ref #16
+Ref https://github.com/sanskrit-lexicon/GreekInSanskrit/issues/42
+2021-09-14	19582d6588f28fd3487f70fc1000fa700b87c049	Greek text for verses
+2021-09-11	9cccd36389cc5f21aa1bb8c9ab045dbae1a92a2c	revise step1 - preparing for sanskrit transcoding
+2021-09-09	6e4f9d6e5f003736c57bfbe7988046d12a113f08	9/9/2021 new version of boesp-1_ansi.txt with fixed linelength
+2021-09-03	b0ed39bf9b214598a116d970035e7fa967bfe38f	revisions to boesp-1_utf8 , text and xml. intermediate version, not based on latest boesp-1_ansi.txt
+2021-09-03	1301302863ecb15f42e26cef3a30b30dfe319c52	revise make_xml consistent with step1 version
+2021-09-03	59010f5bfd6db41c79b0939bf151b2cbc1872494	add work* files to gitignore.  Used in step1
+2021-09-03	dbcf5e3cee76a48440b1474d00478c1ed96b2a87	remove step0 files no longer used in step0.
+2021-09-03	575a4f7e1acf8655b505e504fafdccc202658874	step1 initial commit:  transcoded versions
+2021-09-03	eeac8a62ed4f19e1c9c09b7db60c3d2573f0f78f	Merge branch 'main' of https://github.com/funderburkjim/boesp-prep into main
+Retrieve Thomas corrections before pushing.
+2021-09-03	398d93e59f68ed75c9e14fb57be3cd88f8842030	convenience copy of 8d0f versions of boesp-1_ansi and utf8. #6
+2021-09-02	8d0fa64a51d72f9c043264dd25d460160066c60e	Recompute boesp-1_utf8.txt and boesp-1.xml based on changes to boesp-1_ansi.txt
+2021-09-02	621300c639c9901f5ff8698350fca12088c096cf	9/2/2012 updated boesp-1_ansi.txt
+2021-09-01	a87dd14eb0925267fc3c0e833313f8727a81be3c	9/1/2012 updated boesp-1_ansi.txt
+2021-09-01	a448aa03a4da110b2c3bed0f8e050d7cbb3b9608	construct first xml version of boesp-1:  boesp-1.xml
+2021-08-31	80979028c6afe933d38f6f51109fb78ee121a242	corrected version of boesp-1_ansi.txt
+2021-08-29	7d3a8383f2151942a8530cd264dfce41c1d6a75e	updated boesp-1_ansi.txt
+2021-08-28	15c2f0cdf9f1d9dbad99c8e84cc983e2b7e54976	boesp-1  utf8 and extended ascii
+2021-08-28	258b284187b70a759320d332033b7d0571818980	Initial commit

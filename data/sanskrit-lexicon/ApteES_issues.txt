@@ -1,0 +1,2 @@
+issue	date	state	#comm	title
+1	2024-09-06	open	9	Normalizing pada-gana 'spelling' in digitization

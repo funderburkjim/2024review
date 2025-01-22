@@ -1,0 +1,5 @@
+date	sha	title
+2024-04-01	7f51dc47a031014f1323a81000971e67e75bbc27	revision of burab_input.txt #5
+2024-03-30	913053992964ac0775fbaff6949c411ec0785ad4	Further revision of burab and bur.txt #5
+2024-03-29	4d4311e484812de8312d75333e1a7095af8c08e7	Work for #5
+2024-03-27	d0e31e00772e19cc63bc71b4c48ec06141241e3a	move issue3 to burissues/issue3

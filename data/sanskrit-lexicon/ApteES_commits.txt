@@ -1,0 +1,5 @@
+date	sha	title
+2024-05-28	b7f92b3a2fce384f7f30aad7bde3b8f2d792527c	temp_ae_15.txt:  subheadwords separated as '<e>2' entries.  #9
+2024-05-19	be0da5ae8f57220bfa6a237c585e1c4eb29015bc	Jim's work through version 12. #9
+2024-05-15	1b8c20bd42daba2730c682fa77ae22c06c41bc5e	First phase of cleanup. #9
+2024-05-12	e07ff7799f8729fd0b0ef993ace956ae51e9fa0d	first commit issue9. #9

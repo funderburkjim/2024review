@@ -1,0 +1,40 @@
+date	sha	title
+2018-08-06	03d9854976649c97de3bf2065a900b86631c4e66	Create config.json
+
+for testing with stackblitz angular http example
+2017-09-04	331fc9e1600d044ac8049c1701b0135e9e50757a	Helper with hash and data options.
+2017-09-04	1cd179bcdf5532ae4889c64f66c0d6f5d1498c17	helper that returns markup
+2017-09-04	7effbcb5c2899bc9c41405f48ece32217c51f2df	caps Handlebars helper
+2017-09-01	51eed189e2ed7d90be5977c01f23f45ae9bfaec6	Update index.html
+2017-09-01	462a40490565434df5fb70a456cf1f188df85500	Update index.html
+2017-09-01	17d20f6448a6d2f1830d7b874d530794e4e05fe1	Create index.html
+2017-09-01	100649b5c33156839ade2f11b9878a202b84e481	Update index.html
+2017-09-01	b4d69dae9273bac37d10fd8e276fe3fb0d401034	Create index.html
+2017-09-01	afca9f9963ea9c31967000abf2cdfe233f84dce7	Move the context script from head to end of body
+2017-09-01	4e0b52c3e70946a824f8e751729e8b2e6f59528f	Update index.html
+2017-09-01	7c2974fe1c25c526db8579ea5ae2b2ab5acf189c	Create index.html
+2017-08-31	e4a447efb221feb23b295d7a4638ad73f6be54f6	Update index.html
+2017-08-31	85e80903eff791d4274efce1b52bc7b21c4e2e58	Update index.html
+2017-08-31	12b755539afc67cb1f8e2a2d3281256c04bd3cb3	Update index.html
+2017-08-31	8365fb04068dbedef0fa84ef5e112ec363c1338a	Create sample.html.js
+
+Maybe if the script file name ends in '.js' the html script will load.
+2017-08-31	8cdd0cc0336ec30045db43ce4b55f59efde0d1a1	Update index.html
+2017-08-31	a382b6106532b8d3ce5651c25d91a9fe657d214a	Update index.html
+2017-08-31	0fd1ac9fdaf8578c06bc401300441f9ae4b19325	Update index.html
+2017-08-31	dacfb09ece0bf62ddede628dc3a42508bc5ee8f4	Update index.html
+2017-08-31	cd48adec9d375e1f1d7eda37a9ce1df085939728	Update index.html
+2017-08-30	5b0b369a0dc77a4674dcb700d5aa339135c932ee	Update quickstart.html
+2017-08-30	b3ac5b15eaf0c324057adf834c9a2a2e11fa66f1	Update quickstart.html
+2017-08-30	036144736b8f2b11e30d7ee846bdf785909633be	Create quickstart.html
+
+From Instant Handlebars.js
+2017-08-30	96326dfad8e837ad3ae9646b8e87df5cf60cb38e	Update index.html
+2017-08-30	5394af1ebc7c0b1af2a3deda491ba5043f7b2995	Update index.html
+2017-08-30	f93483a24defe76695f71aed9c06e6664a19a728	Use text()  for jQuery text content
+2017-08-30	d024ea10902cdbfca292623654c00d7df4f75c6c	log statement
+2017-08-30	1d1f3382d1a9feae51d7f5381f5ce576d04fa00c	correction
+2017-08-30	15d627c3d0869d5fe69ffb4dd80f5b323f680844	reference the sample html
+2017-08-30	7fe665fd1d820bc3b25c5568adf9013689185fbd	static html file to be retrieved as script
+2017-08-30	3fc1ebbcc99129abbdeed892f298a1675457fff3	Basic html5  starter, with jquery and handlebars
+2017-08-30	cdd0a84c1c603921de1a549d7e61dc74902d68e4	Initial commit

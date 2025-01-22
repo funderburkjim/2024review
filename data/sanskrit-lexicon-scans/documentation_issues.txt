@@ -1,0 +1,2 @@
+issue	date	state	#comm	title
+1	2021-10-04	closed	4	Licence text is 404

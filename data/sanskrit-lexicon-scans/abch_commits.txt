@@ -1,0 +1,6 @@
+date	sha	title
+2023-05-26	0bc3e5f005c66500ce4f6da7db5bc5e9df5543f8	frontmatter pdf:  the fxx.pdf files in pdfpages
+2023-05-26	b3759d5ed527cbbda2dd1e04e62ba71253ac66ca	'index' of pdfpages
+2023-05-26	614db4ed033890ab26fa1a3288a0f6261c00af12	upload of pdfpages
+2023-05-26	d6b33d1e394ebcd8f7f8556074cb39e73411b4a5	Update README.md
+2023-05-26	d51f8dff0ee2da2f0f265bd142947dfbb350a0bb	Initial commit

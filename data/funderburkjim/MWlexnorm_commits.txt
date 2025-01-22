@@ -1,0 +1,69 @@
+date	sha	title
+2018-09-30	34e51125583b1f5026d44e6ef1e44d2a88b73670	Mention step2 in main readme
+2018-09-23	91e96576d6674a07f2e579d97550150607c63cb4	derive lexnorm from revised mw.xml
+2018-09-22	17c996d294807e5e61c73c5e89cfa1146e8f177a	Begin step2 to derive lexnorm-all from revised mw.xml
+2017-07-15	ec333b4daa4dc90a39a612de2b88d449442aa61a	bring up to date
+2017-03-17	08d28d10557abf24258f908c9fbfb1e56374592b	Bring up to date with corrections to two headwords
+2017-01-26	d5de30531aaae609300c59a202fa794d1c49f22e	revise based on MW correction
+2017-01-06	4dc0bfa429aea799601c26e1bbcbe8ca95328d9c	Bring up to date
+2016-12-08	a50505f7ee9371faa62999c769afd82c6325749c	Revise to use latest MW data
+2016-09-17	2daaff7bf926a74d5b84937126827a697ae98343	Revised based on MW updates
+2016-08-23	f2687836735351a1bcf38eb617286a8b21a16377	revise after mwupdate
+2016-08-14	1aa38fd1cc83e5ba28142938379123d93f0f8536	update for MW corrections
+2016-07-28	fd9f5b04ea1a955aca1a500d73a1f8a800556ad6	update for corrections to MW
+2016-07-06	7bdc9c126e5f1b014ebe48e826e5877e96408cc7	recompute all
+2016-06-15	1b1b28f7bb6bb929730ffb15eae055e8533ca42a	recompute based on mw update
+2016-06-08	d5c6dabe658dbe787583c2e256436f0c85c9651e	update to reflect MW corrections
+2016-05-14	77e8aa36e457641d3e5b11f369abdc66ec68c586	bring up to date
+2016-05-05	ceb6cf97d88ca6e8dc80b0000eb9676d1d0c673a	recompute after mw update
+2016-05-05	cbd4f0020c4ec2212ef53eb846dcee75469735a3	recompute after mw update
+2016-04-15	4efd3cdce2efc2e38da7c3a526c7d7e1fcc02af6	bring up to date
+2016-03-17	a0548c63050a32b9c0dc15f163460be78f9a11c6	recompute after updates to MW
+2016-02-11	d4cd790d3f371710bdbba565230737d6532fc853	recompute after mw corrections
+2016-02-06	342705d3c172d794414e97af897554d0c943aed2	Recompute after changes to MW
+2016-01-30	05d95ef9bbf2b3e8387fb458c78b691fe749c8ab	Version of lexnorm that includes inherited gender information
+2016-01-22	75745d10e4763248931b23ccbd12607c9d38ddb3	Script to initialize mwxml directory; put ABOVE MWlexnorm
+2016-01-22	9894136f6132e373a010eac74949b0f1d18928d1	Recompute for mw changes
+2015-12-30	72e37ca95b2f44b9cc11a46530b58a294847b124	Recompute, based on MW update
+2015-12-08	6184b5143e520e0c7ccd2a095a529dc54fe49a5a	update dualplural.txt, and redo_all.sh
+2015-11-24	a51c7e00406e22dd3a4f75beace537fc49a5cd92	add record to DualPlural.txt, and recompute everything
+2015-10-01	60f0b8ca9bc742986c9b8105175f30b2d2b20663	minor revision
+2015-10-01	995a06b4676875342cf463562ee49b6c0e9a5e7a	major revision of readme.md
+2015-10-01	5a5f9fa30088430aead585fff1b98313b276bcc0	allow sandhi_n to also be run from command-line
+2015-10-01	daed51b86c1cf91fa6caa3c3be317e366b05c557	minor change in stem for 'in' feminines
+2015-10-01	5f64df539ac8978d249843a1394fc40ba69c4559	move readme.txt and readme.org to misc folder
+2015-10-01	edef4dca4e2f041bbcb3542f831633c71085f696	rename filter1b_el.py to stemmodel.py, etc.
+2015-10-01	776a0f379691b3405db3ac4057637a3aa2db7890	partial completion readme.md
+2015-09-30	a2154cafa0f99f1070072624fa9b3a1836c5f940	preliminary version
+2015-09-30	bcc9ad59b3e3163055a7e995ead70625412100e4	move secondary material to misc folder
+2015-09-30	0d8d04f1afd9b3558ce1dfd6f0f486d1871e524a	remove inadvertently included old versions
+2015-09-30	c8692d21412de61274b8318cd62384f443010a52	Revise to  also do step1b/redo.sh
+2015-09-30	7449b76b883c69ed0d23e1ad9cf09d2be219ae39	initialze step1b (application of step1a/lexnorm)
+2015-09-30	cc52313c87ecbb2b6278d60500212741402fab75	recompute lexnorm.txt and friends, using redo.sh
+2015-09-30	71b878f0534a86e4869f81fec5a82392afba6f37	minor revisions
+2015-09-30	ec503fccc8ab57093fec5ce9b0402413695e110a	minor revisions to lexmap
+2015-09-30	0e68dccfd1159e89e6e886e680e99ad4e9862a31	revise to include use of participles
+2015-09-30	03e97bde450b3265589082c63887046a2d8c1ea9	revised lexicalgrammar.xml, constructed with redo.sh
+2015-09-30	8d4dbc60508e5d6170477116954246c8317ea1d6	Revise to validate lexicalgrammar.xml. change location of mw.xml input
+2015-09-30	daba1fe6a410ad7e09d29def6936bb67c517c87f	Validate lexicalgrammar.xml against lexicalgrammar.dtd
+
+Uses lxml library, so requires Python 2.7
+2015-09-30	8d3b9ed8c075833fcb9cde1439cf4ed3f77c59bb	Revise to handle 'rootclass' for participles
+2015-09-30	0ae9c1b90e70256cc145a55a2498bf7f8adc678d	Revise to handle participle.txt data as additional input
+2015-09-30	385e8cbb2c588b2c419356e6aa91e55fece96cbc	Add participle.txt file
+
+for prap, fap headwords.
+2015-09-30	e3ee039491eab3a403a792ecbbcb2141726e92e2	Add 4 cases to DualPlural.txt
+2015-09-30	401127fcebdeb6c63b146a97563c0319aef0ac6a	Add gitignore file
+2014-10-28	10af98c69377491b4f4a9360db8976f010e68358	Update readme.txt
+2014-10-24	3f12a77afda974cfea45b41c98bb9e965dc99926	Merge branch 'master' of github.com:funderburkjim/MWlexnorm
+2014-10-24	965bd3c882007b19876911250aa9f9f9f7f26023	dummy change to readme.txt
+2014-10-24	d3664cd0eb872137b69e84a6f3626158ce662527	after git rm step1a/temp
+2014-10-24	16cda6665eb16a03cb5ba307dcd1ca3f742cbb8e	Bring up to date with mw.xml
+2014-10-10	c32c06924fe5ef6286e17631b01535a643e9862b	Merge branch 'master' of github.com:funderburkjim/MWlexnorm
+2014-10-10	7cb68be0d68b2c3998f2781e792f732d97e8a98a	Add back in ejf changes
+2014-10-10	3c252582259a422de8bb2d46aac6ab2c09ce8575	Merge Marcis file with my changes
+2014-10-10	3d86361ac96530fb215b6a93edae73a89ff78194	Correct lexmap at paliknI; provide simplified lexnorm1.txt
+2014-10-09	483f6c0064bf44fd97b36c030927aa9e4497f284	Correct L-num display error; show key2
+2014-10-09	db4e9a78a91b3d26f55de510c6f46542c4ae8905	Bring up to date with mw.xml
+2014-10-06	a1e83460432b75c2ede96b1a0e00842d44096994	initial commit

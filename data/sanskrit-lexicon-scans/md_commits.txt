@@ -1,0 +1,5 @@
+date	sha	title
+2023-01-07	5eaea9ee3dde8f1815274feab77257b487f9c7bf	Replace page 211 Ref https://github.com/sanskrit-lexicon-scans/md/issues/1
+2021-10-04	f8b1b294a61274016b1ede1f36131ed1ef3935c3	Delete LICENSE
+2019-11-01	03955dbb7472ec3034b6b6aa550520b4dafdeeaa	Add pdfpages
+2019-11-01	b1318233646019010a05347b806e6d29a0872f5c	first commit

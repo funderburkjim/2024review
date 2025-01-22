@@ -1,0 +1,11 @@
+issue	date	state	#comm	title
+10	2020-05-28	open	0	Possible Enhancement to ScharfSandhiWrapper
+9	2020-05-26	closed	0	Revise python testsuite programs
+8	2020-05-26	open	2	java/2020  problem with ScharfSandhiArg
+7	2020-05-25	open	0	pythonv4/previousVersions 
+6	2020-05-13	open	4	TestSandhiCOutv1
+5	2020-05-12	open	2	TestSandhiCOutv0
+4	2019-07-04	open	1	Pedagogical tools
+3	2019-07-04	open	1	Broken URL
+2	2015-09-06	open	0	Add simple_sandhioptions 'E2'
+1	2015-09-06	closed	1	pythonv4 -  slp1 changes

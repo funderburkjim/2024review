@@ -1,0 +1,19 @@
+issue	date	state	#comm	title
+433	2025-01-22	open	0	List of Derived Data from Cologne Dictionaries
+432	2024-09-01	closed	1	Replacing vcp_hwextra with Lbody
+431	2024-09-01	closed	1	Replacing skd_hwextra with Lbody
+430	2024-09-01	open	0	SHS metaline cleanup
+429	2024-09-01	closed	2	Replacing shs_hwextra with Lbody
+428	2024-09-01	closed	1	Replacing pwkvn_hwextra with Lbody
+427	2024-08-31	closed	1	Replacing pw_hwextra with Lbody
+426	2024-09-02	closed	20	Replacing lrv_hwextra with Lbody
+425	2024-08-28	closed	1	Replacing cae_hwextra with Lbody
+424	2024-08-28	closed	1	Replacing bur_hwextra with Lbody
+423	2024-08-28	closed	1	Replacing ap90_hwextra with Lbody
+422	2024-08-27	closed	1	Replacing acc_hwextra with Lbody
+421	2024-07-03	open	1	Revise Extended Ascii study
+420	2024-01-29	closed	3	fri_01 
+419	2024-02-07	open	9	With or without linebreaks
+418	2024-01-15	open	0	Show print changes in proper way
+417	2024-03-22	open	5	A good web frontend to Cologne and Mobile apps
+416	2024-02-27	closed	0	Update Dictionary Stats on Cologne Homepage

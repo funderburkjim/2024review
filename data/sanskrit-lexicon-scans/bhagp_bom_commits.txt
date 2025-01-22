@@ -1,0 +1,6 @@
+date	sha	title
+2025-01-10	8f9e143b1eef3d0202290df5549f42b53faee1eb	minor edit to app1/main.js
+2025-01-10	db7fdcfcfe95a0b24d7e9f2dd9384f1c6ccbc24f	app1 initial commit
+2024-12-30	bdaf56edeaac4c23f4726e5e6ac905054172a079	init docs
+2024-12-30	d47fd968523ef5261819bf167fbdcf5aa2a2b8e8	Initial commit of scanned pages
+2024-12-30	87ca94d5028d174d0299f237e292d0e18e6b942f	Initial commit

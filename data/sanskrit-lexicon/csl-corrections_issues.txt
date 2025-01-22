@@ -1,0 +1,6 @@
+issue	date	state	#comm	title
+90	2025-01-15	closed	4	bulk handling of part of backlog
+89	2024-05-20	closed	7	Some user corrections skipped entering the cdsl texts
+88	2024-05-30	closed	2	No updates (?) from users for last 4 months, surprising!!
+87	2024-01-25	open	2	How can we use the printchange files?
+86	2024-04-05	open	2	Correction submission to allow HW and L parameters

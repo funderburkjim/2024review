@@ -1,0 +1,60 @@
+date	sha	title
+2020-06-26	51ca52895ad5bb585fd1479f6fa7eeb7ab93985c	Update scharfsandhi.py
+2020-06-26	d79acccb0baf01755dc39d725817a595f6e25538	Update scharfsandhi.py
+
+Added tilde to sanskrit_str for nasalized l
+2020-05-28	f6ad8ad00986b478ab877b8a6794021f8e2ead06	Update readme.md
+2020-05-28	2075955fa39f8a22b078fbd7ee29ef845000475d	Update readme.md
+2020-05-28	f397ad9788af8e1a50f310016e372e98727c9d67	revise readme
+2020-05-28	0ef8b0d9f6a6459d319fe6f26c89513f6d543b82	possible enhancement to ScharfSandhiWrapper.  #10
+2020-05-27	565d3ef015a36d8e29465e28b4c924b335d4f5c3	revise readme-2020 for java
+2020-05-26	4b3ef5761ec6ca808b6042b5539248ae7c0c6dc1	Update readme-2020.md
+2020-05-26	7e61a58d6635918fdb603724b6932caf3c8922dc	Merge branch 'master' of https://github.com/funderburkjim/ScharfSandhi
+2020-05-26	315a573942cadc0c5a30d702174d98059848afa4	Restored ScharfSandhiArg main
+
+Restored ScharfSandhiArg main but with the new argument structure:
+1. E/C external versus compound sandhi
+2. Y/N despace or not
+3. The string to which to do sandhi
+2020-05-21	b5ade6929a915b3fcb48dfebcb7b61d8e2accf04	Revised scharfsandhi and ScharfSandhiArg
+
+Added a second option to despace (Y) or not (N) for use with external sandhi (E).  Removed simple_sandhioptions.  For compound sandhi (C), the second option is irrelevant and may also be blank ('' or "" from the command line), but not absent.  E.g. python ScharfSandhiArg.py E N "tasmAt hasati"
+2020-05-20	3ff9768986c9f72f7dfac5ebea0df6aad5000b99	Update scharfsandhi.py
+
+Added initialization of the Pragrhya boolean at line 1974 which had failed to be reset.  Fixes error that failed to do sandhi to the rest of the string after encountering a pragrhya word.
+2020-05-13	93b44f1c7aa8612974838e61b312e1243c12cb31	Remove pythonv5 directory.  The 3 python files are identical with those in pythonv4
+2020-05-13	26a76b264e8792a8bc233898f1ef7711ebdb853f	TestSandiCoutv1:  revise compound sandhi standard so passed by python4 version of ScharfSandhi.  #6
+2020-05-12	0fa02248a2e29a7bf3d3381354479f90435e4c60	use original testfiles/TestSandhiCOutv0.txt for testsuite.
+Ref #5
+2020-05-11	13353c041110da97510262b9fdde6ca9c2e24fe3	Change print statements for python3
+2020-05-11	99179141f43824fabb16026f24cf92f1a51c5c60	don't track any 'temp' file or directory
+2020-05-11	63cb404087caa2383d2747f398b9ffa1f299c043	revise .gitignore;  delete unneeded .DS_Store files
+2020-05-09	1b1dfc95303a2306b258638ed56c27aba62a15d1	python5 revisions to python4
+
+Added several subroutines to scharfsandhi.py (see the comments at the top prefixed with 'PMS:') and added parentheses to ScharfSandhiArg.py for compatibility with python 3.
+2020-05-08	0cfbe848582e58a1da6d488bb1dcb2ff6fbffe7e	Spacing revision
+
+Turned off Despace to have Romanization standard be the default.  Limited Despacing to when an Al follows to avoid inconsistent despacing before punctuation.
+2020-04-18	13e7f99749a61f08fd4c18df314b894e29278837	Preverb plus verb
+
+Revised the java sandhi program, ScharfSandhi.java to eliminate the space between preverbs and following verbs.
+2020-03-24	3a70a6df4a3d535bccb44844fffcb37af16dcfd3	Added compound to 2020 revision
+
+csandhi now does compound sandhi in ScharfSandhiArg.java
+2020-02-06	323265d7a017af2baa61f40f3824ecbf7630112f	Enhancements
+
+Revised Java programs put in the directory java/2020 and described in README.md and in sandhiRepairs.txt
+2020-02-02	af7d90ae6a447ddf31a20b2e369b7661253c31d9	Scharf added sandhi of several sutras
+
+8.3.28, 8.3.31, 8.4.40 modified, 8.4.63 vt. 964, 8.4.65.  See 2020/sandhiRepairs.txt.  The repairs fix nasalized l to have tilde following rather than preceding the l, and add rules to produce C instead of S in several contexts.
+2015-09-06	4a72126d301623306d6734b72a5445b7fbf41c47	python v4 and comparison to Bucknell
+
+Major reorganization of Python version, with the aim of making the code
+(pythonv4/scharfsandhi.py) easier to understand.  Retain functionality
+of original Python version, with a few minor exceptions.
+2015-08-08	54ca0731883cc0d636586d2d1a8b2cc14de723a9	initial refactoring of Python version. See pythonv4
+2015-07-23	593eb1877dad56a5f71b781394233263740aece2	correctly position comments misplaced by java2python
+2015-05-27	32556e10143b5ee980242b2fd80ac22eb3366fa2	Update readme
+2015-05-25	c01bf2696e96d5fa1d6f6e4f1a9eaa9db7448bc5	Revise readme
+2015-05-25	26e42dcd01ec3f94ba6f5057eb4df11227053772	Real initial commit
+2015-05-23	ddc47e35031d7f49869802d6811591b2f538ea04	Initial commit

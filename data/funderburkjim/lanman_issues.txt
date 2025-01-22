@@ -1,0 +1,8 @@
+issue	date	state	#comm	title
+7	2021-04-13	closed	6	extend Lanman dictionary refs to Reader
+6	2020-06-23	open	1	kaTAsaritsAgaraH  references
+5	2020-06-04	open	0	Sanskrit2003 webfont for Vedic Accents
+4	2020-06-03	open	1	Candrabindu coding
+3	2020-06-02	open	2	Devanagari accent with candrabindu
+2	2020-05-31	open	0	Devanagari vocalic 'r' with anudatta accent 
+1	2020-06-02	open	7	accent with anusvara question

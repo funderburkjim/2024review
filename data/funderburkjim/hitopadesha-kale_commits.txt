@@ -1,0 +1,73 @@
+date	sha	title
+2024-09-14	f5e326c20be13c89d4533958faa7293d191ba73d	normal update
+2024-08-23	a894c44de4134cc855ab16aa1210e3b02003529b	normal update
+2024-08-14	cd20c37e16a0fe0c81c44af3e52327191c4d7e72	normal update
+2024-08-06	ab6a12934ed66e2db9f7cfe7039c13850924cdce	Begin hitopadesha-slp1/deva-format/readme_typos.txt
+2024-08-06	0074be72c17cb7dcee1d506492c1f668b3028657	normal update of hitokale_10.xml.txt
+2024-07-08	2a4e197b94e5721de67c6d9d2cf886cbb2abd9f4	routine revisions
+2024-05-31	728535fc3f44185ba4756b02f204d4f73a8b679f	Through 057.34 of hitokale_10.xml.txt. Also, bhava
+2024-05-15	ed558cfdae840f2a64444188c1fcf1cc4bc568c8	Through 055.24 of hitokale_10.xml.txt
+2024-04-26	e7ec6c0d788a6169adc642ff3fb59e98ec6b8dbe	Through 054.08 of hitokale_10.xml.txt
+2024-04-20	86ed2420fae19bcaf29a4bc4746eaed339585b22	update thru 053.02
+2024-04-16	a15944832307c1a5bfaf9b1a436860739ff7075e	Through 052.27 in USHA class
+2024-04-06	273dc9717cd8364a332b663f84b32a1199c8fd34	update hitokale_10 files
+2024-02-24	b4a79aca34457c46cf0a3a13b1483f1699325395	minor update
+2024-02-23	c73edddf555d2afd3d415574a5469cf04d17adc5	work on deva-format. hitokale_10.xml and hitokale_10.dtd are results
+2024-02-17	21b3ce7af4f1c3da6d9d712f88c2a972ab16972c	05.txt remove marked Jim, Sampada
+2024-02-17	1b562dc51a0548c908deccb9d251546e8ce10d0a	04.txt:  remove empty lines and empty comment lines
+2024-02-17	65b0b458f6d474181914c9243d96cbb6382b8086	03.txt: P+ -> P for marma-prakASikA lines
+2024-02-17	c25b1d44ac8b073bc9bf96fbdfbdfb1a4271701f	02.txt Remove '2021' and '2022' lines
+2024-02-17	f658f418845b1e0c73eca36905d0a13f2ae557df	01.txt  move comments between F and A lines to after A
+2024-02-17	b7cbc979c688ff7fc834d5cf5f45072cc02e64fb	last update before begin samskrtam.info work
+2024-02-14	fba00be7822bb0710da282864724993219b3707f	Update misc.
+2023-11-28	6030a15e9cb203ae6621da96a368163d375b68eb	misc files
+2023-10-17	6141c95802afbeb4bf77c0898435e9c7147958a2	normal updates; begin ushaclass_mp4_filenames.txt
+2023-09-01	1ba0549a21328320b7610659a052f9530a4d1c73	update hitokale_deva_p.txt'
+2023-06-30	ef9fba14ed4cf89c49473bd5a8e98f95e44eb7cf	Remake hitopadesha-slp1/deva/hitokale_deva_p.txt.
+For last 3 months, a onedrive version has been used and modified.
+Now stopping this dependence on onedrive.  The file in this repository
+will be the one worked with.
+2023-03-16	2e69bbd13b87399e4fb6876f20a91518b2ca18b7	add round-trip transcoding code (toslp1, fromslp1).
+Apply with 'deva' and 'roman'. #1
+2023-03-06	58dd22a121ce6fc51b527c0524a2c5cd240edc82	deva/hitokale_iast_p.txt.
+2023-02-06	1ff62fdfabe71c869e58652c2b028e70ff0b7771	Misc. edits
+2022-09-29	5c4a65bc6bb5f3417dfc5439236ecff81684e502	edit through part of p. 38
+2022-07-19	c6c4f0ba597b01e50cad8b14a5b8a84b291bff07	Push revisions
+2022-05-20	a75d0beccc7b97c34975103b19c30cedbca7ede3	Correction line 3 page 2
+2022-05-14	dcac20b5217c1009d05001208856dfa19a5ef076	Add hitokale_deva_F.txt  for Usha
+2022-02-28	5a44ff94977949ea8cf9ee1bf9c0651fb6452974	Continue editing and inserting English
+2022-01-29	00956303f3670ea338db2e3e01cb17b1bc3b66fb	update hitokale_slp1_p.txt
+2021-12-23	6fd010f815a2dca1272125cbfd8cfd600cb14105	continue editing of english
+2021-12-12	860becdbccc87adf78410da6eeed2ada33e86e41	Add english text thru 065.20
+2021-08-22	7168a952c0918bad19afe98fcbd389056bba39cd	Previous English translation insertion
+2021-08-01	46caf9573aef5b68acba62cc7464f5ab87c051c5	continue with  E: markup in hitopadesha
+2021-07-19	50813e2c1f37d7b860890bc84e8133ae7438cfea	English through page 51.
+2021-01-10	97bf8b428132cc584b275dbf24508d5ea1dba424	test change - space added after 'file synopsis'
+2020-12-21	92cd56b477ee1caf7c80afc48f0ce49505cf97d8	Prepare Devanagari versions
+hitopadesha-deva.txt and hitokale_deva_p.txt
+Ref: #2
+2020-12-21	8bd56cba4339594766918d2df6a7d5404d31d429	Corrections while parsing to generate Devanagari.
+2020-11-28	0da913278dc30ee3af50f839027eec21ab2f4997	revisions
+2020-02-21	aac6827d285b19921fe5c59b70f6908c9c08d583	Marma-prakASikA notes from Sampada, 76-80, 91-105.  This finishes installation of all these notes into hito
+hitopadesha-slp1
+2020-02-08	db718695472918031402580904164e440a29e768	marma-prakASikA from Sampada for pages 71-75, 81-90
+2020-02-08	4a12433ddd57606a3380ca57ca8ce3ef98da26be	review page 11
+2020-01-26	51d53f28184458eef35c76a38ec58f447c555c86	Pages 9, 10
+2020-01-20	3d0de3f8f50f2fdc01eb667863134e0fb80da690	marma-prakASikA for pages 46-50
+2020-01-14	f8579ed0372e86ffd9e589ecd5245a5b6f161c50	Page 9
+2020-01-13	d2b4687c25e19a6f1bd57d3822ebcbf0146ee3f8	Edit through page 8
+2020-01-06	d25df0322f5842b63d5ad1f8edf54cd3c0eae2ec	Update hitokale_slp1_p.txt
+2019-12-29	7bb53f19e113927fa110a4fa83b46fbf5c591453	received sampada_mp for 051-070; merged into hitokale_slp1_p.txt
+2019-12-15	3c642f8b2b06f9da68360bbfde473dc2d67bb2cb	English translations merged into hitokale_slp1_p.txt for pages 001-045.
+2019-12-14	b3aad58812191ca2eeac2dbaf12ffc42b3d5a6a0	Merged all marma-prakaSika notes through page 45 into hitokale_slp1_p.txt
+2019-12-14	6737a21cc0d3ef2f98ddf3d31d2fa29ceff54226	Marma prakaSika notes from Sampada, pages 36-45
+2019-11-04	2d55ab3c0a7afbc1e1f0212496b848ed08d956fa	merge mp page 003
+2019-11-04	c0246d8270711660fce5c5b1b99394731c8ca08a	mp_merge inserts marma prakASika lines (from sam-hito-p) into hitopadesha-slp1-p.txt
+2019-11-04	1d9a0f24116a1d1e414929546e4a709b37861b68	Fix two non-unicode characters
+2019-11-04	ae2a449b348cc96540ec488c32fc451c1ca5dcba	revise README
+2019-11-04	6a4e86a9b4db83cdf3985aa44b1abb20dbaf7d8e	mp sections added pages 1-2; English sections added 1-4. All additions manual
+2019-11-04	e9da03872f0f7a1982d949544d01409d1e7942d0	Marma-prakASika from Sampada, pages 1-35
+2019-11-02	b7bcbc0a06bdec5c62adcd01aaa44d211fa39545	Change left and write double quotes to simple double-quote
+2019-10-22	0a7d64807234625865dbfc785d9498384690ffdc	add P (from Sampada) through page2; add E through 001.11-12E
+2019-07-26	cc1cb20f148920127686f2b2d7e692bed0650f8c	inor change to hitonotes/readme.txt
+2019-07-25	77576bca208fae16eadc0a869424530969798693	Initial commit. Taken from funderburkjim/testing repository, and Onedrive

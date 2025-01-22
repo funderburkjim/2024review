@@ -1,0 +1,21 @@
+date	sha	title
+2022-03-26	1548804b2dda6806606830762a34788f0a8ccb0c	Replacements for 23 pages of volume 4. Ref: https://github.com/sanskrit-lexicon/PWG/issues/53
+2022-03-18	78fa8f3e9c766b12e32dca20cba9ef931039fad4	Replacement for pages 008 019 045 152 215 218 220 221 223 224 258 351. Ref: https://github.com/sanskrit-lexicon/PWG/issues/53
+2022-03-18	609a28669e3d8f4648a153c7af0105f3dca03ead	Correct page numbering for Volume 3. LB Also, correct index (ksverse.js) for pages 3.005 and 3.006. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/53
+2022-03-16	4235fb9a35533c77cefda3855a0dce8ed292b493	Remove duplicate p. 44 in ksverse.js LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/53
+2022-03-11	60ae42311a38116f1e652dad805a20f2cd581914	pagechk prepared for identifying pdfs which need to LB be replaced
+2022-03-10	43c0b74e0eb2b7e0dea50239e3c53d2215da3c0c	upload pdfpages/rgorr_uk.4[3-9]*.pdf  -- this finishes LB uttarakanda pdf uploads
+2022-03-10	f1955c604873760b348961d94a2fec7112e4d87d	upload pdfpages/rgorr_uk.4[0-2]*.pdf
+2022-03-10	b40b9fc915ea12e326b663f8e04b0a9175639286	upload  pdfpages/rgorr_uk.3[5-9]*.pdf
+2022-03-10	1f35d84db820fcdae40b43e28294e0c6f3abb233	upload pdfpages/rgorr_uk.3[0-4]*.pdf
+2022-03-10	98aed90618e79517cc215eabf5769498b4149835	pdfpages/rgorr_uk.2*.pdf
+2022-03-10	46bd8b6a0684db46633bd56a2f39bf49a7651828	pdfpages/rgorr_uk.1*.pdf
+2022-03-10	9dafad5e9c8c0631e8caa6258ed5a23a34d871fc	pdfpages/rgorr_uk.0*.pdf
+2022-03-10	9a2a35d003e7748287eb414e3f952d7a7657cded	File names for uttarakanda are 'rgorr_uk.N.pdf'. LB But 'uk' is changed to '6'  (i.e. as if 6th volume) in ksverse and main.js.
+2022-03-09	1c70360e3cdaba2ee949db43415ffd9af8acf79b	pdfpages for volume 2 of Gorresio
+2022-03-09	d5fd79555484d231051d7780a94d9cecbc2cb014	Gorresio volume 4 pdfpages
+2022-03-08	de979a9def617e0112ffaa638b85830c4dbe7257	pdfpages for volume 5 of Gorresio
+2022-03-08	6ce454816c3325939e4008fc41311ff97b5fb8f6	Amend pdfpages:  vol 3.419-3.467
+2022-03-08	71a7447ae8732dec3666305060689e8c387f12d0	pdfpages for Volume 3
+2022-03-08	a603ab1eb0c40f8f1dcff4c7da5c43a49a020884	Volume 1 images. LB Initial version of display index.html
+2022-03-05	f1c7915f1542e494199c45c753e4efecb2fc784b	Initial commit

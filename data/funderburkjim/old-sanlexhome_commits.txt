@@ -1,0 +1,6 @@
+date	sha	title
+2019-07-14	b0a895830a16bdb7bc5b6578f5c1d814ffd9324a	Update readme.md
+2019-01-17	39824ee261fc000bfd85a8df424c82b201046a97	not sure what done here
+2018-08-30	1e2e3cdfff5e74e59a8ccd4474d963f875a65b24	Changes. See https://github.com/sanskrit-lexicon/Cologne/issues/232
+2018-08-08	58b48fdb7833d05e79fd60c8da065eb8895f8b8f	Create readme.md
+2018-08-08	4fe451a1680a836087c14f7155d007a24dd08a6d	initial commit from Cologne /scans/awork/homepage

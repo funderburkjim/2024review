@@ -1,0 +1,2 @@
+issue	date	state	#comm	title
+143	2025-01-22	open	23	Abbrv lists for all dictionaries

@@ -1,0 +1,10 @@
+date	sha	title
+2016-08-25	0dcba2d8daaf377a193f322b451b91769b8c4cca	version v08 of bookI
+2016-08-22	b4c4295e00621383e175a73c9a6b6a6c73b909f1	Change [h,x,b]=...  as Edge Browser doesn't like.
+2016-08-22	27961d65e633e3284781055598f9f755671112b5	use https to load google font
+2016-08-22	39fd1620650e942e2abf924adfea7e4b7e4c1537	add javascript for jquery and p5
+2016-08-22	13bf46b9a5968fc9b026a3f8426819b3a23373cf	modify index.html with link to euclid-dev/v07/elements.html
+2016-08-22	d921b7f45df2b4d1804592632f4a044d0505cc9b	euclid-dev, v07 first commit
+2016-08-22	8d8fce2213248674f46a2a284b95130ff1f81a8e	test version of index.html
+2016-08-22	b5e2f0e315bd735a53f66156ad82dbd3e2261a96	Update .gitignore
+2016-08-22	96942280f7aa6e71fc5b24c6f2896b7f7bf02a6e	Initial commit

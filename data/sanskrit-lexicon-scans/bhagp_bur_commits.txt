@@ -1,0 +1,7 @@
+date	sha	title
+2025-01-10	5425bcf78ade3da6e929626c77b3bf3ed7c644e4	Revision to app1.  #2
+2024-12-06	38496a6f4fa9959a68e8178cc9cfbad46e077224	typo in python/Burnouf.BhP.index.txt. #1
+2024-11-25	e72b732d9ba9d6c6f3822822545d1f09aedadf95	app1 urls
+2024-11-25	e8e5a3c77ac517cb198955162bce4980c293f9eb	Initial version app1
+2024-11-25	e6a1bf313f00af980859e1411a5f56407427d4cc	initialize pdfpages
+2024-11-25	2531a2b999ee544b2f2f8c8e695bb03a4b873658	Initial commit

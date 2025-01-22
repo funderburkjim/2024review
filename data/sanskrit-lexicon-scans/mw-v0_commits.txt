@@ -1,0 +1,5 @@
+date	sha	title
+2021-10-04	8d4323ea4cafc05edd390296f0eb0b64ebcc810d	Delete LICENSE
+2019-11-01	3b6e9d635ccc3fd643124e504f177e3edcc8fa39	Change directory name MWScanpdf to pdfpages
+2019-11-01	7e45ce14e7765cc78e468794ffeec99427e967e2	Add pdfpages
+2019-11-01	89e0b474aff2cd4212ee9d8173e455a2d155ecd6	first commit

@@ -1,0 +1,64 @@
+date	sha	title
+2023-03-03	cca21437aa312f032d6d540b2d7c820777b9b420	work with compounds. #15
+2020-12-03	e887f3a62c6af1299f3605d3540b8b7f56ebd974	minor revision of readme.txt
+2020-12-03	5204bb8d8b64ee8525f8db5069838fd5212c7d67	Make html displays.  Show Sanskrit words in IAST
+2020-12-02	eaccdf8f992fe78d867d9c73e0e8d4b52e065596	compounds directory initial commit
+2020-12-02	7ca531f618be7879ce03d83b17b8ded56710c073	A few corrections, done in 2017, that need to be pushed
+to Github
+2017-07-15	4e70bbd7e2d88284ccf853c5248dba5fdf65e4a7	bring up to date with headword changes
+2017-03-17	e5ea747ebf408782d6058b2ef5b44f29e9b2c344	Bring up to date with two headword corrections
+2017-01-26	d8b0b94d6cc5e47c84628ee509cef9ce92fc1145	revise after headword updates
+2017-01-06	f764b30c6cc6942b1431e8a82145cac82f8a27d6	Recompute after MW update
+2016-12-08	65f5f610f58a66cbccc75a73c7e8af78973faba2	revise based on latest MW data
+2016-08-23	7a76f64ef4810cc73f7ed6ec09ac2838d16d0ab9	revise based on MW update
+2016-08-14	d5e9e3e56cd86822db21f2e67e1ef54b4aa18ebb	update after MW corrections
+2016-08-09	f7dae4ee3644137459bdbaa402e52a8750a1d2ff	add ikA sfx to wsfx. TODO=5714
+2016-08-09	1b95c675edd49ad776a55e67d049d6ce823f61db	Add ika sfx to wsfx.txt. TODO=5837
+2016-08-09	e977861c55f8ba24abd4edcfad2f2e5ac3075f92	refactor analyze_rec_fauxcpd, TODO=5959
+2016-08-09	aaedd09a2c00aab60b5945de03ceaf46d2962213	2 additions to corrections_key2, TODO=5990
+2016-08-09	e68910d07b439d9e7e9280dc93c7f5e53af50571	add additional forms; todo now = 5992
+2016-08-09	726d245614fc6ef9fa2d77f0fa759ed09369cbf3	Add 'in'; change handling of 'in', 'Iya' in wsfx1
+2016-08-09	74d0109aefb065a67774d1e18553cbb8ed3a64d4	Revert "add derivations using suffix 'in', see issue#10"
+
+This reverts commit bc6e596bb90a5ec8bd4852f853bc4d35b142717e.
+2016-08-08	bc6e596bb90a5ec8bd4852f853bc4d35b142717e	add derivations using suffix 'in', see issue#10
+2016-08-08	634ff02c24f4a16b8e56b26bb786a38a1022843d	Improve Iya suffix derivations (issue#10)
+2016-08-08	10aece425c92212cf1e8c23743f5dc205d30bd7c	add participle stems to resolve derivations, issue#9
+2016-08-01	d5985643bbd40e120a508758e121f6a1c94e7c5e	add apekzA to additional_forms_special
+2016-07-29	dd95cdfe141b7c597f933d5cac70416d5e5536a3	Added AKya as adjective form of AKyA. See #8
+2016-07-28	2deb742ce15b47ca08b904ce34252a285d0c8b7d	change analysis2 as described in #7
+2016-07-28	17f49c88336f46543bb84d47dc4a883ad547a9a6	update based on MW corrections
+2016-07-26	7c4483679ba3bdc0b26cfbb02428be2332dd221f	Further enhance analyze_rec_cC
+2016-07-26	581a4fad0331b0fbbf30efe8d62aa66f261d8c84	modify analyze_rec_cC to include ~ as well as -
+2016-07-25	4129f0a4bb01387d3005fd2ecf529862571fbd8e	revise additional_forms and known_prefixes in analysis2.py
+2016-07-25	7d3a12d6d2db003a2947bd846cd79ad411e798d1	Add  sam/saM variants to hwcpd_init
+2016-07-25	0122c463a31cd2f7584d1fa00f5542ffba016b8e	add some augmentations to hwcpd_dict. see #6
+2016-07-24	cf266f385a7377a66650b3dca620182b257bd4b5	cpd1 method uses extended notion of parent. Issue #5
+2016-07-24	f102ff215762f8ee0f8b091f535bd8e8d3db2e7f	gitignore now ignores files named 'prev_*'
+2016-07-24	d084fb743d318a5d6ae93e5c8332862dcb0c7b17	pfx1. Ref issue#4.
+2016-07-23	ff897d915da46bd8c63fe19ab20fb83f5fce811e	Add srs3 method to analysis2
+2016-07-23	1690244a0679bcc38f6be0fb8acc26679d15928f	step4/notes.org - manual analysis
+2016-07-09	c8a2e7bba2a5369a440e7df6c9c9642cc39a0ee1	small revision of step4/analysis2
+2016-07-06	eb2d93e310f948a0e0bb2a8a36d72490d099db04	recompute all
+2016-06-15	8608504896402b6e9641ff9d384ed79ac413af8c	print summaries to step4 to redo_log.txt
+2016-06-15	0126ba032dbb3aaedca38ae44d73452e1319e92f	recompute step3 and step4 based on mw update
+2016-06-08	f9dcde1ea2384e3b4a332e4b366643f99e1aa320	update based on revisions to MW
+2016-05-20	5167a2d3b50c8a96bb038006064aa3d1f0d95886	revise step3/icf_prep1.txt and update.
+2016-05-14	ba22f76a7db46aeef5e7a6d0758f9a22ed27cd2a	Bring up to date
+2016-05-05	30272ca5977aa7b44166bf87f455f76e7171cca8	recompute after update to MW
+2016-04-15	567260245bcbf153f6073560e7f6d01fab9a4475	bring up to date
+2016-03-17	0ae9cf9000b3aea12caeea7804504edc2dff38da	recompute step3 after MW update
+2016-02-11	9dd22564cec043da32af2d92f6a81707fad0eab4	recompute after MW update
+2016-02-10	a2ee12dff2c759332b4a38436d15451282447ae7	step3
+2016-02-10	e933ed6694b9316283854201a7384f93975ed0a7	step3
+2016-02-10	7231cd166b54eaa8a939de31888cd96fd1b656bb	unknown
+2016-02-06	e75bbcd043af1ab9f13942ee3ef0a3d6198f8b7d	Recompute after MW updates
+2016-01-23	31e8665dabfa52b19f56bbfaac0eed05db079524	recompute after mw.xml update
+2015-12-30	cc791149dcf6f4458d2f231286f71da0319eb250	recompute based on mw update
+2015-12-29	78364b48d11bcc33d32714ceefa5e995ce5318af	minor edit
+2015-12-29	368324451e0cc5979eec5f2850c42bc6d1440eb9	readme.org to readme.md
+2015-12-29	48ec7ca91609ae96fe00707d05050c638f3329da	Initial commit of step2
+2015-12-28	1ec5db446b3871043192a79c1e4bf3cad9453fa5	Update README.md
+
+Initial project overview/
+2015-12-28	4f7d79278bb4ee61577a787674f96ab826ebc098	Initial commit

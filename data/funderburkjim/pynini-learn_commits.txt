@@ -1,0 +1,4 @@
+date	sha	title
+2018-09-26	8209dbd6522647e5e4ce51261aff34f60fd31807	levenshtein automaton applied to 194 words from Burnouf
+2018-08-31	89217fbcf478f5eb5553a251e37f5167e4a53681	Reference to related sanskrit-lexicon issue
+2018-08-17	1782a2b886e42ece7ca11c1e5824836b63a432cd	initial commit

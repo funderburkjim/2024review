@@ -1,0 +1,51 @@
+date	sha	title
+2021-05-05	bbabc2f91b72ce5df9c2880796009b70ff311bd6	1. read/index.html use Cologne list-0.2.php; the localhost
+version does not work.
+2. Revise css for notes/index.html with 'abbr' class.
+2020-12-12	96100477009b5185fe34d893d26ede6629e1a346	mv xrefs to xrefs_unused.  This seems to be a preliminary
+part of the work.  Before the change, 'grep -r xrefs .'  showed no
+code elsewhere that used xrefs.
+Later, I'll probably delete the code entirely.
+2020-12-12	dab699f5a813e69f0a2f400bd4bf92d1b164502d	Rename the 'meta' folder to 'dict', since it is the
+preliminary work on getting the lan.txt digitization of the dictionary.
+This is preliminary to 'csl-orig/v02/lan/lan.txt'.
+2020-12-12	447b1771f476b60a380834e238100200aa5b3fdb	Begin web app 'reader/index2.html', that has a navagation
+panel linking to the 75+ sections of the reader.
+2020-12-07	11b7d2834cf6e298392ed3a32ccfd749bac3181c	markup of notes, and display notes/index.html
+2020-12-05	9830ec7f443336c2a8b53569be11603f7cd4febd	Add links to Lanman scanned images
+2020-12-05	22235b15f755add071060e2fa1c07b6e141d460a	revisions to reader
+2020-12-05	8f1b0da976f260362b1bdbb805f47100ef39fd27	revisisons to notes
+2020-11-30	dc7f9b270a45ed58960f87b2b0e535a116f62b46	initialize lanman reader, and generate first display
+2020-11-30	3bdb420520823f89201c201e692be20c6aa2b380	markup lanman notes
+2020-11-30	b8abfe33eb01918acc057cf4ee2f9a5814e07cd2	Generate lanlinks from dictionary (meta/lanlinks.txt)
+2020-11-22	a6f87a46199a6815b7acbb2012c0868e862d3f1d	Finish work here on lanwithmeta3 - This is the
+copied to be the initial version of csl-orig/v02/lan/lan.txt
+2020-11-17	0acfb87487db4e10f960c440c20ffe141d7e35cc	preparation of vocabulary as a Cologne dictionary.
+First phase.  Through meta/lanwithmeta2.txt.
+This file then becomes csl-orig/v02/lan/lan.txt.
+2020-11-14	5b1561b8b21753a695e03c8296cfc01abe9b8b29	transcode accented long diphthongs as 'a' + i-accent  or
+'a' + u-accent
+2020-11-13	28106f934d839c0c9232c455abbe273337c34668	correct error in refs/redo.sh, then rerun
+2020-11-13	37e06053c7e8e1b5e805c700c1c19eec90ab856a	lsr2_refs:  Close bold and italic on each line
+2020-11-13	283ec7b7d8c1394c8d4dd3a3ffc444a9c29e613e	regenerate orig
+2020-11-13	2fe03cb6f669bc29446f33c621a38e0ef1bd4746	Add corrections re nasals to as_romanuni2.xml, and apply
+to lsr1_refs, etc.
+2020-11-12	a21c774dc74efcbbcdf7eee4c32ef1e2f6801b95	1)  change as_romanuni2.xml to transcode diphthongs.
+2) Separate lsr1_refs.txt into abbreviations, explanations, notes, vocabulary
+2020-10-19	f616da61fe4b92641cad00854559ba88ad81f87f	Begin xrefs.  reader1.txt has pppll  page-line numbers
+2020-10-18	766749e2253a61a274a11e22a4d114ae65ca27f3	orig/refs directory
+2020-10-18	ff5c8845e4e7e3bdd779ca5d74b69cccbe62cb24	Reorganize orig, doing the work for reader.txt in reader subdirectory
+2020-10-16	6a19547f66b1315e93519592f51230b647ccedf5	Lanman texts in slp1 and devanagari
+2020-06-04	8e814396c3d5c28870336ca9057bd0386ef5bddb	lsr2_deva.html.  #5
+2020-06-03	bba9dc8dc264cf1ba42cf278d9c626f342d83c1c	coding altered pragmatically for accent+candrabindu.
+See #4
+2020-06-03	66289a5dca9a2b2c1a8f0a76704820493f8b0d94	changes so accent + anusvara . #1
+2020-06-03	f7db31aea0657a364aa48875d1a23c99df97fcba	Coding of candrabindu. #4
+2020-04-10	6d28b704ebd006b03cc3591a190f64e06e1fe872	revise main readme
+2020-04-10	3e11f1f781e12d1e7811f61b072dbd414070b1d7	lsr2:  slp1 transcoding of orig0/lsr_works.
+2020-04-10	6a6df474e7a6bd25b750a3a05e9c101e452b44c9	readme.txt for orig0
+2020-04-10	e17bd714f510659ea52998629625dcf25fac378d	Update readme.md
+2020-04-10	f88f7fe1d64e5f11b76aefe387ec3b9196f6a12d	readme for pdfs
+2020-04-10	cf35867ad1dd508fdd764f1af8496b7e1985f30b	orig0/preliminary preparation
+2020-04-10	34ab13e920dc2d4c0e67b08bd027c78114af60af	Initial commit of pdfs
+2020-04-10	22cf44b150b6c6f9a93bc388adfcab7860eef987	Initial commit

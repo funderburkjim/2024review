@@ -1,0 +1,2 @@
+issue	date	state	#comm	title
+1	2021-04-23	open	0	Can't call attr transducer

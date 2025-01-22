@@ -1,0 +1,2 @@
+issue	date	state	#comm	title
+13	2024-01-05	open	7	PWG Greek section headings v. Greek text

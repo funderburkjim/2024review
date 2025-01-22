@@ -1,0 +1,89 @@
+date	sha	title
+2024-09-24	df199d669640cee768194fd4edf753fc439b3e30	test_legsym -- related to quadratic reciprocity
+2024-07-07	b5322a3ce811420c3421c2c1ac2772834d1b3c12	edit number theory. qr_rec
+2023-10-26	f3d19f751635106b998ce48812d6430deb80a6a3	numtheory update
+2023-09-03	11829457e5b2a9704e99e3b7b56462cc1b0bb388	updates to numtheory
+2023-03-27	047fd5a894b41f10b4205f58a1ce87b777c98af2	readme update
+2023-01-02	53f743c3e3feddb5fd2d238ec0401ca50aa81393	upload Speijer Sanskrit Syntax
+2023-01-02	2dbe487ce4f46cdd6ff75a6f282a85a9e78f658a	N elements refined
+2023-01-02	2d1e4ef607d9e5776484343924d93057791c4636	xsswork added to make sanlex site more secure
+2022-09-06	d8aaa93f8110b87d1e3f51291d9afb6084e960ec	edit readme.org
+2022-08-08	ccbc2015b5387521a83452a1935c9560c105633c	update numtheory notes
+2022-05-16	bfe0787670bad4b6f970895a60ad1b5a6b718014	finite group element order
+2022-05-14	85d83b349b80c2a252cc009981a0e8a25c2a6d9a	numtheory2022 initial commit
+2021-03-03	0b4d59ab50526753515c45559d2aaa7e8fbd5d96	Create emacs init.el windows10.txt
+2021-02-26	2ad0719efff8748fb52517a8c726fa19ec74e857	org file copied to txt file
+2021-02-26	663de05b8f3a6943642630ce3d438e12a647cc96	a complex org file -- how does it look on Github?
+2021-01-03	ffe1f66ddd4092adbbbe41a4520200f2a2f0d469	test tab-delimited file with .tsv file type
+2020-07-06	1677748287fdb92a26b1e998f1c853369c1464d3	Create testmdtable.md
+2019-09-13	84d734407b3a1f42eaaf094a12c904ee43a733ce	add copy of Cologne dokuwiki pages into text file for further uuse later
+2019-07-26	3e2ba992e43018d1c16527df09cdf63a17906fd4	previous hitopadesha work now in 'old-' directories
+2019-07-24	d69befd0df82f89be28db21bde791681ab850ebb	Merge branch 'master' of github.com:funderburkjim/testing
+2019-07-24	86f7f5c1825d290b661a9ae697e1594800feb5e9	Sampada corrected ocr of 'Notes' chapter in Kale's Hitopadesha
+2019-07-24	81383f0c5b91bb0c440b9ae8ebc4ff75a9ca6870	Merge Sampada sandhi analysis. Latest sandhi analysis.
+2019-07-24	38563141a28ddd439eb0ecc27374796be101d029	Sampada sandhi analysis pages 50-105
+2019-07-24	02fb56f14bff6b95e6469749a2f04034f5469877	hitopadesha sandhi - before Sampada work, I think
+2019-07-24	2c4dff770e7c2d37f92322a83c0e4bce678db437	revised hitoeng
+2019-02-11	99c7f2c43d3add6ef6d13a1df7ea468080a4a495	Through 46.01. Before merger with Sampada sandhi work
+2018-12-29	0409abe4dc3e71e4b9913ea326b79a7a31d2c07d	Sandhi analysis pages 104-5
+2018-12-26	f439ac2b271eaf2464b6005f7876356d8049b34d	First version of hitokale_slp_v1 -- Kale line numbering
+2018-12-25	0894041456e56d7ae3017d8f1c70bbeb6a11b0c9	first version of hitopadesha aiming to correspond to Kale text
+2018-12-02	add67ec6c43254a31a16381c63e4937e695be6e0	Begin hitokale-slp1.txt
+2018-12-02	96d962556b455d9e8ce9f3ac3c5e686e9a78dded	rereading hitopadesha-slp1 ~ 0980
+2018-11-26	1834baa8cf121124ef07c9a8182137854373fe66	review of 0250-0599
+2018-11-19	1421e282f75b997e248b8d4c5243df4f147ddeb3	work on lines 1350-1550
+2018-11-12	90387088121cb2ac65474a567e9c60b66517e35f	lines 1150-1350 work
+2018-11-05	86e38942dba9712d5ea8ab58d509ac3904fbc1f7	work on lines 1011-1149 (hitoeng)
+2018-11-05	140c379055a99810926399e2048654fbae0fecde	work on lines 1011-1149
+2018-10-28	9831794e9851e386c8a88f14969fd3cd74a978c8	work on lines 750-1010
+2018-10-28	0e9f280cac522abb19f320af1a33354618971b3d	Before Sampada work begins on sandhi analysis
+2018-10-22	535e24435a9631131733aaa5d43478eb2e97a2c3	work on lines 550-749
+2018-10-17	446a30528661db11ee17de2e60f61d8bcbd58a9f	Remaining hitoenglish Pages proofread by Sampada
+2018-10-08	acd3e058391ae626ef82a70e190e5c3b5050c9ea	lines 500-549
+2018-10-07	4c8b3de7c73ef1e28fb2a675d7d60c369414b44b	lines 450 499
+2018-10-07	c988818625b0d417c109bcd4b3b336bef0a3d23b	work on lines 400-449 of hitopadesha
+2018-10-07	9d176b68137f0c1b460afd32d100c72d32133e72	words for lines 350-399 of hitopadesha-slp1
+2018-10-06	33eaa2d395d0454bf180ad845b1b98f8bfd95e47	lines 300-349 of hitopadesha-slp1. Sandhi on lines 350-399
+2018-10-02	d64d219eae697e0ebe02d59f0759dbd603413104	Editing lines 250-299
+2018-10-02	168b2a43dea48935bcfb5115fa50b4cbd91b818e	_ to -- in representing an 'em-dash'
+2018-10-02	b6c50a5045b559dddcd474a261eec83a71b185b8	Sampada corrections
+2018-10-02	864934426de17e278154977d6aec899b6c7913bd	minor changes
+2018-09-30	a352827d3103cc81a0be082ba772bb80db8c0963	changes re lines 200-249
+2018-09-29	10219cf7bce7288b8f6646534104d875d005ab86	A few more rules to get citation forms from analyzed words
+2018-09-29	f281985f88a4329e98de43a5f81b6ede644983d2	various improvements
+2018-09-28	6f09130e97b6d9fdb690e50531585100d189ed25	more rules for getting citation forms
+2018-09-28	1118641482b10206b51b0ac054d7d61b7ca64064	Merge branch 'master' of github.com:funderburkjim/testing
+2018-09-28	6e54e948212b06cbf3463f3fdaa80ce9d583f5eb	Sampada changes
+2018-09-28	7a6ace5d5c89e70eb2e109bbda33e3ee755dee18	Jim changes
+2018-09-20	b68c60f237d75e7c003db413ae2b13c8bde24b5d	Update hitopadesha-slp1.txt
+2018-09-13	9f05ad25a6009f5565aefb55876308db22d1702c	corrections
+2018-09-12	9a935c0bf34b66385c7897c49302ec1bcafb2009	proofreading helper adjust1; wordlister: sanlex_words
+2018-09-11	46ae53c40796cf8917ef0c6dbd226468298ec978	proofread ocr
+2018-09-11	0f12010ba3877279538afc2536d2b181de771227	add ocr files (hitoengxxx.txt)
+2018-09-07	9829982d5247d88ff58f1289b77ce770434a60d0	Begin ocr of Kale translation of Hitopadesha
+2018-09-05	895c7c0ae7803a6598d7fcb260b933bc91f8ff66	Useful location for hitopadesha sandhi work
+2015-09-06	7dc0ba19a2d294b2f6067bc50fdcfc15c34af9a9	Update schafsandhi_bucknell.md
+2015-09-06	0e9902a1290b71165bc2604a7f80ec572c832b1c	Update schafsandhi_bucknell.md
+2015-09-05	41cbef1d5d57d7ed9e305cc02bf473c63a7abfc8	Update schafsandhi_bucknell.md
+2015-09-05	4404a8aaacb9154c128580a1f47553899d397d72	Update schafsandhi_bucknell.md
+2015-08-13	2d539bb1335e447b0c90983ccc7367b4686f6adf	Update schafsandhi_bucknell.md
+2015-08-13	e3261a90c10178a7fa0eb52e554d59f56ae487d5	Update schafsandhi_bucknell.md
+2015-08-13	fd6f07b2ce2f4dde5002a2374b49a3c2705b4e77	Update schafsandhi_bucknell.md
+2015-08-12	2579866a00bb7ff82472525bd4dc0f08afa5e085	Update schafsandhi_bucknell.md
+2015-08-12	233893f083765cb14f7c7f55102e0758952e806d	Create schafsandhi_bucknell.md
+2015-05-08	82e6dc396f1d7da5cb7b0775e90782fe8e867624	Update - remove authorization token
+2015-05-08	f417de632bfd1e679afd8a127df5d02d9b892ed3	GithubIssueBackup sample
+2015-03-10	230f4880aadb3b77443636c2bf16d31b56ecf06e	Create wil_yat_readme.md
+2014-07-06	f4f6a4e37fa6818412cf56d86eec8a73d9353303	Create README.md
+2014-02-01	7701cfef9d68f1a84de12e9db138eefef147cec0	notes.org
+2014-02-01	f2b62496ddecfc3ee03ac57d5b1a053df23d46d9	Update notes.org
+2014-02-01	a55f88a51f8026130ebfbc07194f537914410ad3	notes.org
+
+Notes on what I'm doing
+2014-02-01	a34b2b1eb0c673fd089521a9e6a4f0d3340b29e3	subtest.txt
+
+Added this file to subtest folder.  When subtest folder was empty, it
+did not show up in the repository.
+2014-02-01	5a9477dc7ae4913770f699eec1ed70b2918d8c6a	notes.org
+
+Notes on how/what is done in this testing repository.

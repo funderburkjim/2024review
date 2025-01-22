@@ -1,0 +1,71 @@
+date	sha	title
+2014-12-07	c9ee70ad4ede028b7aa4fd7dbce98927ebf9d3f4	slp-dev-iast-link
+2014-12-07	cfa9dfd003a526fda40b563f5fa43e9164422d8b	IAST added
+
+Tables pending
+2014-12-06	330bc9715e1f928e127599e8111a098ac4cfc37f	new bold pattern
+2014-12-06	bfa8c397a99a688f50508fac1c5ee5514799359e	bold the pattern
+2014-12-06	c78e0a52134da58f42ca356af100423e7bce2e08	rCC ignored by default
+
+https://github.com/sanskrit-lexicon/CORRECTIONS/issues/42#issuecomment-64976242
+point rCC done.
+2014-12-06	63a14e03c370c7c720fb3c41f58d64d864275cb6	no word from more than one dict.
+2014-11-30	4edf66d3951d3253ffada5783f2d9e1d3f18bd69	update readme.md
+2014-11-30	203ea957e05c675485a88ab2a2721b47d150ab06	rounding off the figures to 2 decimals
+
+https://github.com/drdhaval2785/SanskritSpellCheck/issues/5#issuecomment-58450754
+point 2 cleared
+2014-11-30	f8b32af0fd6c966c1e07cbcdf4beaf6fd67361ab	Postprocess_scraping renamed dictwisesorter.php
+
+https://github.com/sanskrit-lexicon/CORRECTIONS/issues/42
+The output of faultfinder3a-html.php is now sorted by dictionaries.
+This sorter is a commandline program.
+2014-11-30	7d67f4e73ffdeec5ad90a155dc0164baf7ec2286	faultfinder3a
+
+Base dictionary data fetched from sanhw1 only.
+2014-11-25	8c620abe1e8cbae3e4c818910e62c96deda7cc4c	dictionary wise errors in single HTML
+2014-11-22	68a4bb980d66c81ad08f9ca3ed97cc363781b343	AllvsMW.html - faultfinder3
+
+Code is clumsy. Output is marvellous.
+2014-11-20	bb046bfd34a902970f4a7dca7609c797509f9d04	faultfinder2.php (with only 2 variables)
+2014-11-17	92dbeb09c25e86216c3e64debec8dceb07ad3586	Update README.md
+2014-11-17	163d6e00981e1e40d1fa474d352c3c55b62461cd	VCP comparision started
+2014-10-27	10d1f2db23a164d4ecdfba6b5fc5b67176dc498d	sanhw1 from Jim
+2014-10-23	8c1b668d07583c1ac2105c2f17097ff3500e9d5b	PWK -> PW
+2014-10-23	728bbfb78b8685f0c7a6c8938f639bd379dfada5	faultfinder1.php - Jim
+2014-10-18	60e3de90393e3d14d1c52df554da277e29bcfcf8	Documentation
+2014-10-17	5d036578cb9f1b99070a8c9151514363b49c2654	vacaspatyam
+2014-10-16	b6ec94d55497f552784b78993a91e279a7d3d7cb	Text for testing
+
+https://github.com/drdhaval2785/SanskritSpellCheck/issues/1
+2014-10-14	f6c469182e567e2f50e6fc57752e788ad5d250ee	PWKvsMW
+2014-10-09	e207543e1865d848d7f12c3fa1c4d57c6f86f218	CountVowels in it's own folder
+2014-10-08	e21634869cb66c8379ab41bec393d124659ab244	Texts for comparison
+2014-10-08	abed16c85c97f6ca9129a6973badd8de7c734168	some regex
+2014-10-08	c8025ba0586c4426948ad6574dbde9171e5e76eb	cleanup br
+2014-10-08	30683591664579b57517b19e2b1d86060566be38	Cleanup for CV count
+2014-10-08	2350a73c9285294ad73467175d5c354c41dab25f	count CV
+2014-10-08	e79a9ad681edf43ce8c059fedc2901f7bf28b8dc	Meghadhuta SLP1
+2014-10-08	feb63b81a990cd5a3ffd300f6ddc648c3fc5a7f2	PWG added
+2014-10-07	e86a971807681320b9f310c88080b81f86056325	added transliteration files separately
+2014-10-07	93a48873982ef1d7988aec9d64dcf2b8f5380196	With devanagari too
+2014-10-06	e88a3f55c897ea8c8be5b8c20423f8e89e10b7bd	Update README.md
+2014-10-06	565bcdc492eec6cd0085a7a52fa70cdcb3637286	Create README.md
+2014-10-05	d1143ec2d272f57e79416758ec430e1247611c87	href added
+2014-10-05	d25cd6c6ecf2111097ef443a8e19e5f09124d85a	composite files
+2014-10-05	8265197af364d07a48d3c93df7292e0c3dd2eab2	composite output in single file suspectfalse.html
+2014-10-05	938f5486c540d95bb117ccb01ba073177aaa84da	PWagainstMW
+2014-10-05	9d9bd3731bf9b738bd64cbdd2759232f6f20b869	getting data
+2014-10-05	4d3fd29d9feb4a0e8b03dba46d939938f9a7eae3	bad auto
+2014-10-05	e03230b060911240353995dfbcfd544d63a3736a	auto try 2
+2014-10-04	b28ac9b8135c7e43f9740bce09348c312998068b	auto code
+2014-10-04	b0a15c570a50173e1b2dfa7f3593bf50fe1f4a11	trying an automatic function
+2014-10-04	a22aa6535e2139eefe027a9018d0581b3b80e013	nothing
+2014-10-04	a213a82c101a769c219eb4ff304ae847abbd6c59	VCCCV
+2014-10-04	1ccdd1c078dfbd6b3c05e25621afd7978ed05cb1	changed name
+2014-10-04	8f4c57c9dd690b4790f516a47e4b74e55e148125	result2
+2014-10-04	a04aed61e65347a9542c4bfe3b95219e87f8fdbd	checking result
+2014-10-04	e3e26f48b9888f1ce02ecb826197583e8f6ad046	single function for creation and comparision
+2014-10-04	9425507e33518b700d25276cc8266d6dac98a108	made a function
+2014-10-04	590724cd19138c61d92053c167793bc55e08dd44	initial commit
+2014-10-04	589306f5ba7beadbdb8de36154091f538c4f0d95	:neckbeard: Added .gitattributes & .gitignore files

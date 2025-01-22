@@ -1,0 +1,59 @@
+date	sha	title
+2023-12-29	f38272fb910b4bf85e3aa359305d6242ad7d8b52	provide syns in https://github.com/sanskrit-lexicon/csl-apidev/issues/37#issuecomment-1869069610
+2023-12-21	7d946f85963a9b2e52896744336f1118e7f6fe13	ACSJ done
+2023-12-09	1122a23884e2f2868199548e5c77a7acf3b31daf	readme till 681 in ACPH
+2023-12-09	4af63ff5668ae043e03fda01b07b2601ed195a58	Instructions from readme_abch.txt followed till line 466 for ACPH
+2023-12-09	03f0b21b62c36f23bd75dc7c0385e5d332cbda31	csl-websanlexicon update
+2023-12-09	701fdbb8e19d59e1952a2010c5b66ab2ead07cfe	update csl-pywork for ACPH
+2023-12-08	ffed7e92c81ccd5d2645f455ccc7520bf62df4c8	revise getword_data.php for acph. #24
+2023-12-06	515f7eae36f8ea78607d268453b54b66e235734b	changes to csl-orig and csl-websanlexicon for ACPH
+2023-12-06	50d14ef77973726b363de639950eb3a9acb5ebb1	ACPH data correction for gender errors
+2023-12-06	aeee504bbc3df1a7524ee7d62c35ef84158262b0	ACPH readme typo correction
+2023-12-06	8bf0443ba3e993ca9d1f6d7fe9e778b7bf1a2e4f	ACPH local generation
+2023-12-06	40a3977bb9c4b3a516bf902a4a6241cadcb22627	ACPH trial as per readme.txt
+2023-12-06	a97805a969cc82c9b093d7147338e5acc2372d27	ACPH init
+2023-11-24	a67cd1cf9f2ee6a036e511e0952b3a02a80f7af5	readme revised for hwnorm1.sqlite addition for abch
+2023-11-24	7b805865a0f9209c3ebd4cbc8be01f2fabbcafff	convert dev version 5.1 to cdsl
+Ref: https://github.com/funderburkjim/kosha-dev/issues/23
+2023-10-30	679b3a1bccc30bc51d724201a7274066c83bb51b	Add <hr> below [ID=n].  # 22
+2023-10-30	d311f81cc24a9affe0ea23645c22529b78be846e	changes made for klIbahu as per https://github.com/funderburkjim/kosha-dev/issues/21#issuecomment-1784249394
+2023-10-27	07088713d4ec3ee95b094f86a4b8db02fa45eee0	correct https://github.com/funderburkjim/kosha-dev/issues/21#issuecomment-1779882268
+2023-10-27	5bfb2ad8f6ce22ec5bf07faacf5ebf8b54347651	minor typo correction in gender carried forward
+2023-10-27	d2ff71b50a9a0fbc527c013ed4fc5326486fd6b2	minor correction in abch1.txt
+2023-10-27	2fede91627f6c21d4df72f83ec0c9365983733e1	filled gender_list #21
+2023-10-26	846068571244f6c8ca2ac409d6bc6e732b8174f4	v5.1 first commit - #22
+2023-10-25	d8bf41854b81d99654ed8cef89fe9fa3ec919fc5	gender frequencies. #21
+2023-10-25	b046329b9f09b3b8c52ed240d72374527dc11533	Syngroup->synset in display. #20
+2023-10-24	320ae3da473226ad02183d81549a3a1f9d6b9c07	First revision of v5. Ref #20
+2023-10-24	235c49c1b68cb6970e0bf5b3606108b03df13f4e	v5 first commit
+2023-10-09	5be1450ddf14e4468bd540865635bfe7476c684c	one.dtd generates proper dtd for abch, anhk.
+2023-10-09	8a1e9d829a41370c599169cae7088499b770137c	regenerate anhk.  Correct error in redo.sh
+2023-09-29	2b99b3d9925080655d0368c68f960545da76e9d4	ABCH update
+2023-09-29	fd107e9604a34dc27cbb434aeaa013a3bcfdfc8f	ABCH regeneration
+2023-06-01	ecaaa57f7a02cf07f1ce7b6dd764905e903ac5a2	abchheader.xml initial commit
+2023-05-25	70a9ee60ba9b37cded045d3dc2ac7602a702c903	notes on abch scanned images. #16
+2023-05-25	125198fcd872d212aac315123669af0d455984a8	Change app for abch to access scanned images
+2023-05-12	9a6831c33ad9e7c229fb27ebea40a59ef8d3f8af	Correct the 'DenukA' problem of #12
+2023-05-12	317d1a521caf02f4a82f35d52d96f45504a9b980	abch v4: two corrections. #13
+2023-05-11	a48c15b42f0e612768d365b4ec93bb77b71f7b75	Correct reconstruction of abch app based on prep/abch1.txt.
+Ref #14.
+2023-05-11	0e5ecaf61dc23fc2eac849c6043c80b04cb3582e	Revise readme.md for v4
+2023-05-11	6096c502f51dd5d9beaeb180f4a31815bd67aba7	Revise readme.md for v4
+2023-05-11	60eebf426344416d29c2cffbe7f2086aa62bc75b	v4 abch.  Reconstruct using revised abch1 of #13.
+Also see #14 for simpler way to recreate the app.
+2023-04-19	bca99e72858ee1d42e862a176507ff8b9f84e6c7	abch samānārthaka  kosha. #2
+2023-04-11	5dd57cbd74bb2969724d04a21f4ca43e567ae43b	Revise redo_xml for cologne
+2023-04-11	6fbfe53d383fb56894cf3d5c78377d0f50005ff0	Version v3.  Refer #11.
+2023-04-08	4bdab77e25aa9745c47635ba561891a2684564c3	v2 correction so csl-websanlexicon/dictparms. works with python2 at Cologne
+2023-04-08	d5203d51c00b0a2ae6e7346adbd74f294ea6ba84	v2: display title changed. #9
+2023-04-02	eabfc0dec6c0513c0d6131e24932fb8e2111fe43	xml to xml1 (shorter version)
+2023-04-02	31d1deaecb89ef9235c34bce45407b5c1ec49864	v2 started
+2023-03-27	d61900c68efda7537817f5f83cb518a828991cf5	v1: add space after comma in meanings
+Ref: https://github.com/funderburkjim/kosha-dev/issues/1
+2023-03-21	df27115946007bc6fa33ae58ed1b7e64d95af7f2	version v1
+2023-03-21	036d5801a0ded9ba39adfb4762f78e1f5207afad	change to avoid the error 400 problem for webtc1
+2023-03-21	eb14f1da79a37d922dc7cb319c24a5a567caad06	revise xml structure according to #2
+2023-03-19	564556abb2569491e529386b694820f06bcbcb3d	skip xmllint step in v0 -- the dtd is not yet ready for validity check
+2023-03-19	2a9478a7f4c768760be4c34813aa6b84aac6ef8c	revise xml and displays of v0
+2023-03-18	3a351e1e90c841c6a65040e54132da3ccf9fd0bb	initial commit
+2023-03-18	4f580c3aec64d87b974b9b71f49dbfd92cba31e0	Initial commit

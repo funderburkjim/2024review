@@ -1,0 +1,55 @@
+date	sha	title
+2024-12-10	3917d63636210d8b68b023512796ccd9ca6e07df	Ref: https://github.com/sanskrit-lexicon/mws/issues/182#issuecomment-2530678105
+2024-12-09	0bcc59530e50a2a9834597ed47d030bada59121c	standardize links for 'BhP.' #182
+2024-11-16	5a92d94bc6bbec4e2fd511f82af72e19991e3ba1	#181 first try for cdsl to ab conversion
+2024-09-05	cf1731032ca6aebbd795304c1dccdafdaf1733d3	#178 - example_rev_sup
+2024-09-05	d02ced7646b106f78dd3b693f60401628de0c8e1	#178 drdha.png
+2024-09-05	31004c8f0eeddf0da42e967964a4410e2a8a52b5	#178 akshagrakila and drdha examples
+2024-09-04	81f560cb26bb368dc8e3aed4ce977d3279620c40	divtalk - akshagrakila example #178
+2024-09-03	5d31e98645670a9311f05c608610c3c7f949634f	rev1a  #178
+2024-09-03	ff6b593e80be696dc4cb60f5eb1bd97c14cc0ff6	Initial commit #178
+2024-08-24	f3d2adc95f1bdf4bd288ddc13874037e9a028d06	last step for this repo
+2024-08-22	f03c61488978840dff49989104aa98a448fdf994	version 16. All <info> tags moved to end of last line of entry bodylines. #176
+2024-08-21	4e4db40c6f36bdf02245254db4107113b5574793	version 14: minor corrections. Remove slp1 attribute. #176
+2024-08-21	7b7fad730b133e34591cf5775c3611dddb29468f	Work on an 'AB' (Andhrabharati) version of mw.txt. #176
+2024-08-14	bb728eef3866c689a6234bf3470524c100b69513	convert mw.txt to lbody form. #176
+2024-08-13	f393cd0a848878816b7f1ea37b80bf6ba6ac1c37	#176 readme 'Sample rewrite of groups'
+2024-08-13	2f2949ad625eb34171e7e25f70ff450d44d21a3e	#176 : missing hw
+2024-08-11	ea81fb9b3a78d56b005e6856023ab1ef9f50bea9	#175 initial commit
+2024-08-04	192a5d6283ae78eefc1ec6d51f520c9155250cc6	mw_orig_utf8 -- A version ca. 2014.  #174
+2024-08-03	8b202a76849f2c6b7b518ec8a75241f03ea19e9a	#171 - phase 3
+2024-07-22	695c36fe49242f6530ce76540be0849989b40db6	#171 legacy1/match3_3.txt
+2024-07-22	3ce55c0c3a662e5b867ed4507f3a7fee50d88351	#171  phase 2 (legacy1)
+2024-07-17	22827cd8fc62b4a5e4948ce03857ff1789c11691	legacy supplement files: ADD3.xml, readme.org. #171
+2024-07-15	cd59eab48866822291add9903e9a7e91527be7df	#171 - revise readme
+2024-07-15	3c924daf7dca6da55af8073fceea10f1dedd5d9e	L_change_01.  #171
+2024-07-05	0ca5b61a2a9e6fded87e08dd01cd29edb83fc178	Issue 172 initial commit. #172
+2024-07-01	f1f62cb44e145d6cc3d529dc6c4cdd37bcbb7fa5	unicode question re accent. #167
+2024-07-01	286f7c8735654766d1c14b03111a40c7af6fa77b	Stray errors.  #167
+2024-06-29	37051f20b1e2bf531b7e188111e804e98ead0fc4	update readme. #166
+2024-06-29	b8386a0b4f84ff245b78231abd316886f19df97a	revise readme.txt. #166
+2024-06-29	820ff307663d284a5000c5fcf18ea8b46c2d6f41	#166 initial commit of issue166
+2024-06-21	e835e42470e35386160dea394e0e397e6f796e37	revise two of the corrections
+2024-06-19	ae4fecf38d0c6620b70066d3f9979fe8ce9afd2a	#165 initial commit
+2024-06-17	11844d8107c1d74121763a3e1f11f241e55f0811	Work on change_4, change_5. #164
+2024-06-16	2436bdd6293f66ebe25fe27f9d607490161e908a	#164
+2024-04-25	683dd920b13f1b64e21874549574220988ed40e1	revise mwab_input_7
+2024-04-24	5fe5e435f30bd547988a890c3c99acd54c7684c3	Additional work with tooltips. LB Ref: https://github.com/sanskrit-lexicon/mws/issues/65#issuecomment-2068039919 and following
+2024-04-17	b4fc0de659be6d0ba162824274f095b8513739f0	#65 revise mwab_input
+2024-04-16	2dc20b83f53c1c03025270eab48b800251236083	#65.  temp_mw_8.txt and temp_mw_9.txt
+2024-04-13	a2bc75107eadca6df8e0c9697c7b0e754786be17	#65 change_6_7.txt, temp_mw_7.txt
+2024-04-13	7bcdf28ab36c001264024f301ffa29c2f6bc43b0	#65 lla analysis, probably last step in cdsl changes to LB resolve <lang> differences between AB and CDSL version of mw.
+2024-04-11	71d0d48580283f206ecbff20e65a3cbe50375ddf	#65 - modify make_change_countdiff.py to also write ab_lnums_del.txt.
+2024-04-10	3da9c98796ed1728ec8411d6f9bdde794860c77e	#65 continued work
+2024-04-08	1255dd19417174068ac7623284b38300230adb28	revise readme.txt #65
+2024-04-08	47477bfc8aa1a20a6ab8e80805a68dda7566ae3c	lang tag counts. #65
+2024-04-03	e79afced33a0cfef2cb8980b849af9e759c4b1f4	Recompute bot/bio counts. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/74
+2024-04-03	69b02866edc02241464dff49c66826019d091120	#66
+2024-02-05	a1a2f5c5318c073b977986bcbeac56f0a6ab7bbc	Boetlingk dhatup reference. #126
+2024-02-01	74b28da786c7a2b86c50d93c12f361b2d94a2f3e	Sch links to westergaard. #126
+2024-02-01	27ba8e0e03e965062e0fedece534471074b83eac	pwg dhatup changes. #126
+2024-01-30	45a64bd4c44404a8cd3f386d4dcdaf03baceec25	document further work on #126
+2024-01-29	e887df2fb7f0c7f715356f349ec6112a5f9acea2	Preliminary examination of <ls>Dhātup. # 126
+2024-01-25	34311ff5a827d36a0a343656dac9c271a7ebf126	Add <ns> markup to Rakshases, Ushases. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/127#issuecomment-1910699452
+2024-01-25	55c3e357ba92b8d0e3386154cb467e731736b3e4	Revised per AB comments. #127
+2024-01-25	534d153cfa22c0b5f78c36d0359e1ebf4afd5a9a	Process corrections from words_mw_noneng_2.txt. #127

@@ -1,0 +1,50 @@
+date	sha	title
+2017-08-03	4fffbaddd7d9f328b375b0f1c5260e26caaef356	'sample.pdf
+2017-08-03	ea30bf9a3d6ce05c148ed213848b70bb44e2816f	correct error in link href
+2017-08-03	0d5885d89bddbf09c995ea08e5569a643cba26da	Use 'a' tag to reference pdf.
+2017-08-03	7a06d461620f70aa24419968d02e9e03998410ab	all local files
+2017-08-03	e1c35e0262ac6ec057834556bff24a8428563412	give full path for pdf file
+2017-08-03	19daf75731836caacc78de6df59cd5eb1471678c	copy of test_servepdf
+2017-08-03	ec3e0d38b6dbde04850546ecd6508276ba1b86c6	first test of servepdf
+2017-05-22	ac8565d9212ea477a88f846f2738d5da6bff140e	add in word_frequency file
+2017-05-22	a8930f9d7066bf79668f9bd4d59fb3f9d4827e3a	modify fetching.html to avoid Cologne rate limits
+
+make just one request, with key having comma-delimited list of
+alternates. getword_phreebie.php also modified to accomodate this.
+2017-05-21	3cc8f2839b8db01469e04cedbbcca9d32c798335	testing of juhnowski work.
+2017-03-16	b2a55d8a3572f6bb1b0d786e25f82862f6412991	easyspell01
+2017-03-16	09a180128a614760fed0250f98a393ea1c2fee06	euclidjs minor Thumbs.db
+2016-12-17	1b02184fb12ccaead480e5cfc7bf292622408bd6	moved euclidjs to subdirectory of euclidp5; added js to euclidp5
+2016-12-17	c95c86431581314dbbe09f5daa9134b01d81cd16	JS version of Clark's Euclid, version 08
+2015-06-11	20b6d181ad77e20ffed4360d6f9e568971755541	First version of Cologne basic display using apidev
+2015-05-16	eb161504447a2b2987d923e5b80fcca3e6765881	add krm-fuzzyalpha.html
+2015-05-16	28a95d465874219fb8ea7a2a649642e31b445934	add pe-fuzzyalpha.html
+2015-05-14	3895b562a92fd005acf3f7f354c63c767feb4706	add mci-fuzzyalpha.html
+2015-04-26	15b0e0a608ab887cb480995b37afff447120e5a6	Html displays for PD faultfinder cases
+2015-04-24	f1b7a957b8efba509d4bb38678253dcf55a77fa8	Html work files for IEG faultfinder fuzzyalpha
+2015-04-21	e82fb45f27b3ad9d25bde530996d61ee9c86dbc8	Install pgn-fuzzyalpha.html
+2015-04-20	3c2af0e617f68feb208d25fe1416934506d88669	usable pui-fuzzyalpha.html
+
+ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/101
+2015-04-18	cd4ebf65a78edb5bda8d94070393528190c225fa	html version of work for vei corrections
+
+Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/98
+2015-02-05	3f6f54aef925c818d2f124ce564b13646cca043e	some headwords which are verbs in Burnouf
+2015-01-27	ecbfc520383fb58ccdabdd0fed1544e2a90f194e	pwg2-0641.pdf scan problem
+2015-01-21	a5ab6043b1eba904091e71bdf9f6dfd1f96c19c1	Introduction to aws cli with S3
+2015-01-18	19f8918b19dd45d6b74c418ae332b5a8c0f0c923	Suggestions for mw72 corrections
+2015-01-10	fc16c0b1e1cb8f67664d8cc9796ee272fa191549	Suggestions for Yates corrections
+2015-01-04	436ef0a4b7da237ee3c72e1be88adf6dc48b7eaf	working file has links to possible spelling errors
+2015-01-02	ef6f9f670f528b1307dbc81b04ec908b05fcac73	working html file for case05 of wilson corrections
+2014-12-29	214b49172fd2ffaaee6a5952830a9a2aba4bbb0d	Links to Wilson dictionary for case03 possible corrections.
+
+ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/61
+2014-12-11	3fed7a102a53a1eec17cbcd1c3bc09e4252a9784	delete duplicate now in another repository
+
+new location:
+https://github.com/sanskrit-lexicon/Cologne/blob/master/awsintro.txt
+2014-12-11	8bf8c98f67433ba413868ce350269e27dd43485c	aws instro
+
+change file name from .org to .txt
+2014-12-11	56ec8a76694b31874757e50190741504c9a0aec9	aws S3 introduction
+2014-12-07	e42024dbe191adfb67c149d86e9d97ebd43cd152	Initial commit

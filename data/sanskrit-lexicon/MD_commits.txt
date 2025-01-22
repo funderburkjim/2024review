@@ -1,0 +1,7 @@
+date	sha	title
+2024-01-08	3243a4c73ec87f728cfe57d2d9f5a0910c9ff6f9	add <e>N to metaline in Examples. #13
+2024-01-08	20df02454b502f466fc86e1ecbdefe40e0b7993f	L-12291.AB.revised_JF.txt  #12
+2024-01-07	344a71f3a98899a010d4c983d8db67c7d0dcab69	Documents of 2020 pertaining to english word corrections for md. #13
+2024-01-04	63e76ead66e6c0aa3c3fce1e661d6b97081c976c	readme for md_1b_subhw. #12
+2024-01-04	bcdf6dec5f1ddd23a71cb04ec606acfb8c5f70d3	Proposed intermediate form for sub-hws.
+2024-01-04	ec711169a751edd01a908fbfc763a9e47885a701	Initial commit for issue 12 #12

@@ -1,0 +1,12 @@
+date	sha	title
+2024-05-09	28f19db3f4228631e1b0c08d1fd182a2a34a4e6f	#6 Finishing touches
+2024-05-07	c13c96b09ae36474a49c407f354b8f51c50cf27d	cdsl revision of bop.txt compatible with BOP-Main-L2 file. #6
+2024-02-09	88e9de83574763a0d278775aacc6752d917a48cc	Anglicised Sanskrit continued across line breaks
+2024-02-09	d1094692cf9a6f31a6f88dcf22e905e5c330aa0c	Sanskrit quotes joined across line breaks
+2024-02-09	fbe5f8a0b3645c1d6abeb5fc1b2d265a24499c62	improvement
+2024-02-09	c668563c754aa45017c5f1a55d3033547d1c7631	bop1 regen
+2024-01-16	cb8869d051fad609b89aa2d4b5eed06b78d00248	tab separated replacement lists
+2024-01-16	785feb5c3b99e1118ab20fbe06cf4fa4f3942cdc	bop1 started
+2024-01-16	e355becb931ac1d4d602eb1a7d1b813e40d7f905	BOP update
+2024-01-16	429ef002bb8d0f67551c9399cd77ac8c6eb66d79	playing with opcodes
+2024-01-16	68454d67b4194fc2054aff2a5b1aaae70b6e3cfa	trial for BOP

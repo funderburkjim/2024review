@@ -1,0 +1,5 @@
+date	sha	title
+2020-11-01	06403cfd5f5071f303cef96c02011c8dbab1f088	make links to use github server for index-build.html and
+index-build1.html
+2020-11-01	8bdd767ffc84af0dd6578c11f3d6dca22cb92f16	initial commit
+2020-11-01	fe56c804f35f06bad473a4d2d6601ccd4b7d5210	Create README.md

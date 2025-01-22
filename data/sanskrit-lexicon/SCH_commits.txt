@@ -1,0 +1,4 @@
+date	sha	title
+2024-12-11	a2ed0fb02e9d29b9b89a2da0b4fdb349aceaac68	#10 version 3
+2024-12-08	def48a54e83eebb50e6a295be0a160db1ae4c21d	update readme.txt
+2024-12-08	4dab56e399181ef1d8ab80111c03892db9273d12	standardize links for 'Bhāg. P.' #10

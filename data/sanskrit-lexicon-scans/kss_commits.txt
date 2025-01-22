@@ -1,0 +1,5 @@
+date	sha	title
+2024-09-06	bb1dd93c634e50fd8942a95bc6519d79a7ff0f03	revise readme.md
+2024-07-27	5cdd1d43bb1a60e16da46d7014299448dd3a1bcb	Initialize pdfpages. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/70
+2024-07-27	b49f6501f89852bb2b17ce421c315c443568e2aa	Initial commit of kss (katha-sarit-sagara) repo. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/70
+2024-07-27	6df8ee40c213580a54f4f6f3eedd1263cbe72a9a	Initial commit

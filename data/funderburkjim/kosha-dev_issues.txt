@@ -1,0 +1,26 @@
+issue	date	state	#comm	title
+25	2023-12-10	closed	2	Learning to follow the steps for ACPH and ACSJ
+24	2023-12-09	closed	4	Abhidhānacintāmaṇipariśiṣṭa (ACPH) questions
+23	2023-12-09	open	7	transition of v5.1 to production
+22	2023-12-09	closed	6	Version 5.1 - display by syns (abch)
+21	2023-10-30	closed	12	Gender counts (v5)
+20	2023-12-09	closed	12	Time to put ABCH in the Cologne main list?
+19	2023-12-09	closed	2	abch1 : L=139-141 indra?
+18	2023-12-09	closed	4	abch Display complete verses
+17	2023-12-10	closed	11	abchheader.xml
+16	2023-05-26	closed	5	abch scans
+15	2023-12-09	closed	7	non-synonyms (manda)
+14	2023-05-11	closed	1	abch app from abch1
+13	2023-05-13	closed	4	abch: missing 1st line of verse 39
+12	2023-05-13	closed	18	v4 - abch - Abhidhānacintāmaṇi of Hemacandrācārya
+11	2023-04-12	closed	2	version v3
+10	2023-12-09	closed	1	Discussion of v2
+9	2023-04-08	closed	1	Title bar is erroneous
+8	2023-04-02	closed	4	Note to self - Understanding the file updation process
+7	2023-03-21	closed	2	Advanced search order
+6	2023-04-02	closed	1	missing meanings
+5	2023-03-21	closed	3	List panel -- the meaning of 'L'
+4	2023-04-03	closed	6	Allow access to push
+3	2023-03-21	closed	3	List view error 400
+2	2023-03-22	closed	7	Basic display observation 1
+1	2023-03-27	closed	5	v0 version

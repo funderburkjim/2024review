@@ -1,0 +1,16 @@
+date	sha	title
+2021-05-31	9b8f3b5acd02c179b5d4477a24b458e78d479cb7	changes_06:  {vXv} markup added for verb sections
+2021-05-30	da9655559429bd8906a2c51681e9db20a11716bf	changes_05
+2021-05-25	bef542ed6fa6df2200e9923de21bcd25599b8000	class markup; compound number subsection markup
+2021-05-23	1dd900e93425a74ec653cccefad0410a92a95eb8	make changes_03_rev.txt
+2021-05-22	bdb0be7075c5755b0c5931474b9972ea74f010b4	changes_03:  finish regularizing bold markup.
+{@1@}, {@--N@}, {@--Comp.@}.
+2021-05-21	179e79dc69959615c4d52e231c8f1a8d5876e28d	correct {@1@}
+2021-05-19	3f5295f03703ac311fe950bc826357792c00f553	more paren, bracket changes.  And italic changes
+2021-05-17	079fc3d71302edc86367ce2abc8bf60a6e5e6cac	continue preliminary parsing
+2021-05-16	a61536a6be7eb55fd8aa16555c667e9e7368fbff	continue ap90 parsing trials
+2021-05-13	92acad3bb69c83efa0fb9ec7f3a673fa732c01c3	remove ejf/ap90_tokens_02.txt
+2021-05-13	75bd06fbcb28664e778a2514244df48c359b0291	further work
+2021-05-10	59925005de6591dacf4d0aaa4aa1fb632ec9ba5e	First ap90 tokenizer with sly
+2021-05-10	1ab0f90de35637d6b3b2e996d6f4763a4b9b8424	test01:  lexer to aMSumat
+2021-05-10	ef1a27690ced9d0d12e9c73440c8998e4625acbf	first commit

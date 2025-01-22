@@ -1,0 +1,6 @@
+date	sha	title
+2024-03-25	00164cccb369ea41bfcd02439a3ff99ba718dd80	Revise normalized headwords after many new 'alternate' headwords for pw. LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/106
+2024-02-09	e084e8897d880b872ccf5bb159b6a911c2c4c0af	Append pwkvn to pk. LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/104
+2024-02-05	77b7249de1e9afd8c07ff999c87dffbe15118ae6	change mw headwor suzupsa to suzupsu. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/161
+2024-01-26	aa84220e7f51fb7f13ada2f5e7f9c76b23859395	sanhw1 regen after user corrections
+2024-01-15	3e208013e69ce6aa551f3e20151f3e29e65facf7	hwnorm1c regen
