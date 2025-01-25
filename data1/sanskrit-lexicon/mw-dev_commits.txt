@@ -1,0 +1,39 @@
+date	sha	title
+2023-04-03	32d0f152919f6429380a7f1ac8b7aff1631591c2	Delete additions.txt
+2023-04-03	f3d909187167a1f52c9c5c3857dfd551ba654852	Create additions.txt
+2023-02-22	2af75ec7356277ae1a5c5356fefbff309ce6645c	abcode install verified for previous mw_AB revision. #23
+2023-02-17	761d84a0d9105ea78c8aeee4278e829f42673807	Update mw_AB.txt
+2023-02-17	d4a219162ed36c40a4b92588d7cc90d80680eb69	Update mw_AB.txt
+2023-02-16	43bacd0508b03dd75e9ffdd07dd17161ac7da160	further adjustments to .gitignore.
+2023-02-16	78bd02a11317e63d69f73a431e84aff06d2cf418	placeholder file for web/sqlite
+2023-02-16	efae374810b87ca73cbec7c5d93cf8d98a470436	Another mw.dtd adjustment for xmllint
+2023-02-16	71798b7e52c8d41d61e49fe673d13237ed6fe008	changes to mw.dtd noticed as errors by xmlint
+2023-02-16	205f434221d56fef02f288548844cde1f4667f30	Use python3 at Cologne for mw_transcode3.py
+2023-02-16	6573b8fa4e293ff454022c4efdd7e635875410dc	update abcode
+2023-02-15	26261bd7b0bc542a3c90c50cc9831cf02582299f	Initialize abcode. #19
+2023-02-15	03c39c5396509eae15d874fb5408cc1edadb6dc8	Update mw_AB.txt
+2023-02-15	f63a4e81f2b58727c30d46a9515969f6e687cb8d	Track revisions of mw_AB. LB Ref: https://github.com/sanskrit-lexicon/mw-dev/issues/18#issuecomment-1432163098
+2023-02-15	f908a4c6faa3bc454def5384f599bf7b2357b2bb	declare  as public, for compatibility with php 8.2. LB This change was made in csl-websanlexicon repository after the initializion of mw-dev
+2023-02-15	371f2da13aa4a1e2d45d183d95015cda74c88cf2	Update mw_AB.txt
+2023-02-15	4d9ef532c5089e3b3e39aa90709e6e6a978309a7	Update mw_AB.txt
+2023-02-14	4ba1043af5879bd3f1e8d1631c48a639a8255f7a	#18
+2023-02-14	45f2446c11408b280d59de5f4809300eccd38b5d	Update mw_AB.txt
+2023-02-14	06960c7cf4c4a78fcda85b87461182ee6e1eedfa	Update mw_AB.txt
+2023-02-14	2e81f43a3423bf265e9b53fe24c50391fd7ecbd5	Update mw_AB.txt
+2023-02-14	6ed6209d18b00a3cd9443003b933c9c73aaf8188	#18
+2023-02-14	ca81c5850f0843120f33187c4f89a54b6c5e6789	revise webtc and webtc1. #16
+2023-02-13	74f0c1b6c76073d7f7670333bd227f1c254d9529	No current transcoding problems remain. #14
+2023-02-13	6a1d55aa2b0786e9c460a3fbf721363dddde0834	Merge branch 'main' of https://github.com/sanskrit-lexicon/mw-dev
+2023-02-13	8be7fb6bdd43378f0b5c0a857603301973d9fe5b	Update mw_AB.txt
+2023-02-13	3d7eb779eb6a0179e1325da06a1b1c969caaec5b	 Change <s>X</s> to <s1>X</s1> to handle vowels with breve. #14
+2023-02-13	d9edf164c74068df3364a5d36e9f7c31f20594bc	Update mw_AB.txt
+2023-02-12	785bc2ca48ebd6e7be4ff08825bfb8616faf7f9c	transcoding mw_AB to slp1. #14
+2023-02-12	787f86e1f232ec7d6e4cd541b97099411dd5c7c0	Update mw_AB.txt
+2023-02-11	412634c795af781ebd909d4eff3d77cf822668b7	temp files not tracked by git. #11
+2023-02-10	52c972817f25b591784c66b81e428b606336bcd1	Update mw_AB.txt
+2023-02-09	bef3de835d6fc3be7b260db2651d866bf21b000b	Update mw_AB.txt
+2023-02-09	9eea9c280efe9def092450950a5f8f5438961326	orig files updated to have starting files
+2023-02-09	9013f68f18c83cde47b83fe9a1beca998ae4c432	Preparing mw.txt for proofing with various adjustments/correction
+2023-02-08	f7d9c0881b2977884116c15ae5426041b9f7d529	Create mw_AB.txt
+2023-01-19	547bc0de0da50dd0d30049341fc12eea2f44f01d	initial commit on 19 Jan 2023
+2023-01-19	46c56bb52cfae676c395f575e262509bccd94300	Initial commit

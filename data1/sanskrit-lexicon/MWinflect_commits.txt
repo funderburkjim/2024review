@@ -1,0 +1,83 @@
+date	sha	title
+2019-11-27	efea96eab2c9b73a4d32713c1504e7963a209a2b	Major refactoring in preparation for transition to csl-inflect repository
+2019-11-19	4fb825110ef6a3b262abb9e4853fa5a8f6c0942c	web directory for displays, analogous to fflex1 at Cologne
+2019-11-19	11ae744c1c52966ba4b3549a53d85e23e8474f9f	sqlite directory initialized for nominals
+2019-11-19	9bc0ed35ad3961b9b5f5f7d9d207cfb0dfd3a103	remove inflect/diff_nopada_m_a.txt, inflect/redo.sh
+2019-11-19	4d1fb4e84009b717a8aa9c28961aa87962cdf177	Minor reorg re nominals
+2019-11-18	39dc6e96418b078e71aec3f6d83e3b663107cb17	Don't track outputs/nominals/*.txt
+2019-11-18	3c8cabd73ac25bd40b9cca1a038c3d7893ee4387	rename stem_model_None to stem_model_todo
+2019-11-18	9b82aa6ff89c8f2fcfea3dce03ed208d1f71b1d2	Remove individual nominals declension files
+2019-11-18	24c290a310c62cd3f155a68da820ee4d01202f82	stem_model_None.txt : problems with inflection
+2019-11-18	78e355d2cd5ef99da3954c7d9633c60b5e5768de	redo.sh for inputs/nominals
+2019-11-17	88ee13db4adadcf1cf409ed54b82b877f0b32655	revise stem_model workflow; take duplicates into account
+2019-11-17	d03021157206ea31bb863f7fb935621264c60715	Put working notes related to stem_model into separate subdirectory
+2019-11-17	762f01f93dd8da29204ed773f187a5ef029e03b7	Refactor analysis files in separate analysis subdirectory
+2019-11-17	7a76c99b235a8dc5609fc03c64dc3b8a55067201	Remove individual stem-model files
+2019-11-16	fb7e09e0ce56530ac07d8504bdc274fc823eedb5	recompute declensions to correct error in neuter acc. pl. of nouns ending in 'an'
+2019-11-16	6a90756d10f6ede97a2fca0be7b4f79cb45c4611	1) refactor so decline_1cons a separate module; 2) add 'accpl' to correct error in declension of nouns ending in 'an'
+2019-11-16	f62186abb32f0974c6ba2a56a0edda279b42ccbb	optionally write refs
+2019-11-16	726ef647ddeae4303c62874f3b9af3c67a31980c	Revise stem-model inputs
+2019-01-03	fdaa95049b33b4e42c18d3c8b456cd0036c7c55f	Recompute declensions
+2019-01-03	7f679fd54934142cdb0f94b021aba3edd22e4184	Declension of nominals ending in 1-stem. initial work
+2019-01-02	09a3bd48aa827c82abdb3ac9297d1c73a491ee13	summary of nouns ending with a consonant and decline with the 1 stem models
+2018-12-29	1b8ae088ce101949ec00655a0abec4ddcba2ca74	Declension of pronouns
+2018-12-22	ea9d45e1c8276ac4ceb11de0594f75b9c2db754a	declension models m_card, etc.
+2018-12-20	d45c935ccdf1dd30a0864e1ead3d3498db0bef2c	remove debug statements
+2018-12-20	e0a3cff8d71a7a8d57670a517d93fd98d1eb695f	correct m/f/n_an models for 'han' and its compounds
+2018-12-19	3dc0e05a96da2e63b28d3f3700fc5f9480771b5b	declension models m_aYc, etc.
+2018-12-17	493318c9a50338102629d5ed6cdf1b36873d4757	Declension of nominals ending in 'an', models m_an, etc.
+2018-12-13	c6a34f8d8fce59ac96ea3986bed89369ef9b3297	declensions after removing apostrophe in 189 records
+2018-12-13	cd41cf0b8ea2034b4d8b8dd62f731dacf7bae110	Remove apostrophe from key2 (189 cases)
+2018-12-13	36d385c39ccdca48d9f7219f16f63cb412985325	declensions after removing space character
+2018-12-12	12027b8280b90176f95ddf75391e534ffa45d250	relabel some as card; remove when key2 contains a space character
+2018-12-12	ecb31dbb47c3557ff17e58f048c261deb3c69118	declension models m_us, etc.
+2018-12-12	7b5d6c47d6d52af0a21529cc59854970f0dcbb56	declension models m_is, etc.
+2018-12-12	345b65eaf6d074a272676599ba395e6842c0297d	convert stem_model.py and slp_cmp.py to python3; mfn_is models
+2018-12-11	b9b67786a3f49c9b31027270c706bc0f5e98627d	Declension models m_as, n_as, f_as
+2018-12-06	fa7eca5a707541fa4492ae11cafb93a42715c182	declension models m_vas, etc.
+2018-12-05	34a74b547fadbeb830873d5e3fc8fa0a12ccc1ba	declensions for nominals with model Iyas
+2018-12-05	1a2b037cae9f732e44a463ee1d3fc72fbe0cbcea	a couple of words reclassified as participles
+2018-12-04	b954105e17996a566f90aade394e2c276a1584ae	model m_vat, etc. and declension
+2018-12-04	5ca05198dbe9023028a4a29f2e6f277819b6ee52	Some 'yat' ending words classed as participles
+2018-12-04	b173365b6ef5178fa7e3f147c820d3a001afe881	remove 'LEXID=pron' from lexnorm-all2
+2018-11-30	0830c177212da7268621cb940cafa5b9630222cf	decline nominals ending in 'in'
+2018-11-10	314dbbfc97a303f4f58e9a7120cc28d9dc7ec178	correction in md1
+2018-11-10	5ce3eb3b31474f321272463b22a489efda2da909	Declension of nominals ending in 'F' or 'x'
+2018-11-09	7a3755fede18c686566da87f96dd1211d33bf57e	declension of stems ending in 'E'
+2018-11-09	41de7a50027cbc22793572552194447b64d11aa8	declension of nominals ending in 'e'
+2018-11-09	a73efab3799adcac6c77af5f0da9c8d06ef3e3e8	Declension nominals ending in 'O'
+2018-11-08	c0688c32c001339c8c9baaeddaee72798985f498	remove 'dyu'. See https://github.com/sanskrit-lexicon/MWinflect/issues/25#issuecomment-437168893
+2018-11-08	5eabbb4cfebd2ec00a5d5596187580d6abcbb422	nominals ending in 'o'
+2018-11-07	54860d1ba48c7a73fcb7314207c587a0d5159f9a	remaining nominals ending in 'f'
+2018-11-07	9dfbc7d315e6108c345fa1e24d6cdbf7cfe71dc5	remaining stems ending in 'u'
+2018-11-07	74984f9b8bb5dbdd24533663f1c29984053f8346	remaining stems ending in 'i'
+2018-11-06	4ed0e267c31f32bc359a1246e7aad7cc58b60fb0	remaining stem-models for nominals ending in 'a'
+2018-11-02	5a98de447ade66107f1e07a49dfce916a1e596ad	remove some duplicates in f_a1; stem_model for 'card'
+2018-11-01	7818cac6aa0ea071eef91ea87625596fd2f6c5e4	minor corrections
+2018-11-01	a75000f134d0eb2f857495c71bec8b8d0687f080	correct sorting in analyze_f
+2018-11-01	3d05c23836d9c9a62d5efa8d594870b302171372	declension models for nouns ending in 'f' (vocalic r)
+2018-10-30	064afab5ccc89f8840f87e4215f5ea0189ecb872	declensions with stems in 'u' and lexnorm non-singular subset of 'm:f:n'
+2018-10-30	e3572344d3c41d7bfeb8c5d8295dc566c0ae122f	declensions with stems in 'i' and lexnorm non-singular subset of 'm:f:n'
+2018-10-30	8febae946748b277538093677bc3ebc0c70b0d0c	corrections for 7 mismarked words ending in 'a' and lexnorm='f'
+2018-10-29	91556388c8eb4804d6bc1210c430577cbe81f489	decline records with non-singular subset of m:f:n
+2018-10-26	597f0bd5ef1689aec8ad98192063354eae1df4a8	n_u declension model
+2018-10-26	56db5cb212b8606c8152e36f6af4999c1c070171	f_u declension model
+2018-10-25	2ad9cc12d8697f4d78d04f52b8edc0881558a1cb	m_u declension model
+2018-10-25	a401079865bfc43ba4fad9d837294835b53caa1c	n_i declension model
+2018-10-25	a9b1c2f90afa305a09c0717a23aadcd80e8bb452	f_i declension model
+2018-10-25	b87c9f76f6741530742049f0f1389ad93318d9ed	m_i declension model
+2018-10-25	86b6358ef0e235d8d18889d2d459085d753d3108	models f_I and f_U
+2018-10-25	33aae3adcf1d24b68baecf58682d0d7b5cfca044	models f_I and f_U
+2018-10-24	437cb99871f93d202713117e3499aabe351e3272	model f_A and lexnorm='f','f#A'
+2018-10-22	a52c8fd724fa686b4357caf3be45336481c0c3e6	stem ends in 'a', lexinfo='n' - model n_a
+2018-10-19	2c512cc4bb8f9b0ead5ac885b5f746ff47de09e9	key2 structure impacts declension, m_a examples
+2018-10-19	9ba5e37471f0ce7dd573d06761eeaea40fb23950	Finish adjustments to nR sandhi
+2018-10-19	47272fb14aa19dcd852728ccbb46c9716edbe9d3	Disallow 'H' as intervening letter in nR_sandhi
+2018-10-18	5b10621267721406fba33df60088132ec34c3a63	checks of m_a model. decline_one
+2018-10-18	a3a4847cd54498e69141693ad9f1cdfa8c2a1e78	m_a model and declension
+2018-10-17	f9aa7d90b0ff166763186db3e884455ec7ecb6b9	model = ind or m_a
+2018-10-16	5fa1aaaf4e061c6f28e566c69160c950f7ba5471	removals from lexnorm-all2
+2018-10-16	b598f126ec378f37ce2df4dd10632f93acacd1f6	apply previous edits to lexnorm-all2.txt
+2018-10-16	035bd6fa64f57319e9076f02bdec51e7bc496b99	initial lexnorm-all2.txt
+2018-10-16	8c5f17cf6e1fb94fb819741553ae56166cdc5a2c	initial repository description
+2018-10-16	62cec0aa6bb12cb27829145f1313cedc5e5d4cbc	Initial commit

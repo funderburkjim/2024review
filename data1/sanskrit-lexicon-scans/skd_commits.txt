@@ -1,0 +1,9 @@
+date	sha	title
+2023-11-07	7964426a81c21d7475e94c439f3253de08ca0fde	Replace pg3_021.pdf. LB Ref: https://github.com/sanskrit-lexicon/SKD/issues/13#issuecomment-1792792983
+2022-12-29	36b38b13b9380500f430d816ebfe88ac8b043a4e	pdfpages volume 5
+2022-12-29	7e3ad48bdabeb95f5b78ccc0ee75b375f8c5c0ad	pdfpages volume 4
+2022-12-29	7939d70d54701e6ee2d32389e4d5375ffbe2f188	pdfpages volume 3
+2022-12-29	bd805338af56d17f452902bf49a93b9f9c6c1464	pdfpages volume 2
+2022-12-29	8297bfb3d88f2e0593416b34ae1eddbc9632b852	pdfpages volume 1
+2022-12-29	8cf94667536d7e4aff853dcc4dfdb4eac30e045c	Initial commit
+2022-12-29	df520079b795a4a782fded18ea849fbe073d5dcf	Initial commit

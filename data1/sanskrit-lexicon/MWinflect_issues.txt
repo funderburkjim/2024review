@@ -1,0 +1,49 @@
+date	issue	state	title
+2019-01-12	48	open	Nominals of 1 stem ending in h
+2019-01-09	47	open	Nominals of 1 stem ending in sibilant
+2019-01-09	46	open	Nominals of 1 stem ending in semivowel
+2019-01-08	45	open	Nominals of 1 stem ending in palatal consonant
+2019-01-03	44	open	Nominals of 1 stem ending in labial consonant
+2019-01-03	43	open	Nominals of 1 stem ending in cerebral consonant 
+2019-01-03	42	open	Nominals of 1 stem ending in guttural consonant
+2019-01-03	41	open	Nominals of 1 stem ending in dental consonant
+2018-12-31	40	open	Pronoun Declension
+2018-12-22	39	open	Cardinal number declensions
+2018-12-19	38	open	nominals ending in 'aYc', etc. and declension
+2018-12-15	37	open	nominals ending in 'an' and declension
+2018-12-12	36	open	nominals ending in 'us' and declension 
+2018-12-12	35	open	nominals ending in 'is' and declension
+2018-12-11	34	open	nominals ending in 'as' and declension
+2018-12-06	33	open	reduplicated perfect participles in vas, and declension
+2018-12-05	32	open	nominals ending in 'Iyas' and declension
+2018-12-05	31	open	nominals ending in 'vat' and declension
+2018-11-30	30	open	nominals ending in 'in' and declension
+2018-11-10	29	open	nominals ending in 'F' or 'x', and declension
+2018-11-09	28	open	nominals ending in 'E' and declension
+2018-11-09	27	open	nominals ending in 'e' and declension
+2018-11-09	26	open	nominals ending in 'O' and declension
+2018-11-08	25	open	nominals ending in 'o' and declension
+2018-11-08	24	open	citations ending in 'f', continue 
+2018-11-07	23	open	citations ending in 'u', continue part 2
+2018-11-07	22	open	citations ending in 'i', continue part 2
+2018-11-06	21	open	citations ending in 'a', continue part 2
+2018-11-01	20	open	stem models for nouns ending in 'f' (vocalic r)
+2018-10-30	19	open	citations ending in 'u', continue part 1
+2018-10-30	18	open	citations ending in 'i', continue part 1
+2018-10-30	17	open	citations ending in 'a', continue part 1
+2018-10-26	16	open	stem model n_u and declension
+2018-10-26	15	open	stem model f_u and declension
+2018-10-25	14	open	stem model m_u and declension 
+2018-10-25	13	open	stem model n_i and declension
+2018-10-25	12	open	stem model f_i and declension
+2018-10-25	11	open	stem model m_i and declension
+2018-10-25	10	open	stem model f_U and declension 
+2018-10-25	9	open	stem model f_I and declension
+2018-10-23	8	open	stem model f_A and declension
+2018-10-22	7	open	stem model n_a and declension
+2018-10-19	6	open	m_a declension -- pada
+2018-10-19	5	open	m_a declension algorithm
+2018-10-18	4	open	stem_model m_a
+2018-10-17	3	open	stem_model intro: indeclineables
+2018-10-16	2	open	nominals/lexnorm-all2.txt
+2018-10-16	1	open	Directory structure of repository

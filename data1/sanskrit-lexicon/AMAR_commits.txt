@@ -1,0 +1,6 @@
+date	sha	title
+2024-01-30	d2235bbd197cf9609fc1cd4e8713cc7a5a3a7224	gender info listed
+2024-01-30	b32522acb934b4b234ab90090fc8a82b3fcbd725	readme update
+2024-01-30	5a0b37adacc5cfa7fd9a3c40b5a1c5d24c5fe904	amar1 converted to amar.txt
+2024-01-30	9c1ac6fc71cbe682f48e800a69aba23273bdb40c	initial commit
+2024-01-30	7d064f3640c902cba65fc6c623ebfa3d90e16cc4	Initial commit

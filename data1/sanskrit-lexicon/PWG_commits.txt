@@ -1,0 +1,124 @@
+date	sha	title
+2024-12-06	aa9744891a65e9767e08bd08bf89cc87edba535d	#81 Revise correction to sarj
+2024-12-06	f969b4db6f5b3f79312a66c21df9367409475fcb	#81 - implement readme_check_bur---.Unsolved.Problems.txt
+2024-12-06	ab36bfae41ac5b418599dbe43515107ecb42d07c	issue81 - remove change_2a.txt. Not used. #81
+2024-12-06	bef0b949af330a49cff5937de715b7ca26415cf2	inital commit of issue81. #81
+2024-11-26	184547be72b279f54bf4210534e222784b0cd9f0	pwgissues table of contents readme
+2024-10-07	b179d060ca4d486d737b13f3b7f53f32082d1990	#76  missing vn added to pwg.txt.
+2024-10-06	366b4f51d8b63003481664a33174f3651aada4ec	#78 first test
+2024-10-01	941e5704e2e9fadafca3ad0adb5401a97e27f8b4	pdfs for VN pages integrated with Cologne displays #76
+2024-09-28	9d02d99f3e92dc573f646c748dd35572ddb4153a	#76. compare current transcodepwg/pwgtranscoder2/deva1_slp1.xml to prior version. LB The current transcodepwg/pwgtranscoder2/deva1_slp1.xml is slightly better. Use it
+2024-09-28	7662ef67a0d99a20c9d85c09c0ae4a6977eb94f5	#76.  vntxt_1_rev.txt
+2024-09-26	812777846b5751371d3ade8ac30f9ed6c60f20fd	slp1 accent corrections. vntxt_1.txt  #76
+2024-09-26	05b07230683179d84844c5e175498a2e18178969	vntxt_0.txt  transcoding of vntext_0_deva.txt. #76
+2024-09-25	a67a6b73c3872d978d1ccfba190787ee8b6e7971	Revise readme_cdsl_vn.txt
+2024-09-20	cc330be3ce08732e1c6816a6d831b57a64c20d48	Possible last commit for #77
+2024-09-20	94a012e129733ab68a237c4a2541ab3e3252ea66	#77 misc. changes 09-20-2024
+2024-09-20	fc8eff382ceeba9074f473c7b8c1961c0cb79b0d	#77 readme typo
+2024-09-20	230fe3166faf33f06f7cd68151c615bfb4fd33ee	#77
+2024-09-18	83d115bc09e9e1af2c2976b98ac76acbd18cc3f9	Revise readme_cdsl_vn, add PWGScanpng_vn_files.txt. #76
+2024-09-18	92a5375709483ff91608282d50d4ee6c4315170c	initial commit #76
+2024-09-17	8302073507329536282f54bb788af0840a36aca7	#74  version 10
+2024-09-17	3020d84a5f29e7c36cdac11e1cc24ccc132ec634	#74
+2024-09-14	b641d9b4fdda26a706ca8e0ba5ecc54912836ff2	 #74  change_4 and change_5
+2024-09-12	fac69210fd7b8b399b08d260b55c683c48497649	invalid adhyaya,shloka.  #74
+2024-09-11	02fbcb95ae2070da2c79330ac9ae8fc50b9036bb	#74 initial commit
+2024-09-09	4174b00b204511c96b5f4975cbccd84e720587a1	finish this issue. #73
+2024-09-07	e7a23c224471a1dfab7fa25d767647badd3bbb40	#73  Construction of link target for manu
+2024-08-01	1f6c65070baf67aac3e843a07cd117e74ec7bf09	Andhrabharati's index file for KATHAS. #70
+2024-08-01	44aa22fd871834dd4e8179e969228bde518208ac	issue71 work. #71
+2024-07-28	f9d4266834bb1ebfe1db8ffb86acaa1a423d0b24	Revise readme. #70
+2024-07-27	b6c3e77797363425f40ab0eb9bda34f94b4ae998	correction to readme
+2024-07-27	9a0a1731834e0fe8f792919561473de4d2feb808	#70  link target details
+2023-12-09	ff0e219acd732ac02a22da8326b296437bacfc7e	#67
+2023-02-03	d32d701366cff1156b7f7bb0aea8ea27cd7fb7dd	PWG: numeric orphans, 8 LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/65
+2023-01-31	8ddc432cf3bf06a7ac5f413abeafe769351f9c8a	PWG: numeric orphans, 7 LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/65
+2023-01-27	2b99d181b5cd4ae37b9bf1f00ce23714c4b2a422	PWG: numeric orphans, 6 LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/65
+2023-01-23	91369902d46dcd7c81c7f73031849b4a8e3a84d8	PWG: numeric orphans, 5 LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/65
+2023-01-22	11817b30410461dbf3496a92974607ba77c47746	PWG: numeric orphans, 4 LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/65
+2023-01-21	7834539900d16770ed4bb833dc54ae8a50b4f906	PWG: numeric orphans, 3 LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/65
+2023-01-21	63ce940bb53e07f5a3ac2214bba655d1f8a48f97	PWG: numeric orphans, 2 LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/65
+2023-01-20	89cd0879c3aada6313c5bd830587b029c1b0af09	ls numeric orphans, 1. #65
+2023-01-14	561c968533f003f5842161ba5e7de3e4b503f2e0	PWG lsunknown markup changes. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/64
+2023-01-14	dca55966f47ad7009ddc3c0bf6593688cdbe0fde	some addenda to amarakoshas (ak) ls work
+2023-01-09	f6ff68c61637da7d4430acf1455c8fb931b82e34	comparison with Colebrook
+2022-09-12	e5b0fc0461c119f18e079c3ca279f0359990d49c	LOISELEUR DESLONGCHAMPS edition of AK. #62
+2022-09-11	7f33eb799a77a7add8886d2d355db3ee9349e4b3	ak_verse_list
+2022-09-11	4d4da4f3788a5744177210ff455622a718714403	classify_1 summary of AK ls markup
+2022-09-11	a5ed59aa84dbb7aef92646fb788115e1dcbcf24b	lsextract_pwg_1 in AK directory. #62
+2022-09-11	c6f01b576458737fa0dc59e0f0875d57a14c5151	markup for AmaraKosha literary source. #62
+2022-06-26	e6485244943279a204d992027560d85e00a675c5	period + space + digit  in <ls>. #57
+2022-06-25	2c3c9a4d211947259dddf2187e6c8e42f9c6dc68	minor ls Ramayana revisions. #57
+2022-06-24	bb04a92f11177b9629bbe0760ef3c334fe4c2ccc	ls markup for 'ed. Bomb.' and 'ed. Calc.'.  #57
+2022-06-23	32623dbcf28d51f24b99341aa36bb5322433b4c7	Ramayana markup in pwg. #57
+2022-05-24	697ca09b646f564ecbb888f30959e4023154d596	greek text refinement. #55
+2022-02-27	4ff62c2e02478085493a779331cf01543033311e	P. (Panini) markup enhancement. LB Ref #51
+2022-02-24	0898e393d3a035f60403e3d8509eaa12eaf2c571	AV markup enhancement. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/51
+2022-02-23	45eaf3877707594e51c5989275404ea3c17580dc	PWG rv1 Rig-Veda ls markup improvement. LB Ref: #51
+2022-02-19	a09412ad9c947ab9bafb17b5d0e0215204457100	PWG MBH number ls markup enhancement. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/51
+2022-02-14	58f1f8d05a025c3e9fe08ccc8bcaed50f42f2c25	correct pwg_ls2/mbh1/pwg_tooltip.txt
+2022-02-13	6c639efbe1ca0e3ee0889a60c83e340ed52a21a2	PWG ls markup. Ref #51
+2022-02-08	7a0cd64c904a9326151f0975a51f9ef1592a2061	Improve markup of links to HARIVAMSA Calcutta edition. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/49
+2022-02-04	45eb6def9952b84765856668fac29b4960874fa8	cleanup  MBH ls instances in pwg.txt. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/48#issuecomment-1030412193
+2022-01-23	3003c07b55805286e48d7b0626f83a6ad8cf7853	Further corrections re Spr. (II) markup in pwg. #45
+2022-01-22	aa1febb4460167172f4934f1ffab66ea68452c78	Spr. (II) markup. #45
+2021-08-16	04d474dc74eebe882dd01a9b6b634bec2f3f6902	example3b font comparison. Ref #5
+2021-08-12	c5aeedb3a2a3e828ac15f411e07ecfd18d16ceaf	example3a:  compare fonts for 1700 conjuncts of Vacaspatyam
+2021-08-12	781f062a4cf68d8c3d65962a31936a4c0eaa85a7	correction to example3
+2021-08-12	d22afa347024ff8e63dc959bf198de070e2ee557	Common conjunct consants as rendered by siddhanta and adhishilafonts;; LB ref #5
+2021-08-10	546ec416788aaa2330ca23254b65fe8e7c0bbe48	accentdisplay example1
+2021-08-10	eceda71ad780d3b408db43442e6e6f64aaa4c9b1	pwg.txt changed so accents not after M/H.
+2021-08-06	b6525fc716f497c97726bc21406a7e5be8a9816d	programs and results used for pratishakya ls reference changes. LB Ref: #41
+2021-07-28	8408963b1b0e62b5b72aa597f21e5d21b7da0769	PDFs contributed by andhrabharati re VN (corrections/additions) to pwg volumes.  Ref #37, #39
+2021-07-28	7672b9813aa23aea721aa0d94cd286e803ae1302	Version of VN text prepared by Andhrabharati. LB #39
+2021-07-25	5fe2a9ebb2fbc526e0b5e0c7aaa2fe246efeb9b5	pwgheader file -- lines deleted from original pwg digitization. LB Ref https://github.com/sanskrit-lexicon/COLOGNE/issues/196
+2021-07-25	657b4da23c7a00d5ec074ba82a77b0ecde81b432	Readme for RV ls work
+2021-07-16	a78c99a23b5c952f93e4ed3be914533993b03b78	Literary source references for RV.  #38
+2021-05-17	d1b2cb979cdff0d020697ffb4610010f134787c8	Change links to pwg images in readme.md
+2021-04-17	7aff9d2cd78cb9280402f0151be5959c41249f93	Undocumented revision of verbs01a
+2021-04-17	cde6b7fd108df1b5e54abb00c3670b4b04b600f6	pwg_ls2/01 initialized
+2020-07-07	916b5bd009b02a7a555692658558ab585a4bc1f0	correct some mappings
+2020-07-07	eef632b3d575415f922fb1d6ded2d789cc2a929e	verbs01a: use sanskrit-lexicon/MWS/mwverbs/mwverbs1.txt
+2020-04-18	934805d822b5ce71dc8a17d2b9bea0bc2487c41c	revise readme.md
+2020-03-08	c64280aafef42db88a181785b01ea9d4371f3212	verbs01a.  pwg verbs
+2020-02-29	6b410a88529c653f68469eb63c06ee6ae48e22ed	verbs01 initial commit
+2018-01-04	37581392834bf454ab617c0d0fa247aef5d2480d	Add russian work at c.2114
+2018-01-03	44f652c2088d739f405be8ae5f2635c65b97c53a	expand ŚĀṆḌ.
+2017-12-20	44a5933849be8fa5be398538f4ed57f71d0c04b6	Template for pwg abbreviations LB  LB Based on similar file for pw dictionary. See LB https://github.com/sanskrit-lexicon/Cologne/issues/197
+2017-12-19	6f4747ea36d93bd5b174252d7b1173ace4accef1	Untranscoded AS (letter-number) instances LB  LB See https://github.com/sanskrit-lexicon/Cologne/issues/195 for LB discussion
+2017-12-19	80d34290ef425561fe1f417730c32651b4dedf39	AS to IAST conversion in 'is' (wide text) LB  LB See https://github.com/sanskrit-lexicon/Cologne/issues/195 for LB discussion
+2017-12-19	0da5cf1e0c3adbc0199c7ce337e33d917e30d110	Summary of AS-modern IAST changes within <ls> scope LB  LB See https://github.com/sanskrit-lexicon/Cologne/issues/195 for LB discussion.
+2017-12-18	c1066c1d10da70b1f78a0d678a2eda420e42f11d	Transcoding file from AS (pwg) to modern iast
+2017-12-18	c10b17f93437f53bbf762a5689be95751b4e9c09	10k ls cases to be parsed.
+2017-12-17	58bd5ee7dabe82395caa5ec96c9bbf1914b8a02d	make pwg_ls1; add pwgauth from Cologne
+2017-03-10	4d8129778bb4a1a7f6ecfb5991cc31ff53a74ad1	abbrvoutput directory of intermediate work
+2017-03-06	a907f6e872dec2c0f655ed3604f9cf844b05a8d4	add matchcrefs
+2017-03-04	6455c28394a0034b81ac5904d313d54c9b01d70d	main results of abbrvwork. LB  LB pwgbib.txt starts as a copy of pwgbib14_roman.txt LB pwgls.txt gives the current matches.  It is constructed by pwgls.py.
+2017-03-04	1f62afae8bb8a6d3d957f613b98c0ff257b841d8	abbrvwork LB  LB work to match pwg.xml ls elements to elements of pwgbib. The output to LB abbrvoutput subfolder is not retained for size reasons. The
+2017-03-04	8c9a0edf70a59ae333de35df7c1b8ba4de718602	abbrvwork_v0:  original code LB  LB Keep as a model of how code using list operations for deletion and LB counting can be very slow for big lists
+2017-03-04	279394642aaa6a49445864e54bc38663060f6d9d	remove pwg_ls/pwgbib/displayprep from tracking
+2017-03-04	d2573f3be762fb0c382b1833907827bc3c76d7b7	revise pwgbib14_roman
+2017-03-04	b88dfebe4335e2c770e4c87433f28815bce50c1b	add old* and abbrvoutput* to gitignore
+2017-03-02	d931936da5f40075c5e49fa76c60d1163f99d7d8	Revise pwgbib14_roman.txt
+2017-03-01	a9e894358858917109dbea09bdf7337395247b6c	Join all three pwgbibX_roman files into pwgbib14_roman
+2016-07-26	7c6eb08ae4dc797611a420fc3653e2a7744032dc	link to scan for references in vol. 4
+2016-07-22	0cf8eacb55ce2163827b9420da32caf49367ba53	minor revision to pwgbib1
+2016-07-21	3c65cd726ece7e70cd8179e31396a3d5a1f480ce	proofread pwgbib4_roman
+2016-07-21	d6627099c54df65bf489d233a04de83396a82f4b	pwgbib4
+2016-07-14	ac186ed936bcbfce5775f6dbca8889f0a4ac3e11	Proofread LB  LB Proofread pwgbib23_roman, fixed several minor mistakes mostly converting LB errors).
+2016-07-13	1a08585bc1fcd2f989e559bbcbd332cddcbed8c2	Bibliography from vols 2,3
+2016-07-12	e39fd534dcd41aefbd1a6e1ff8ac376a5f270084	construct pwgbib1_roman.txt
+2016-07-12	922055725754bfb08b5124a8d2ad6ffbf5e15a5e	Construct pwgbib1_roman.txt
+2016-07-12	574a99011ac6305fba55414cc5f9d4e3563c9a24	change BHAT4T4A BHAVABHU4TI to BHAT2T2A BHAVABHU4TI LB  LB consider T4 (T with acute accent) a print error. Only instance in LB pwgbib1.
+2016-07-09	6beb5a03bdd8d605fad8ea1463655ed1090bef70	revise readme files
+2016-07-09	c31cd1404bd6207f6b303b225680ba52d2740a28	revise reame in pwgbib/digitization
+2016-07-09	7f6fb716623502d2fca3061ada552bdea9bb4197	Add original digitization of vol.1 source abbreviations
+2016-07-09	c2f5616073cbaae429bad794150a9a841831f4f0	readme for pgw_ls
+2016-07-09	7044bf8459de4b9e26db2bca356f90869a36bc48	add gitignore
+2016-07-09	6209703db817b52771326338c3a74f14518b3cd3	Reorginze into RussianWords and misc directories
+2015-02-06	b21c92aef778d8e29130e427f72c3b95e3c714ca	Lost file
+2015-01-26	7cde7df747c62721e407e2b806ebcc0ae79eed0a	PWG Russian words LB  LB https://github.com/sanskrit-lexicon/PWG/issues/14
+2014-11-06	087a677e936238dbe8854aab5158757f8d6ffc9e	Conversion of PWG sanskrit to SLP1 LB  LB readme.txt has the summary
+2014-10-05	5221d87ec45e15fcf16b3ee254c4d43eb7a10292	Stat added
+2014-10-04	200cd2073f4f69099dceaf5936b34f1a702fb0db	Update to Jim's PWG Accents LB  LB GitHub discussion: https://github.com/sanskrit-lexicon/PWG/issues/9 LB related to accents.html LB Screenshots of PWG entries (a, anu, aheLayant), not headwords (aha/m, LB a\kzA, anu^) from scanned .pdf. LB NB: Devanagari (= deva) display based on Siddhanta-Calcutta font has LB (not only) अ instead of default अ. It’s closer to the “French” font used LB in the original Petersburg printed dictionary as well, see A LB (pre-unicode because of funding issues, the scan’s could be reproduced, LB only the specific udātta is lacking). SLP1 samples found in pwgxml.zip. LB On Cologne’s website IAST = Roman Unicode in the output dropdown menu.
+2014-09-25	a6b29a2159b705b2f41121aefd8e3121bc9d2517	3/52 Russian etymologies fixed

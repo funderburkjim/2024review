@@ -1,0 +1,5 @@
+date	issue	state	title
+2021-10-05	4	closed	Bypass git pull
+2021-10-05	3	closed	Update 15140.txt
+2021-10-05	2	open	Allow better content presentation
+2021-10-03	1	closed	Readme requested

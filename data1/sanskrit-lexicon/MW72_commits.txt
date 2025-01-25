@@ -1,0 +1,6 @@
+date	sha	title
+2016-11-19	8d1d9de1b5be28f877aa0b3d60d4f8a7547371fd	correct check_ea, check_ea1 and rerun
+2016-11-19	5cf4de93d91cc82b210c1a1b2c1ecf67ee53d45a	finish with corrections from prior commit
+2016-11-18	6152839e897dcb4368ffc4553ea0f3faf86fc96b	revise for corrections to mw72
+2016-11-16	4075513558227c5d97bca90f97b89c2599b628c2	20161107 initial commit
+2014-08-24	1f9d6101296f9fabaaaa4cb2444babfbc9bea86e	Initial commit

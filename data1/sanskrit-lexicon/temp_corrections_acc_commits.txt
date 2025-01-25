@@ -1,0 +1,29 @@
+date	sha	title
+2021-09-03	a779410347d9e3e791dcbf3a075fe1a82e468dca	Sampada's first commit
+2021-09-01	e6bcd81de48fa672af8c8092fe4f278d27f69380	Removed [page] and blank lines in  ben_abwork_edit.txt
+2021-08-31	8053f4191a63d35d3df87bff510435da72fa5140	Sampada's first commit
+2021-08-29	3b54318b2d01ba1df19881933c4bf571cb7b4ee7	First step of benfey abbreviations
+2021-08-18	cd434c18c3f685068aa54479352f90e85ce57a5e	minor edit ben.txt, ben_error_todo5.txt
+2021-08-17	1282f59f4f6b2aeb59408389b35f60107c400eb9	Sampada's first commit
+2021-08-16	5d523328132cc6b618fe41473a8bb6f5004770e0	Prepare benfey english word corrections
+2021-04-03	9c503d27d1269c7dbf98bc0a888ea152e052ceb6	Jim's review of mci corrections
+2021-03-26	6486e2949b78e33961f5d1d4621ba78c1289cfa5	Sampada's first commit
+2021-03-22	6b390db2cc0cc3d4508b1d3ca5c3f1480a31f61f	Prepare mci for Sampada
+2021-03-22	846f9ad61834fdd13cc88047c79b8a02372a10bc	Jim's edits
+2021-03-22	2feffdbe8638cad5577da68e93dffdbf4f23073d	Jim's changes (2)
+2021-03-22	171097fe9e1ca6e4192b1fab1839f7e41106945e	Jim's changes
+2021-03-21	16efc246be2f6429124f50258f46e40fa3da3ba4	Sampada's first commit
+2021-03-14	c42b413f38ca0ab1527ce902d63baa5434d7ef4a	Prepare inm for Sampada corrections
+2021-02-20	ef9fdcf722be61266d8c8867ee5c2af292e79c53	Revue of Sampada's changes to Lanman
+2021-02-15	5ebbe59015264eb06632a18a505343df478c007e	Sampada's first commit
+2021-02-08	965a3d966e33bb1eccd9159ab5850d0154c66ec3	Initial lan.txt and lan_error.txt. LB Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/52
+2021-02-08	78ba50d1058999fdf2e733e8234606f00a8b8cb2	Jim changes for ieg.
+2021-02-06	6335f4e2ed0423286428d9eabadda7ae0b3de70c	Sampada's first commit
+2021-02-02	2a10b8e62d6f7a7f7954eb48df99715ee9f6925b	Prepare ieg.txt and ieg_error.txt for Sampada
+2021-02-02	a7c498ced541b8ccc94aa3f569a8ac102e49bd39	A few more changes/comments re gst corrections
+2021-02-02	0e3f4c064c43d9d4aa29d51555030cc402866cc8	gst: one  additional correction
+2021-02-01	40ad25f08ebeba35f322b203b9bb4bbefca77759	Sampada's first commit
+2021-01-27	67bc49b8cc7129e1919b0b7fac0ce9c11e1d65aa	Prepare for Sampada's corrections with gst dictionary
+2021-01-26	dd68c5fdcde3737826a514aacaa1f42bf4c5ed88	Sampada's first commit
+2021-01-23	90579df362a2ec284083de8ad92aa73fcaf376ea	Initial commit
+2021-01-23	4dbbcd8800697a14ed2cb5bbbcf8a77ab6fed4f0	Initial commit

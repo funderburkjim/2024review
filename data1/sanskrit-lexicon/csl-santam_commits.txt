@@ -1,0 +1,17 @@
+date	sha	title
+2023-01-19	a6fb4f6515b1ce45bf25ac175ea86496f304ba92	Use FILTER_UNSAFE_RAW instead of FILTER_SANITIZE_URL. LB Reason: so 'dog cat' handles properly.
+2023-01-19	5a799de70b6bdeee8f69b56b4e05fde5693925c0	PHP 8.2  use FILTER_SANITIZE_URL instead of deprecated FILTER_SANITIZE_STRING
+2023-01-02	661109bee373f86a57260ee2b1bc630667575601	Restore 'suffix' option in search. #2
+2022-12-27	b2a11cc6dafe36f3fe9e6ca62f29956472108c5a	local version of CDSL.pdf. Minor changes in readme files
+2022-12-27	98efea98924f59b916552ed2549fd84cf3701bb5	Remove 'ALL' option for Maximum output. LB Minor changes to index.html
+2022-12-15	779f55b50bc8c3ae603e9e0b2ddaf335c08b23fa	Correct error in where1
+2022-12-15	9ef7c3a885579ff2e26f3f333182dd98f167fed1	php version initial commit
+2022-12-15	5e15c476c70f19a56c12821c33f7e05c492f5e26	Reorg of Perl version into Perl directory.
+2015-06-05	f2aea5d051f2065a2e4428878ded4a4d0989e3bf	update readme
+2015-06-02	30f545eeacd4ff107375805c03b09d124057fcda	update readme
+2015-06-02	d2b994618aafb2e1904d332be76aa91825225001	under construction notice
+2015-06-02	864300aa215d0b61eb845551c6638bacd891eeea	Initial commit of programs and data
+2015-06-02	49667ab67aaf5e12cc9da118ef5407d7a06e0775	remove two emacs bkup files
+2015-06-02	81e174f10fca715dd49530d0e2bc8463b5a5f2c8	add gitignore
+2015-06-02	4fac015f66240b659072efa98f46bb414a34305b	Add license
+2015-06-02	a491478eae19363438d8be931c7bfcb85e0d5d34	Initial commit

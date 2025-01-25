@@ -1,0 +1,25 @@
+date	sha	title
+2024-05-09	28f19db3f4228631e1b0c08d1fd182a2a34a4e6f	#6 Finishing touches
+2024-05-07	c13c96b09ae36474a49c407f354b8f51c50cf27d	cdsl revision of bop.txt compatible with BOP-Main-L2 file. #6
+2024-02-09	88e9de83574763a0d278775aacc6752d917a48cc	Anglicised Sanskrit continued across line breaks
+2024-02-09	d1094692cf9a6f31a6f88dcf22e905e5c330aa0c	Sanskrit quotes joined across line breaks
+2024-02-09	fbe5f8a0b3645c1d6abeb5fc1b2d265a24499c62	improvement
+2024-02-09	c668563c754aa45017c5f1a55d3033547d1c7631	bop1 regen
+2024-01-16	cb8869d051fad609b89aa2d4b5eed06b78d00248	tab separated replacement lists
+2024-01-16	785feb5c3b99e1118ab20fbe06cf4fa4f3942cdc	bop1 started
+2024-01-16	e355becb931ac1d4d602eb1a7d1b813e40d7f905	BOP update
+2024-01-16	429ef002bb8d0f67551c9399cd77ac8c6eb66d79	playing with opcodes
+2024-01-16	68454d67b4194fc2054aff2a5b1aaae70b6e3cfa	trial for BOP
+2023-04-22	1b74d6c4fef16ce603c2d69e27e877d388fd28ee	bop russian, slavonic corrections. #5
+2023-04-20	90419412910f7bc38c727ded9d58537a7fad6b05	update readme for issue5
+2023-04-20	7d78c9f65608c3f92333f4c279a85b5d686c29c7	extract_slav for BOP. #5
+2023-04-15	4900a2750e30943f4efd5e48e42dff9715cf91f4	Update Slavnic text. #5
+2023-04-15	7518e266d2d7e67bbbf65dad50d523ae4d75a026	Greek Proofread.  Ref #4
+2023-04-13	ecad9cad155bb5c3c7276beb0a0c907371237254	#4 - change_2.txt Batch 2
+2023-04-10	a16e7240a909d5fa2fcd16663b9303ea385274fb	#4 - change_1.txt Batch 1
+2023-03-24	29d99d63d6502b74b8576b9306a2e41096377369	issues/issue4 work initial commit. (Greek proofread)
+2022-05-24	c128bd3b99a533cba922e8010626e8ae137dfacd	greek text in front matter and addenda. #1
+2022-05-23	184959b657caff556d613234bd0310e21f420589	edit readme for greek
+2022-05-23	e107de0f2a971217c08bcaf048362b781c0a2cfb	punctuation after greek text. #1
+2022-05-04	4465d3a1ac6c16c4b27a66284b93e1de3d988200	Greek text addition. #1
+2022-05-02	8ffbd85124117b1ef659bfeae24b2a50cdbad1b3	Initial commit

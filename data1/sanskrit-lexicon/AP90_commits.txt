@@ -1,0 +1,35 @@
+date	sha	title
+2021-08-26	48f652d5623372ffc79090c6c486f1c61f4ba1a1	Merge branch 'master' of github.com:sanskrit-lexicon/AP90 LB Prepare for ap90ab_v2_suggest upload.
+2021-08-26	3fce1ca3f2efea5e9facfb0c8c88895e6cae5ea8	ap90ab_v2 suggested changes. LB Ref: https://github.com/sanskrit-lexicon/AP90/issues/24
+2021-08-17	ad1e70a79979d320d5c351430dd0603102fe397e	Delete -ya conjuncts and accents.htm
+2021-08-17	e6d804bd6c2997de3065d4ceb779ddee0f6b553e	Create -ya conjuncts and accents.htm
+2021-06-26	137b5416f22d5b5567dd36a0a3342b54df6310eb	ap57_90 literary sources
+2021-06-23	2dc966e36ff0515046539687ee64b3deef1ce320	modify slp1 of apte_s2h_works.txt for Andhrabharati proofread. LB Ref: #17
+2021-06-17	aaa8a46beccd876472714227d638aacf7280ce71	Update apte_s2h_works_deva.txt
+2021-06-17	b93f6bdc1f79fe9286bbc1d3835837dd64099e48	Update apte_s2h_works_deva.txt
+2021-06-17	691c7c819583fc7aa91b3ca78fb2e827f168f7ee	Update apte_s2h_works_deva.txt
+2021-06-16	b086e003a0b4f040aad1305c5fe3ba92248a8c38	Correction ap apte_s2h_works
+2021-06-16	9e7c936fff270d6dfbafd60f9303d9db88c1fd79	apte_s2h  list of works; LB Ref: https://github.com/sanskrit-lexicon/AP90/issues/17 various comments
+2021-05-28	f7c78ef15665473f1a10563f8a3faea2fb20cd58	Create ap90ab_v2.txt
+2021-05-28	6d7bb52ae130bd13dd0eaa1710ee7747164463e5	Change halant+vowel to -+vowel. LB Also, some numbering corrections. LB Ref: https://github.com/sanskrit-lexicon/AP90/issues/18#issuecomment-850218596
+2021-05-20	b71295e65cf7e01a6fa53a89ab8bb577720155f3	edit andhrabharati readme
+2021-05-20	11058d911cdba0872a120c973467319e437af7bc	Andhrabharati coding of ap90. Initial commit
+2021-05-04	417d55a540ec275b8643fd48b2f791dee21c6c87	compounds based on AB_AP57. #5
+2021-04-30	40fd96740bca9a434b9a8372fec13a37086a41f2	summary statistics of literary source abbreviations
+2021-04-30	d2f4fa362e914f936834adf9fdf31a540372bf6f	ap90 literary source markup, continued. LB Ref: https://github.com/sanskrit-lexicon/AP90/issues/11
+2021-04-22	84eed14fe4b778dad94007df4cc5ba3dfb869326	Merge branch 'master' of github.com:sanskrit-lexicon/AP90 LB edit the commit message. (absl -> abls)
+2021-04-22	9a4a81f75a1d614d403a441a59be4bd2e0c8c7bd	abls initial commit. Ref #4
+2021-04-22	0868a51756539b940131f74546183cff43fe31a3	absl initial commit. Ref #4
+2021-04-22	eb7f666ad892d26110d6038428da47d2a3c628e0	change name of folder 'hyphen' to 'markup'
+2021-04-18	16c314b653d92c058f8f56d95e7320b7c590b436	Merge branch 'master' of github.com:sanskrit-lexicon/AP90 LB Why did this happen?
+2021-04-18	eeeef458dc18eb413609d7fca66aceb74153944b	Devanagari hyphenation at end of lines.
+2021-04-18	da91e0b748b4c4f38ff9d9cdbb0f8c274bba2753	Devanagari hyphenation at end of lines. LB #7
+2021-04-14	f45057aebe6ded0a1a98e18baa03f6d061a7e296	non-Devanagari hyphenated words. LB Ref: https://github.com/sanskrit-lexicon/AP90/issues/7
+2020-07-07	235a491fd45219e8a51ebcccdbd62cc16fa633ad	revise mapping
+2020-07-07	cd7f78f2a784ba65c537e787990735f4148f5626	Use sanskrit-lexicon/MWS/mwverbs/mwverbs1.txt
+2020-07-07	b764fe90f7a42a13ee6f151eb000f3125f10a9fb	ap90_verb_filter_map.py maps 'svurcC' to mw=svUrc, rather than mw=svUrcc
+2020-04-18	2c74ae5ec39a960478ea5eef374f9fca114a8ed5	revise readme.md
+2020-03-16	2c30e42dfc907c27c87aaaf532e231e7315f1ec0	verbs from ap57, and comparison to verbs from ap90
+2020-03-16	654a0781729a3162165aa5c1646c90953e5ab719	additional verbs found by comparison to 1957ap
+2020-03-14	b96fa717ea4cefaba934cc4cd669dfec1253c03a	initial commit. verbs01
+2020-03-14	1f2709b23b87ebeea212a51599cab2d691dc73a9	Initial commit

@@ -1,0 +1,12 @@
+date	sha	title
+2025-01-21	5fae557fb14a4494a4537e4a434817321a93136a	change to index for pdf 1748x. LB ref: https://github.com/sanskrit-lexicon/PWG/issues/83
+2025-01-21	403a8664f3576f6bf84f38e9244ca9eb2e18f3f6	code and index revisions to use the 6 new pages. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/83#issuecomment-2600726790
+2025-01-21	21f696e3ddaa632e4c175900bce7394fd7638fdb	Add 6 pages (1428x,y 1540x,y, 1748x,y. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/83
+2025-01-21	dfb08fa7e01f63348cd2297eef96b2693c121a2d	Correct oversight in Bombay.BhP.index.txt LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/83
+2025-01-18	1ab629dcf251b2cb26f12da87e1d9c3c5e4b83c9	Two adhyaya corrections. LB verses 4,18,1-12  missing; also verses 4,18,1-12  missing -- pdf deficiency. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/83
+2025-01-18	20633b3259b658def0d24806e6bae7c0094bb0db	Revise index based on diff files from @Andhrabharati. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/83
+2025-01-10	8f9e143b1eef3d0202290df5549f42b53faee1eb	minor edit to app1/main.js
+2025-01-10	db7fdcfcfe95a0b24d7e9f2dd9384f1c6ccbc24f	app1 initial commit
+2024-12-30	bdaf56edeaac4c23f4726e5e6ac905054172a079	init docs
+2024-12-30	d47fd968523ef5261819bf167fbdcf5aa2a2b8e8	Initial commit of scanned pages
+2024-12-30	87ca94d5028d174d0299f237e292d0e18e6b942f	Initial commit

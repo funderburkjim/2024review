@@ -1,0 +1,41 @@
+date	issue	state	title
+2024-11-15	40	closed	upgrade jquery to 3.5.0
+2024-11-12	39	closed	clickable link to page in "rev (page,col)"
+2024-03-22	38	open	hiatus in input=simple for simple-search
+2023-12-15	37	closed	akarna bug in simple-search
+2023-12-10	36	closed	Simple search for ABCH, ACPH and ACSJ
+2022-12-11	35	closed	change pdfpages location
+2022-12-01	34	open	input bug in list display mode
+2022-10-26	33	open	security message from Github
+2022-10-26	32	closed	simple-search ap90 div bug
+2022-10-23	31	open	simple-search on localhost
+2021-06-22	30	closed	getsuggest bug: sura
+2021-03-24	29	open	Preferred Ways to Quote Cologne Dictionaries
+2021-02-15	28	open	Latdict site UI
+2021-02-15	27	open	simple search, v1.1a
+2021-01-25	26	open	simple search, v1.1
+2020-12-24	25	closed	getsuggest.php gives two blank lines before JSON
+2020-12-17	24	open	orphus target for corrections bug
+2020-12-11	23	open	jquery.cookie
+2020-12-10	22	open	simple search with Exact ID
+2020-12-09	21	open	simple-search:  address bar consistency
+2020-12-09	20	closed	.htaccess for simple search - oddities
+2020-12-05	19	open	Request shorter URL for simple-search
+2020-11-29	18	open	Add Lanman to simple-search
+2020-07-30	17	open	.htaccess for fonts
+2020-07-17	16	open	refactor dalGlob 
+2020-06-09	15	closed	Remove www from /simple/
+2020-01-20	14	open	shift transliteration browser side
+2019-12-15	13	closed	Where is simple-search?
+2019-11-12	12	open	'doc' directory
+2019-10-03	11	closed	apidev now uses the '2020' data
+2019-09-15	10	open	Path wrong for `<pic>` element.
+2019-09-12	9	closed	dictinfowhich revised
+2019-08-26	8	closed	dokuwiki documentation of api endpoints
+2019-08-26	7	closed	Reorganizing servepdf.php
+2019-08-16	6	closed	ID= overwriting
+2019-08-13	5	closed	Reorganizing listhier.php
+2019-08-07	4	open	cleanup of apidev functions
+2019-08-06	3	closed	remove dalwhich and related
+2019-08-02	2	closed	cleanup old files
+2019-08-02	1	closed	cologne symlink to apidev

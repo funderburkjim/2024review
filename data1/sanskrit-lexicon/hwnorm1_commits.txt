@@ -1,0 +1,158 @@
+date	sha	title
+2024-03-25	00164cccb369ea41bfcd02439a3ff99ba718dd80	Revise normalized headwords after many new 'alternate' headwords for pw. LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/106
+2024-02-09	e084e8897d880b872ccf5bb159b6a911c2c4c0af	Append pwkvn to pk. LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/104
+2024-02-05	77b7249de1e9afd8c07ff999c87dffbe15118ae6	change mw headwor suzupsa to suzupsu. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/161
+2024-01-26	aa84220e7f51fb7f13ada2f5e7f9c76b23859395	sanhw1 regen after user corrections
+2024-01-15	3e208013e69ce6aa551f3e20151f3e29e65facf7	hwnorm1c regen
+2023-12-29	04ce0f641177d2b4b590fec38779d5e6f44fb48c	sanhw1 regen
+2023-12-25	ac530eddc5ab625d7ba8745666bc8262554b7e73	sanhw1 revised to exclude '' (empty string) as headword
+2023-12-18	3b3a36fe376824f007733f471ea7f6eb493ea452	hwnorm1  revised to include pwkvn dictionary
+2023-12-17	574da32309978dc75a3cfbb10ea033b4c10c2ed3	Merge branch 'master' of github.com:sanskrit-lexicon/hwnorm1 LB Integrating with Dhaval's work.
+2023-12-16	1537ab57c9b6d43cbd95b9a6fd735f2a054d3727	update till 16 Dec 2023
+2023-12-15	4293eabf4c15ec3b0a668b072e9e83ed222d2b7f	recompute hwnorm1c
+2023-12-10	29978669ea4662a406894c88fee75e9c8e9e0216	APCH and ACSJ sanhw1 and hwnorm1c regen
+2023-12-09	8daa31f7a0c6c136952e1b637584c7892184f78e	ACPH ACSJ added in sanhw1.py
+2023-11-24	ca3c9b736e248db2ec862854860d702cdb24c5e8	ABCH: Ref: https://github.com/funderburkjim/kosha-dev/issues/23
+2022-10-23	f3e9ab96ea8aa5236fe83301a414088d2b931f72	regen with LRV
+2022-01-13	ff505196fbe2b84c3ff04fa0398628d4c493aa57	update hwnorm1 and sanhw1. Ref: #19
+2021-07-06	0191c46e0af1788aeb516ae6da75429a0b59136a	extract.py -- alpha version
+2021-07-06	db5e58b78e5f36671e1a5bcefa1f5eef3923798a	Redo  hwnorm1c, sanhw1
+2021-02-04	868f8a5d3f385f038832ae67b76ed4384ef49171	Correct for hom 3 vayas error in LAN
+2021-02-04	583e8c89af3e5df4faad632d12f3c001f4a16176	revise sanhw1, hwnorm1c for armh dictionary
+2021-01-10	3cd8c13cfad087aae1bc08c11ca7a9b19676cdcc	Recompute sanhw1, hwnorm1c after corrections to LAN; LB Ref: https://github.com/sanskrit-lexicon/hwnorm1/issues/18
+2020-12-12	af817cd41efb0bc7cad5dbe94fdf9c4b3114e7da	rename readme.org to readme.txt, as the .org file does LB not display well at https://github.com/sanskrit-lexicon/hwnorm1/tree/master/sanhw1
+2020-12-12	1516693f0e72ae0fb6364f04511ba16947b4ee29	work on ngrams -- namely 4-grams
+2020-12-04	5e48b66de4bad0c27e7cfe111eeaf1f36bb776a8	Initialize ngram data. Bring code up to date. Print rare LB instances
+2020-12-04	d30e8942581ff7e069023f7e57d45e53a512dcbf	Revise distribution of headwords in dictionaries. See ejf/hwnorm1c.
+2020-11-29	17c600bd40f4888924ea0ea0288b4e2ea1adc41d	Add LAN dictionary. see sanhw1/readme.org 'remake sanhw1.txt and hwnorm1c.txt'
+2020-11-29	402ec9a55834b1106ac12553a380ffba1b954be8	ejf work in 'dhaval' directory.  See readme.txt therein
+2020-02-18	59ae26e5199d698497379765dd2c8ddd57374358	correct error in hwnorm1c.sqlite construction
+2020-02-18	ace5d04cb4f42a4920e617a35f58c3b4324abaa5	revise sanhw1, hwnorm1c after headword changes
+2020-01-28	c28bf018307f7f5219a0f902332b3c6384e4ca7a	revise sanhw1 to use mwhw2.txt, as do other dictionaries
+2020-01-27	39242a8d217df45ba849b2d0dc4f542d118a11a8	refactor hwnorm1c.py
+2020-01-22	05dfdf469449b4ec69c3da6652f0c8f2ae1823b8	update sanhw1.txt, etc
+2020-01-16	9c246f2a85ddc1c7f4f8eb22129dc3d0f8b5d90b	Minor refactoring
+2020-01-16	6058265be7fe3253acc3411165bb6a33aa3f7b32	dhaval/hwnorm1   nasal conventions redone
+2020-01-15	be2ce48a73fdb3de99af291085acb99f6d70de66	Remove duplicate hwnorm1c.py and .txt. Now in sanhw1 directory
+2020-01-15	02b332cbb2313463585b1f6d7a010d4174505e06	Initialize sanhw1 directory (from /scans/awork/sanhw1 at Cologne)
+2019-07-09	3dd4979e74d0470c2684c67e7a8f4d8cf818ad37	update after change to sanhw1
+2019-01-16	71df972ce64d80d10ad6081f6e0f6842f7914b53	update hwnorm1c
+2018-11-28	de3c666cfde69799df56194d43c19640d54a08b2	bring hwnorm1c up to date
+2018-01-25	bb4b23c6a18030f30ac4465d33854885a6639f3e	meta-line conversion of GRA
+2017-12-29	7f853af4d54eace443991c5179d85ef0a4ad686b	revise after meta-line conversion of ccs
+2017-12-21	5e47ec210a1f3adcf0228ad0c758ff5d1b014fad	bring up to date after correction form corrections
+2017-11-11	1e24ff182d5e54cf8458f7613dc5a5cf3aac158e	Updated headwords
+2017-10-23	f5669687d5d13ca1c381688f3446da7ad5213814	revise ngrams after change to hwnorm1c
+2017-10-23	ef62bd3c0ffdae8e29f6ec3caebc7dd7e5a990db	revise normalization of words with 'C' LB  LB ref: LB https://github.com/sanskrit-lexicon/alternateheadwords/issues/23#issuecomment-337398108
+2017-10-17	3089fee572de6826a68d1a77e02b84fb1f410453	test cC->C rule for hwnorm1c
+2017-10-13	37cff6ebbf0523fedb2eb2fff2da07ae5d213d6d	recompute ngrams LB  LB Use normalize_key as in hwnorm1c/hwnorm1c.py
+2017-10-12	0d37d84c57086ccddf50be62cacdec07090e0c2b	Add rule r + cons + asp-cons -> r + asp-cons LB  LB Refer https://github.com/sanskrit-lexicon/alternateheadwords/issues/23
+2017-10-12	45bc463e95f0211cfebb5e3642001dc9af485b80	remove 'fxx' -> 'fx' rule
+2017-09-12	c05c10580b0c81ee6285dc97a10f1f292a71a11a	Revise after headword corrections.
+2017-09-07	35b9dff4d988553ae6b0e1bf2a41bb0c657b9836	sch corrections
+2017-09-07	436ad1e518c28d147396271620d4328e8fcd7314	sch, ap90 corrections
+2017-09-02	6854b30d59a4b6117fbc2d62cd2969a6dcc50a2a	update after vcp corrections
+2017-08-18	26a086761b603fd397d6aaa6984ad745af277837	remove duplicate, now in data/ subdirectory
+2017-08-18	24564ffa88a01ee6d8d0c0c11a0572e91aa8df45	ngrams
+2017-08-18	8aad02fb4a211420a21d8032762a7399fddb752a	update hwnorm1c
+2017-08-18	5790824719695e48699a18c90689545a03f2fbda	Correct comment on homorganic nasal
+2017-07-21	6a7f6a2357b0f9cb8570249060ad805054495303	bring up to date with corrections
+2017-07-15	60fd8faf36676e890402f62bec0eb638dec6381e	bring up to date with headword changes
+2017-06-01	039a794c03f1e915302a9e166a51a984fd36b8c3	reconstruct hwnorm1 after changes to acc, yat
+2017-03-28	e23d68e9953f68e093058dde597459045cdd55dd	Update after corrections to BOP
+2017-03-17	b5ee0076d968d2f4bb220663fe98e2ad6d58355a	bring up to date after corrections to 2 MW headwords
+2017-02-14	a27659dd545ec432b5ace69f381e51d25742a7f2	update after corrections to ap90, ap
+2017-02-10	9d7e7cd1e56504479e98444690b307f7e55a80ed	after corrections to ap,ap90
+2017-02-04	9479f13fd046ad343211b9be159d102b6a2796c4	bring up to date after ap, ap90 corrections
+2017-02-01	0542c7665be095ce00a9ff4b2a393edbbb69cc00	Revise after updates to AP, AP90
+2017-01-26	6a4d754b0fd64597e65c89ecb96aff119377212d	revise after headword corrections
+2017-01-06	61cf80a177871caccdf510424a7e413fc46f6750	Revise after update of headwords
+2016-12-08	a589782dad6a7c41bff73b255b13ccde3a6302f6	Revise after updates to dictionaries
+2016-11-29	33fd73639ebdba3ea403e03bf258e7bca14ffd70	more friendly pdf
+2016-11-29	7f744d1068415fd1eaa937c6df6aa29fe1426794	normalization pdf title changed
+2016-11-29	0e567c7fc475722bfaa1226994ddabf7fc9f1922	normalization pdf uploaded
+2016-11-29	a027218db5efca773e2517c755946ede988fd458	Merge branch 'master' of https://github.com/sanskrit-lexicon/hwnorm1
+2016-11-29	69205e70d6697350cc2bd5f8033c4859a59e20c5	normalization pdf uploaded
+2016-11-07	74db543e0754577115fd8d15e194b3af6fd4c7e1	Bring up to date
+2016-11-06	b2f90cfabe5b15702fb66027ea537f6662d9cd96	Merge branch 'master' of https://github.com/sanskrit-lexicon/hwnorm1
+2016-11-06	0971058a8aaa7c1a9599e1d9f5f6af4f0aeae405	AP90 alternate headwords added to hwnorm1c
+2016-10-31	89ca434e7dda99e69a1acf1822bfd37616792e5e	readme in docx (paper to be presented)
+2016-10-31	fadc9bea8a920f5102830bd3750b8efc2e2955cd	readme as per paper - reorganized convention num
+2016-10-31	76f498f95f56ac8a361f7360e8ca6ad4885917bc	readme has letters in Devanagari
+2016-10-31	73c7f2435a17a36dfcd52ea43ce395881041d1a0	Merge branch 'master' of https://github.com/sanskrit-lexicon/hwnorm1
+2016-10-31	181cd985edf414c3a28ca11d8ec96e5175499ce5	readme updated to paper
+2016-10-23	1920abfab7167b11011cde07cf28be86a5540743	update for alternate hws of SKD
+2016-09-17	24d0b5025292d01924e492269b5ce11849a98663	update after corrections
+2016-09-13	d798537aa42f3702da3114692d8b6223173c387e	words appearing only in selected pairs of dictionaries
+2016-09-11	30cd27099a89200718de0339124c545454f22993	revise whitelist/redo.sh LB  LB change path to hwnorm1c.txt
+2016-09-11	22f14f102d87bbcf9bd79e6e5ae376dbfff72611	ejf/hwnorm1c/whitelist LB  LB Initial commit of this whitelist work.
+2016-08-23	9b57acd2e1c1f78354619ed83573c827778f42e4	revise hwnorm1 based on mw update
+2016-08-14	899bb60c7b11140a26839f94c75c0c2a2887140f	update after MW corrections
+2016-07-28	5c2f9ac3df0f7e106ff22bbdd22cb2d80586b8b6	update based on MW corrections
+2016-07-06	fbe9eb63532b6a8fdcd9029dd36c8d4e3854d6cf	recompute hwnorm1c
+2016-06-17	7308c3cb6092af023c0d100ae0269069638f6def	update for corrections
+2016-06-15	74433bf91bae506b94450bc923681b652222dfc5	recompute based on dictionary updates
+2016-06-08	357f8918d24edad61f6656c85dc39c4b621d5fe5	update based on corrections to mw
+2016-05-14	3ccae70c93564d50eaaec733ca060aa8cda4dedd	update hwnorm1c
+2016-05-11	686f3f22e6ee143799c3bbee36569642bac14773	update hwnorm1c
+2016-05-04	bc6f52ef60c3d89b2a0817ff874a66fa0888f0c1	update hwnorm1c
+2016-04-19	2ad356d0e38d74551d83b4b20b3a7f54ef169e52	update hwnorm1c.txt
+2016-04-18	b82d8090aa066c3e2f7ede1e33771c7882e7cb67	update using new sanhw1
+2016-04-15	fde60be9901df0b2654f90bdd152befa0e70df29	update hwnorm1c
+2016-04-08	4920f2b7034c66bf51792fba3fb7384bca3d1c6d	update hwnorm1c
+2016-04-07	d93181bf1098af3dc202b7d1c2e2e5a2c0576a18	update ejf/hwnorm1c/
+2016-04-05	faf43ce7265a13fa7efba7f43f68944299b9bb52	update ejf/hownorm1c/
+2016-02-25	16909a94da3267132cd3a92268d4103c2421024f	Add ejf/hwnorm1c
+2016-02-06	f3408b744536a960d85ca362388f5ca43700b359	Update markup
+2016-02-06	7ac53968c4b639ac341e24a2541c71fe53b5d429	Update markup
+2016-02-06	143fa7e7fb38eed139fc231499109b3e8a8eccad	Update markup
+2016-02-06	7e98c71b55417196663460cc0d6b7e1f06060c79	Update markup
+2016-02-06	85223c25db071be7eb27bae73a37647197c57ae2	Update markup
+2016-02-06	13508a009f828b71ae8d0ca6c1d2b5b68ab33a06	Update markup
+2016-02-06	0f18e21318e772913387203f0f384b10d97df748	Update markup
+2016-02-06	9029b7e8ef6606b17fe38781be4ad10028e31333	Clarification of examples
+2015-12-17	4215ab029976f97f18c9f2829318a2566c521b78	41violations
+2015-12-15	e1297c3392da026294e552e2ddb54b4d8b3ce59f	arjunacCavi
+2015-12-15	765cd2811f780188ab574908944eb12ff18efe72	12 submission corrections
+2015-12-15	05490fa12ea6d6fb85f6f587ab2556182ab5edfe	1.2 submission
+2015-12-13	9962e71d8b18eeadb65647d0d93bf3254e67f40e	4.1 htmls
+2015-12-13	432060f005e447cf8cac65f649697ecd7d58bb33	4.1 violations remade
+2015-12-11	a2553667b033a109d61f1b59f63fad3247564015	convention 2 regenerated
+2015-12-11	7023c13eb0e5b581d1dc9264fc7f9afafaf12e64	link.php updated for standard format
+2015-12-11	4d44886b13f9b0c7dfaa694baa96448d3aff50fb	txt in standard formats
+2015-12-11	5d563b7c2a39ef807308860a731d74206d0931f8	hw regenerated
+2015-12-02	ef8b42a3cdecce22fabe2b37f15ea90ffe2a42d4	further steps
+2015-12-02	8fc162ab1ed5d20af845f7a993d353671287cb6e	readme clearer and documentation done
+2015-12-02	f6c06c2720f3e3c849ba7a67444dad8d648168f2	hw5 created
+2015-12-02	b5512e92db0458f2fe9af0b29c081008f8bd0a13	Option 7 added
+2015-12-02	61c35c30a8d8f2533831ae0f25567d7ed52cc67e	conv3 tried
+2015-12-02	809c1fa2839c485219b492ca62961c3efae49d51	to 2456
+2015-12-02	fecd089237a0c39df37d1c08f133cb5dfa882e3e	to 2555
+2015-12-02	800c12517d942c05e63c1a4fbadef39ab4ff068f	to 2751
+2015-12-02	317610637b49c34b6df0bc7ba58ca23a7b27d4af	Examine4 reduced to 2927
+2015-12-02	6950eb8875e62a0816e313cd924421826118580b	removed examine.txt
+2015-12-01	f21da3ee8ee32346c46543cd274003e3b1d2fcdb	regenerate all normalization files
+2015-12-01	d64765eed313567204fb155f1c84c0211573c349	examine4 missed earlier uploaded
+2015-12-01	4f89ff80cf200f3a58271b19d72301f09e7574ff	examine4
+2015-12-01	3936e64e54d3e12cb9d990619c089ead5db5b807	readme updated
+2015-12-01	fea3e99f4c2adc9f13aebf5f4980f5d62227451a	difflister
+2015-12-01	b87276b202f56d08b54fc7b4c781a40f28fe48a7	examine file
+2015-12-01	95e906f2f078edd6c39abd78de1f897e581a161f	readme for normalization
+2015-12-01	206780e12aaa043561ec916323b067efd4a01cd6	corrected minus files
+2015-11-24	a6bd2b439300727d113c4d4c01b12ba712ea1ed7	hw4
+2015-11-24	51da063323a1312a6177b142631949344d6bf01d	convention 6 better exclusion list
+2015-11-24	c935840edaab52e666014b9e0a2742cc2d07b038	htmls for links
+2015-11-22	205ea880e685a679f01ce14ada19269b0fb4724e	hw1 hw2 hw3
+2015-11-22	f059bae497fa7bdf22d9b022cfa092b5d4fd85f0	readme option 6 observations
+2015-11-22	2c3f36ee6931ed356c92888a58b510a03b1a2d55	some minor path corrections
+2015-11-22	df01a352e38d8f03812ba76a817e3ded39707a63	Convention 6 started
+2015-11-22	32917f4526f8319128ec326740bb0fa7bd0598fd	JalAM jaS Jazi incorporated LB  LB https://github.com/sanskrit-lexicon/hwnorm1/issues/1#issuecomment-158735703
+2015-11-22	657d2269ed77103965e00eb0fde959e6fa477969	Issue 165 closed LB  LB https://github.com/sanskrit-lexicon/CORRECTIONS/issues/165
+2015-11-22	71736029d0d8a99e2ce5e0a28d6bb93da49d5b29	Conv2 statistical analysis
+2015-11-22	251572c9f5f96ffc2e3d9c0fe181f116d15b12ad	Readme updated per issue 165 LB  LB https://github.com/sanskrit-lexicon/CORRECTIONS/issues/165
+2015-11-21	eaef769197cafbd36e4cad629745fe530ec17cc5	Option 1.3 started
+2015-11-21	535a6ff057d37318fb3d1af849b3941d051d03f7	Option 13 started
+2015-11-21	d1624f255cc614ad14559a507978a9fa35802b59	options 1.1 and 1.2
+2015-11-21	a9366009ac668a4c2b1c3b77918df65b4a39799f	no restrictions LB  LB To be used as base when comparing to enhancements
+2015-11-21	44f02cbe0c06e06c41b0884052b9d8dff6708f60	Convention 1 raw files LB  LB https://github.com/sanskrit-lexicon/CORRECTIONS/issues/43
+2015-11-19	0edc815b114a2b902c0c58f080afe7ad9831dc6f	Initial commit

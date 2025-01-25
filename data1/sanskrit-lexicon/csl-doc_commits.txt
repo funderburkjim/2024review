@@ -1,0 +1,34 @@
+date	sha	title
+2023-05-26	b9b8cd8f843472253c2df4382267b7d4ee5d781d	update readme_dev
+2023-05-26	2c69bd70f8b99b48d385c076b0ce77e3aff91b82	ABCH frontmatter. See readme_dev.md
+2023-04-14	8539254c0c6953bdf6921a76333fdbb85d9d3703	LRV documentation. LB Ref: https://github.com/sanskrit-lexicon/LRV/issues/15
+2021-09-01	1158ec38c03837c2b39c30c8e32602d136000c21	minor edit
+2021-09-01	635300a81a10c7190186eafaffdae37c8c557e38	close #6
+2021-09-01	7691008349fb21ba5981d97f3962b4074c5b521e	contrib.rst updated for csl-orig PR and sphinx updated to 4.1.2
+2021-03-21	76d1bfcaca46bedc9727280c29dabac9a117869f	Rebuild with sphinx-build 3.5.3;  change 'Grassman' to LB 'Grassmann'
+2020-11-22	d76e668dd5903591e56b153dd7a04c2c3c92d602	minor edit to readme_dev.md
+2020-11-22	67d0ac9b81f3fa3aa6c97b74e1de9600df365274	LAN front matter
+2019-11-07	a62dfdbacf4dabc2eb9802920afab8132846e753	add 'contrib.rst' for link to Github sanskrit-lexicon
+2019-06-28	0003566948df74c45f162829fa9842e0cf72ad07	SCH issue resolved by internal linking
+2019-06-27	e22c561feb6609aac91ae1a988a157eb0327f262	sphinx installation instructions changed in readme_dev
+2019-06-27	dafa3e850b14ece90e7ef82ef63d259a715b4d82	Documentation regenerated on 2019-06-27_11-53-00
+2019-06-27	c4ece5afcdd2a0ee2c0abc35e5ed4dc7e917ddc4	correction
+2019-06-27	ac22369220f9557b1d9c9d608c1e50a4912e7d61	correction
+2019-06-26	ceed4a8f3f7c8b76b4cf1626621b5d63e95827a8	new version readme_dev
+2019-06-26	7e27c02ffc66b0bf051697cb6d631da2e0674b73	Rebuild with latest version of sphinx (2.1.2)
+2019-06-26	b6e005ed586a0f2d867d89f3c94715a26494e75c	minor edit
+2018-11-21	4da1c8d71ba7bf0ab1e0ccf5cbf2a969ebbcb27d	correct typo in gra English; include pdf and htm in SCH frontmatter
+2018-11-12	8d8b863ea48a4ba3e51e068623284895963e6f34	typos in grapref06
+2018-11-12	ff208cd27d3bd5f3c8946e12c2d1f8693a162ec8	Grassman English Translation by Dr. Felix Rau
+2018-10-24	222878ff4fe87a71c9c7844b0862a7e6e9d34f0e	Update readme_dev.org LB  LB location of images directory under 'source'
+2018-10-24	707d220ad5bb4e2bcd8ac66a286e1b2dd40ef501	Create README.md
+2018-10-24	9a56cade395ab9b6b7ac3726e71a73011128e026	change name of readme to readme_dev.org
+2018-10-24	6d3d2a30c8ffac0b8e341d9bdb317df64b6cc867	Full build
+2018-10-24	5330a9957769de4f059f49448be9d3c239c7132c	rest of dictionaries/*.rst files
+2018-10-24	f8d34a67b8828faf199b2dde2342300d4bc4781b	rest of subdirectories of dictionaries/prefaces
+2018-10-24	15bfd577f4392d09738d186c35476ba31c2045fb	rest of images for front matter
+2018-10-24	c6851aada99122f515bdac07b5402005c80f4614	Add remaining prefaces/*.rst files
+2018-10-24	8ff154efb81061e1edffe5a623c4ffe7c73e259b	front matter for acc, ae, ap90 and ben
+2018-10-24	bd14b74b47724e5942288a99dd9606f27689b713	build with just bhs
+2018-10-24	765253c73da1bf1db703cd7f598a79d08c28f67c	bhs dictionary front matter
+2018-10-23	ddedf4c08457b9cf965846202e55fffa8784e454	Initial commit

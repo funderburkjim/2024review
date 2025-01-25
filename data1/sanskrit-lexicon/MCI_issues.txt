@@ -1,0 +1,2 @@
+date	issue	state	title
+2014-09-26	1	open	Printed Book Categories Lost in OCR?

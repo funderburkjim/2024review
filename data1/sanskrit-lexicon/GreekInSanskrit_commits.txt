@@ -1,0 +1,3 @@
+date	sha	title
+2015-09-09	05dfd404909d20e59bca7567788c6a4614f54bed	Place of accents, word structure, word endings, praefixoid list
+2015-04-15	b1955c3ac34a19e9166a3c92b811756c1ef9ab77	Initial commit

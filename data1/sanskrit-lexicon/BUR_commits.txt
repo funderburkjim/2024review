@@ -1,0 +1,23 @@
+date	sha	title
+2024-04-01	7f51dc47a031014f1323a81000971e67e75bbc27	revision of burab_input.txt #5
+2024-03-30	913053992964ac0775fbaff6949c411ec0785ad4	Further revision of burab and bur.txt #5
+2024-03-29	4d4311e484812de8312d75333e1a7095af8c08e7	Work for #5
+2024-03-27	d0e31e00772e19cc63bc71b4c48ec06141241e3a	move issue3 to burissues/issue3
+2023-03-11	7661725f338adb6cfc29385a105753fcbd97ca70	install second batch of Greek changes.  #4
+2023-03-10	7bde5a62f4744ed251f4ef4accb50cef11d3ec52	#4 - change_1.txt Batch 2
+2023-02-23	a9d971fb6e87fe44a6319cae6ee4f9d57689200e	update readme #4
+2023-02-22	e70d16055536c8787406eec04d24c461d07c842e	#4 - change_1.txt Batch 1
+2023-02-22	741c9134a5ad5bacb1d07f4608b2007a7843e094	#4 - change_1.txt Batch 1
+2023-02-17	cc7050b6bd111e72b1af72846eea79c709453d55	proofread Greek text. #4
+2022-05-23	270e9c89e3dc81bf2fec35afeb67f533c068a128	proof_greek.txt #2
+2022-05-23	cf84423752ce11ce306afd20cbfbc8fcc26d8e8e	bur abbreviation markup, and tooltip preparation
+2022-05-16	49a6185a92241b96a38f6185095fd2faae86f832	Enhance abbreviation markup. #3
+2022-05-12	a051297e0a022f3dcc0a6310ebcfc9f94951780f	number-letter, ae.  #3
+2022-05-12	3e388650e248568eb963f07a6dd83fbfa2ae02f9	issue3 edit readmen
+2022-05-12	6d844df54edeb262c092dcbf3798adea74a9d781	visarga changes. #3
+2022-05-10	75fa3c1325fca6d122d43d33b16db655d40ec129	Visarga correction. LB Ref: https://github.com/sanskrit-lexicon/BUR/issues/3#issuecomment-1122711774
+2022-05-10	d09458f6fdb9cae4cddb86c7003e02468865baf9	Misc Corrections. #3
+2022-05-10	75bfafe8a566e650f202b684c214bee158ac47ca	greek text. #2
+2020-04-18	df0e76aa7ce8095256cc67a32342486cf2a8b18a	revise readme.md
+2020-04-09	4919ee117534158a6ffdbed44c48647490055c2b	verbs01 initial commit
+2020-04-09	38f0d7872a8fd9902cc1fc07fdbf03b5e2615342	Initial commit

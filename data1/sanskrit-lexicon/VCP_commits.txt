@@ -1,0 +1,109 @@
+date	sha	title
+2024-01-04	659e0a691ca0c55650f0b2d92638b94867e7b925	VCP till 8650
+2024-01-04	85b3a95069e7fa73b83cc216be5ed13aa7c9ceca	VAC regen after 500 pages
+2024-01-04	979b9ad586a6c1b151eba311e0ae86a750952387	VAC-VCP500
+2022-02-13	562b774946aa4de72b36bd0163ba96a8b6f5f806	a trial for script
+2022-02-13	0a296b7cf92ab0d8384895cd863c69080df9eee4	vcp2_split regen
+2022-02-13	338d702b0b4a8091b93c99d32613b0cbb748f2d2	vac-vcp-cmp2/vcp2.txt file stripped of <>
+2022-02-13	91daf295a0a5bdcbed02b2c06ae5ec82595fd17d	VAC VCP till 8500
+2022-02-13	03a8d9d426447b78c582825448741c51bf0e4415	readme added
+2022-02-13	58a2e1759278009ea5a17d7598d0f798177e3052	split files
+2022-02-13	c0d44135d3ad18ff486ab92983c3686cf6b3907a	removed unnecessary
+2022-02-13	11d769964f9096833077b24888e4e2c0377df960	VAC VCP till 8000
+2022-02-13	ef7bf183c4a12e68ddcd81e25049333067c014c7	reorg
+2022-02-13	903cb8b182f7808b875a703dc8bed0ec1a41e5fa	0-7500 removed
+2022-02-13	d5ea548aa01a93c7c17d33c839e5b985aa61cd8f	VAC VCP 7500
+2022-02-13	21c0f31fc2e94f219c457efdcfd87090420ff125	vac-vcp-cmp2/vac2.txt corrected till 7500
+2022-02-13	1187f373163108a506499bae29397d97d63df461	vac-vcp-cmp2/vcp2.txt corrected till 7500
+2022-02-13	4e63ce666a7901a6beda04956cb6b4f395db419e	VCP corrected till 7500
+2022-02-13	7be686e2420971ddba46673f71cbef3baaec1518	<> removed from vcp_corrected_file.txt
+2022-02-13	d0c5c555a2e22bf092515163256e60a5bf6e4250	VAC VCP 7850
+2022-02-12	883c1a747634dc2b02f66a0cf4cfd24084d73c5f	VAC VCP 7800
+2022-02-12	d31176fe983bf8bebf27b54522641e95e00948f5	VAC VCP 7750
+2022-02-12	3c98a7f894c22e473e1e77c7da704c58b4dbe12f	correction started in devanagari. 7700 lines
+2021-09-07	41ef0a7349b29ca4d3947c8156503b9b809efab3	VAC VCP 7500
+2021-08-20	21edac81a630b92b3746e37ec35297e259617a3d	VAC VCP 7000
+2021-08-20	c5f8e96d436cdda56bc642b8aa89e0e9b4e7380b	VAC VCP line 7000
+2021-08-20	c8c1d14318bbb63abd3bb111a88a7bf6e0954766	VAC VCP line 6500
+2021-08-20	4240e8b43be37b44793f953cec031d67fa39afad	VAC VCP line 6000
+2021-08-20	c085507643ab2b7930d9c82a6e559682ef643498	VAC VCP line 5550
+2021-08-15	df4a4b02225fc7eb11fda21723aff257c7ab0c8b	VAC VCP line 5000
+2021-08-15	a3d58ddc8d62112a4505ab04fdf2d67066af9163	VAC VCP line 4000
+2021-08-15	5ff03a5a4ba347335de8b9bff7ddc4aac54a554f	VAC VCP 3600
+2021-08-14	1e7d78856609fbb4c0f6716685a842aedc0e03c0	VAC VCP 3300
+2021-08-14	42159bf0701ad62c32908bec372bc954bd4bd6da	agnizvAtta
+2021-08-14	16bbaf6739080a983707a4150b405644482b0a8e	vAC VCP line 3000
+2021-08-13	e4e68ad935c78ae61d8d82e957aad50ce2fedfc5	VAC VCP line 2500
+2021-08-13	b3b77cb6a19b3092bb37decca567d37e4e68864a	VAC VCP line 2000
+2021-08-13	443393f88d163f2d5197af129793b4da89895be3	VAC VCP line 2000
+2021-08-11	f6bc9d49589d3f792b5a3afdc817d75dbb5ee1d7	VAC VCP line 1500
+2021-08-11	d1c388c2165c821a260ae376d336fbd79ab44996	VAC VCP line 1250
+2021-08-11	d52dc66bba30f214de0290c24a5718d3f5ab25cc	#20 and some merger script
+2021-08-11	8219c35cd525f6cc653c7c50e8b0e65939e90123	VAC VCP line 1000
+2021-08-11	998651b7e7fc06ecc95cfbd468808b3b1c126b43	VAC VCP line 600
+2021-08-10	091610421912beb57ea8ee80c1a861a4afecf816	VAC VCP line 500
+2021-08-08	92b4270167aacfb4e6421880526fd739682d4bd2	VAC VCP line 400
+2021-08-08	ce0599164936872ea6b12b62de4879a311c5165f	VAC VCP line 300
+2021-08-08	e55caa03dc96ed6fca78b49886f8abb84c043ec2	VAC VCP line 250
+2021-08-08	3593e031d22c89b680ce55054d9874b6b0204532	VAC VCP line 200
+2021-08-07	a3366b10f4d880b281e88928a675e84a70060957	VAC VCP line 150
+2021-08-07	5efca6204a904cc6b7fb83c7632afa43a21a495f	VAC VCP line 100
+2021-08-07	5cde7e788bc8d39be996cb77acc118938de471c7	VAC VCP line 60
+2021-08-07	7b56d41ed28697770f9b3d979780c8bea453a880	meld corrections in first 10000 lines
+2021-08-07	454169f19f70c81c8b95ac3cf44b5ad0223dadf1	init of vac2.txt and vcp2.txt in vac-vcp-cmp2
+2021-03-18	83e83331fc1e8b77163a41059c8d599bc1c76439	update readme files
+2021-03-18	29f9bf8c6e49291bdcff6b4d9ec44006043f55bb	utility program for applying line-by-line changes
+2021-03-18	95c7a7fe171286de04e7549cf1a99e8fc16be746	vcp2 recomputed after updates to vac2.txt and vcp.txt
+2021-03-18	ecbe34ab511a49a3074c1f1a5a42d7e8a07779e4	vcp2a.txt no longer needed.  Use vcp2.txt instead
+2021-03-18	d1009adc441714902928eac3b71b262a43762055	vcp.txt Apply changes_vcp_1_hiatus.txt
+2021-03-18	fe90932ef6480cb25e62b2e3185d0fb8b5092a5f	vac2:  appply changes_vac_01.txt
+2021-03-18	1bc92c7b175b672e43877a6826bd8395ebb6b60a	vac2:  replace long lines and picturedata. LB Ref: #19
+2021-03-18	62d59140e851863e6d220949ffa61aca671b6658	tidy up initial commit of vcp2
+2021-03-18	25abf9826825afc111ab00fea72c15ab776c146f	First compute of vcp2.txt
+2021-03-18	b47a9717d090dd357ff03ec8aeea485044a506ef	vcp.txt added.  it is a copy of csl-orig/v02/vcp/vcp.txt at LB commit 4e13ca3939a7f74afb8b4627e62e0f0f45a9d7cc
+2021-03-18	90f13becb94a354483c90f554a2abee7cdb507a0	vac2 initialized as copy from ../vac-vcp-cmp1/vac2.txt
+2021-03-18	72aff3bf23ca88b7c17ac356daea9f366591c1eb	hiatus changes for vcp
+2021-03-18	22d9a4a1fa136f5cbad127caf3f66dd867dcbfb8	vac2a init.  #19
+2021-03-16	eb6ac05e72456cac5e5cf4fbc4c50cccbbaa96dc	spacing around '+', and cittaPalaassa
+2021-03-16	69650b41603edd28e3d731b6c309973ab2dcc5a7	change name of readme.org to readme.txt for better Github viewing
+2021-03-16	fe3dae83928579f4e60b5f11b3659e1d25f471eb	Revised after correction of {??} missing data (#16)
+2021-03-15	24832c856886c00dd92a2f2b3b3ea017f19a6562	rest of abbrev0_deva_all
+2021-03-15	6f254e469625d12b8970c24bd20a6cb25692adc5	first part of abbrev0_deva_all
+2021-03-15	79edf3977b6d6dee58a0ca1a852fcfe6867a8fe6	readme correction vac-vcp-cmp1a
+2021-03-15	6006faa4af4a7ffa768290993ba548fd5fc8ef9f	all abbreviations, in devanagari
+2021-03-15	dc949eda3a95ee0113876832fafd7b2f78f6dd79	vcp2a.txt  #15
+2021-01-15	a6436e7a01ee5fd2c6b943abf2def185d8104b63	readme with assumptions
+2021-01-15	1354a39dae8e0ae2176ea365d5812e10c58e17c5	readme added
+2021-01-15	bde945fe028a31d271ff6e70202dc4951ea6bf85	html generated
+2021-01-15	3cc55026547234fd17874a8196648ef3033a7248	len2.tsv started
+2021-01-15	25c24f24a48bf23788c28516bc6042cbc3d18586	vac-vcp-cmp2 started
+2020-10-28	62e6d518fff29a1031dc4d0d06e283017cf37bcb	VCP abbreviation preparation #11
+2020-05-18	7ccbedbc4ff5c739ee1494e7be6b4e8123dcd4ba	Refactor redo.sh so it works from this directory in local xampp installation
+2020-05-17	91386a653e2aff93b6b94265e2c25ffe0ef37c14	a few additional entries recognized as verbs
+2020-05-12	ec31001cf9dda0b4cec6f218ac17baca330eda0b	Revision of verbs01. LB Ref: https://github.com/sanskrit-lexicon/SKD/issues/9#issuecomment-627054909
+2020-04-18	ccd6cccd5086108c5142b2ae03d3e09f661917ac	revise readme.md
+2020-03-10	d9485585aafbd497b430fc56a9926f593f51dd45	Minor revision
+2020-03-03	a9317ed293f7e7cf196f328b525210aba689ffd8	rerun after several corrections
+2020-03-03	e4b7ed258890fcf4202c75b0a04f9124a7218f4b	verb 'ji'
+2020-03-03	2bf21645f5e65e3bf64cca1320224113380c01ac	add verb krama
+2020-03-02	a4b75f1d6e9a2f7d9fe34d0a1ec5fff188895600	revise reports after changes to mw, vcp
+2020-03-01	35f4a03a95096264217fd5d9d83f3f195168586c	verbs01 initial commit
+2016-01-12	cf46211f71863a9bc398c659fa6f9cab608b262c	alphabetdistance modified
+2016-01-11	e7292a111fbcb1660b77c07060d8e51931a535da	alphabetdistance.py added in logic:wq
+2016-01-10	2ebe3d986735e34d895e88710cf5ebf75a72cb2c	return original for 404 cases
+2016-01-09	f67eb485d3ef6cde4035360407001096fc0a61ed	readme for alternate headword
+2016-01-09	483161702ca0611b02a8bd273252a801ce170973	levenshtein method added
+2016-01-09	acbf4d7bd63120b8a9982dbc8ed74b783cebcf12	minor validation adjustments
+2016-01-09	193a5513e3debbd1f1235a5354531f6cfadf0d57	first trial towards generating alternate headwords
+2016-01-08	9d9df879fb3c6f78fe64d70191b7fab3e2a112ed	hw1
+2016-01-07	b60254ba846192f996b6fba4417a4ff7b7fdbf99	alternate headwords to headword LB  LB Initial commit of unaltered code as of 7 Jan 2016
+2014-11-19	9aabb58cd28b9b014f325c28dbe6a554647a1339	List of words with brackets LB  LB https://github.com/sanskrit-lexicon/CORRECTIONS/issues/35
+2014-09-28	eb9a2d427d4a2d5958bb28e03128eede1b017b00	Pre-Jims vision of comparison in .xls
+2014-03-23	995134577f665cf71ff79ff6729ba3e9491e17fc	Alignment of Cologne and Tirupati editions of Vachaspatyam LB  LB There are two independent digital versions of the Vachaspatyam. An LB alignment of these versions is provided. summary.org describes the LB purposes and data files of this comparison.
+2014-03-23	a691273e59072094480cfc2cd6711f879e9c6610	Scharf version of Tirupati edition of Vachaspatyam LB  LB vac.txt is the Scharf version of the Tirupati edition of Vachaspatyam, LB encoded as utf-8. A few comparisons are made with the vcpte2.txt LB edition. See readme.org for details.
+2014-02-13	6a5f5b6f8e3f9ca5490f7f6bea447dca11aad0a6	vcpte-vcp-cmp folder LB  LB correspondence between headword lines of Tirupati Edition (vcpte) and LB Sanskrit-lexicon edition (vcp) of Vachaspatyam. readme.org describes the LB files and programs.
+2014-01-22	a6415e08a3297ec3e5e697e696aadbb88839348a	List of 47046 words in UTF8 encoding LB  LB Unicode text, interesting to know why here I've got more words that in LB the WX source file, because I've still not opened brackets in words like LB khaca(rju)rjjūghna
+2014-01-22	45136a2f84fc78272b4731f242244e1888099f36	Tirupati edition Preface, list of Abbreviations
+2014-01-22	b6afa94a2682e76520631ddeb6ed04e962128a84	List of 46938 words in WX encoding LB  LB Without definitions, just wordlist
+2014-01-22	93ee78cbfff4c5d2c2a958942c9b18528459cc7e	Tirupati edition in WX encoding LB  LB Alternative edition from 2004 of the same text, could help to locate the LB 4000 missing places from the text.
+2014-01-22	7370a541c6764475568d7730e584bb84d889c77a	Initial commit

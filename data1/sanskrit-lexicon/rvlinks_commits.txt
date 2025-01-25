@@ -1,0 +1,14 @@
+date	sha	title
+2020-10-20	b8dd7ae557984e060eaca7c69d60663a68476b29	verses with missing translations.  Ref #3
+2020-10-20	6eceb5e5005bce26b568804c413cce0b5842742a	Ref: https://github.com/sanskrit-lexicon/rvlinks/issues/2#issuecomment-713155299
+2020-10-20	0d329a38347b211af8987b55c5cfd11f60dd467f	Merge pull request #1 from Haqob/gh-pages LB  LB Corrections Translations
+2020-09-30	593b78ce5b94842adce3606598ed3594f13784d3	rearrange griffith stanzas
+2020-08-11	ab0df4da567b7e3ba282ca3e454fa7d36343444f	Elizarenkova - 08.103.14 corrected
+2020-01-07	531309af6a5c1f9b8d4e9a08b0d45e98551875c9	Griffith
+2020-01-07	6ceeef1509ccd67c51bb6a7ecd2332ce5675ef13	Tatyana Yakovlevna Elizarenkova
+2020-01-07	9b2421cc8ce61456ca58af6df106f0c151c0028d	Update README.md LB  LB Add reference for Russian translation
+2020-01-07	9a39220a5c6d7876f69a4f2bbe77ee6b96930f86	Create LICENSE
+2018-08-29	427cb46fba9b6ac915eab32c67fcd474dda194f1	explain usage briefly
+2018-08-29	f7ee4aeb4e4962e2e632ca506ff428119c0b0a04	The initial version, with rvhymns constructed
+2018-08-29	e4ebf1ead06986a73b2d631e30dfe2a8a2fc6441	begin populating with files
+2018-08-29	4e17c11d534818a39d87b6cae061f0f3800b93ac	first commit

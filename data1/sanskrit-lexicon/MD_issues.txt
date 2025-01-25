@@ -1,0 +1,14 @@
+date	issue	state	title
+2024-01-07	13	closed	md english errors 2020
+2024-01-04	12	open	MD subheadwords
+2023-08-10	11	open	Abbreviation tooltips
+2023-02-17	10	closed	homonym correction
+2022-03-24	9	closed	Italicized page errors in md.txt
+2022-03-03	8	closed	More corrections-- iast related etc.
+2022-03-02	7	closed	pc (page-column) errors in md.txt
+2022-02-17	6	closed	Python deva_iast_comp step2
+2022-02-15	5	open	slp1-iast for L, |, ~ and hiatus (ळ, ळ्ह, ँ)
+2022-01-18	4	closed	Python deva_iast_comp step1
+2022-01-03	3	open	Python deva_iast_comp step0
+2021-12-29	2	closed	Python: install
+2020-04-17	1	open	verbs01

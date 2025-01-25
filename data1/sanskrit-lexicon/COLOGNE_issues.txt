@@ -1,0 +1,435 @@
+date	issue	state	title
+2025-01-22	434	open	2024review
+2025-01-22	433	open	List of Derived Data from Cologne Dictionaries
+2024-09-01	432	closed	Replacing vcp_hwextra with Lbody
+2024-09-01	431	closed	Replacing skd_hwextra with Lbody
+2024-09-01	430	open	SHS metaline cleanup
+2024-09-01	429	closed	Replacing shs_hwextra with Lbody
+2024-08-31	428	closed	Replacing pwkvn_hwextra with Lbody
+2024-08-31	427	closed	Replacing pw_hwextra with Lbody
+2024-08-28	426	closed	Replacing lrv_hwextra with Lbody
+2024-08-28	425	closed	Replacing cae_hwextra with Lbody
+2024-08-28	424	closed	Replacing bur_hwextra with Lbody
+2024-08-27	423	closed	Replacing ap90_hwextra with Lbody
+2024-08-27	422	closed	Replacing acc_hwextra with Lbody
+2024-07-03	421	open	Revise Extended Ascii study
+2024-01-28	420	closed	fri_01 
+2024-01-17	419	open	With or without linebreaks
+2024-01-15	418	open	Show print changes in proper way
+2024-01-11	417	open	A good web frontend to Cologne and Mobile apps
+2024-01-05	416	closed	Update Dictionary Stats on Cologne Homepage
+2023-12-23	415	closed	SIMPLE search stopped working
+2023-12-10	414	closed	Learnt to upload new dictionaries to CDSL
+2023-04-24	413	closed	where is file dicts.txt?
+2023-04-15	412	open	Documenting downstream CDSL applications
+2023-04-02	411	open	Github remote host problem and solution
+2023-04-02	410	closed	Cross-book references to synsets
+2023-04-02	409	open	Making a case for unique identifier for each synset / word-meaning set
+2023-03-16	408	open	Discussion about changes in XML for Sanskrit koshas
+2023-03-12	407	closed	A very peculiar error associated with 'accent' marking preceding a vowel
+2023-03-12	406	open	Discussion about metaline for samAnArthaka dictionaries (समानार्थक कोश)
+2023-03-12	405	open	Discussion about metaline for anekArthaka dictionaries (अनेकार्थक कोश)
+2023-02-28	404	open	Function to Type Ryssian Cyrillic Letters
+2023-02-19	403	open	One UI at one_php.html
+2023-02-07	402	open	A macintosh local installation
+2023-01-13	401	open	revisions per PHP 8.2
+2023-01-07	400	open	Ideas for 2023
+2022-12-28	399	open	Time for v03?
+2022-12-11	398	closed	AP90 printed pages not landing in SIMPLE
+2022-11-16	397	closed	Advanced Search Results Delayed
+2022-08-11	396	closed	google fonts in cologne websites
+2022-06-23	395	open	Mahabharata Ramayana reader
+2022-04-27	394	open	User generated definitions / informations
+2022-03-08	393	closed	error loading dictionaries
+2022-02-17	392	open	Cologne standard IAST extension
+2022-02-15	391	open	Request for digitized frontmatter and endmatter
+2022-02-12	390	open	Tracker for scanned literary sources linking
+2022-02-02	389	open	python package for CDSL
+2022-01-30	388	open	Expand terse definitions (the same vs. id.)
+2021-12-21	387	open	Add a Three Language Sanskrit reader Dictionary
+2021-12-17	386	open	hyphenated word markup
+2021-12-17	385	open	The 'early' digitizations
+2021-12-11	384	open	Buddhist hybrid sanskrit grammar and dictionary scan
+2021-12-03	383	open	source for Scans of mahabharata, etc
+2021-10-30	382	open	RV. viii, 26, 21 f. and x, 17, 1 f.
+2021-10-30	381	open	Search Suggestions in HK
+2021-10-29	380	open	stardict dictionaries on PC
+2021-10-20	379	open	Slow loading of webpages
+2021-10-09	378	open	Andhrabharati's survey of issues at CDSL
+2021-10-07	377	closed	arI|a 
+2021-10-06	376	open	Semantic analysis of Cologne dictionaries
+2021-10-04	375	open	Use csl-lnum links for individual correction submission
+2021-10-03	374	open	Newsletter thread
+2021-10-03	373	open	Guide for git merge-file
+2021-10-03	372	open	Literary source links to scanned images
+2021-09-26	371	open	MBh. i, 806 and 809
+2021-09-26	370	open	File not found: RV. (i, 147, 4);
+2021-09-24	369	closed	Change MASCULINE ORDINAL INDICATOR to DEGREE SIGN)
+2021-09-24	368	open	eascii:  extended ascii in cologne dictionaries
+2021-09-14	367	open	PDFs not available for download?
+2021-09-13	366	open	xmltags in csl-orig
+2021-09-12	365	closed	large files at github test
+2021-09-12	364	open	Original digitizations
+2021-09-11	363	open	Scanning/digitization 
+2021-09-09	362	closed	Scanning and full-text digitzation of missing portions; desiderata
+2021-09-02	361	open	Published reports or papers for CDSL
+2021-09-01	360	open	Indische Sprüche preparation
+2021-08-27	359	closed	AP90 and AE edition discussion
+2021-08-20	358	open	Cronjob via Github Actions
+2021-08-17	357	open	Cronjob for Cologne jobs
+2021-08-16	356	open	credit / acknowledgement / bibliography to Cologne Dictionaries
+2021-08-13	355	open	A shiny frontend to Cologne data
+2021-08-12	354	closed	Devanagari conjuct list for comparing fonts
+2021-08-07	353	open	Integrate printchanges in the display
+2021-07-06	352	open	Halle literature reference
+2021-06-27	351	open	Highlight Columns
+2021-05-10	350	open	CLI tool for transliteration
+2021-04-18	349	open	First Result in Advanced Search not Shown (apara case)
+2021-04-18	348	open	Please specify a Sanskrit or an English word, not both (Advanced Search)
+2021-04-16	347	open	IITS Koeln Title Uninformative
+2021-04-16	346	open	literary source links for pwg, pw
+2021-04-10	345	closed	paridhā vs. pard in Simple
+2021-03-29	344	closed	Order Alphabetically dictnames.js
+2021-03-21	343	open	Headwords in all genders
+2021-03-13	342	closed	Change Simple Title
+2021-03-04	341	open	Quick Quote Bibliographical Reference JS
+2021-02-28	340	open	Morphological Prefix Search (su-gṛhīta vs. suta)
+2021-01-26	339	open	Explanation about Sanskrit kosha structures
+2021-01-20	338	closed	Metaline format for synonymic dictionaries / thesaura
+2021-01-19	337	open	Hugo static website generator and github
+2021-01-17	336	open	How do I submit a new dictionary?
+2021-01-15	335	closed	Headword to entry API
+2021-01-14	334	open	Reference in Bibliography
+2021-01-12	333	open	Shading concerns in display
+2021-01-09	332	closed	API endpoint for getsuggest
+2021-01-01	331	open	CAE abbreviation error
+2020-12-29	330	open	Portraits of Lexicographers
+2020-12-27	329	open	API use case for dictionaries
+2020-12-25	328	closed	API endpoint for  servepdf
+2020-12-25	327	open	Todo List for 2021 (Thematic Ordering)
+2020-12-23	326	open	API endpoint wishlist
+2020-12-20	325	open	todo list in 2021 (in descending order of importance)
+2020-12-19	324	open	Change List display
+2020-12-19	323	closed	LIbrary
+2020-12-18	322	open	RESTful API documentation
+2020-12-17	321	open	Copying tooltip text
+2020-12-17	320	open	Revisit CSS
+2020-12-16	319	open	forward, backward links to Cologne dictionary users
+2020-12-16	318	open	sanskritdictionary website
+2020-12-14	317	open	gender / meanings line breakup in all xxx.txt files
+2020-12-02	316	open	2017 work on acc abbreviations
+2020-12-01	315	open	MW compounds below parent headword
+2020-11-11	314	open	Whitney Grammar
+2020-10-10	313	closed	Revive a deprecated PWG display
+2020-10-10	312	closed	Revive 'semi-digitized' display of Wilson.
+2020-10-10	311	open	Revive 'semi-digitized' edition of Wilson
+2020-10-10	310	closed	Revive 'semi-numeric' Edition of Stchoupak
+2020-08-10	309	open	Local Install of mw displays
+2020-08-08	308	open	Abbreviations in Vacaspatyam
+2020-08-05	307	open	MW:  Representation of IAST words as Devanagari
+2020-07-07	306	open	Verb identifying patterns
+2020-07-03	305	open	Sanskrit Spanish Dictionaries
+2020-05-28	304	open	Detail on Home Page 
+2020-04-23	303	open	Long URLs, old issue, never finalised
+2020-03-14	302	open	simple-search:  show 'chavi' if request 'chava'
+2020-02-05	301	closed	question re sūtrakrīḍā
+2020-02-01	300	open	Click to load pdf (INM)
+2020-01-26	299	open	whitney roots display for mw
+2020-01-21	298	closed	STC abbreviations
+2020-01-17	297	open	kosh - what is it?
+2020-01-14	296	open	workflow and vedaweb
+2020-01-03	295	open	simple search: all dictionaries option
+2020-01-02	294	closed	simple search simple url
+2019-12-25	293	open	frontend based on JSON data from REST API
+2019-12-24	292	open	FTS5 in sqlite3
+2019-12-23	291	open	HTML in sqlite
+2019-12-23	290	open	A demo of restful API with flask-restplus
+2019-12-15	289	open	Todo list in 2020
+2019-11-10	288	closed	Three new repositories
+2019-11-04	287	open	History of Cologne Digital Lexicons (IIT Kharagpur, 25th Oct 2019)
+2019-09-20	286	open	webtc2 too many results
+2019-09-14	285	closed	BEN meta conversion
+2019-09-02	284	open	Download scanned images
+2019-07-29	283	open	Homepage Header Text
+2019-07-27	282	open	Orphan Pages (pwindex.html & pwgindex.html)
+2019-07-27	281	closed	PGN S link broken
+2019-07-24	280	closed	csl-orig commit message
+2019-07-24	279	closed	whitelist for csl-websanlexicon
+2019-07-24	278	closed	whitelist for pywork
+2019-07-23	277	closed	csl-websanlexicon missing web/index.php ?
+2019-07-23	276	closed	Working git based workflow - AFS filesystem issues
+2019-07-23	275	closed	BHS dtd issue
+2019-07-23	274	closed	BEN different from rest?
+2019-07-21	273	open	list display bug (webtc1)
+2019-07-18	272	open	sanhw2 - what is done when there are >1 Lnum?
+2019-07-18	271	closed	Cologne python versions lagging behind?
+2019-07-15	270	closed	scroll to top in displays - a websanlexicon example
+2019-07-15	269	open	Universal View Mode (Normalised & All at Once)
+2019-07-13	268	closed	pywork - segregate same and separate files
+2019-07-07	267	closed	Create a bare-bones repository - thoughts
+2019-07-06	266	closed	correction process reengineering thoughts
+2019-07-05	265	closed	lowercase dictionary code in Correction form
+2019-07-04	264	closed	rename cologne codebase with CSL prefix
+2019-07-03	263	closed	dictionary update wiki documentation
+2019-07-02	262	closed	Revise homepage
+2019-06-17	261	closed	Testing and Production Servers: Minimal plan
+2019-05-13	260	closed	hiatus
+2019-04-08	259	open	Add ability to go back and forward from one user's search to another
+2019-04-08	258	closed	Add ability to go back and forward from one user's search to another (via browser's Back/Forward buttons -> new url for each search)
+2019-03-17	257	open	Setting Up Continuous Integration for Testing and Production Servers
+2019-02-17	256	open	AP90 - Elevate subheadwords to headword status
+2019-02-17	255	closed	AP90 - Single hyphen, double hyphen
+2019-02-17	254	open	AP90 - Indentation of subheadwords in compounds
+2019-02-15	253	open	KRM footnote markup
+2019-02-13	252	open	Dictwise HTML
+2019-02-11	251	open	Add MW like markup for subheadwords in other dicts
+2019-01-25	250	open	Integrating printchange data in displays
+2019-01-23	249	open	Feature request: A way to link directly to the dictionary entries
+2019-01-20	248	open	circumflex in MW simple-search display
+2019-01-15	247	open	Several Display Differences
+2019-01-15	246	open	Hyperlinking Page References (See p. 1182) and Paninian rules
+2019-01-10	245	closed	Wrongly Parsed Abbreviations
+2019-01-06	244	closed	Text overlap
+2018-11-30	243	closed	pitṛ declension question
+2018-11-30	242	closed	ap90 display enhancement
+2018-11-26	241	closed	Glob feature of Advanced Search
+2018-11-19	240	closed	Cologne server https
+2018-11-19	239	closed	Scharf's Derivations
+2018-11-14	238	closed	Websanlexicon and apidev
+2018-11-06	237	open	MW display emphasis of sections in verbs
+2018-11-06	236	closed	MW Advanced Search, another Bug
+2018-09-06	235	closed	MW Advanced view - new bug
+2018-09-05	234	open	sanlex-vue 
+2018-08-06	233	open	CSS differences among displays
+2018-07-31	232	open	Homepage header text
+2018-07-19	231	closed	Display code unification
+2018-06-20	230	open	MW interlink entries (formerly MW: resolution of 'id.')
+2018-06-17	229	open	Documentation (Simple Search) - Corrections/Suggestions?Comments Welcome
+2018-06-14	228	closed	Burnouf root convention
+2018-06-12	227	closed	Sanskrit coding conventions 
+2018-05-30	226	open	MW consistency adjustments in HxY markup
+2018-05-22	225	closed	HxE record type in MW
+2018-05-22	224	closed	Document IAST conversion details
+2018-05-18	223	closed	How to confirm Grassman references ?
+2018-05-16	222	open	MW literary source incompletenesses, open questions
+2018-04-10	221	closed	MW missing headword puzzle
+2018-04-07	220	closed	MW dev version based on meta/iast conversion
+2018-03-20	219	open	MW literary source incompletenesses
+2018-03-18	218	open	MW IAST 
+2018-03-12	217	closed	AE meta/iast conversion
+2018-03-09	216	closed	MW meta/iast conversion
+2018-02-27	215	closed	MW72 meta/iast conversion
+2018-02-23	214	closed	MWE meta/iast conversion
+2018-02-20	213	closed	BOR meta/iast conversion
+2018-02-18	212	closed	SNP meta/iast conversion
+2018-02-18	211	closed	VEI meta/iast conversion
+2018-02-16	210	closed	PUI meta/iast conversion
+2018-02-14	209	closed	PGN meta/iast conversion
+2018-02-13	208	closed	PE meta/iast conversion
+2018-02-11	207	closed	MCI meta/iast conversion
+2018-02-09	206	closed	INM meta/iast conversion
+2018-02-07	205	closed	IEG meta/iast conversion
+2018-02-05	204	closed	GST meta/iast conversion
+2018-02-02	203	closed	PD meta/iast conversion
+2018-02-01	202	closed	BOP meta-line/iast conversion
+2018-01-29	201	closed	BHS meta-line/iast conversion
+2018-01-25	200	closed	KRM meta-line conversion
+2018-01-24	199	closed	GRA meta-line/iast conversion
+2017-12-26	198	closed	CCS meta-line/iast conversion
+2017-12-20	197	open	Abbreviations in PWG
+2017-12-20	196	open	<VN> tag in PWG
+2017-12-18	195	closed	PWG IAST conversion
+2017-12-17	194	open	PWG literary source status
+2017-11-10	193	open	Inter-entry references
+2017-10-29	192	open	Markup issues in ap.xml
+2017-10-25	191	open	CAE meta-line/IAST conversion
+2017-10-23	190	closed	PWG meta-line/IAST conversion
+2017-10-22	189	closed	Cut off verbal endings
+2017-10-20	188	open	AE headwords - English v. British spelling
+2017-10-16	187	open	Add intelligent guesses to the undocumented literary source abbreviations in PW
+2017-10-12	186	closed	Side question on React and Ajax
+2017-10-04	185	closed	MW Advanced Search Display Suggestion
+2017-09-19	184	open	navmams vs. navAMSa
+2017-09-18	183	closed	PW meta-line conversion
+2017-09-14	182	closed	stc iast and meta-line conversions
+2017-09-05	181	open	SHS - Wrong closure of headword at bracket
+2017-09-04	180	open	MW72 - Devanagari IAST comparision
+2017-09-03	179	open	multiword headword ends abruptly in some cases
+2017-09-03	178	open	Missed headwords in MW72
+2017-09-02	177	closed	meta-line, IAST conversion tracker
+2017-08-22	176	closed	SKD meta-line conversion
+2017-08-20	175	closed	Wrong orthography for dy[uU]
+2017-08-20	174	closed	Ordering issues in MW Advanced search
+2017-08-14	173	closed	vcp meta-line conversion
+2017-08-07	172	closed	SHS meta-line conversion
+2017-08-05	171	open	simple input: misc problems
+2017-08-04	170	closed	SHS: IAST conversion
+2017-08-04	169	closed	Dictionary selection in list-0.2.html
+2017-08-03	168	closed	PDF scan pages problem in Android Chrome
+2017-07-31	167	open	Simple-search: hanumat
+2017-07-27	166	closed	BUR meta-line conversion
+2017-07-15	165	closed	Kyoto-Harvard -> Harvard-Kyoto
+2017-07-14	164	closed	BUR IAST, corrections
+2017-07-13	163	open	Preference for Siddhanta font for Devanagari
+2017-07-12	162	closed	meta-line conversion of AP
+2017-07-08	161	closed	meta-line conversion of MD
+2017-07-07	160	open	div markup in MD - not ready now
+2017-06-27	159	closed	AP90 IAST conversion completion
+2017-06-24	158	closed	ap90 meta-line conversion
+2017-06-21	157	closed	AP90 - reference to another headword
+2017-06-02	156	open	simple-sanskrit search
+2017-06-01	155	closed	updateByLine enhancement for insertions and deletions
+2017-06-01	154	closed	Yates - IAST and meta-line conversions done
+2017-05-31	153	open	pdf not rendered on firefox on android
+2017-05-30	152	open	Discussion on subject tags comprehensiveness
+2017-05-28	151	closed	insert and delete in updateByLine.py
+2017-05-27	150	open	additional alternate headwords - ACC
+2017-05-27	149	open	Potential additional information - ACC
+2017-05-27	148	closed	Catalogue tagging - ACC
+2017-05-27	147	open	Probable new tags for person identification - ACC
+2017-05-27	146	open	Works forming subset of some other work - ACC
+2017-05-27	145	closed	Missed out tagging - line breaks
+2017-05-25	144	closed	Update sanhw1.txt and sanhw2.txt for alternate headwords
+2017-05-21	143	closed	Display of ACC alternate headwords
+2017-05-19	142	closed	Subject tagging in ACC
+2017-05-18	141	open	Author tagging in ACC
+2017-05-15	140	closed	ACC => `<HI> -> div n="3"`
+2017-05-15	139	open	MD - 1210 superfluous line breaks
+2017-05-13	138	open	ACC - single headword with brackets
+2017-05-13	137	closed	ACC - removal of two trailing spaces
+2017-05-13	136	open	ACC - <HI1>.*¦
+2017-05-13	135	open	ACC - `<HI>--{#word#}`
+2017-05-13	134	closed	More than two broken bars in single line - ACC
+2017-05-10	133	closed	Specific issues for converting acc.txt to have identical headword line
+2017-05-06	132	closed	MD - sh issue
+2017-05-06	131	open	MacDonnell - shades of meaning
+2017-05-06	130	closed	Uniform headword scheme for xxx.txt
+2017-04-23	129	open	ae.xml issues
+2017-04-20	128	closed	cologne scripts in this repository
+2017-04-19	127	closed	AP Euro verb analysis
+2017-04-19	126	open	APIDEV CSS
+2017-04-19	125	open	Apostrophe ( ’ instead of ' )
+2017-04-19	124	open	techniques for indenting
+2017-04-19	123	open	root markup for AP
+2017-04-17	122	open	sch.xml issues
+2017-04-17	121	closed	user query statistics
+2017-04-17	120	closed	google analytics on Cologne
+2017-04-16	119	open	BEN issues
+2017-04-16	118	open	Addenda, corrigenda - Test study
+2017-04-15	117	open	RESTful APIs + Clean URLs for cologne
+2017-04-14	116	open	one DTD
+2017-04-09	115	closed	acc.xml issues
+2017-04-08	114	open	ae.xml issues
+2017-04-07	113	closed	ap.xml issues
+2017-04-07	112	closed	Benfey IAST
+2017-04-05	111	open	pd.xml issues
+2017-04-04	110	closed	AS to IAST / SLP1 for all dicts
+2017-04-04	109	open	Broken link repair
+2017-04-04	108	closed	BUR display issue - error parsing line
+2017-04-02	107	closed	ACC requirements for stardict
+2017-04-02	106	closed	Download specific dict.xml file
+2017-03-30	105	closed	BUR, conversion from AS to IAST
+2017-03-16	104	open	Cologne Web Apps with Macintosh server
+2017-03-14	103	closed	MD requirements
+2017-03-07	102	closed	apidev fonts
+2017-02-28	101	closed	All Sanskrit in SLP1
+2017-02-27	100	closed	Unified view
+2017-02-27	99	closed	JSON for integrating with new frontend
+2017-02-23	98	closed	Integrate Cologne dictionaries with stardict-updater
+2017-02-15	97	closed	add DTD
+2017-02-12	96	closed	Advanced display MW - target a bit off mark
+2017-02-07	95	open	Add Dictionary Metadata: Reviews
+2017-01-05	94	open	Advanced Search resolving line break
+2016-11-22	93	closed	Rigveda Hyperlinking
+2016-11-05	92	closed	Advanced search: what to save in cookies?
+2016-11-04	91	open	Hunspell for Sanskrit?
+2016-10-31	90	open	highlight blocks in PDF
+2016-10-29	89	open	Display enhancement suggestions from user
+2016-10-18	88	closed	AP90 Advanced Search Display Problem
+2016-10-05	87	closed	normalizing xml structure of various Cologne dictionaries - preliminary review
+2016-09-21	86	closed	Two HTML Title Issues
+2016-01-16	85	closed	Transliteration Scheme .pdf
+2015-12-11	84	closed	all dictionaries pywork folders
+2015-12-08	83	open	request for composite files of key2
+2015-12-08	82	closed	samaasa splitting
+2015-11-24	81	closed	edit-distance method in case the word is not in dictionary
+2015-11-24	80	closed	Make L numbers unchangeable
+2015-10-21	79	closed	Smartphone compatibility
+2015-10-19	78	closed	Null characters contained in the file
+2015-10-05	77	closed	"Cologne Scan" PDF Title
+2015-08-03	76	closed	minor change in Cologne Sanskrit-Lexicon home page
+2015-08-01	75	open	hyphenated words in full-text search
+2015-08-01	74	closed	Improve Dictionary titles in the Cologne displays
+2015-07-06	73	closed	Problem with scanned image display under Linux
+2015-06-11	72	closed	Basic display, first steps
+2015-06-02	71	closed	Repository for legacy Cologne Sanskrit and Tamil Dictionaries Display
+2015-06-01	70	closed	Singhalese output request
+2015-05-20	69	closed	Much obliged
+2015-04-23	68	closed	Alphabet tags vs Language tags
+2015-02-23	67	closed	overlapped title
+2015-01-04	66	open	Review section about dictionaries
+2015-01-04	65	closed	webapps.uni-koeln.de/tamil/
+2014-12-12	64	closed	Scanned images for dictionaries on S3
+2014-11-30	63	closed	Even more lines of comments in code
+2014-11-27	62	closed	Borooah English-Sanskrit Dictionary (1,2,3)
+2014-11-22	61	closed	title overlapping
+2014-10-29	60	closed	Request for head word list
+2014-10-21	59	open	jihvamuliya and upadhmaniya coding and display
+2014-10-05	58	closed	Link GitHub on Cologne web page 
+2014-10-04	57	closed	Funderburk's RegEx Library
+2014-10-01	56	closed	Popular Names vs. Real Printed Book Names
+2014-10-01	55	closed	Cologne Digital Sanskrit Dictionaries Harvard Bibliography
+2014-10-01	54	closed	Remove index.php from Directory Links
+2014-09-29	53	closed	Encoding Issues: <br/> inside words, u7 & æ (VEI)
+2014-09-26	52	closed	Gasuns Dhatu Concordance (based partly on Cologne Sources)
+2014-09-26	51	closed	Display of Metadata
+2014-09-16	50	closed	Unwanted Vertical Scrolling
+2014-09-12	49	closed	Change the name of Dictionary-
+2014-09-11	48	closed	Find RegEx Cases /([a-zA-Z])\1{2}/
+2014-09-11	47	closed	How I Search and Submit Corrigenda
+2014-09-11	46	closed	Dictionnaire sanscrit-français Stchoupak
+2014-09-11	45	open	Paste data from webpage to textarea of another webpage (.JS)
+2014-09-08	44	closed	Ká¹›dantarÅ«pamÄlÄ
+2014-09-01	43	closed	Compile List of Headwords
+2014-07-23	42	closed	Cologne web site documentation with sphinx
+2014-07-14	41	closed	Sabdakalpadruma headword normalization dropped
+2014-07-10	40	closed	Full title
+2014-07-07	39	closed	Proposed new home page
+2014-05-20	38	closed	Fonts in PWG2013, forked from Issue #35
+2014-05-17	37	closed	video tutorial for installing offline mwe
+2014-05-08	36	closed	Headword spelling in Sabda-kalpadruma
+2014-05-08	35	closed	RegEx 5, 4, 7. 6, 41, 2. 7, 53, 3. 8, 1, 1. 3. 10, 2, 13.
+2014-05-08	34	closed	Sanskrit Devanagari Web Fonts
+2014-05-08	33	closed	Ways to Enter Devanagari and/or IAST
+2014-04-30	32	closed	Available displays
+2014-04-27	31	closed	Spondias_mangifera, Pentoptera_tomentosa
+2014-04-27	30	open	The markup of the various dictionaries was designed and implemented by (Credits)
+2014-04-27	29	closed	Logo = Home link
+2014-04-23	28	closed	Abbreviation question in 'NAMES IN THE GUPTA INSCRIPTIONS'
+2014-04-11	27	closed	Exclusive Head-word search
+2014-04-05	26	closed	Alternative approaches to corrections for Cologne Sanskrit Lexicon
+2014-03-25	25	closed	VCP Headword "ai" problem
+2014-03-25	24	closed	Add "Previous" Button in advanced search
+2014-02-16	23	closed	Include Transliteration scheme
+2014-01-25	22	closed	Add Home button
+2014-01-22	21	closed	List of words starting from a particular letter
+2014-01-21	20	closed	Add Google Analytics Code
+2014-01-20	19	closed	Scanned Page Navigation by Page Number
+2014-01-20	18	closed	Full List of Abbreviations
+2014-01-20	17	closed	Split Output on Large Search Queries
+2014-01-19	16	closed	Devanagari Input Issues
+2014-01-19	15	closed	Stage of Sanskrit Dictionary Digitalisation (1/5)
+2014-01-16	14	closed	Move PW corrections Form to Google Docs 
+2014-01-16	13	closed	Add Corrections Option in Advanced Search
+2014-01-16	12	closed	Word Weight vs. Alphabetical Order in Search Results
+2014-01-16	11	closed	Novice Non-friendly, Lack of Metadata
+2014-01-16	10	closed	Possible Hints for Words not Found
+2014-01-16	9	closed	Add Ajax AutoComplete
+2014-01-16	8	closed	Alternative Input Methods
+2014-01-16	7	closed	Eliminate Horizontal Scrolling
+2014-01-16	6	closed	URL legth /scans/PWScan/disp2/index.php
+2014-01-16	5	closed	Link to Exact Line, not Page
+2014-01-14	4	open	Huge vs. small scans
+2014-01-14	3	closed	Remove 'nested' accordion technique
+2014-01-14	2	closed	Change dictionary display order
+2014-01-14	1	closed	Change "2013 edition" tag

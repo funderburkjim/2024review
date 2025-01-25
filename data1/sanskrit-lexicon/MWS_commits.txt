@@ -1,0 +1,307 @@
+date	sha	title
+2024-12-10	3917d63636210d8b68b023512796ccd9ca6e07df	Ref: https://github.com/sanskrit-lexicon/mws/issues/182#issuecomment-2530678105
+2024-12-09	0bcc59530e50a2a9834597ed47d030bada59121c	standardize links for 'BhP.' #182
+2024-11-16	5a92d94bc6bbec4e2fd511f82af72e19991e3ba1	#181 first try for cdsl to ab conversion
+2024-09-05	cf1731032ca6aebbd795304c1dccdafdaf1733d3	#178 - example_rev_sup
+2024-09-05	d02ced7646b106f78dd3b693f60401628de0c8e1	#178 drdha.png
+2024-09-05	31004c8f0eeddf0da42e967964a4410e2a8a52b5	#178 akshagrakila and drdha examples
+2024-09-04	81f560cb26bb368dc8e3aed4ce977d3279620c40	divtalk - akshagrakila example #178
+2024-09-03	5d31e98645670a9311f05c608610c3c7f949634f	rev1a  #178
+2024-09-03	ff6b593e80be696dc4cb60f5eb1bd97c14cc0ff6	Initial commit #178
+2024-08-24	f3d2adc95f1bdf4bd288ddc13874037e9a028d06	last step for this repo
+2024-08-22	f03c61488978840dff49989104aa98a448fdf994	version 16. All <info> tags moved to end of last line of entry bodylines. #176
+2024-08-21	4e4db40c6f36bdf02245254db4107113b5574793	version 14: minor corrections. Remove slp1 attribute. #176
+2024-08-21	7b7fad730b133e34591cf5775c3611dddb29468f	Work on an 'AB' (Andhrabharati) version of mw.txt. #176
+2024-08-14	bb728eef3866c689a6234bf3470524c100b69513	convert mw.txt to lbody form. #176
+2024-08-13	f393cd0a848878816b7f1ea37b80bf6ba6ac1c37	#176 readme 'Sample rewrite of groups'
+2024-08-13	2f2949ad625eb34171e7e25f70ff450d44d21a3e	#176 : missing hw
+2024-08-11	ea81fb9b3a78d56b005e6856023ab1ef9f50bea9	#175 initial commit
+2024-08-04	192a5d6283ae78eefc1ec6d51f520c9155250cc6	mw_orig_utf8 -- A version ca. 2014.  #174
+2024-08-03	8b202a76849f2c6b7b518ec8a75241f03ea19e9a	#171 - phase 3
+2024-07-22	695c36fe49242f6530ce76540be0849989b40db6	#171 legacy1/match3_3.txt
+2024-07-22	3ce55c0c3a662e5b867ed4507f3a7fee50d88351	#171  phase 2 (legacy1)
+2024-07-17	22827cd8fc62b4a5e4948ce03857ff1789c11691	legacy supplement files: ADD3.xml, readme.org. #171
+2024-07-15	cd59eab48866822291add9903e9a7e91527be7df	#171 - revise readme
+2024-07-15	3c924daf7dca6da55af8073fceea10f1dedd5d9e	L_change_01.  #171
+2024-07-05	0ca5b61a2a9e6fded87e08dd01cd29edb83fc178	Issue 172 initial commit. #172
+2024-07-01	f1f62cb44e145d6cc3d529dc6c4cdd37bcbb7fa5	unicode question re accent. #167
+2024-07-01	286f7c8735654766d1c14b03111a40c7af6fa77b	Stray errors.  #167
+2024-06-29	37051f20b1e2bf531b7e188111e804e98ead0fc4	update readme. #166
+2024-06-29	b8386a0b4f84ff245b78231abd316886f19df97a	revise readme.txt. #166
+2024-06-29	820ff307663d284a5000c5fcf18ea8b46c2d6f41	#166 initial commit of issue166
+2024-06-21	e835e42470e35386160dea394e0e397e6f796e37	revise two of the corrections
+2024-06-19	ae4fecf38d0c6620b70066d3f9979fe8ce9afd2a	#165 initial commit
+2024-06-17	11844d8107c1d74121763a3e1f11f241e55f0811	Work on change_4, change_5. #164
+2024-06-16	2436bdd6293f66ebe25fe27f9d607490161e908a	#164
+2024-04-25	683dd920b13f1b64e21874549574220988ed40e1	revise mwab_input_7
+2024-04-24	5fe5e435f30bd547988a890c3c99acd54c7684c3	Additional work with tooltips. LB Ref: https://github.com/sanskrit-lexicon/mws/issues/65#issuecomment-2068039919 and following
+2024-04-17	b4fc0de659be6d0ba162824274f095b8513739f0	#65 revise mwab_input
+2024-04-16	2dc20b83f53c1c03025270eab48b800251236083	#65.  temp_mw_8.txt and temp_mw_9.txt
+2024-04-13	a2bc75107eadca6df8e0c9697c7b0e754786be17	#65 change_6_7.txt, temp_mw_7.txt
+2024-04-13	7bcdf28ab36c001264024f301ffa29c2f6bc43b0	#65 lla analysis, probably last step in cdsl changes to LB resolve <lang> differences between AB and CDSL version of mw.
+2024-04-11	71d0d48580283f206ecbff20e65a3cbe50375ddf	#65 - modify make_change_countdiff.py to also write ab_lnums_del.txt.
+2024-04-10	3da9c98796ed1728ec8411d6f9bdde794860c77e	#65 continued work
+2024-04-08	1255dd19417174068ac7623284b38300230adb28	revise readme.txt #65
+2024-04-08	47477bfc8aa1a20a6ab8e80805a68dda7566ae3c	lang tag counts. #65
+2024-04-03	e79afced33a0cfef2cb8980b849af9e759c4b1f4	Recompute bot/bio counts. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/74
+2024-04-03	69b02866edc02241464dff49c66826019d091120	#66
+2024-02-05	a1a2f5c5318c073b977986bcbeac56f0a6ab7bbc	Boetlingk dhatup reference. #126
+2024-02-01	74b28da786c7a2b86c50d93c12f361b2d94a2f3e	Sch links to westergaard. #126
+2024-02-01	27ba8e0e03e965062e0fedece534471074b83eac	pwg dhatup changes. #126
+2024-01-30	45a64bd4c44404a8cd3f386d4dcdaf03baceec25	document further work on #126
+2024-01-29	e887df2fb7f0c7f715356f349ec6112a5f9acea2	Preliminary examination of <ls>Dhātup. # 126
+2024-01-25	34311ff5a827d36a0a343656dac9c271a7ebf126	Add <ns> markup to Rakshases, Ushases. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/127#issuecomment-1910699452
+2024-01-25	55c3e357ba92b8d0e3386154cb467e731736b3e4	Revised per AB comments. #127
+2024-01-25	534d153cfa22c0b5f78c36d0359e1ebf4afd5a9a	Process corrections from words_mw_noneng_2.txt. #127
+2023-07-24	faf895f1ac3db29cf8cf2cbf91f00265dbef3f1a	extract <ls>Gr. and <ls>Gram. instances. LB Ref: #159
+2023-02-26	b99dd20b8347cbc9c119565d9496dbc5d4c20545	Corrections based on two AB.CDSL_cognates files. # 153
+2023-02-23	acbaeab222ffa69893c24ea873f6814d0cf953dc	greek corrections from AB.vs.CDSL.greek.text.differences.txt. LB #153
+2023-02-22	1c381ac768915362ed5abecf1d6a9c9b83cf0e37	small phi to phi symbol.  #153
+2023-02-21	1f03ce5da7627ac9f55c6c724e803f4d0a63b037	Greek and other changes from mw-dev repository (lang.string.changes). LB #153
+2023-02-19	e9401867cdbb37cc6dde3814e6ec957c80c8cef6	count tonos-oxia instances in mw.txt
+2023-02-19	48c6a5808a1647d42e44307476fdc94e1b6b258e	#153
+2023-02-13	791f9b97d725ad742af831b9a022e58f27c93f64	#156
+2023-02-08	d1286ba209821452dd05138837f15ec1d34c5f40	Merge branch 'master' of github.com:sanskrit-lexicon/MWS LB Needed to do this to avoid conflict with Andhrabharati
+2023-02-08	31dcaeb652288acd375b75b74f266da88d884f51	#152  (11) instances of '<ls>Gr.'
+2023-01-11	e0c17700dfc222292ad70ec753964d76ae52a602	readme update for #148
+2023-01-11	2c5ceee7007b731175db9ce22df3a3c0313b895b	started an issue to disucss with Andhrabharati. See #148
+2022-12-30	79179b6fa689f70329f3d6aac649dec1e2570fe0	work to get new scan. #144
+2022-12-26	012298ebf4dad9585a594088928e989aa25ffc94	Merge branch 'master' of github.com:sanskrit-lexicon/MWS LB Andhrabharati made changes.  Bull in China shop/
+2022-12-26	c8e899d7d1f8ae62376d930cb16a3d27dd4e1543	AB starts thorough review and update of MW
+2022-12-26	64d313e98801ed7fefa8cf4ef90faa411f153419	init issue146 as copy of issue145.  #146
+2022-12-26	95cd1ab19e4e41767f7c7513742465d96ec2f417	Add analysis programs diff_to_changes_dict.py and updateByLine.py
+2022-12-24	1a0835b6e0cf457cf3df03c47435ff59613fe833	Begin issue145 workspace
+2022-12-22	49bfc9d658c55d12526defeea472aec296df6a7a	convert latest MW to IAST for Andhrabharati. #142
+2022-12-21	ee3a3ccd7ecf6a09c62d69a8806f16c10c625b9f	MW accent review.  extra changes. LB   Ref: https://github.com/sanskrit-lexicon/MWS/issues/142
+2022-12-20	ef4a66528ac62b414a6c7435af37396efc7913b5	mw metalines with two accents
+2022-12-20	39e1fa1d12fc50ce90c92cce00d50e2591851f9d	MW accent update pages 1200-1308. LB   Ref: https://github.com/sanskrit-lexicon/MWS/issues/142
+2022-12-14	8ab2b5eba9f46d96eccacdd1a26b4056519c0ddc	MW accent update pages 1100-1199. LB   Ref: https://github.com/sanskrit-lexicon/MWS/issues/142
+2022-12-05	911ed954f9894d9d0e4dc8e84e53319756d21116	MW accent update pages 1000-1099. LB   Ref: https://github.com/sanskrit-lexicon/MWS/issues/142
+2022-11-28	274ded4373b7e4a77eda49810fc064df8e937b3b	MW accent update pages 0900-0999. LB   Ref: https://github.com/sanskrit-lexicon/MWS/issues/142
+2022-11-25	c981b5863c776180d647f0b52f83fd7e67b0e58d	MW accent update pages 0800-0899. LB   Ref: https://github.com/sanskrit-lexicon/MWS/issues/142
+2022-11-19	a21303aa25263823efabfa50bd1c5f741f98522c	MW accent update pages 0700-0799. LB   Ref: https://github.com/sanskrit-lexicon/MWS/issues/142
+2022-11-15	e93cb816305d546787d8bd52add052f2424310cb	hwcount program. #143
+2022-11-15	18414898fc1a9953e35e34723617c47d65d69f83	MW accent update pages 0600-0699. LB   Ref: https://github.com/sanskrit-lexicon/MWS/issues/142
+2022-11-10	c55b5b82113c7b9752508b4044688c476432f5b7	MW accent update pages 0500-0599. LB   Ref: https://github.com/sanskrit-lexicon/MWS/issues/142
+2022-11-06	9d8329f0f90d079db8fa8c3ffa305e013316747d	MW accent update pages 0400-0499. LB   Ref: https://github.com/sanskrit-lexicon/MWS/issues/142
+2022-11-01	3c163ddb57284a85082bb5a689bdff03bdf40e58	MW accent update pages 0300-0399. LB   Ref: https://github.com/sanskrit-lexicon/MWS/issues/142
+2022-10-27	61c526ae6e47376e37f642478458f66d837fc729	MW accent update pages 0221-0299. LB   Ref: https://github.com/sanskrit-lexicon/MWS/issues/142
+2022-10-24	23a89774dfa3e0984f35de38c87e2f63f9c415fe	MW accent update pages 0131-0220. LB   Ref: https://github.com/sanskrit-lexicon/MWS/issues/142
+2022-10-21	4fb4839d5ec34601b6bfdf6083b089e3c47c30af	MW accent update pages 0060-0130. LB   Ref: https://github.com/sanskrit-lexicon/MWS/issues/142
+2022-10-17	075dafaa22954bf5f344c5c6cc29bbf5ff752414	accent review pages 0001-0059. #141
+2022-10-12	d9bd758f29da9763f02ec74b85bb2f544e08ce02	MW accent corrections, phase 3. #141
+2022-10-02	5cd9ac0708e7c549e3e04d1c2fce274154c88fe9	Accent correction, Phase 2.  #141
+2022-09-26	722fce285060cc29f09fe198dca9646246416673	mw svarita accent corrections, using pwg. LB Ref: #141
+2022-09-20	ea6d0ca2a2bb51b47f3c91bfb7ce188bda526ecf	log with compounds also added
+2022-09-20	ff029e46cef3181ed0687012f6dec8e60f46761e	accent diff highest priority
+2022-09-20	44b07a583d4f5222ca5dbcca16d5361d06743d2e	log.html prepared
+2022-09-20	eb789c37aa5b5bb81143d34537795e71bd72dfed	rename
+2022-09-20	6020986b1b8b72cddbb9d0c2bea878018cf85a36	accent diff 2
+2022-09-20	23635e1f07e53a520b930102034d0f6d8e9e3855	accent diff in HW of MW v/s PWG
+2022-09-19	ec76c80f10498e0e52bb07995be1928bf3c3bd9e	Revise transoding to use grave accent for svarita.  #140
+2022-09-04	def86c0bfed4ade42cf22ae016736598e2b9b857	change_9 for #137
+2022-09-03	f642f701226225f102b90d87506c0e03c4c872bf	edit readme
+2022-09-03	bd6a29676be989ad89bc55f5ee59125b7b56c9c3	change_6 through change_8.  #137
+2022-09-01	027f0dcc5530eeed8be73b8ac70218cda6edec00	another batch of corrections for #137
+2022-08-30	c0f4b70f6fa76be05c8a36a2fa27a1def6b13e20	Correct errors in change_5; #137
+2022-08-28	1d12c55fb1093b53fc810324c364d583caf66883	#137
+2022-08-22	ba4c91983b09ffb1f72e2d14ebf9b2326dbd74ad	#132
+2022-08-12	71442095fb8f8c53886394254fa166916950232f	Rename mws_issues_99 to mwsissues. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/99#issuecomment-779412429
+2022-08-09	96b3d24788e3a881c3a0c8faeea987c04d5c618f	hom cleanup.  #131 (change_1)
+2022-08-05	badcbbfd8ebd0738ed4c4cb2ba8c5a8c51956352	finish with issue135 #135
+2022-08-05	dbc7e86a6c3319357db55bef19fade57b6a4b9f0	final (?) update of #135
+2022-08-04	6599db8d369725fb761588a8d165ef1e630f3ed7	#135  change_4
+2022-08-02	1b2efd5aab9c30da05102a03427b85f628ad25cc	make an iast version of mw.txt
+2022-08-02	f0b1b4e64801f011de0f002d951943456b4634b7	change_2.  #135.
+2022-07-27	039820ca6445e3c17a6233229c040261b2336fee	#135. ls tooltips. change_1 revisions
+2022-07-22	6a0a8a80be0dee9ea5cfc31b65d5e086687f99de	change_6.txt in #136
+2022-07-21	bcf913fe49781a849ad72415daaeda6ba5a1a621	#136 continued
+2022-07-15	0d6a70381b4f30af6aa63bbef38bfb84a9f8c12d	ls cleanup continues. #136
+2022-07-08	bba207a5393ce8919e05c202cc613c942bdeff56	ls cleanup work. #134
+2022-07-01	3ca3f424ed8f994295ac34d15001cb96c355570a	Merge branch 'master' of github.com:sanskrit-lexicon/MWS LB Apparently, someone made changes to MWS independent of RV MARKUP #130 work.
+2022-07-01	4d55d45f30d05d57b2a5fe544cf7260b8f6610e6	RV ls markup corrections. #130
+2022-01-24	5cd8e97eab405c9621daac1984287ed36f9bc0f7	words_mw_noeng_1w
+2021-12-14	f1ebee9d9d5d05c8484159039539b3fe687948cb	words_mw_noneng_temp
+2021-12-01	b1e944cb601d6f4f68e9900c9fe914c25a8f1124	3 files in capword_changes.  Significance unknown
+2021-12-01	68735e28e3e9566b951a05b6c631225dde33eedf	non-english mw words, #127, first commit
+2021-10-17	aab6a359245fc4b297a291c307aa8cc157ce32f2	remove unneeded capwords.txt
+2021-10-17	18ec526cde9ca9b12f88363c24685797be9ac115	abcleanup initialized
+2021-10-15	8bcabbf0ab51dbee7790aa95af4a8d6c5c18ca0e	Remove 'todo' from capwords
+2021-10-15	d129e2af71ce6cb57962dceb782902f9f3c0466e	capword changes. Ref #121
+2021-10-08	044b2f707c468d50cb26e6b0458248b5b5ce0de2	panini links with roman numerals
+2021-10-08	36c496e57c68f0fdb69827837d6d75b7f9c4e0d5	Revise format panini_links1
+2021-10-08	045f82b7083bc547a5d6460ce090eed26514c18d	Panini links after applying change2.txt to mw digitization
+2021-10-08	d350d0445c0f6a18776e4a6a1166ed0efc80088d	improve format panini_links_mw1.txt
+2021-10-08	c95247945875be03b5dbe319f8b8b47e2903324a	panini links before change2
+2021-10-08	d366ead3e5747b160087340baf6f1f0a12cae3d2	Panini link normalization, and conversion to roman numerals. LB Ref #120
+2021-10-06	8ecdc7c2c91995dc7c06e73ecb39edd75a96809f	Code for improvement in markup indirect Panini links. LB Ref https://github.com/sanskrit-lexicon/csl-orig/issues/519
+2021-10-03	770e49a250f8804eb779423bcf3fac1308b7adb5	log totally examined
+2021-10-03	87456b0bbf4d29544efd2f38a37bfca298b6f101	transpose some lines
+2021-10-03	f39d0686c8e5fbd80bcb8386837088428dc801eb	index started at 1 for linenum
+2021-10-03	de4bcf3dc0bc11b56f0faa3e80d620fb10d31a1f	log more readable
+2021-10-03	be13ffc5834b034f0f12cd6f9b3a62b8ac17bc48	log regen
+2021-10-03	c25004119ede8c2f41a2b5596c4216edc3190e7a	log regen
+2021-10-03	481fe4860da7ae22d3e19ca21bb0c0ea3531ed71	log regen
+2021-10-03	6cad8f97c610eae9c9c4b25c9acb709d48d384d2	log update
+2021-10-03	268d94085921ce1311bc54d3d2ec84a7d045dd6b	log regen
+2021-10-03	08b539bcba6c1e4bb3ed602b90329a582934fc61	reinstated log.
+2021-10-03	c5557afc843d38f080ff2f33866b1187caa43cc1	minor adjustments for AB
+2021-10-03	652817c76e04993a854cfb2fa111b05b0e054aea	umalut
+2021-10-03	5ede8d8cf82afc27e00c68d5d3841c07b0813bf8	carets handled
+2021-10-03	a3dd0bb496c28d6093a0b4ab00653a9606484a4b	log.txt update
+2021-10-03	5411f51cde71f656b61de0fba3677c5f0e209727	diff in list instead of set
+2021-10-03	bbaca99d662427d8c16e2fcd43b498cf2adfdd86	started log file
+2021-10-03	18593e5e4cb5eba361bdfbab36732b78003afe85	edits in ab_lang1.tsv
+2021-10-03	6811dab431fd6d52366657a316b893d3694ab435	issue 632 started to give log file
+2021-10-03	84945e5d6d8a9d51a760e25b0b8c69242f8d5a49	removed header from ab_lang
+2021-10-03	abb1a8bf77b48bf19369eedbc214a3112b54dcc3	started issue_632.py
+2021-10-03	f42644ad8c8c4020e891d3def0959035acc16513	init https://github.com/sanskrit-lexicon/CORRECTIONS/issues/362
+2021-04-03	91bd8ac3f9289a5e37efd6b3538e1124cb68e8f8	Normalize or/and text. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/105#issuecomment-812916999
+2021-03-26	890fbc28e56e6b6df15fa03770103cca2dd94d25	mw_iast.txt:  First batch of or/and normalization changes
+2021-03-21	1efccf1009e9a29685599f6b46e5f9421d91a624	upload early supplement digitization
+2021-03-12	dd90afa2df4ee6740c71bc57de47bcfd347dab88	change transactions leading to mw_iast at cmomit e2d695b3ea92455331661244d008b59dac6751c3. #105
+2021-03-12	e2d695b3ea92455331661244d008b59dac6751c3	or/and changes. #105
+2021-03-11	5f9ad8e6c1a8a70a3859b9201239e5c258008b9d	Deleted the Vacaspatyam "unreadable" files
+2021-03-11	2ff8d6060c39d7132e2cd7bea40c55945a0f21bc	Vacaspatyam "unreadable places" in Cologne text (AB remarks)
+2021-03-08	40cfc473c4e5bb4c06ab527a11573443c7eb0c28	Add roman1 transcoding, using grave diacritics for svarita accents; see https://github.com/sanskrit-lexicon/MWS/blob/master/mwtranscode/revdoc/alphabet_accent1.md
+2021-03-08	d6ee3657780888002aad0a61d284f41276ab2b27	Correct mw_iast, and use grave diacritic for svarita accent
+2021-03-06	9dd2bf52f0a0df2b3790eb8a0f96e2f99c683648	accent1: Use slp1_roman1, with grave diacritic for svarita, LB and combining_low_line for anudatta
+2021-03-05	c7a2b78b22f09cbb0a76622335b2bb8c77329fbe	init alphabet_accent
+2021-03-05	fd2472a5414d684aa240c9745f27d2d7c739c724	Update todo.md
+2021-03-05	33fa0f5ccd61e457795529a4d0f1df4ed74c735f	todo items for mw digitization
+2021-03-04	5a9bf4b7e60a4186f6ee553038e9439a5d9eb78d	Minor adjustment to changes_2
+2021-03-04	5af698cd034e0738b5f37d192463e1a0d875398f	Minor correction to mw_iast.txt
+2021-03-04	2befb882ecde9fa5aabd81ef8e444e96bc5a0328	changes applied to mw_iast.txt.  Ref #101
+2021-03-04	dd526889bb399690822bf440be52216bbb345e53	mw_iast.txt revised. Ref #101
+2021-03-02	b6825299327fab1a3c327fd41f346cf459101b8a	Create MW_Lithuanian.words.AB.vs.Koeln-_Darius.tsv
+2021-03-01	07146e6bc9686fee9beb74266fd494bcda4c0643	Create comments_edit (3.1-3.7)-AB remarks.txt
+2021-03-01	dd197c79e1562d173c47c907dbd6aeaf4c1c8593	Create readme_added_comments-AB remarks.txt
+2021-02-27	0b85b8389f4d70b8b31fcbab2264f1914687c212	minor update readme_added_comments
+2021-02-27	e527c3328a6f10a88c5ab8993c0f604c3335b2ad	put commit hash of latest mw_iast.txt into changes_1.txt
+2021-02-27	ddb4f6c746b4be331c89ed1b7320a03b4adf1250	a few revisions to mw_iast.txt # 100
+2021-02-27	817496577d0330336091d6379e15b45e280fc115	change file for mw_iast.txt at commit  a9d142c
+2021-02-26	83115401e9dbe770c3476f68b97293b8f5220b1c	material ancillary to corrections of commit LB a9d142cc. See #100
+2021-02-26	a9d142cc62181aed6203412c9e3651f701e99112	mw2 revisions to mw_iast. Ref #100
+2021-02-25	2ff1b4085e01d9876e30bff17df45225cbc02d56	Update missed entries (Annexure)-final.txt
+2021-02-25	0a1e11a8e5ab83cac971eda0601114286e3224d3	Create missed entries (Annexure)-final.txt
+2021-02-23	d48629e674edf28f68f8181206e80ca277d6292b	mwtranscode/revdoc initial commit
+2021-02-22	2dd4bb81b629299411d9021258adedd4921b93fc	Make mw.txt consistent with mw_iast.txt. #100
+2021-02-22	d624e8b7c7f796eb5c6f802734a313ac9dd99eb6	modify mw_iast.txt: LB '<pb n=1234,1/><info n=rev/>' -> '<info n=rev pc=1234,1/>' LB #100.
+2021-02-22	990993bb603384734a4becb1b8a45a6201811415	Bring mw_iast up to date with mw.txt. #100
+2021-02-22	fd1fe4f8419b0f0f37da6b1a3ba263fbfabfe22f	mwtranscode/mw.txt now same as LB csl-orig/v02/mw/mw.txt at commit f6e1d08113824a31ec9937da5b3f673387f331fc. LB Ref #100
+2021-02-22	a8054d621e0312082d02d0d198348c1b45d9a281	Revise ab_3.7 display
+2021-02-22	e2f6a34256e6ddd42e9cadd8760ae1c942892dec	AB_3.7: ';; <L>194978' -> ';; <Ls>194978'. #97
+2021-02-22	cf7cd9965ef2d211ee5f602ec279d6465cd8854b	Update AB_3.7.txt
+2021-02-22	4f87522e8a506abb959c6884de1f85af323c0153	Update AB_3.7.txt
+2021-02-22	56a629e7b95a65dc760792b1992065f3b175b080	display for AB_3.7.txt.  Ref #97
+2021-02-22	b63d95069bb67e232d3b12fb4e736014d56de5ff	Merge branch 'master' of github.com:sanskrit-lexicon/MWS LB ejf pulls AB interim changes.
+2021-02-22	248ce3403c83127a4f6cfa9bffdce62deab491c8	Minor edit for analysis
+2021-02-22	80457bb86387ee8e8f9c633e561e20297ba2ffd8	Merge branch 'master' of https://github.com/sanskrit-lexicon/MWS
+2021-02-22	102c04cbf59812793b3e6d533c1931e9e312f262	Update AB_3.6.txt
+2021-02-22	21fdbc62bb347c576d1b48a41b055e9bfd981093	display of comments of AB_3.6.txt. Ref #97
+2021-02-22	5b5643e6b22622243c123e32326e5a311f5fa63c	Changes to AB_3.6.txt required for analysis
+2021-02-21	d12b80813978183ba407fe752a058b98eb7bfbda	auxiliary display of revisions re AB_3.5.txt. #97
+2021-02-21	c0b5e686f7a38f04450c7e5e40840093536a273a	Merge branch 'master' of github.com:sanskrit-lexicon/MWS LB Taking AB revisions.
+2021-02-21	ce913104121e1cd0c31b6fce982106a4d1460c89	Revise web/ab_3.4 based on minor change to AB_3.4.txt
+2021-02-21	c2c0e1b489bc64236a1069f7c52c05fffca27607	Create AB_3.7.txt
+2021-02-21	76f4e0062b92fb648d468b438e8cd7830e45e160	Create AB_3.6.txt
+2021-02-21	15891afc6759954adaf06fb00a6a1b35ba5875b9	Merge branch 'master' of https://github.com/sanskrit-lexicon/MWS
+2021-02-21	0632c234a366f2f6ab01848e089ae990555ee0c3	Update AB_3.4.txt
+2021-02-21	2fe43c7396ec69702f11b52470e9ba8721dda992	Create AB_3.5.txt
+2021-02-21	91971571709c3da5f5f680fd082490ba50606fca	Displays for AB_3.4.txt.  Ref #97
+2021-02-20	963a774c731fe0bd070b787fcc29267eda511aee	Merge branch 'master' of github.com:sanskrit-lexicon/MWS LB resolve from AB's work (ejf)
+2021-02-20	a3e33edce05d290236b8e44362f4f757d0dd7dde	displays for AB_3.3.txt. Ref #97
+2021-02-20	bce65d4adb276cef8c15abf0df2e2230461e7391	displays for AB_3.2.txt. Ref #97
+2021-02-20	d97d57ec0801e04774a129e14904be89bda22d34	Merge branch 'master' of https://github.com/sanskrit-lexicon/MWS
+2021-02-20	5a8f651d885181175c214360ca3d6deb2c35c069	Create AB_3.4.txt
+2021-02-20	c1959756ddf052df40c7987a43bc5f20bcfd1d2a	minor edit of AB_3.3.txt
+2021-02-19	8a3bda3d775ab043df6ac4444d00ab2d3da71eeb	Revise web display of AB.3.1.txt comments
+2021-02-19	0583ebaaec9c12dccfa8b304562498c43c78afae	Update AB_3.1.txt
+2021-02-19	899e5c2f7d49235468995ba06715792fc3180621	Merge branch 'master' of https://github.com/sanskrit-lexicon/MWS
+2021-02-19	c0fcde362f0d0dd8aa525d1af0409a3b2abc6c41	Create AB_3.3.txt
+2021-02-19	bbce59263ac45f395d19b1f8f2e8bb0317503646	Merge branch 'master' of github.com:sanskrit-lexicon/MWS LB ok (jim)
+2021-02-19	79ae813d65d03f6a7e230712ad5f8de291c7b18c	web/ab_3.1/  html program for comments of AB_3.1.txt. Ref #97
+2021-02-18	8705bd05d565c6832097d48ae5cc54f647eb27c1	Create AB_3.2.txt
+2021-02-18	410bf1831036635cd56d0dc8fa24282d329c6091	Update AB_3.1.txt
+2021-02-17	7b11b7c6dc85608026109cefd1d3ca8291cd2d13	Create AB_3.1.txt
+2021-02-16	3996721197d30ba8c15662cd30224be1af92f918	Create mw_iast_AB_3.txt
+2021-02-16	e53201e9914d90a62f027d980a38a06f26f21fba	updated
+2021-02-16	1889d828cf9491a35156581fa575308e6b340fc5	Duplicate folders removed
+2021-02-15	34050392f0e42d13c2c9d6f38beaf634248211f7	mws_issue_99 minor reorg
+2021-02-14	dd5c6f3ad3b9c93770b2878da5a8b67495aba24c	updated to latest
+2021-02-13	7b55050b9a5327145de2396c81f3628ea67019e6	Unique secion-wise entries
+2021-02-12	0ce7cd45d7aa8de01b713e96b03c9b5b6ce63d8e	Split portions of MW text for better and focussed attention
+2021-02-01	550abf1793c1c8224c2f4d804242ccb4256f64a9	Update mw_iast_AB_2a.txt
+2021-01-31	9da49b55c3b0c2624905ce3c333a035722f7d93c	Update mw_iast_AB_2a.txt
+2021-01-28	32336ae852110f5a95bc226934b24bd81cb6c0ed	Create mw_iast_AB_2a.txt
+2021-01-27	b0b27328bf38784efb452c938b94cfb9f4eb05df	Create mw_iast_AB_2.txt
+2021-01-25	9ffbe9c81dd8cb149b4616a1128888fb36946a41	Update mw_iast_AB_1.txt
+2021-01-24	347a1648b14e6c97ba03d186006a863847574a8b	Create mw_iast_AB_1.txt
+2021-01-23	39116343025095dbdff159f4041eb9e52e74f23f	Update MW_IAST_0.xlsx
+2021-01-23	f9790a8edb977a6cf5bcb5d4c91cb704fbbab4cc	Create MW_IAST_0.xlsx
+2021-01-21	c554de8a44678188c8f526bb929a76db51357cf3	sync mwtranscode/mw.txt with csl-orig; create mw_iast.txt
+2021-01-21	29072adfa35624c85b1339d598109db8213d9a94	Further comments on supplement changes. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/83
+2021-01-19	9ff7e1179db3d56ff36df289190365577896b707	Revise transcoder files for diphthongs with accents and IAST.
+2021-01-19	dc6de1b6e8fb19cc4480e0f3431ee3c3ae21e2df	jim add comments to MW_IAST_Annexure_Entries_sequenced_and_remarked.txt
+2021-01-15	891b3e072e8a106bf3139a8608c03d07d18c13ed	Rerun filter.py,  using also Lith. abbreviation
+2021-01-07	c1a048a66858e183a630c559f575066c7a54bef9	Batch 1 (all errors)
+2021-01-03	bb02f300ee942746b19d8509a2c42a1998a24043	mw english_corrections error file. LB Refer https://github.com/sanskrit-lexicon/csl-corrections/issues/30
+2021-01-03	c5266c8ccc09785b58db864635e21b3974e0af7e	Revise mw_iast and mw_deva based on revised version of mw.txt
+2021-01-03	3a25b380c7bd3ef7c100797bc58c454fc654a449	add copy of base mw.txt digitization from csl-orig/v02/mw/mw.txt.  The csl-orig file is at commit 67bfbda32328317ab45f69432f58204595227609.
+2021-01-03	2cd9f54271640d9aa0a56e087788dc2a57acd95c	excel from AB
+2021-01-03	075b6721501a227c228e96309877533437fe62c6	space retained inside AB text
+2021-01-03	de204809eff3b73ba20a32198a387545c0a172cc	pdf link corrected
+2021-01-03	b2fa1012c5faf29ee526cc6dee48bfdb959f862f	diff md started
+2021-01-03	25cdc07ab2f2b7775484428711ad2845540cbf24	diff
+2021-01-03	71e1a49b8e59498bbe6c469d46b123e917bb2958	comparision started
+2021-01-03	31620d8230a51903846a30d1924667eb0e457699	Merge branch 'master' of https://github.com/sanskrit-lexicon/MWS
+2021-01-03	a836a243cb337a9f254a0bcf210e9647c2c86f5f	further matching
+2021-01-03	8864d6722e3d2e145a15974361ce77641c0318ea	missing comma added
+2021-01-03	c12ebe5353405548db728903e9465b5efd2a57e3	log from AB file
+2021-01-03	43c3169fba3101d70b7719d90da6a69a0b21b37b	minor rename
+2021-01-03	e79d27498393f9074648cc060162a4e5b6c39ec3	headwords having greek extracted from mw.txt
+2021-01-03	7195b8c68eb415846f88b0573281661290f720c1	trial for greek
+2021-01-03	675eac298873b934bc960473a0cf8399a153acea	mwtranscode. See #90 and mwtranscode/readme.txt for LB discussions
+2021-01-02	d6fcbf94df0f8bc1a758af2bd77a6406664458d4	freshlook variations on change_9_Andhrabarati
+2020-12-31	72050331dffd3a47c82bfb358542524bfa485619	preliminary work on changes_3.txt
+2020-12-29	99066bacd98e4b095285162fbd42ca2d2c755806	Remove changes.txt.  It is superceded by changes_0.txt
+2020-12-29	19e281cce50a4c0213dafe69dc6c26812b82d320	Fresh look at mwsupplement. Ref #83.
+2020-12-14	9ba67b4384f780f567e60f7a99ed88466f40bc05	Minor correction to prior commit: abbrv.html -> abbr.html
+2020-12-14	44c243b258dbfc187e5c3bf68c1ce6693def4a17	mwabbreviatsion/readme.md and abbrv.html
+2020-12-14	992b7cc036b932ff78ad7b89206dd893803365f4	Lithuanian words in MW
+2020-07-17	e1c6b3868282045e318414deab776936eef60e83	Ref: #75 'Can it be clickable'
+2020-07-08	72aac62051734e37789ad1432616bd65d7eb8910	add shs and yat to verbs01
+2020-07-08	e1d6918b1c3e9aa1acbb7bc3efccfbe8b5ee5ac4	verbs01/verbs1_merge
+2020-07-07	118859fce07d821efab4f7ada83807ff408e9bad	revise mwverbs
+2020-07-07	41542f62dbb1265e94abf46ed3a5624244bc1918	mwverbs: Extract verb information from digitization mw.txt
+2020-06-19	be80db76263fe4adeede279953e5168cd6e9f088	botbio: list of bot and bio tags in mw
+2018-04-07	01e0aa6d8a9273ce22f1621fc65331df2d3782e3	mwauth and tooltip files
+2018-04-07	65ffa266103c3e30f32f779d80cbf555fe4dd6d1	Scanned images of the list of works in mw 1899.
+2018-03-18	829cae6b7215bfced7edcc68d3006f56d6dfe723	mw transliteration table
+2018-01-02	affba3238a5b3f832705f5b7ae17cc9b669e925a	Uploaded from local directory.
+2017-11-08	25016db3deb20b04fc6a37b8b7ca0a16717a7327	review printed and marked abbreviations
+2017-11-03	ed6853e04dd5544e2e94c28a5f4499adeec4cd66	add mw abbreviations image
+2017-02-28	a20441d8320ff9be9ec16083a88268770b8a5810	basic04a display sample - two dictionaries
+2017-02-27	a81a20e7f62c67690b664ca27d8c913204d278fa	list02php - a sample php application
+2016-07-22	94cf60d79c78fceab33f1ee3ce11fa8c7d6d43f1	add mwauthorities_init file
+2016-07-14	0846b5eeb511939cf34c54617c7d1b1084097841	add linkmwauthorities file
+2016-07-13	716ff0fc1e6c7a980398efbe3bd1cc1a1c472a48	add basic mwauthorities xml document
+2016-07-13	a6fb3eaac8aceaf1f5944b5195f17ed0eeb2a803	Add License
+2015-12-27	984c1cdd5f833fd9343b22ec4ac5ae3af8490d52	k1k2 clash
+2015-11-14	a363d5a596ed43c0a0124fd3ad08de5b97bd4365	Remove corrections-factual.txt LB  LB Moved to repository sanskrit-lexicon/CORRECTIONS as file LB dictionaries/MW/mw_printchange.txt
+2015-10-23	60d57f62c843fba8c4f0a2368c3ce4e1d6e11287	Bring up to date LB  LB Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/129
+2015-10-06	d6389da3e7e73406d352866eee7d2b1107fbb64a	Add entry for dyOsamSita
+2015-09-28	7f7134d6414dddb354cfc9e7db00960c11191384	Add a few new entries LB  LB see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/125
+2015-09-28	2a1d92c1aeaef3a7bb1bffff80142d15b370e6db	Correction mistake in corrections-factual.txt LB  LB Item 100 revised.
+2015-06-26	030bcb9e347032283894750c169aa3646f47e236	homophone corrections documented
+2015-05-18	f661884588369bb245be9be269b9042f26ac2153	Bring up to date
+2015-04-29	b5d814c1419044b29a3e4d2d6d845c397dc77ffa	homophone work
+2014-11-19	59341e6076c0d22f5cc744834a7f2807155ac1ee	"<L " (L with space) entries LB  LB https://github.com/sanskrit-lexicon/CORRECTIONS/issues/27
+2014-11-01	5cd7bb9d309c0e342c3993d3adee0e1d66bd2914	Update corrections-factual.txt
+2014-10-31	b804b362a6f0aa3a3b0c3e56142f92cdab80cfe9	Create corrections-factual.txt LB  LB Corrections to mw.xml (monier.xml) where the text in the scan was deemed to be wrong; thus, an intentional difference between the digitization (mw.xml) and the scans is introduced.
+2014-10-08	f036f58f83dfc30b6593b4d3f4216c61b3fe1413	List of entries with avagraha, entries with space LB  LB https://github.com/sanskrit-lexicon/CORRECTIONS/issues/2#issuecomment-58293633
+2014-10-04	b65462ed4946a867ea76576c305f28d6460e11bd	All words in MW with hiatus LB  LB afRin
+2014-10-04	5192ab9002b96a929dca2a06a2c21364da13b3c8	Unique Entries LB  LB Export from .xls
+2014-09-23	3ae269a730d56f7e8e12fb4f8808b33d9f02e521	Transcoder example, re issue #5 LB  LB Filters mw.xml for <ab>N.</ab> records (800+) and prints key1 in LB Capitalized IAST.
+2014-01-22	fcb6185f77236d029410c0f987f91cc21f6c8c6c	missing1.html LB  LB A sample html application with links to sanskrit-lexicon web site.
+2014-01-16	8798269ddbf9c24ca0b915ffc1019e14c198ade0	Initial commit

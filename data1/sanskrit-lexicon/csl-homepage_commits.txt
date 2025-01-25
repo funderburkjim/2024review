@@ -1,0 +1,63 @@
+date	sha	title
+2024-01-30	4454370696285dcf67150cea84755943a0b5f8ac	42 instead of 38 dictionaries
+2023-12-19	793977e681f97ee24b79b1f7f8caa3e8b5a34085	links to dalglob1 and pwkvn apps in csl-apidev
+2023-12-10	d59c44fc38606d8f0f6d3fa380ace646e032f94c	ACPH and ACSJ update in homepage
+2023-12-08	189353be34c5cf67dcba58e163c937f20ab64f4c	ABCH add to homepage. Ref: https://github.com/funderburkjim/kosha-dev/issues/23
+2023-04-13	2269f5dbec5d98e8a4eaa50c9776c7db78286163	year for LRV is 2022 (colonge scans/LRVScan/2022/...) LB Ref: https://github.com/sanskrit-lexicon/LRV/issues/15
+2023-04-13	3da6874435fec2cfe6069c36aeaa2011c1c2daa4	Add LRV to homepage (at Cologne). LB Ref: https://github.com/sanskrit-lexicon/LRV/issues/15
+2023-03-11	1835bf5be093d64b46d548d5bfb21b8d56f9b370	Remove piwik user tracking
+2023-01-18	1ef9ce6a752aeda688689196d221e8bac5412e9d	git tracks index_xampp.html
+2022-12-27	6a96d9f8e77660aa6b9137ca37a84f1a02c1debb	Use php version of 'Sanskrit and Tamil Dictionaries, 2005'
+2022-12-07	a8a9a8639d66f779d7a97fdbe88ae86e12dd30dc	Link to DSAL Pali dictionary. #14
+2022-11-15	b169c7f5e36b688b68ebac00ce09b3878810eaaa	#11
+2022-11-01	0bd5e951945d82b899958b909c72f144e3335b2f	revise semantic version update script
+2022-10-12	630d299b44fdd98d3fec754c0436a54d0c6d27b1	Merge branch 'master' of https://github.com/sanskrit-lexicon/csl-homepage
+2022-10-12	322d47c837ea741606f3ef543ba28dfa3629da58	comment out some obsolete links. Prompted by security concerns
+2022-10-09	9d2314cdf89bfc9acf5c6f40348ae0587bbdf188	index page LRV
+2021-10-05	f9c99f63b65bd2647480d36c3e87f2be8322b419	Newsletter link
+2021-09-14	80a1932bfa230aca43798c5f2cc922f3fd80a0b7	Correct Clarin tooltip. #10
+2021-09-14	243383089ac93d6c7f5d7732f3b054f8ef656de1	Handle version  (update_version.sh) and correct ap90, ae dates. LB Ref #6 and #9
+2021-09-13	7ad73234f553681793c76e63a942fcf2fa94ea0c	python3 for redo scripts
+2021-09-13	17c756235c3d143b8784e79d24ef36c50d728285	update_version.sh update
+2021-09-13	8f7f256c9442a9c02e5134e03c029c9ba6437e1a	update_version.sh file added
+2021-09-03	113bf30a904321b3f2bf94749ecba0611723602a	1976 to 1993. See https://github.com/sanskrit-lexicon/csl-devanagari/issues/1#issuecomment-912063196
+2021-09-02	78c7d1aba32a49eaad7d5137e58a1f2e2375ec53	38 dictionaries
+2021-08-27	830689231db8e12164cdf8cf9f82fbdf16e43d50	version on homepage
+2021-08-27	3cb87b65ec66f18734c94c4f4a56addce55a4a16	acknowledgment for data usage
+2021-08-27	f2a50ccbcbe6b994945909f7c15e7ccaf55841c7	citation and bibliography on index_cologne.py
+2021-08-27	6f9b90b1d5f8bc699f1d50a5cdf64ac3f316f07d	citation and bibliography
+2021-08-25	228e5959462e592f62241fd2944916cd0ccf3f07	AP90 publication date change to 1920
+2021-06-14	c03463c1bff97a33d398d69d73d640419b9d7b2b	AP90 in large bold. Ref https://github.com/sanskrit-lexicon/AP90/issues/17#issuecomment-851932085
+2021-05-04	d94314065e3489510ed0196c00a492a0b0642e24	ARMH add diacritics
+2021-05-04	eface2a2856985c5329f1e24ca9fce0ca7c9f276	ARMH added to homepage
+2021-03-21	dc6fbffc10e19e9deb457357aa16bd761d5c01c9	Correct spelling to Grassmann
+2020-12-21	ea974b55103096ddc7160db20fde840ac8595f17	Cleanup index_cologne.py
+2020-12-21	f8e1aa8d06bc0705bc2d0178d64a61a8e5e0b014	Change date of SKD to 1886. LB Ref: https://github.com/sanskrit-lexicon/SKD/issues/5
+2020-12-10	f6566a93f75490ac0a3a38fe20fd377e03535031	revise link to 'simple-search', so it does not have 'www.'
+2020-12-08	f25663884dc53cc9ccdbbbdd110afd029278525e	Change link to simple-search to make use of .htaccess rewrite LB rule.  Ref #5
+2020-11-22	bb560ff6d8a5be979da7d622d5be9036cb8ae62b	Add Lanman's Sanskrit Reader
+2020-10-10	7b6c3a9842cb8137b99768888a5d09b7c44b77d0	Link to Github corrected for Cologne home page
+2020-10-10	00a3a16c357ec2aa66fa67eef97f225e7ba70f47	Revise Scanned display for 'Personal and Geographical Names in the LB Gupta Inscriptions. This changes only the link.
+2020-05-24	8408a4c44cbfefa889672493fce215946bac0eb5	re-adding everything re .gitignore fix. LB Ref: https://bytefreaks.net/programming-2/my-gitignore-file-is-ignored-by-git-and-it-does-not-work
+2020-05-24	04bf52ed31984b469530968732dc1473063070b0	Untracked files issue resolved to fix .gitignore
+2020-05-24	bb42fef49e897d92153505b0697153de158d9fc3	Make python3 compatible. Change Malten email
+2019-11-28	14d7559be0ed5cbeb3c59394dc2bb2e9901d4e2d	use csl-inflect for MW inflections
+2019-11-09	c23c0004618a03075984505209c4fd7b4b0f57f8	add links to local scanned editions of Kale, Westergaard, Whitney. ALso, link to local version of simple-search.
+2019-11-08	ef0e8567603254b71aff0f8072853d1fb0d4f183	Change link to whitney roots, now in csl-whitroot repository
+2019-11-08	43bece7b3453c5b69f8e2b60820a0a284b7f2970	Revise link to Westergaard. Make available to local installation
+2019-11-07	8228c4f49630806ac61df01364b5e4da4ce301ac	homepage for local (non-cologne) installations
+2019-11-07	ac6fe504d68e14efa5d30e6fd281094379435f02	Reorganize code in preparation for a local installation homepage
+2019-10-03	d6a0b34a480af0f6e80ae0d43b32395ddb58baea	Use the '2020' digitizations and code
+2019-09-23	f592330326690efd58d4288ec5d7aa64a66cc682	remove aequery (2007). No longer works. Current replacement is AE Basic display
+2019-09-23	6ab02b643007ba4179147b87047d154aa675766e	Remove mwquery/index.html application -- for security and maintainability reasons.  MW advanced search is current replacement
+2019-07-30	f8c27b9ac03ca86001df951302c8f752167bb29f	change reference to csl-homepage for ap and pd samples
+2019-07-22	3bbe4bda9a92615eeb75c432168ca0736b393747	Revert to VCPScan/2013 from VCPScan/2020
+2019-07-12	c03161bbaeed6de476956f12414a257d07f7f6eb	redo homepage
+2019-07-12	b9391a4412c3c0b3d4ceea384066283a1da84e54	VCP year: 2013 -> 2020
+2019-07-12	2b80be2b489189cfefd8431ef11ba28ebe0ac7bf	VCP year: 2013 -> 2020
+2019-07-04	4c127fd46f225738a1b13e571dc3496439680fb0	MW bold to avoid conflict with server version
+2019-07-04	283ba8ee1808867aa617b93d35e4afbb1ff32814	https://github.com/sanskrit-lexicon/Cologne/issues/262 trial
+2019-01-17	39824ee261fc000bfd85a8df424c82b201046a97	not sure what done here
+2018-08-30	1e2e3cdfff5e74e59a8ccd4474d963f875a65b24	Changes. See https://github.com/sanskrit-lexicon/Cologne/issues/232
+2018-08-08	58b48fdb7833d05e79fd60c8da065eb8895f8b8f	Create readme.md
+2018-08-08	4fe451a1680a836087c14f7155d007a24dd08a6d	initial commit from Cologne /scans/awork/homepage

@@ -1,0 +1,8 @@
+date	issue	state	title
+2024-02-09	7	closed	Explanation of LS numbers in BOP
+2024-01-16	6	closed	Incorporate changes from BOP-Main-L2 file
+2023-04-15	5	closed	Proofread Slavonic text
+2023-03-24	4	closed	Proofread Greek text
+2022-05-05	3	closed	Additional entry in AB version
+2022-05-02	2	open	deva-slp1 anomaly
+2022-05-02	1	closed	Greek text

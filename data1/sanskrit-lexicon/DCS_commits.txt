@@ -1,0 +1,5 @@
+date	sha	title
+2014-10-19	2962b125c7d8172a882b1f4efaa3c424bf829475	Bibliography, corrected LB  LB http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php?contents=corpus
+2014-10-06	3d15595736f06ea688aace7b9f49ad77b5e160c5	Renamed abbreviations
+2014-10-06	e676a72be5aeb766e63460949f56aa9c1aa01c96	Lexical Data LB  LB 72013 hrūṃ  ind LB 72014 hrūḥ  ind LB 72015 hlād  m LB 72016 hlād  1. Ā. LB 72017 hlāda  m LB 72018 hlādā  f LB 72019 hlādin  adj LB 72020 hlādana  adj LB 72021 hlādana  n LB 72022 hlāday  10. Ā. LB 72023 hlādinī  f LB 72024 hvā  f LB 72025 hvaya  adj LB 72026 hvari  m LB 72027 hvara  m LB 72028 hvarita  adj LB 72029 hvā  4. Ā. LB 72030 hvāna  n LB 72031 hvesaṇīyā  f LB 72032 hūhū  f LB 72033 hūṃ  ind LB 72034 hūṃkārī  f
+2014-01-17	01637b5b703e48c1e51e28df0da44f0b6183136b	Initial commit

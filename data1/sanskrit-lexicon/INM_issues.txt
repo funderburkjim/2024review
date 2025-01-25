@@ -1,0 +1,10 @@
+date	issue	state	title
+2022-05-25	9	closed	Greek text remove lang tag
+2022-05-10	8	open	Space Missing (1000 names2 --> 1000 names 2)
+2021-12-14	7	closed	Remove `<div n="lb">`
+2021-12-13	6	closed	Punctuation at end of bold, italic
+2021-12-11	5	closed	INM widely spaced text
+2021-12-10	4	closed	Greek text added.
+2021-12-05	3	closed	Transcoding Bug? 
+2021-12-04	2	closed	Separate inm.txt into parts
+2021-12-03	1	open	INM Concordance 

@@ -1,0 +1,30 @@
+date	sha	title
+2022-03-02	e309f9d9703bf92f7e3fdef2af7d2077c7f67b5f	updated md.txt
+2022-02-17	9d8a29d366511d5c94fbcf76f758bc2056d2bad4	accented long vowels correction
+2022-02-17	104bef3251f4f49ca6a6f43b848b8cb62f890eef	md.txt 'check:' items. LB Ref: https://github.com/sanskrit-lexicon/MD/issues/5
+2022-02-16	ec70157ce3294c6a927c4903ecb82024306100d3	correction iast
+2022-02-15	8b3598a6fef88277e317c889418a05eda6aa8cf2	latest version of md.txt
+2021-08-16	31083c9f37bd0d1799e063f619edcbb9d6ef6141	Jim review of yat_error.txt
+2021-08-07	1f254952b0e8776fb21a4065b832f853fded1f21	Sampada's first commit
+2021-07-31	9ff7b00daafaa891589f69cf6e7b33e2ffd0eea8	Prepare for Yates English word corrections
+2021-07-31	ff1d221332fd3e234114a25bdf9b6d03d04a719d	Jim's revisions to wil
+2021-07-20	a992aa1d209fa9472d405f5a0a8c55ff9f4c481b	Sampada's first commit
+2021-07-04	6eb1009be0f60dfe2b47db621f3adc78a55a807d	Prepare wilson dictionary for correction of english word errors
+2021-06-15	56bf78d9b49b2a2ca1777b9fe84a7b8eda56e7c1	Sampada's first commit
+2021-06-14	4b0ae75a95ebb382ff51e854ce1b6dcdf9aecf15	Start Apte.S2H.works.txt
+2021-06-14	436eadcd324a886b8a3f9e87839faf65a7dbdd21	pdf of Apte Student edition, Hindi, 1965; LB Ref: https://github.com/sanskrit-lexicon/AP90/issues/17#issuecomment-848787358
+2021-06-14	490aa7f5e9391bf191df524c561be676048d5386	Sampada's first commit
+2021-05-31	66f85d2aa7eeb6eb641d988a7cb6ed688457fe29	Sampada's first commit
+2021-05-20	8da773cb458cc86e161dead7cba7ecace1ae142f	Sampada's first commit
+2021-05-12	5fe3dd4720f5bdc08a3c279657df678a4736bd28	Sampada's first commit
+2021-04-23	2a0c356489ce57136ac60e29bf4bd4d8e3c5a09a	shs english errors prepared for Sampada
+2021-04-16	de3b9bedcb06d2cb8874c5ed18135820bfca7b24	Sampada's first commit
+2021-04-09	c306e79c148bd70aeb9e554096e076e49158cab6	Sampada's first commit
+2021-04-09	9f09c7018df27c9fc6231934d912cbda3b81326e	Merge branch 'main' of https://github.com/sanskrit-lexicon/temp_corrections_ap90
+2021-04-08	180e6db88c4f09d534f1777bcf4d0ac7aa0916af	Sampada's first commit
+2021-04-04	4a493ca2afefe3ad03a19d04325ea6a593f23790	MD: Jim's review.
+2021-04-02	f3de0284b4284678b6a732d7595e5f5f3b06d72c	Prepare mw72 english error for Sampada
+2021-04-01	97447aff2d36d5a6a22ee070c101ee2cd9ec4b7f	Sampada's first commit
+2021-03-29	692a4d402a7d53facf688cd96d8fe69fd04aec3d	Prepare md English Error for Sampada
+2021-01-13	4214b962e059e8df34e27d83aad3c4c5caf29748	Potential english word corrections for AP90 dictionary
+2021-01-13	9f48e1fdb0187388c3ecf147ba03e36d6eca9488	Initial commit

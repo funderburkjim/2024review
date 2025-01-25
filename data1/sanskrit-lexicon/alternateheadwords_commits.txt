@@ -1,0 +1,112 @@
+date	sha	title
+2021-09-23	3522ffb762745156e1074ac1ebf66fdc634e47cd	readme updated to stats of 23 september 2021
+2021-09-23	52764a92af2d65d2ec4514cc8c59dfb3769279c4	compared to MW regen
+2021-09-23	edad8952d1675da85a50a410a216a9392c1e66c2	ehw3 regen
+2021-09-23	af3014a1f3990f09b275c6fe6458032c8dee53e3	PWG regen after closing https://github.com/sanskrit-lexicon/csl-orig/issues/632
+2021-09-23	49f0ff1448022917a8a83a44495d91c62601a650	preverb1.py modified and preverb1.txt regenerated
+2021-09-23	d0ddfaa4a7637f3a40c5bf0fec9c114c189dc5f1	dn to nn
+2021-09-23	c855bf012eb8be41d5c8ada3e0f58ca65472cf49	removed code 1 from unique list
+2021-09-23	6027ab58e4cd6563705b2b999f7957a11848de34	compare PW and PWG unique upasarga+verb combinations
+2021-09-22	cb316bf974985381a2e948d372cbc71adbef9d74	PWG restarted
+2021-09-22	64b8ad5588707b6065c8913ccd6925948bb83a91	saanhw2 updated
+2021-09-22	0f1cce7de23ce01bb7a44683e5538d658d457e9d	PW restarted
+2017-09-14	5d215d89f7683370c296e335b463fbd0779ff809	1000 odd pending. Now can be tested manually1000 odd pending. Now can be LB tested manually1000 odd pending. Now can be tested manually1000 odd LB pending. Now can be tested manually1000 odd pending. Now can be tested LB manually1000 odd pending. Now can be tested manually1000 odd pending. Now LB can be tested manually1000 odd pending. Now can be tested manually1000 odd LB pending. Now can be tested manually1000 odd pending. Now can be tested LB manually
+2017-09-14	528fb00d238848f557d97f7740fb3f37e68b0c20	more known verb phrases
+2017-09-14	19e017d79e0d2e63429b13304a833b800b496aee	code 11 for common suffices
+2017-09-14	1529e048c2baf1f5af98aeafcf1282cd7b357a28	1261 / 8311 unexplained
+2017-09-14	8545bec59c7dc5a928fd98eee2d1755bde3ebe8c	code 3 bettered
+2017-09-14	0b672a36778cf00c2ed8793b92a2524c83e0fc6c	code 5 refactored
+2017-09-14	93e0734034201cdbf9830f1e8dccb021d1ffe081	cat 8,9 for AE
+2017-09-14	d8469790794005e8b8e8e174673f11777ae4b2f3	Headwords stopping with period added
+2017-09-14	c33728f90ac4665a0f7f1430a8924f010c330b90	Interim headwords elevated to headword for suffix
+2017-09-14	016c2e9045ba229f6398e40761e67f7fe03f5b37	Capital letters incorporated. Interim HWs not done
+2017-09-13	b639af11656d0e6e6fef739e8de55abcbc555bf8	Only 1572 / 6945 unexplained
+2017-09-13	73a843e54184e489e517c2f2c090f50874e7b69c	Tried pyenchant to give some compounds
+2017-08-16	d391a5e62dad71b1fe63f62b728d39653c9fc2dc	further 'todo1' notes
+2017-08-16	bc8685f421c33fa033898fcc8cf59d8c9ffdc3d6	minor edit corrections
+2017-08-16	38ef285cdfe4ed1195823291ba54c1039fea7c96	Move lower-skd to SKD
+2017-08-16	21dab289decb1921c1dd8039c5b377efe6ac9eb0	move from lower-vcp to upper-vcp
+2017-08-16	7c24853a0af3141aea8bd8ca949a734fc9e73e37	edit readme1
+2017-08-16	87be7559a775305f427ab604877392e7c5217622	Review of vcp alternate headwords
+2017-04-28	7d079146d060c761d6315288316cf80b0fb0408d	AE ehw3.txt removed sandhi effect
+2017-04-24	5bf66cf6c9481a3b87301de164c98bd45fe4d094	AE started
+2017-04-13	ce11e38a5da1126e5a1c1807112c1625bf2f26c7	make hwnorm detail for test.txt
+2017-04-01	7573309f00ff3d82ce24503f64cec714c3cd3e1e	rest of ok=ok cases
+2017-03-31	7089a9bcc32ae5019f16de1f6a37088949baa376	Corrections abBr -> aBr; code = 21
+2017-03-31	f3110f89e49dadc083a4ee8103a9fe576a16057a	Introduce updates to vcpahw3. Result is vcpahw4.
+2017-03-31	2a8c0c219a52c1d7405f89f52bb5373bf016a5f6	recomputed vcpahw1_hwnorm, using vcpahw2
+2017-03-31	9f709d27c159e87b4b213d9c80da921692e6469d	added :line1:line2 to several records in vcpahw3
+2017-03-31	592bb40723297e59403d8b4dc2596d9b40cb0032	ahw2.txt basis test.txt
+2017-03-31	d5cbb0b445d80fcec1382c419b332b069ceb2f44	readme updated
+2017-03-31	6267edd0e1d1f4579d92327123a7578be0446e36	ahw2 is base now for Jim's calculations
+2017-03-31	92e6287457f72515cb3098825fd12efc39d9d379	ignoring sanhw2.txt changes in commits
+2017-03-31	28eb98ea583e0aa4b6dc51d5f297cb56470dd3c7	Some problematic case 7 added to test.txt
+2017-03-31	673e894508b38c286fa9439bdcfda9c45ac667ef	regen of Jim matches
+2017-03-31	d98a0000cc9d471565708e8f00c144d65ce565ed	7,8 and 3,4 interchanged7,8 and 3,4 interchanged7,8 and 3,4 LB interchanged7,8 and 3,4 interchanged7,8 and 3,4 interchanged7,8 and 3,4 LB interchanged7,8 and 3,4 interchanged7,8 and 3,4 interchanged7,8 and 3,4 LB interchanged7,8 and 3,4 interchanged7,8 and 3,4 interchanged7,8 and 3,4 LB interchanged7,8 and 3,4 interchanged7,8 and 3,4 interchanged7,8 and 3,4 LB interchanged7,8 and 3,4 interchanged7,8 and 3,4 interchanged7,8 and 3,4 LB interchanged7,8 and 3,4 interchanged7,8 and 3,4 interchanged7,8 and 3,4 LB interchanged7,8 and 3,4 interchanged7,8 and 3,4 interchanged7,8 and 3,4 LB interchanged7,8 and 3,4 interchanged7,8 and 3,4 interchanged7,8 and 3,4 LB interchanged7,8 and 3,4 interchanged7,8 and 3,4 interchanged7,8 and 3,4 LB interchanged7,8 and 3,4 interchanged7,8 and 3,4 interchanged7,8 and 3,4 LB interchanged7,8 and 3,4 interchanged7,8 and 3,4 interchanged7,8 and 3,4 LB interchanged7,8 and 3,4 interchanged7,8 and 3,4 interchanged7,8 and 3,4 LB interchanged7,8 and 3,4 interchanged7,8 and 3,4 interchanged7,8 and 3,4 LB interchanged7,8 and 3,4 interchanged7,8 and 3,4 interchanged7,8 and 3,4 LB interchanged7,8 and 3,4 interchanged7,8 and 3,4 interchanged7,8 and 3,4 LB interchanged7,8 and 3,4 interchanged7,8 and 3,4 interchanged7,8 and 3,4 LB interchanged7,8 and 3,4 interchanged7,8 and 3,4 interchanged7,8 and 3,4 LB interchanged7,8 and 3,4 interchanged7,8 and 3,4 interchanged7,8 and 3,4 LB interchanged7,8 and 3,4 interchanged7,8 and 3,4 interchanged7,8 and 3,4 LB interchanged7,8 and 3,4 interchanged7,8 and 3,4 interchanged7,8 and 3,4 LB interchanged7,8 and 3,4 interchanged7,8 and 3,4 interchanged7,8 and 3,4 LB interchanged7,8 and 3,4 interchanged7,8 and 3,4 interchanged7,8 and 3,4 LB interchanged7,8 and 3,4 interchanged7,8 and 3,4 interchanged7,8 and 3,4 LB interchanged7,8 and 3,4 interchanged7,8 and 3,4 interchanged7,8 and 3,4 LB interchanged7,8 and 3,4 interchanged7,8 and 3,4 interchanged
+2017-03-31	98a1980983fabb02660e0300057afabae987a28a	vcp hwnorm analysis
+2016-10-13	3f289f15b162d2a510bb1dff60578576c5083bb3	revise PWGpreverb/.preverb1a and preverb1b
+2016-10-12	a3c2408549752d2220751d4a687b35ca500721c0	PWGpreverb - test_nR_pfx
+2016-10-12	aff7119807d635c9966694c646d64c8575a53845	PWpreverb data generated
+2016-10-12	b29ac40730a97de4688f1c18a35cd205e7486e6a	remade PWGehw3.txt
+2016-10-12	b80721ec65a1f7abf90bfd6da5d153208e23f38e	Mere branch 'master' of https://github.com/sanskrit-lexicon/alternateheadwords
+2016-10-12	d2bf230e21d821806c6bdafff8f2e840cdd4e2ff	compare1
+2016-10-11	4de89b56dc8dc8fe853f63f3f9d49e9264910052	use hwnorm1 normalization in compare
+2016-10-11	cfe27fc81b1f3e0a8737ecbcd8afa413f42f5aba	rerun PWGpreverb comparison
+2016-10-11	1e310507309b85f2f858b3356d452adab2e38f32	Capital letters missed earlier - added back
+2016-10-11	0406dfb027eb83418191cbe9fd6725d99d68e950	PWGpreverb
+2016-10-10	c7149cf5e0bf5089462dfde985c076775ad0c8fb	space inserted in regex for PWG embed
+2016-10-10	4000aa271ad565fe8c6cccefe7c8daa3dee4cc80	abnormally long words removed from PWG
+2016-10-10	00e4ef6481fb19bdb5ef28df540ac9e189f40078	antar added
+2016-10-09	d4b9698de6debab0307202df3c39d1c6fc084d2a	4607 / 7486 PWG matched4607 / 7486 PWG matched4607 / 7486 PWG matched4607 LB / 7486 PWG matched
+2016-10-09	2fc2f692e77594b95d0732bb491f0899316a17bd	PWG started to be analysed
+2016-10-09	64d4c9da332bb044d3d27bc77f9faec6d75d1712	vcpahw3.txt checked till 300
+2016-10-09	30303bc09f74b9a2ea7b841bc8958ab83aa8868d	checked vcpahw3.txt till 200
+2016-10-09	0a7c31d091fc8df26e4c2d0613b39353dcfdf9df	skdahw3.txt checked
+2016-10-09	0ccf8dd9e7c19a33e5ddf2d984307e041d3ea95a	pdahw3.txt added and examined
+2016-10-09	98f65891990e33724f6d92970f28f052fe6b67ce	ap90 with line numbers
+2016-10-09	33630467af7e3c119b0b684d6c9a35ef7fc3f65c	readme updated for embeddedheadword codes
+2016-10-09	882ea407e8e37f6dded31ef05e9b0925690d93d1	38628
+2016-10-08	6e8d7a04c7f4e21bf258e367ad2daa2e2bf8b338	38975 - longest common string added
+2016-10-08	76d0c4d101394487d8554c292c58dc6cf7315292	38477
+2016-10-08	3e636459d692c71a2af12b8e75372efee3655050	38416
+2016-10-08	5048f876d53e46189e5433a3e1ac7f7e325658bf	upasarga resolutions
+2016-10-08	725d015de684487dfa0a1de9d329646de7593446	37461
+2016-10-08	0a4c348ea7ffc566030b1539fbeecab768d8273b	gitignore updated
+2016-10-08	158ec5e2d558a6dbc3447235016e40bb78ee74b8	36808
+2016-10-08	9fb47552aac5dd5f4bd33752af87c90746c63686	35664
+2016-10-07	e2daa5c807433a2da12ff02e42c81de7818f9f86	35656 / 46603
+2016-10-07	abc01e4ca314e479aa5470a14374c11f3499fb77	ignored pure verb entries
+2016-10-07	d26c90ea6db110e1b2bb860a5d1940082631cee8	33859 / 48508 explained33859 / 48508 explained33859 / 48508 explained
+2016-10-06	2cbba58f30dbbef1a8a25d854dafae6644bfd6c6	23504 / 48508 explained
+2016-10-06	606b6bc08ea119b95b8b62b958c658b2a36baf5c	ehw2.txt added
+2016-10-06	cf13586308cbcfe7c93b62ea1b32fe65d2b0a0bb	STC first version in SLP1
+2016-10-06	d4551d26d82bb7eed966561a918de043fe71b1ae	embedded headwords - starting made
+2016-10-06	4486b04f814bd4e5c2bdf67c7445ac56b10f1712	startline endline per Jim
+2016-10-03	094d855a0e43c151188d54b1d84d08ba47c1aef4	AP90 examined till 40th line
+2016-10-03	6baf1470ba4539e061b6d9c5128ba0103ab315e8	apahw3.txt
+2016-10-03	436fd8381338979605240d94cae693957ec8f521	Program is more or less fixed now LB  LB Now one can start examining entries for veracity
+2016-10-03	5cb8f50c9a0b960edcf98aa7237d596eeddc8d94	ttra issue handled
+2016-10-03	b9130a5efffcf7bacac2da0c75a069540e7157c9	skd ahw3 started
+2016-10-03	76b2adc41ced2cc5fc2af132d9326f55a321198d	Completed AP90 bypassing \xa4
+2016-10-03	ed6bb8fcb5a50be3b90b201b1eb9f984fcf42d5e	13th code removed
+2016-10-03	ce49ea3f739dde22407545d6a986833fe6e01e52	readme updated with correction codes
+2016-10-03	e4b16f50f6c7b40348ff86946d5aeefcc6274acc	readme made updated + dicts added
+2016-10-03	1bf64a186a80111fa6d0c9a3451d5682dc0e5c48	Merge branch 'master' of https://github.com/sanskrit-lexicon/alternateheadwords
+2016-10-03	11d90c7c171d705a065b570e65ce00b47a9f5214	SKD started
+2016-10-03	8bf291c7ec01d71df084043238b2daad984cde57	Initial commit
+2016-10-02	0e2bc4b642807ecb1d40d005302c4164c2858ed5	completed vcpahw2.txt
+2016-10-02	b7a8be4705d8bc6d56cd75f928a4948f2c2366a0	ahw2.txt added
+2016-10-02	c1da04aa2c3551f8932a6c5355784a93ec01479a	13 types 1
+2016-10-02	29bf3356b250fd30c5878dea1d04f96504c948d5	13 types
+2016-10-02	b290d95d2e883e9b3fc62b23017be94c82bcf0a6	12th class added
+2016-10-02	ffbb4a4645bd63e9cef4bcf47be1b6c451d4fa4f	Total 11 types as of now LB  LB Not much satisfactory results. Just fiddling around
+2016-10-02	191abee82a010e50c90e1d8363fd1886f9acda23	kzya handled
+2016-10-02	91d8475b8c68046e3ed24f9028a129fd8f9788b6	duH added
+2016-10-02	693edc7e06ae774b8bb8b90e448cdcf982afdee5	self.post corrected
+2016-10-01	e4458bb939cd709d793de470db5dc17004994b7c	corrected * issue and now a regex list too
+2016-10-01	4c85bb26033520d6108fc00d65308fd20c1cfb3a	da(d) to d change in end
+2016-10-01	44d72867bddab468c92718016903da8af69ec07a	Total 141 entries pending
+2016-10-01	27de5532a2a9f98fa7f128405dac574fef4fa6c1	space issue resolved
+2016-10-01	7d37062c78f0d132d13b6da0066913eabe23eb68	vcpahw1.txt added
+2016-10-01	78a712e38bbce381423b8f4cf2e4387719b80d83	edit-distance method added
+2016-10-01	3ab62a8f4ca0c6e734b02da9027f670df6741d84	initial commit

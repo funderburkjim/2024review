@@ -1,0 +1,359 @@
+date	sha	title
+2024-12-06	f62fcfe49667f9c09e8a51cdeafead8ec9b2f6dc	init_query modify to work with python 3.12.6 LB Ref: #34
+2024-10-22	c433efab76eb0381f8815f1cd94b8914169e3aa8	MW: See corrections_mw_insert.txt at LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-12	44c0932b7d06c25cea20b97880cf5c9cefa60462	AP90: ap90ab revised
+2024-10-07	8c9e33d6a0cb64f877e6e3e0e0be0f507e310138	PWG: missing VN LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/76
+2024-09-11	84cc07f8c3d6ad26a4feee2a1b353d291d4effcd	in pwgauth/redo.sh, change 'python' to 'python3'. LB Cologne server doesn't recognize 'python'
+2024-09-01	cccc9d1020e246fd194363e657aae7a804f737eb	VCP: hwxetra-Lbody conversion. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/432
+2024-09-01	d26d2b5964e306313580028a57003ee95d071119	SKD: hwxetra-Lbody conversion. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/431
+2024-09-01	4e0b2c8b51bece6fd308c9eba7ca5c85243fca0f	SHS: hwxetra-Lbody conversion. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/429
+2024-09-01	ef7f45f77d6bf9c5a23bc132fa854c9110b35fba	PWKVN: hwxetra-Lbody conversion. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/428
+2024-08-31	b74e5afd81c5a100978157f0a380d849ce164b67	PW: hwxetra-Lbody conversion. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/427
+2024-08-31	de5a631a85176dec16bea322bdc97f3fe81dc779	LRV: hwxetra-Lbody conversion. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/426
+2024-08-28	05077a1e3e8d35de71269a807f6941b08aef2c04	CAE: hwxetra-Lbody conversion. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/425
+2024-08-28	ac8b7973a50338afaef850b00ce0a62c5ea54e04	BUR: hwxetra-Lbody conversion. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/424
+2024-08-27	9807e8d55c182123c24da9084642e08b59f900cf	AP90: hwxetra-Lbody conversion. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/423
+2024-08-27	64d26754179ff6ce2025a70917efe62963df6028	ACC: hwxetra-Lbody conversion. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/422
+2024-08-27	e79bffd376f78f45ea4447b040cd0b8b26160228	BEN: Lbody groups. LB Ref: https://github.com/sanskrit-lexicon/BEN/tree/master/issues/issue9
+2024-08-24	7b7e84e3cbdcfe4e0b35cb77f11c943b43992f03	MW: LB  Ref: https://github.com/sanskrit-lexicon/MWS/issues/176
+2024-08-03	f7ac3c09bcaa74a518d2d8c7212bbe16b3c04db5	mwab_input.txt correction
+2024-06-29	9d0595ca5ed23e488d783625906d5b81360521e4	mw:  mwab_input edit. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/166
+2024-06-27	2656b9f40058dcad2371fa4a69afc70db0ba43fc	BUR:  burab edited
+2024-06-23	d0c981a0938c8a85747b42579a48b16f9cc4bd29	schauth directory: remove 2 unneeded files
+2024-06-23	13f12f74a633460078dce1343c1fed75c04036b9	pwgauth -- tooltip for 'Verz. d. Oxf. H.'
+2024-05-07	6b76d3371289b69a631fb86187792d1e24f4c18d	BOP: https://github.com/sanskrit-lexicon/BOP/issues/6
+2024-04-25	8c378e3d45055beaaf2e2e6147d798de731f781c	mwab_input.txt edit
+2024-04-24	a241588bff8ef7f289a8914aa4de334f22a8a6ff	mwab_input.txt edit - 1 change
+2024-04-17	a99a47faad642a48f0d3618f2122c0a7162d0f6f	stcab:  1) add flex. LB 2) remove <id>X</id> from stcab_input.txt. LB flex change courtesy user Odile.
+2024-04-17	5bdd69a7836a8cd9c2052e94bf9b40f1cc72565e	mwab_input revised LB Ref: https://github.com/sanskrit-lexicon/mws/issues/65
+2024-04-16	f5f252579d0388a0da09a40c990310de620a266c	MW lang tag and related. LB Ref: https://github.com/sanskrit-lexicon/mws/issues/65
+2024-04-10	13c623ebf13abef24ba7a0510dee616bf37df413	mwab_input.txt  #33. format revised to exclude <id>X</id> subfield.
+2024-04-04	4877c0f725656ecd069b4562ef6d1f02058a2454	mwab_input.txt revised. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/17#issuecomment-2037914437
+2024-04-01	d6fb7b681aadcb9e05d404e9e2c13b959356529c	Minot revision of burab_input.txt. LB Ref: https://github.com/sanskrit-lexicon/BUR/issues/5
+2024-03-30	5ed7e3caa2746db54e2f72fe44b291d9ee72383c	More revision of burab_input.txt. LB Ref: https://github.com/sanskrit-lexicon/BUR/issues/5
+2024-03-29	ef82511cc7f059a3f84d2c654cbb3708c698f919	Revise burab_input.txt. LB Ref: https://github.com/sanskrit-lexicon/BUR/issues/5
+2024-02-15	ea445a99b7dfe819e4360811f7e49bab956ad752	pwab remove duplicate line
+2024-02-05	b18c3459c1efe6b77e9e99a2b08c6e7e5ed9db88	Add 'issues' directory, and issue32 subdirectory. # 32
+2024-02-05	dac4adbfed3d5408f87a0080fed24527c895a903	per tag. #32
+2024-02-05	32864c91892735de5f77e41b27bdeb5ff6da33eb	SCH: schauth. DhātupB.  DHĀTUPĀṬHA, Ausg. von Böhtlingk . LB Ref: https://github.com/sanskrit-lexicon/mws/issues/126
+2024-01-30	8b9c5c675c8bbc8c99ae12b0087525125d454a6e	mwauth - revise tip for Dhatup. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/126
+2024-01-28	495eef019a3b1c719300d05f2ff9c63f05c9a9f1	mwab_input.txt  remove duplicate abbreviations
+2024-01-25	ef720881964aa066fa4791ff5657dad7394053da	MW: mwab_input.txt. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/127
+2024-01-22	0110a48ec1c5f28bb2a4014f407f9ca337c62cb3	pe:  remove pe=person tag in pe.dtd. LB Ref: #32
+2023-12-26	282b55720842eccd6c0edf72273165fce5571bb9	md: revise mdab_input.txt. LB Ref: https://github.com/sanskrit-lexicon/MD/issues/11
+2023-12-26	741a49e16f57e868526ded76a48b719226ab83bf	MD:  revise mdab_input.txt. LB Ref: https://github.com/sanskrit-lexicon/MD/issues/11
+2023-12-26	ae66ec32b966e5f122b2df8fcd99cd4108a81b12	MD: Unicode roman numerals for 'cl' tag. LB Ref: https://github.com/sanskrit-lexicon/MD/issues/11#issuecomment-1868537765
+2023-12-23	17c3b71d8bc95d7afc6c52ad73509757ec63e589	one.dtd -- one other duplication removed. This duplicate caught by xmllint. LB Ref: https://github.com/sanskrit-lexicon/MD/issues/11
+2023-12-23	58c9c1ef40147a0cfcdfa151e5707bf741eded71	one.dtd:  remove duplicate 'pe'. LB Ref: https://github.com/sanskrit-lexicon/MD/issues/11
+2023-12-23	046954138c1c492b2655a4b2e8688c77ef9cce9e	MD: major revision. LB Ref: https://github.com/sanskrit-lexicon/MD/issues/11
+2023-12-09	16e734344de66af1ee1a71dc91f7919bc51d7173	changes for ACPH and ACSJ
+2023-11-27	eb77b78527f1ba09bebd2ee1a1996eb783142308	PW: Ref: https://github.com/sanskrit-lexicon/PWK/issues/102
+2023-11-24	30a94e2ef22f92babfd8165e3ae5e56def0f21eb	ABCH: Ref: https://github.com/funderburkjim/kosha-dev/issues/23
+2023-11-13	987fa7f2196d04066dcdb4b7bc41050467a1851a	Revise pwab_input.txt 'Dass.' LB   Ref: https://github.com/sanskrit-lexicon/PWK/issues/88
+2023-11-09	152353972d7df2c7331be8029f5998d1e42c770a	pwab_input (abbreviation 'das.', 'Das.') LB   Ref: https://github.com/sanskrit-lexicon/PWK/issues/88
+2023-11-07	07218fa1a647daf1a9c3cbd9894ae837b48cc841	PW: one.dtd, pwab_input modified LB   Ref: https://github.com/sanskrit-lexicon/PWK/issues/88
+2023-09-28	fd9a7c7383cd76ba48cf9058e71eb82167fc1ff0	PW: Revise pwab_input.txt. LB   Ref: https://github.com/sanskrit-lexicon/PWK/issues/88.  pwab_input_3.txt
+2023-09-24	7d036613e610f06e862997d15543a3da1282cecf	PW: Revise pwab_input.txt. LB   Ref: https://github.com/sanskrit-lexicon/PWK/issues/88
+2023-09-18	261c57aa7b5e7bc439399524a8948095239b1837	MD abbreviations  abbrev1, temp_md_1. LB Ref: https://github.com/sanskrit-lexicon/MD/issues/11
+2023-08-22	b8b56ecc9de68816ab8358cbcb24ff940173dfd6	BHS revisions. LB https://github.com/sanskrit-lexicon/BHS/issues/3
+2023-08-20	164ca28b9294285a2df929c49f99d9995bc3cee7	BHS: bhsab/bhsab_input.txt, bhsauth/tooltip.txt revised. LB Ref: https://github.com/sanskrit-lexicon/BHS/issues/3
+2023-08-14	4afcba3275d7aa9049a0ab53f82d025822b32bd1	ger tag allow ab children (for bhs). LB  Ref: https://github.com/sanskrit-lexicon/BHS/issues/3
+2023-08-09	2bbf9918b768b9fdb934bf63b53999773b488f27	bhs revisions. LB Ref: https://github.com/sanskrit-lexicon/BHS/issues/1
+2023-07-24	e1c3740ccac25e6dee37661ca29b83f9746b42cf	MW.  update Gram. ls tooltip
+2023-07-24	ee52c4170b6925296474e580a1f27cfcf2a2a809	MW: revise Gram. tooltip in mwauth. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/159
+2023-07-11	91f2e1e5ec7cb2087f3680de1593221405aa8fff	Revise for new edition of Grassman. LB Ref: https://github.com/sanskrit-lexicon/GRA/issues/32
+2023-06-12	0b07f2f496d020825fbd74689b80875f76efc0cc	burab_input.  revise tip for dén. and dénom. so single quote NOT used, rather ’ character instead.
+2023-06-12	3407d1da7e5b002b4e34b0ec3b6d2b2c3168defa	BUR abbreviation 'dénom.'
+2023-06-08	88ac5fdaf44b92ad2886c3519de992f8b41d54f8	revise abbreviation tooltips for bur, stc, mw
+2023-04-10	d60cd41303d2b4d59562faf4796a69621a289a65	PWG  remove duplicate 1.211a for 'MED.' tooltip'
+2023-04-07	efefa5c6ac27a59a94e191719bc55bce01c47c35	Revise tooltips re 'MED.' for PW dictionary. #31
+2023-04-02	d04d86b5f858bb00a23a5192caffed03b3705262	PW pwauth add HARISV. LB ref: https://github.com/sanskrit-lexicon/PWK/issues/93
+2023-03-25	ccc0c2a85b6be6b11d13366bb8be1dd7f5d3ade6	one.dtd changed for 'lan'
+2023-03-24	852e27a8c3e1397fbcf01c487f0241b0614dbd18	A test file dbg_test.txt
+2023-03-10	5af9ec3f8096971cc73b04081bc80f99e0a423f4	BUR:  burab_input.txt  add tooltip for 'etc.'
+2023-03-10	26e5e0ffb3455c5af31aebff1ea511361133b53c	STC  correct stcab_input.txt -- cannot use apostrophe in tooltip.  Replace by another unicode character.
+2023-03-08	5d8c36c9116698eea2e29ef5a28221508110a0bd	STC  update stcab_input.txt
+2023-03-08	9eec4d44d321f8cf3a19625a6373326b494d63aa	bur  edit burab_input.txt
+2023-03-08	b39af14d3bb55d4a1e2182d2c94d91666ba3b4cd	PWG.  add 'd. i.' to pwgab_input.txt. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1063
+2023-02-09	0889a171354ba4123d9aca079e38f1e1a48bd762	MW abbreviations. LB Ref:  https://github.com/sanskrit-lexicon/MWS/issues/152
+2023-02-03	7c4152d5c7bbd070f63508cd41a8736037be0152	PWG: numeric orphans, 8.  Tooltip changes. minor rev. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/65
+2023-02-03	e5f6ac74d04d1bbbe974e91e1ebc860f413a44a4	PWG: numeric orphans, 8.  Tooltip changes LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/65
+2023-01-14	c67f58fddca18bce6f63d9a5b4bdcb178d85bdc7	PWG tooltip for PAÑCAT. ed. orn. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/64
+2023-01-14	589a1bf6bc7553b0e83d01519850cfb6a0d91751	update pwgbib_input.txt. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/64
+2022-12-24	d56aba07ce78606544257246bae8ebe49e7fc043	BUR change to 'angl.' abbreviation
+2022-12-24	07232c1ff0acaea2d115c4af55184868f52ac17d	BUR add 'zd.' abbreviation. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1043
+2022-10-23	ec74d34ac8ce3676038af5b44107b879a97424b8	AP PD added for local installation.
+2022-10-13	7ed4ba4b4695b42065e0aebd442ebc506459d458	LRVScan/2022 added. LB Ref: https://github.com/sanskrit-lexicon/LRV/issues/21
+2022-10-11	17b82c25e844d2d345753eff91544e58ff514388	neuter gender added in althw
+2022-10-11	fd1173810de53dfef40bdf1bf9c114f621b80f3b	close #30
+2022-10-09	929497f658837fc1d5420f9371fe946b35710f1c	lrv
+2022-10-09	77eeb3767700d6cb3fbc196c0d79da50d9858fd2	LRV init
+2022-09-17	715b2ba348f776789bb73d7a71be41952b813c75	BUR  burab_input edit
+2022-09-14	21caddf671cc88f84f37920b611e1d8d7831522f	Revise make_xml. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/892 LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/944
+2022-09-14	40590a2e98fed8bcba41707b286820d6cabf7513	STC stcab_input
+2022-09-13	4b232fcf85e081e84ccfe619a8274f070db33c02	BUR burab edit
+2022-09-13	fde0167817da919509d6be189848782bb8b10b31	mwauth Caraka tooltip
+2022-09-03	8af48bf12a57e58901084657f0144be9d91d9871	MW mwauth, â   -> ā (etc.). LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/137
+2022-09-02	a214b836989e46dc09de4464de2331d32346b9fe	MwAuth edit RLM. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/135#issuecomment-1208133347
+2022-09-01	3f0706226f2df3a8a2251f55d4ddf5aeb2e8ef7c	one.dtd, add 'orwr' attribute to info, for MW. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/137
+2022-08-05	4e8720fc83ca0271f8c384e6b7617fd3341b513d	mwab  check.py for uniqueness of abbreviations
+2022-08-05	bb1769195938eca3387227a2ec28c6c3a3cb97f9	mwauth update. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/135
+2022-08-05	6b0b99de7ff2532f9f92689c282eef1f2b9b12a2	mwauth update. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/135
+2022-08-04	d259f21aeec7327db0fe2f1573780f4ca204404f	mwauth update. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/135  (change_4)
+2022-08-02	3bd29eab7fbce8a92b17045245b07dab1ba10660	mwab
+2022-08-02	e6e4082998e53d799f17207738263f1ba52e218e	mwab, mwauth. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/135 (change_2)
+2022-07-27	8c29bcc080315e89ecf237ca0b82cb7123454412	mwauth/tooltip revisions - change_1 LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/135
+2022-07-25	9e82ed54f9c43429f43863dc60b6ed042e0c63d9	mwauth:  use tooltip.txt directly; stop using mwauth.txt. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/138
+2022-07-21	8eb9d64888bf996dea7d1e172cdb80d5cf354d69	mwauth edit. Ref: https://github.com/sanskrit-lexicon/MWS/issues/136
+2022-07-21	15c92a662de25557e2d17f4c8ddfcca1ab79393e	mwauth additional unknown literary source abbreviations. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/136
+2022-07-15	650779d21f73d89e8ba789b5021026726052d3c6	MW: mwauth edit
+2022-07-08	2ab7bc4e5f75eac91ff86c80586024024018d1fe	mwauth.  Use 'Unknown' instead of '?', for compatibility with basicadjust.php
+2022-07-08	5f5582ce122bfa0e20f03d00583fe4bbb409c366	revise mwauth
+2022-06-27	d7746dabe328709f12ccfb20d28a131494322744	mwauth corrections. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/121#issuecomment-1167567985
+2022-06-25	7e39f8247704d74db846ff4efeda368e016cdfd0	PWG: add R. ed. Ser. to pwgbib_input. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/57
+2022-06-24	9b072e21fe23b45af0f7f81ee905724437f71176	Revise pwgbib_input. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/57
+2022-06-14	b131503cc67f2103c0856c9d996e005c1994098a	Merge branch 'master' of https://github.com/sanskrit-lexicon/csl-pywork
+2022-06-14	c9b999b2a33d6a106ac469fda50759253a684569	add LAN ARMH
+2022-05-31	b41dbcdb2d01d14aed3550344b653c9fac555452	Sch ls markup. LB Ref: https://github.com/sanskrit-lexicon/SCH/issues/8
+2022-05-12	9f9b3db810bc407dec9139bb254ed23912daf35f	PW, PWKVN correct GAL. to GALANOS's
+2022-05-10	9bfe28ad6995c784a277cbb30ed08c1252a4feb0	edit to burab_input.txt (Burnouf abbreviations)
+2022-05-05	ec2972a4855b25e25cacb62b176ddd8e0ab2da6d	one.dtd  adds Avestan, Slavonic, Lettish attribute values for LB lang element; required by bop.txt
+2022-05-01	8fc9615f748b8abba2c40b2f6496606621815ab7	update burab_input.txt
+2022-04-29	f187abfafb3c30a724775ebc57aa63cb4dcb6290	BUR abbreviations, and line breaks
+2022-04-28	d88309a8209fa51a7cd186b0d26c20fcc64e191c	edit burab_input.txt
+2022-04-28	474d702fe053eb200280d6e9a6e084e050e52a99	stc abbreviations added
+2022-04-26	6a7ab6ab3deb341843a78021d379e471efd60c11	pwkvn dictionary added. LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/86
+2022-03-07	90ccedd9dff9f9227c6edf14c1766421d0c02116	mwab_input.txt:  In Tooltip for Gr. changed apostrophe to unicode single right quote.  With a single quote, the Generated html did not parse for kIdfSa.
+2022-02-21	b61e4340262c1dac7fe8877a4caa09fb6e03bd93	one.dtd revised for 'ls' children. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/128
+2022-02-14	063e727ffe9224715fd404a890b91062774b3754	Correct pwgbib_input.txt, and document the need to check LB for uniqueness of the first 'id' field.
+2022-02-13	18231ae0a9c8c1441b318a175077456877fdc6e3	Revise pwgbib_input.txt. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/51
+2022-02-08	b4e70d706b6533ff0c54dc653506f28d4fe9882e	pwgbib:  '<lb>' -> '&#13;&#10;' so html tooltips show line breaks. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/49
+2022-01-30	e7d23e4f2ba1aa521ae0603eb3d95b712ca1f2e2	Update mwab_input.txt LB  LB Add LB  LB med.	<id>med.</id> <disp>medicine</disp> LB  LB additionally to the already present: LB  LB medic.	<id>medic.</id> <disp>medicine</disp>
+2021-12-21	e2b6e3fc2fa5f50a4e1beb1932a7c04e621dedf1	STC: update stcab for 'fig.'
+2021-12-21	cc57ab5979bf6705c01f21d47bbcf23a5e2df045	put copy of check_pwbib.py into pwgauth
+2021-12-21	09782f09b696105d7fc2d04ae287400e6c0abb0b	ap90 tooltip for 'Pass.' (capital). LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/692
+2021-12-17	333ef33d2f8ca8380352cba469ff18bf986107c4	mwe: make_xml.py insert <div n='lb'/> markup, which is removed in mwe.txt. LB Ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/26
+2021-12-17	0011976cd1ba0989589b9eb2612e0394c7b1f738	bor make_xml:  insert <div n='lb'/> markup which is now removed in bor.txt. LB Ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/26
+2021-12-17	625da873c2a5ab16f85eb975c664b67723e87a97	ae: make_xml.py inserts <div n='lb'/>, since this markup removed in ae.txt. LB Ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/26
+2021-12-17	4d530440e6c7548a9d549652e99aa1f47f509119	mci. make_xml.py inserts <div n='lb'> markup to replace the markup removed from mci.txt. LB Ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/26
+2021-12-17	f41d49b05bcab9a9f29672d13b699510e068c381	krm make_xml.py  Insert <div n='lb'> markup, which has been removed from krm.txt. LB Ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/26
+2021-12-17	e4eac0c9c73a7cec4bc3004400f6ec42fb967482	ieg make_xml.py -- insert <div n='lb'> markup to replace that removed in ieg.txt. LB Ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/26
+2021-12-17	277981eb499cd00421cbe368ff8e6de8ac2e3e9a	gst make_xml: insert <div n='lb'> markup to replace markup dropped in gst.txt. LB Ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/26
+2021-12-17	01474c96999e845c397b82bf7f42574963e583a3	bop make_xml.py: insert <div n='lb'> markup to replace markup dropped in bop.txt. LB Ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/26
+2021-12-17	92dc6a6ef11415ab0e68e3f91d36acc88d642203	BHS make_xml.py inserts <div n='lb'>, since this markup removed from bhs.txt. LB Ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/26
+2021-12-16	8463232c9ba429695744317f9904194eb60c8ab0	ben make_xml.py inserts line break as <div n='lb'>. LB Ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/26
+2021-12-16	359ddede80e53456c2dc221bc8265fe794de6391	yat. Adjust to insert <br/> after <> markup removed from yat.txt. LB Ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/26
+2021-12-16	828d84e2b51f3bcf4967cae765449598865f7aab	VEI make_xml.py inserts line-break markup. LB Ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/26
+2021-12-16	9d9d12f39e21ceb0b30207f56c67fdd7401f8e21	VCP make_xml.py revised for removal of <> linebreak markup. LB Ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/26
+2021-12-16	67f60d3c82bacea707c6b8689fbbef8ffe51c3dd	snp: make_xml adjusted for removal of <> <div n='lb'/> markup. LB Ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/26
+2021-12-16	1397af353e6f6869f1eb9ac04c4b179b0f824441	skd: make_xml.py reinserts line breaks for xml. LB Ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/26
+2021-12-16	1d55b5ce1030759393f32e475d34cd4263c2e66d	shs: make_xml adjust for removal of <> line break markup. LB Ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/26
+2021-12-16	574bd31600e12184197804304e1c02cf2db3658f	make_xml adjust for removal of <div n='lb'/> markup in pui.txt LB Ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/26
+2021-12-16	386d5d9e2a7e4f372c047d6f171c5408c5573fbc	Revise make_xml.py for removal of line-break markup in pgn.txt. LB Ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/26
+2021-12-16	178ad20bc0b52320e8586663758575177efdc2ff	MW72. re <div n='lb'/> markup insertion in xml. LB Ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/26
+2021-12-16	1b597aa1754cb59b1d171fe44c4dbc3262f3a617	INM: remove '<>' linebreak notation. LB Ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/26
+2021-12-16	a128ae4e0b7cc8c1f7fa14501cab004bab706b08	MD: adjust for removal of <>. LB Ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/26
+2021-12-16	a5ff28c537173976265680a7356442e09e4f86a6	AP90: revise for removal of <> linebreaks; LB Ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/26
+2021-12-15	fdc085999f25d8be6f09a151f76e4f0ef4a6ca79	ACC: line-break adjustment. LB Ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/26
+2021-12-14	df8bd2a660c3d7eb56af99f1907558434b45ca54	INM in make_xml: reinsert line breaks in inm.xml, these LB <div n='lb'> elements having been removed in inm.txt. LB Ref: https://github.com/sanskrit-lexicon/INM/issues/7
+2021-12-13	505d4fd88d2727da2739071ea44fc404585984b3	make_xml.py:  Simplify adjust_slp1, used only for 'all sanskrit' dictionaries, currently skd, vcp, armh
+2021-11-24	aaa19717109d4cc8fa6e790fc4ec03afa9815660	Revise pwbib_input.txt  . LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/79
+2021-11-03	a37bc48a1db1628329f8a22237b02da1e84413c0	pw:  Add check for format of pwbib_input
+2021-11-03	3ad258512a612ac32f4cf23c8559eee700529b65	Revise pwbib_input. LB  Ref: https://github.com/sanskrit-lexicon/PWK/issues/79
+2021-10-29	7e60294f543a0dfd64053578f6d5024d43a57ffd	PW. revise pwab_input and pwbib_input. LB Ref https://github.com/sanskrit-lexicon/PWK/issues/79
+2021-10-27	fe3b6a1efd85dfa0aa81d1b3cb7ec42d0ded275c	pw revise pwab and pwbib.
+2021-10-20	f85d8a3c963f14160e0dfbca0e3cb96009ed0995	mwab_input:  remove 2 duplicate lines to fix bug at Cologne
+2021-10-17	d439363a89bccbe49ca270295d1ce4eea192d791	mwab_input and mwauth revised. LB Ref https://github.com/sanskrit-lexicon/MWS/issues/121
+2021-10-17	2145605a12a59906514abdb45ec9c1778b8b6e02	edit mwab_input.txt
+2021-10-15	7857729f916573b2b8b2a11a156bbe00980bc346	MW: revise mwab and mwauth. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/121
+2021-10-08	9cf2797dc96e7fe22487c1706cd31e2a068c3e5f	mwab add 3 abbreviations
+2021-10-03	adba6bb96572b645cd106386ff5d354178f91b89	mwauth: remove Divyāv. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/113
+2021-09-25	faaa30e0788f0863e87a2536249da7e25a0d0fb1	cologne selective removed
+2021-09-23	291bb31e7559dd8cdba9078d6d6d3d248b715dfd	removed exit
+2021-09-23	6ec917e736cf6209c380dcb1ec719a1cc2d34921	ignore meta and hwextra files in selective script
+2021-09-23	b3bc04a3c04a394785f21d5917e79a349225e774	make_xml.py revised for sch dictionary. LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/74
+2021-09-15	83ee855bd6de1a4f51b8597de33047ac6ba381f7	update csl-json and cologne-stardict before processing further, to avoid clash during merge
+2021-09-14	285c8ca5fc333428942ce76c456a1dce8d1e5803	cronjob in readme_selective
+2021-09-13	29fdbf8701d0b7d740bb342de7f6ef668832f5ba	Readme for redo_xampp_selective.sh cronjob script`
+2021-09-13	ea996c849479d6737835f372cbd3c30600fe0838	typo correction in redo_xampp_selective.sh
+2021-09-12	50dcf1f3fd87aea590be4a62cc44732793b537ec	removed version
+2021-09-12	6f7ed6c1d63b638ca351c04845ba916a61acaf16	update 20210912180449
+2021-09-12	323bba6763b4b16f5bc39ebadbd0259b3333a9cd	update 20210912180047
+2021-09-12	55ad132b2859b90837751acb1225048efb21a89f	Merge branch 'master' of https://github.com/sanskrit-lexicon/csl-pywork
+2021-09-12	7523eb346b13d8ca1c8ba4674db391885c473ae6	close #28
+2021-09-11	04b181da7f39c1daa21c2bc5d886a66900eb173c	GRA  graab_input additions. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/616
+2021-09-11	91ee4b6f66c9ff5f0c1ef830c979d0546e44f2d2	GRA: add 'go.' = gothic abbreviation. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/616
+2021-09-09	ac963e356bb1eb248dd4810ebb6ee8cf1588a39a	BEN dictionary support for ls and ab markup
+2021-09-08	b9b8e61e1280635cc24df93c812795603831e390	rename xmlchk.sh
+2021-09-08	1eccec93422bda2aff547e252a96ad229d9bf2e5	xmlchk script in v02: for checking validity of xxx.xml
+2021-08-29	ebdcbb156e1741f63a222c9f5be96023e552ca4e	ap90: edit of auth tooltip
+2021-08-28	3d4df2684a58cf548343e13b6bf069d518f0f87e	ap90auth tooltip edit. LB Ref: https://github.com/sanskrit-lexicon/AP90/issues/24
+2021-08-27	dc6a9b734b0b3f31fe00cbbdfefc322e2756d705	writing versions to csl-orig/.version file
+2021-08-27	fba4abde73a64b727ac5026f5a131d7d640cfc63	redo selective scripts fetch the latest repos before processing
+2021-08-27	deb89db340aef8ce024e022c7022c3b7cde690bb	redo_cologne_selective.sh added
+2021-08-27	946fe466aed9f296a78d9566191331b6f71e40c8	readme for redo_xampp_selective.sh
+2021-08-27	b1d90b72b3d5e7f1008c792334f9f4704b9897d8	Merge branch 'master' of https://github.com/sanskrit-lexicon/csl-pywork
+2021-08-27	2fce17bd78dc614f13ee9fa8bffaf51b94067079	xampp selective
+2021-08-26	a539caf4e4d4819b1c7d791aef24503f8037547e	ap90auth correction.
+2021-08-26	62a9fbef0c172ae193fdab393fde1df040f86c4a	Merge branch 'master' of https://github.com/sanskrit-lexicon/csl-pywork LB Pull Dhaval's recent work before pushing ap90-auth revision.
+2021-08-26	0c462d439b61c88393a1d9dc91595a347ad9a66a	AP90 ap90auth/tooltip.txt revision. LB Ref: https://github.com/sanskrit-lexicon/AP90/issues/24
+2021-08-17	167507a42c964d895d63de312496374c598c5e8b	cd to directory, as cron does not go there natively
+2021-08-16	935b68a2b773b162c3469373e7d5978eaee8df12	update to sanskrit-dictionary-updater
+2021-08-16	90d4ad9d7e921c782efea42486ca8497b91a4911	datetime added to regen script for commit message
+2021-08-16	4e2ef79f4d3dd76b5715589949082033bcc32e06	git pull detailed
+2021-08-16	c56795467b24cb44d0b28a6c646b2a4ba019d448	trial for git push also
+2021-08-16	fc55fd4dd565de195ba646c8995bee696076f116	selective for stardict and json
+2021-08-16	92c39ef638e0da2d4b0cf7fba1a7a6c6d00d27b9	Merge branch 'master' of https://github.com/sanskrit-lexicon/csl-pywork
+2021-08-16	950cc9972b3338792aadeaf3d6a038e31fdd6f10	selective
+2021-08-16	ebf8f767f41f971d0e12f4b4ec8e308cd7d4ca1b	selective regen initial commit
+2021-08-06	8310ea20a27004049b3ef8ba2c8f6fd6acb4329b	PWG revisions to pwgbib_input; LB ref: distinctfiles/pwg/pywork/pwgauth/pwgbib_input.txt
+2021-07-25	8353169c8526774f1edfb308fe55119f33be1716	pwgbib_input edit.  Ref: https://github.com/sanskrit-lexicon/PWG/issues/37#issuecomment-845851016
+2021-07-25	4e9a8c2323466faf77473001fc9cf0b588230b94	PWG literary source added: LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/598
+2021-07-04	575500b7362e620e59a354890df50fcd121d6db5	ap in make.xml:  generate a div at any .² or .³ -- don't LB require these occur at beginning of line.
+2021-06-21	f35791ce46ec0a150615ef7e1ec8a061d53755f6	stcab:  bouddh.
+2021-06-19	0975060c759832580ee7d3a53e58f6d4464aa196	ap90auth/tooltip.txt . LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/527
+2021-05-31	de383fbec0f15538312d7ba82ddb6df656f62842	ap90 {v..v} markup display. LB Ref: https://github.com/sanskrit-lexicon/AP90/issues/16#issuecomment-851588534
+2021-05-25	4a43e064af2ca137fbb78885503fda5d98a68042	ap90 make_xml revised for {cNc} and {N} markup. LB Ref: https://github.com/sanskrit-lexicon/AP90/issues/16
+2021-05-17	0459ee60e668153ceea90092a297c7a0200085b4	PWG:  Devanagari in Auth tooltips. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/35#issuecomment-841866107
+2021-05-12	cc21d4662a802c60f43be56d1913b26cd9afaa11	AP90: additions to ap90ab_input.txt and ap90auth/tooltip.txt. LB Ref: https://github.com/sanskrit-lexicon/AP90/issues/11
+2021-05-05	efe7e718cb1008175d63c89fbed201ab855e91ce	ap90 tooltip additions. LB Ref: https://github.com/sanskrit-lexicon/AP90/issues/11#issuecomment-830352465
+2021-04-30	7d0320640c99e698812e7c3e6eaa405b06801d9f	Revise AP90 literary source abbreviations. LB Ref: https://github.com/sanskrit-lexicon/AP90/issues/11
+2021-04-22	e039635685f786e1e86f7c569bd866bd874f62e2	Ap90 abbreviation markup. LB Ref: https://github.com/sanskrit-lexicon/AP90/issues/4
+2021-04-16	2041339de2874aadd36854b57a8c272a7241abed	Revise pwgbib_input. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/33#issuecomment-821511429
+2021-04-16	d382f8c1c8f3c3e4c6e247f8298ef59f264e0624	Revise redo_xml.sh for pwg,pw
+2021-04-08	85c738707c7b4650f124c80aecda0fa01486fe56	GRA: abbreviations. LB Ref: https://github.com/sanskrit-lexicon/GRA/issues/8
+2021-03-22	abaf028367b851971c8e83ac2f94d4a735ca7268	pwg Add literary source 'Spr. (II)'. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/482
+2021-03-04	74fbe45423ec7d6f662ad9ec4c6686022c95dc0c	one.dtd: new attribute pc of info tag
+2021-02-23	8ba07a1eeb0ff1de7c4d79eb0a19aad3d892ecc4	Nom. was wrong LB  LB Nom.	<id>Nom.</id> <disp>Nomen? - noun</disp> LB  LB  LB  LB not Nomen, but Nominativ
+2021-02-20	fbf3b992b411712ed837e27ba6d6ce57541cad47	lan: add abbreviations 'vbl' and 'grd'
+2021-01-27	a7cb409ce8b368062a8cebdc371dc32bcf9e646c	Merge branch 'master' of https://github.com/sanskrit-lexicon/csl-pywork LB not sure why this needed (ejf)
+2021-01-24	8fcbd69ed26ea1cb13c5b3a2e2fbf8e4d8ee1447	ARMH sanskrit and br handled
+2021-01-24	b0248abec7757d24a39d2874279d58987ab892a4	ARMH primary test running
+2021-01-23	9deb4a310f0a9e67d977a17e67232b80a3cae901	Merge branch 'master' of https://github.com/sanskrit-lexicon/csl-pywork
+2021-01-23	9d85d9d60f435527c3e26751dac3fcc367baee2a	python3
+2021-01-11	8101119978d343a3f08313227b7eaa0c6e720019	BUR:  two forms of  abbreviation. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/448
+2021-01-11	3bf036a89bfc0f989b1db2599a7ead260cf6fa4f	BUR: Correct error in 'bot.' abbreviation. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/448
+2021-01-09	2006810c497f2324de8f236ee4306030eefc2024	revise make_xml.py to ignore possibly false errors in xml from LB the ET.fromstring function.  This found to be a problem with python 2.7.5 at Cologne red-hat OS
+2021-01-06	48e1c3c0cdd536fc5ea013b781202b02b96abd1b	Use python3 at Cologne for pw and pwg in redo_xml.sh
+2020-12-22	65826ee53a03fa516db6d2b9baa6236b3d5a4318	Test change for new git installation by Jim
+2020-12-21	b7a28ed64d00bbd6f8a4450699ac7335ef72ebf8	generate.py catch error in inventory.txt
+2020-12-17	0d7639a20161283c0399625b962939b059a13067	makotemplates/pywork/sqlite/sqlite.py replaces use LB of sqlite3  executable.   Ref #24
+2020-12-16	9ae9b9edf804de2c5f58f8550b8ee78866e17ee7	Save prior php/sqlite3 versions of sqlite creation
+2020-11-27	7e94ad63b02db5314d64903f1cfa76787d565e5d	Correct a mistake in previous change
+2020-11-27	431fb8da0acc763452f9389d8c042cac3579faf6	python at Cologne problem work-around. LB This work-around just for redo_xml.sh. LB Ref: https://github.com/sanskrit-lexicon/csl-pywork/issues/21
+2020-11-22	6f23767ea616b12e9bfc37594a55cdf2832838fb	redo_xml.sh uses python3 for lan at Cologne
+2020-11-22	0c92f0a4090f79478e6b06afba4bc05a5acdbd7a	Lan: Code to generate Lanman Sanskrit Reader
+2020-11-20	f3c04eb52b774d3455d903bb19f0d37481383f4b	BUR change abbreviation 'bd' to 'bouddhique'. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/408
+2020-11-20	fd2719641ed09644e321139dc76fbbe350fc10c3	add abbreviation 'gén.' to burab
+2020-11-17	914c37b1091e6f7dec420b30147f76c0124115f0	Change mwauth.txt;  '&amp;c' -> 'etc' and '&amp;' -> and. LB Reason: For kadala,  invalid xml was generated in basicadjust.php.  The LB change fixes that problem, and still provides meaningful tooltips.
+2020-07-11	3adf99be367230efe9d00092e91dcc6d29aa8441	change make_xml for ap90.  Refer #20
+2020-06-18	e176d72577942dd39265918888a673744ae046b4	BUR: abbreviation 'composit.'
+2020-06-18	0f392cafd1c487f05db7b4213c6bcbc1212746f0	BUR abbreviation revise 'Vd.'
+2020-06-18	41c4957f7f96b8571d0ef22d100d3fdaa05b88d4	bur: abbreviation 'qconque'
+2020-06-18	be750aed11732ba455d3d796544c3e31722bc485	bur: abbreviation 'oppos.'  30 instances
+2020-06-17	b8f8a4a04e83dde63de716f2e6912bcc37c23204	abbreviation 'err' added for STC dictionary
+2020-06-01	7305cdbd3f9eabf0a6a7cee7916be245a6f0ecf1	PW, PWG literary source re Gaspare Gorresio.  #19
+2020-05-06	6307d79a403e13326edb7a0d0722cbc46f80e27f	BUR: ext. and actt. abbreviations in burab_input.txt
+2020-05-05	27c91c0b4265c70e8d4c9023a5896c91a2b7c679	STC: abbreviation 'not.' added
+2020-05-04	4fbe2fbdd46eab5ae04f7d309c4b65ffe29289f5	burab_input.txt
+2020-05-03	f88a64a6ac021393f3b4b238a51a27088593aef8	burab_input.txt
+2020-05-03	cb7e0b7037318bc7045e3d12ee075bbe9c54d369	make_xml adjusted at dig_to_xml_specific for bur
+2020-05-03	6d09f4054f1387012c90e3e8d609d3f36c535576	BUR add abbreviations
+2020-04-09	2cf42bbcc1af92fc31ec6d714e5960ea0322e715	Merge branch 'master' of https://github.com/sanskrit-lexicon/csl-pywork
+2020-04-09	a8bcc8022341be43215d5ff23050de93a0effb1d	BUR: additions to abbreviations
+2020-03-09	a672f06eec54f7cf46f5e1890aa7c08af4fcf277	Update readme.md
+2020-02-18	2536979094d8ba4edb580edf0b47bf59752b8b53	minor changes to burab_input.txt, stcab_input.txt
+2020-02-18	bc2c135a76ed2d00e4ccc6f8d8d80258f8f649a0	add some abbreviations for bur; modified 'div' generation for bur in make_xml.py
+2020-02-18	5a15b49ecfd21364172e752f60146bd992299cb1	correction to stcab_input
+2020-02-18	00d01dd86aa08c46771addf488bdfa41a34037e2	Additional abbreviations for stc
+2020-02-08	b7df3798fae124090f0919f39bc79b795dabb5f8	Replace ' with curly right quote in stcab_input.txt definitions
+2020-01-26	c18e822b29ceb4ceefe45288eae31cf7c27ef00f	mwwhitmap.xml correction
+2020-01-25	5e52fd3508bb7e4903e127c1e7abf2ad0a7aa06f	Add 'E' to grouping (e.g. HxE goes with all Hx)
+2020-01-22	c39fee336a2fb3d460d3a1af37879ee1a174c2ef	revise mwkeys to allow ~ (candra-bindu). Needed for hwnorm1
+2020-01-21	5804e48add86d49f57fe3cc69e683c1e73b8ecae	Add abbreviations to 'stc' dictionary
+2020-01-14	fa80a835a64d3f6059695cfc5adc06c3e7b3e9f3	rename distinctfiles/xxx/pywork/make_xml.py to .../unused_make_xml.py
+2020-01-14	564485cbdd3d553b8b9ed6ced55e4c680858223f	bur:  remove '||' from div display.  The indentation is sufficient.
+2020-01-13	f4dbde8ceaf4dd79e41c6ead7a0c7549bf2e5c89	bur: improve div markup
+2020-01-10	ced1ca279a5e53e02011f71e68b9f2aa39c9f004	minor correction to mwab_input
+2020-01-09	29e8bc6988ca755dafed1a5b43729de8b6488085	Add 'hebrew' as attribute value of 'n' attribute of 'lang' tag; LB used once in gra.txt
+2019-12-26	ffaef2de7e6d7b572d109abb604a74187566518f	add 'Desid. Caus.' and 'Desid. Pass.' abbreviations.
+2019-12-26	8ed8c4dc61435454fd41f2ceef5b71ff76f95280	Change abbreviation 'Med.' from 'Medizin' to 'Medium' (verb voice)
+2019-12-26	b52da267c69995e2f00ace2f68002c0b2e5a0c7f	Spelling error in 'O.Pr.' abbreviation
+2019-12-22	6fe40856cd964f54aa264bd47ff04fcac688ff39	Arrange to use python3 (instead of python) for mw at cologne. LB Also get python2/3 compatible version of mw/pywork/mwkeys/extract_keys_b.py.
+2019-12-21	a131e424dcfe7e71c4cf3b34c33b25cbd39fede3	Use 'python3 hw.py ...' with mw on cologne in redo_hw.sh
+2019-12-21	8bd49d84702fc35b6bc9a0bcce793c236bdd9327	Kluge to run redo_xml.py with python3 on Cologne server for mw
+2019-12-21	ee79ea9083e921e4d005e3c5c6d0361c7de28c13	py23 maketrans
+2019-12-20	96bd258302112aa504d663cdfaf3b95881e60952	Add several upper-case and other variants to abbreviations
+2019-12-18	e5a0840611560bc3abde5f4931d0744dc88311e9	MW-YAT
+2019-12-18	6a3ae468b3eb45913c52bd039198af8a56fcde57	GRA-MD
+2019-12-18	2ee8ee7ec5fd1585fb78ef769269366d4226f27a	BHS-CCS
+2019-12-18	65bf6f5909cbd64418d8bab250ae6403238aaec4	py23 acc-ben
+2019-12-18	f129c19483733943e5b626895f6be70e7a6cff70	print py2, py3 compliant in mako and utilities
+2019-11-06	bfd95db2e8d769e757d84e55401b4613b4cfa939	Get xxx-meta2.txt and xxxheader.xml from csl-orig
+2019-11-06	58b6244dae095ff0c8757cb56f4f1576ea8772f9	Remove distinctfiles/xxx/pywork/xxx-meta2.txt. Now in csl-orig/v02/xxx
+2019-11-06	c58c66aa301ce7c514bb6924fe51e7e30c93a4d0	Remove distinctfiles/xxx/pywork/xxxheader.xml. Now in csl-orig/v02/xxx
+2019-11-06	9e455df0f6b06425a8e89e58ca1cd9ac65575168	Remove distinctfiles/xxx/pywork/xxx.dtd -- Previously replaced by makotemplates/pywork/one.dtd
+2019-11-06	2163a7b385e904f9de83f3ef815b171094c58ed0	Correct spelling
+2019-11-05	434b19c630c59733ebfc2b24dd9aef2420178a42	copy xxxheader.xml from pywork to web
+2019-11-05	233fa8f4bc9538b31834da8143c2782832aec912	remove some comment lines
+2019-11-05	ed767ccb82f3f0ca594579ce0f38b983b8af17b7	Add Jonathan Migliore as resposible for Greek data entry
+2019-11-04	1eb4dd47133b4009d7d85395f04f0b49459fa769	Remove xxx/pywork/hwextra.  Since xxx_hwextra.txt now got from csl-orig
+2019-11-04	21f97b1c1c2e6ed0b3a9409ae9cdda86858214de	Get xxx.txt and xxx_hwextra.txt from csl-orig, after csl-orig reorg
+2019-10-31	7665305c6b3b4aa138291ce97101b2145fde2215	Merge pull request #12 from sanskrit-lexicon/YevgenSandbox LB  LB Converted lang n="Russian" to lowercase
+2019-10-31	49133bf38cff11132f964dacc57e43d4b90ded95	Converted lang n="Russian" to lowercase
+2019-10-31	0848305821c3b017bd689419075a281c967a3f37	Remove attribute value 'Greek' from values of attribute 'n' of element 'lang'.  It occurred only once in PWG, and spelling there changed to 'greek'
+2019-10-31	1faf9f1fb780256e851b4be2ef9e6372e1cf201f	Removed element 'g'; occurs only once in dictionary 'yat'; similarly change 'yat' to use <lang n="greek">.
+2019-10-29	4298a184d4be67e01d39ad7371fa8f1833cdd78f	python program as alternate to xmllint. Python 2. Uses lxml
+2019-10-20	9dc6d857a4d72aecf11fec049c4a193ac94724e3	Merge branch 'master' of github.com:sanskrit-lexicon/csl-pywork
+2019-10-20	533aa7ad0cc306a57cdbc47b0233a8f4caa2d1c5	add check_xml_tags.py to a (new) v02/utilities folder
+2019-10-20	965bb68a2e39c4e7bd2d2f698799f1dfec63fd53	update readme
+2019-10-20	141a486947661681c5860ac397452581d3fc3844	bash block in readme
+2019-10-20	fc70328c29a198c53511b18d938934e8c6d5c5e3	ubuntu steps
+2019-10-14	9a0a6cec475d94db0049b47eb09891517f599d66	make_xml.py generates value 'Q' instead of '?' for attribute 'n' of element 'div'; change one.dtd accordingly.
+2019-10-13	6a1926f9f81da99ab4818539cca0f383c70e5b56	Use template pywork/one.dtd to generate xxx.dtd files for all dictionaries
+2019-10-12	9510acad8d02afef2aeb7064a9c5ad8866055aa4	make_xml.py now a template
+2019-10-11	3ea49f93c50c7936cabf320e89e2c0f21dcc9ec5	Changes to distinctfiles so make_xml.py can be a template
+2019-10-09	2de4459411d804d30dd9c352bab11b1f9f756474	Minor edits of make_xml.py in distinctfiles for 5 dictionaries
+2019-10-09	289da20feef1901c0695fcd987f0b45619642d75	Correct Python unicode coding of ¦ for 15 more dictionaries
+2019-10-08	a8af00b97974e046f966f11bb696fcc78b6b484d	Correct Python unicode coding of ¦.  A desired side-effect is that ¦ is removed from the xml and displays for these dictionaries
+2019-10-08	a91e7ddee33308e08fcd78e266534c49caf9ed48	make_xml.py more uniform, part 1.  The resulting xxx.xml files are same after the change as before
+2019-10-06	def4a1c73e95c0cc0369027a980c5e92f7fb6776	Make transcoder.py Python2/3 compatible. It is same as version in https://github.com/funderburkjim/sanskrit-transcoding/blob/master/transcoder.py
+2019-10-03	cba7dc9bdebdaf52c4e950fa33f9c67985070402	Call generate_orig.sh with 'bash', not 'sh' (for Ubuntu, where 'sh' refers to 'dash'
+2019-09-30	1d531d2947c34c2d341931964d919fbbd043177a	revise readme files
+2019-09-29	ab1927a2dada561cbd8c431f918e0ea9ab95eb5a	gitignore *.pyc anywhere, not just in v00
+2019-09-29	090c9679cea36aed92d83df83f2e4664199f9d39	Double-quote characters  -- removed in 3 more lines
+2019-09-29	e96a4159d9f752a172e4bc7e0c4b8aacf01b3e9e	Double-quote characters cause problems in importing in modern sqlite3 versions on Windows. Modify pwgbib_input.txt accordingly.
+2019-09-29	03161a18808b336fe72a35859804a71fc88c5ab0	sort by dictionary code
+2019-09-29	312f6147c13cf73ed44787e646fd22f5ef14a962	remove pwgab dependency on make_pwgab.py
+2019-09-29	553c0a674038fb0e6fe3691e57b70141db20dcee	initial commit of version v02
+2019-09-12	d7cca7f1155218c3fe8d3b4400fd46fc2ede8336	make v01/* and temp* ignored by git
+2019-07-26	f811b3a0da2edba674a5f2a6ef2a27b25dab36e5	markup
+2019-07-24	4830824a411eb4d07ad32faa491790a2d37fff96	redo has better logs
+2019-07-24	4fd142fb1ca1ff14180ed3f9a7fcea54a49b795a	sys.version_info was a tuple in 2.6.6
+2019-07-24	39a685d3e9cfe3ded0acca0c1f112d576110adc4	redo.sh more readable echos
+2019-07-24	bdc833cb25f63ebc586289f81ce617b19487236e	prerequisites mentioned in readme
+2019-07-24	5ecb5f7f3cf48cd2dff06357be99dd0d93329cc5	redo_xml now dependent on csl-orig and not on local orig
+2019-07-24	769451eec77773dc136856dddd190d0f58b89f9f	removed redundant cd 2
+2019-07-24	39e6ab92a6d5fbbbd99aad2fc1ed5790a7a084c6	removed redundant cd
+2019-07-24	5d22419b161cc6c956006bfb9f95c56a600b7677	mako dependency mentioned in readme
+2019-07-24	002c85d90bd7a18a76ed2b263daef01a49c12d30	parseheadline py2 py3 compliant
+2019-07-24	e8178b951179bda8c719e7039a88598606fe246c	make_xml made python2, python3 compliant
+2019-07-24	88b422ca1bbd04c631d9d36166bc19ff56a16d28	python3 compatibility for templates. distinctscripts pending
+2019-07-23	d3f90933409719c2ae50dc95cd17cf4ff02b56f1	use x.txt from csl-data itself. Do not copy.
+2019-07-23	1374a773639c6797cd46a3a60eee0e86d001b0e0	redo works with arguments
+2019-07-23	9effb943de86aa22b48c8a68f9cd4fe26ff9dbac	gitignore
+2019-07-23	6d08bf955cb7b15a26977c5682cf07d3f0020272	ignore pyc
+2019-07-23	c00950d4984468fe431b8fd5113b623f699b1754	readme now has bash
+2019-07-23	e4a7f3ae32229261c33d3c527ec39803639d59cd	redo.sh run by bash
+2019-07-23	870fbe8dcef515542d643d3e538b7855c171b396	readme and redo.sh part of csl-pywork now
+2019-07-23	0abbd51b24e4e9ae41ee7855659795d6e071b0f8	2020 rename
+2019-07-23	261ec8561bbda4d67ac886c2137056791ca79b83	typo in filename corrected, redo_hw echo now shows dictname prefixed
+2019-07-23	c38afd9520513d64d72aaca2032b8c2c261bc221	hom to h in remaining dictionaries
+2019-07-23	881be53a362c1a5b562905ab9efbea708110371d	hw.py ignore comments from hwextra, hom to h for AP90
+2019-07-22	892c8f17b9ae8efcd5fb29aa4ac0db8922358117	do not redownload the make_xml files
+2019-07-22	a5288c4aa460c091f3218ea2ed5fdbf2332c8ab7	acc make_xml home->h
+2019-07-22	879e765fd0e6a73f8f1378895bf6f81b8c12362a	.dtd added in distinct scripts and hw.py mako compliant
+2019-07-22	85ce663e22690012f5d0ff54f353de59b38415ad	hw.py mako error corrected
+2019-07-20	39208cc59d436f9071f8b3dc979443e985ce07e8	compare.sh compares between generated and cologne versions
+2019-07-20	68da950d5517c124ba02a3fc2cad1939b33d5030	make_xml of 2013 added
+2019-07-20	a0ca4a27bdb056d4647f06b16bdd053f50a169e1	first commit

@@ -1,0 +1,4 @@
+date	sha	title
+2024-09-07	1464726051bf9469c15bb45b3793a9f4a43c6a64	#1  first display
+2024-09-06	4772b044f7c46f2215acf09bbd30769a134c3dbb	Initialize pdfpages
+2024-09-06	b88bd1eb0ad648ed4025f61f4e735496d51cdaf9	Initial commit

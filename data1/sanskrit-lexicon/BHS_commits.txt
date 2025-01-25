@@ -1,0 +1,26 @@
+date	sha	title
+2024-12-30	feb00c9b1beac8009ff3ec341a847b68d6442d69	#4  version tagcount_ls_jim_29.12.24.txt
+2023-08-23	8d9ff5a7d2a348da5be433d35523f498199c9958	revise meta/readme
+2023-08-23	1cf79d7214a6866c29ca3a7eb75a949b8e56bf2f	Revise bhs-meta2. #5
+2023-08-22	7a929c1298ba94ca5881e225c75246b23d413feb	Final revision to #3
+2023-08-22	ab3decf3e05bd87c96774436f93e36c771c9e3f5	Revise changes_bhs_ab_3a. #3
+2023-08-22	82fd63d53459e353786923f5c6991dd52e434d24	Correct documentation error. #3
+2023-08-22	0c99d900ab8d811cf7406292e106624e15efc667	Further revisions. #3
+2023-08-20	374caeb1c6265d6046974432cc23d19fb21f447c	update compare/readme.txt #3
+2023-08-20	89439af5061d59eb2f516bf59def8f2be66b0d56	'compare' directory markup changes. #3
+2023-08-15	3b4bf6aa3074b0808d6a34c43a6af772aa77f24e	two more additional changes. #3
+2023-08-15	e9c63b8af48789a8ce31b0404a7d4e3c970b280c	11 Additional changes check3a_edit.txt.  #3
+2023-08-14	69061d7592d252868a363a8d100d4b20512691dd	More ger/fr text found and marked. #3
+2023-08-12	b36d24cd696b10231ee912b506ffa9a56d6ac694	mark additional text as German or French. #3
+2023-08-09	35a50b99ff15ef86148a9d9f127002a7925699e5	revise bhs-meta2.txt and bhsheader.xml. LB Some revisions to basicdisplay.php and basicadjust.php.  #1
+2023-08-08	57f2b161eee0f276c2368257b39fcc277e8c04a0	<ed> tooltips.  #1
+2023-08-08	e5ffa5044d17a79da4213f6f783f8dc39c9eb9e8	minor correction; display ger/fr/tib text in brown; LB don't use oldstandard_i for italic.  #1
+2023-08-08	03a0c30d6a7dc8a532967636152719fc0932a573	textsize study
+2023-08-07	d2df9363b8754a51dc58d1eda9fb70b9acac1530	Revisions (see litsrc/readme.txt at 08-07-2023). #1
+2023-08-04	0271f6c3fb1fbe9c8285b8a7b0ecd52ff6b74b8f	abbreviations (ab, lex, lang,ls). dev1 revision. #1
+2021-08-21	44efbe67ee29cfa77a9f74762b38ae1d9a4e73bd	Remove sequence number in bhs_error_ok.txt
+2021-08-21	552081fae91380149fef312041377ab75b0a82f7	Identify english word errors for further study. LB Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/80
+2021-08-19	7693d4f8e52dae866b5a11989d4850b63e95b50a	headword modification investigation files put in  headwordmod. LB Ref: LB https://github.com/sanskrit-lexicon/corrections/issues/216
+2016-01-02	a3962b63bbe611e5089c08371d77d8a72b54156c	Correction issue 216
+2016-01-02	aaf232301c6e8d0947be349413b1cbf54e06e532	Initial unaltered commit
+2016-01-02	21df15923ae012f88f394182ea19dc8544c54edd	Initial commit

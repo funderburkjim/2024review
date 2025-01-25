@@ -1,0 +1,24 @@
+date	issue	state	title
+2023-02-16	23	open	MW full-review-012: On the use of Em Dash in the CDSL text vs. the intent of MW print!!
+2023-02-16	22	open	MW full-review-011: The homonym number marking (either indicated, or skipped) in the print is to be present completely in the digital text version
+2023-02-16	21	open	MW full-review-005b: Cognate words and the related tagging
+2023-02-16	20	open	MW full-review-010: <ls> orphan numbers lookout & new tags added around the numbers
+2023-02-15	19	open	abcode
+2023-02-14	18	open	xml corrections
+2023-02-14	17	closed	ūrdhvajānu two entries needed
+2023-02-14	16	closed	getting cdsl displays to work
+2023-02-13	15	open	MW full-review-009: Verbal word endings printed as samAsa type
+2023-02-12	14	closed	spelling changes during transcoding
+2023-02-12	13	closed	; delete  problem
+2023-02-11	12	open	mw_ab observations, 1
+2023-02-11	11	closed	temp files
+2023-02-10	10	open	MW full-review-008: <s> tag corrections
+2023-02-09	9	open	MW full-review-007: <ns> tag corrections
+2023-02-09	8	open	MW full-review-006: <s1 ....</s1> adjustments and corrections
+2023-02-08	7	open	MW full-review-005a: Cognate words and Languages
+2023-02-08	6	open	MW full-review-004: <bot> tag adjustments and corrections
+2023-01-19	1	open	Welcome Andhrabharati
+2023-01-18	4	open	MW full-review-003: Issues wrt dual-form vowel (<shortlong/>)
+2023-01-13	3	closed	MW full-review-002: Issues wrt vowel-sandhi marker (<srs/>)
+2023-01-11	5	open	Discussion with Andhrabharati to smoothen out processes for major revisions
+2022-12-26	2	open	MW full-review-001: Issues wrt the body marker (¦)

@@ -1,0 +1,111 @@
+date	issue	state	title
+2024-12-11	111	closed	Bot tags
+2024-12-07	110	closed	BHĀGAVATAPURĀṆA PWKVN literary source markup
+2024-12-06	109	open	BHĀGAVATAPURĀṆA PW literary source markup
+2024-03-25	108	open	Ideas for further work following issue 106
+2024-03-12	107	closed	pw scans for vn
+2024-02-09	106	closed	Alternate headwords for pw
+2024-02-09	105	closed	Malten headword classifications
+2024-02-07	104	closed	appending pwkvn to pwk
+2023-11-15	103	closed	pwkvn revisions, based on AB version(s)
+2023-11-14	102	closed	pw revisions based on AB version(s), continued
+2023-11-13	101	closed	Malten corrections (German words/bot tags)
+2023-11-13	100	open	Thomas random corrections
+2023-07-28	98	open	Interesting observation: ṚV citations in pwk
+2023-07-25	97	open	basicdisplay revisions
+2023-07-21	96	open	pw/pwg literary source display 
+2023-07-17	95	closed	Fresh Look, starting with `<is>` tag
+2023-06-28	94	closed	<pc> errors at pwk-volume change
+2023-03-30	93	closed	Chrestomathy ls markup
+2023-03-25	92	closed	parenthetical headwords
+2022-12-26	91	closed	remove sanskrit italics 
+2022-06-10	90	closed	Gorresio Ramayana links
+2022-06-08	89	closed	Small error in "[Page...]" marking
+2022-06-07	88	closed	unmarked abbreviations
+2022-05-08	87	closed	PWKVN althws editing
+2022-04-26	86	closed	PWKVN  
+2022-02-19	85	closed	pw literary source summary
+2022-02-06	84	open	MBH Bombay edition links
+2022-02-06	83	open	Ramayana links
+2022-02-04	82	closed	MBH Calcutta edition links in PWK
+2022-01-21	81	open	links to BOESP
+2021-11-24	80	open	Boehtlingk literary source sequences
+2021-10-27	79	closed	PWK ls corrections
+2021-10-26	78	closed	muhUrtawIkA  multiple entries
+2021-09-30	77	open	PWKVN3 vs Schmidt
+2021-09-26	76	open	Typing of pwk3_vn_page256-265
+2021-09-23	75	open	PWK VN7 Schmidt
+2021-09-23	74	open	PWK-VN Schmidt preparation
+2021-08-04	73	closed	PW(K) corrections-2: Andhrabharati
+2021-08-04	72	closed	PW(K) corrections-1: Andhrabharati
+2021-07-31	71	closed	PWK missing pages vol 3
+2021-07-30	70	open	PWK VN and SCH
+2021-02-15	69	open	Nachtragswörterbuch des Sanskrit
+2020-03-08	68	open	verbs01a
+2016-10-12	67	open	Missing markup
+2016-09-12	66	open	•»s.u.  markup question
+2016-08-05	65	open	pwbib title improvement for 'xx' type
+2016-08-04	64	closed	<ls> corrections from purenumberabbrvlist
+2016-07-26	63	closed	displayprep
+2016-07-07	62	closed	digitized PWG bibliography
+2016-02-17	61	open	PW bib new work
+2016-02-16	60	open	Revise pwbib_unused.txt
+2016-01-19	59	closed	Crefminus bib, the rest of them, part 2
+2016-01-18	58	open	Cases of |<sic>
+2016-01-14	57	closed	Crefminus bib, the rest of them
+2016-01-07	56	open	Extending PWK bibliography
+2016-01-05	55	open	New commentary references found
+2016-01-05	54	closed	Remove unjoined `[ ]*¯UP[.]`
+2016-01-04	53	closed	crefminusbib - fuzzymatch1
+2016-01-02	52	closed	elipsis characted in pw.txt
+2016-01-02	51	closed	crefminusbib, part 12
+2016-01-01	50	open	WILSON in references
+2016-01-01	49	closed	N. - is it an abbreviation in German ?
+2016-01-01	48	closed	crefminusbib, part 11
+2015-12-24	47	closed	crefminusbib, part 10
+2015-12-24	46	open	known posterior tags
+2015-12-24	45	closed	crefminusbib, part 9
+2015-12-24	44	closed	fuzzy suggestions for correction submission
+2015-12-23	43	closed	crefminusbib, part 8
+2015-12-23	42	closed	Change in the submission file
+2015-12-22	41	closed	 crefminusbib, Part 7
+2015-12-22	40	closed	'ls' starting with a number
+2015-12-22	39	open	commentary study
+2015-12-22	38	open	pwbib0.txt visual corrections
+2015-12-22	37	closed	bib minus cref, part 5
+2015-12-19	36	closed	Roman numerals in literary resources
+2015-12-19	35	closed	Capitalization issue in literary resources
+2015-12-19	34	closed	crefminusbib, part 6
+2015-12-19	33	closed	¯BÜHLER,Rep. corrections
+2015-12-19	32	closed	S(eite) to be removed from 'ls'
+2015-12-19	31	closed	crefminusbib, part 5
+2015-12-19	30	open	Commentary references
+2015-12-19	29	closed	crefminusbib, part 4
+2015-12-19	28	closed	crefminusbib, part 4
+2015-12-18	27	closed	crefminusbib, part 3
+2015-12-18	26	closed	crefminusbib, part 2
+2015-12-18	25	closed	generate.py modifications
+2015-12-18	24	open	New literary resources caught
+2015-12-17	23	closed	crefminusbib part 1
+2015-12-15	22	closed	bib minus cref, part 4
+2015-12-14	21	closed	bib minus cref, part 3
+2015-12-14	20	closed	bib minus cref, part 2
+2015-12-11	19	closed	Request for pw.xml file
+2015-12-11	18	closed	bib minus cref, part 1
+2015-12-10	17	closed	crefmatch
+2015-12-10	16	closed	enhancement to makeabbrv
+2015-11-19	15	open	Duplicate abbreviations in pwbib1
+2015-11-16	14	open	Editing changes to pwbib0.txt
+2015-11-16	13	closed	Move pw_dhaval
+2015-11-08	12	open	Abbreviations bracket not proper
+2015-11-08	11	closed	Pure numbers in references
+2015-07-09	10	open	Many alternate headwords
+2014-11-08	9	closed	Conversion of PW(K) digitization to SLP1
+2014-10-04	8	closed	help.html Help Page
+2014-09-17	7	closed	/pwweb1/web/webtc/
+2014-09-16	6	open	Correction submissions not changed
+2014-09-16	5	open	Nachtrage Implementation
+2014-09-16	4	open	Formatting of Entries
+2014-09-16	3	closed	Sanskrit-Wörterbuch
+2014-09-16	2	open	Sigla
+2014-09-02	1	open	Implement Fuzzy-Found Errors

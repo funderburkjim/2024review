@@ -1,0 +1,26 @@
+date	issue	state	title
+2022-06-30	25	closed	Errata in APPENDIX I. SANSKRIT PROSODY
+2021-08-25	24	closed	Additional literary sources from ap90ab_v2
+2021-06-26	23	open	ap57_90 literary source
+2021-05-31	22	closed	Devanagari Font ligature problem: zWy
+2021-05-31	21	open	Sanskrit spelling errors
+2021-05-29	20	closed	nyAya maxims, appendix writers/places
+2021-05-28	19	closed	ap90ab_v2: {} around Devanagari
+2021-05-28	18	closed	ap90ab -- missing hyphens in  derivations
+2021-05-20	17	open	Andhrabharati coding of AP90
+2021-05-19	16	open	Misc markup changes, Part 2
+2021-05-09	15	open	Misc. markup corrections
+2021-05-08	14	open	Devanagari markup changes
+2021-05-05	13	closed	?? missing characters
+2021-05-05	12	open	Hitopadeśa link target
+2021-04-28	11	open	Markup of literary source references, continued
+2021-04-23	10	open	Deep Page Hyperlinks (aka Page0463-c)
+2021-04-22	9	closed	Abbrev markup: compar. and superl.
+2021-04-18	8	closed	Hyphenated Devanagari at line end
+2021-04-13	7	closed	Hyphenated non-Devanagari 
+2021-03-26	6	open	Newline for some entries in Apte Practical Sanskrit-English Dictionary, 1890
+2020-12-24	5	open	Expansion of composite HWs from the reduced parts used in the print books
+2020-10-28	4	closed	Abbreviation Markup
+2020-03-24	3	open	Add AP Review
+2020-03-16	2	open	verbs from 1957 ap
+2020-03-14	1	open	verbs01

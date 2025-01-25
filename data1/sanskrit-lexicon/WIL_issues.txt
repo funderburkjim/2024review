@@ -1,0 +1,14 @@
+date	issue	state	title
+2022-03-08	13	open	New Hi-Res Scan of Wilson 1832 from Russia
+2021-07-31	12	open	Bot markup refinement
+2020-06-18	11	open	Botanical names
+2020-03-25	10	open	verbs01-shs: Sabda Sagara verbs and MW
+2020-03-23	9	open	verbs01-yat: Yates verbs and MW
+2020-03-19	8	open	verbs01: Wilson verbs and MW
+2020-03-10	7	open	Spaces and commas outside markup <s>aDika</s>` and `<s>aDika,</s>
+2018-09-06	6	open	Wilson roots correspondence to MW roots, step2a
+2016-11-21	5	closed	Normalizing Devanagari markup in wil.txt
+2016-06-13	4	closed	Documentation of wilmwroots reason codes.
+2015-02-24	3	open	Wilson roots correspondence to MW roots, step2
+2015-02-15	2	open	Wilson roots correspondence to MW roots
+2015-02-10	1	open	Correspondence between roots in MW and Wilson

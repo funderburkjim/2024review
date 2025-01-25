@@ -1,0 +1,8 @@
+date	sha	title
+2024-10-01	8f124fd64167b5ca8612b321c3f404dfd81a472e	interchange pdfpages/pwg6-0705.pdf and pdfpages/pwg6-0707.pdf
+2024-10-01	ef7e5b9bcc07bb3d747f151b2a816f8826aa43c9	Merge branch 'gh-pages' of https://github.com/sanskrit-lexicon-scans/pwg into gh-pages LB To get the license delete commit of Oct 4, 2021.
+2024-10-01	9d82c09a285e747d152909d35c210d9bd6614162	10 VN pdfs added. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/76
+2021-10-04	3278649638515747c30b7cb65722cbc4980643d0	Delete LICENSE
+2021-07-30	dfbf6b939ea99bbbbd67c488529f9543c1d31a02	Correct pwg6-0329.pdf through pwg6-0407.pdf. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/40
+2019-11-01	39b0c4be85ee04755e8fbf85db13bc05f22be17d	Add pdfpages
+2019-11-01	4b522e4d3c29c1c5f9f3540fdb98b54999f93b66	first commit

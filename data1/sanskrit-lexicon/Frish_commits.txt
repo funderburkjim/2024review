@@ -1,0 +1,4 @@
+date	sha	title
+2024-01-26	c0d6bf299037b6e3ede62b7303860736b81351a2	Initial version of fri.txt, named as fri_00.txt. #1
+2024-01-26	b82479ccb71e37e11d78d7b4f0e7409c8d83241f	Add .gitignore
+2024-01-26	56219ea8adbbdc9c1cd6042de6f19f6ec89a1e39	Initial commit

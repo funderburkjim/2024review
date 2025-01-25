@@ -1,0 +1,4 @@
+date	sha	title
+2020-04-18	07eb4dad88292e2640b03a5de710cfff1a323993	Update README.md
+2020-04-15	9d2f4fb5556d24e3a04fcd241601f15271e79250	verbs01 inital commit
+2020-04-15	44b9187e01cfec570129ad6b674e884966bc5eef	Initial commit

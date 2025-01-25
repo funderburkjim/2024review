@@ -1,0 +1,11 @@
+date	issue	state	title
+2024-05-28	10	open	Flaw in Python re.split
+2024-05-08	9	open	markup needed for display usefulness
+2019-02-07	8	closed	धर्मः -घासरः
+2016-12-02	7	closed	Can anusvAra precede vowel
+2016-10-14	6	closed	Ngram approach to finding errors in Sanskrit words of AE
+2014-11-04	5	closed	Headword corrections 
+2014-09-06	4	closed	Corrections of 'missing data' 
+2014-08-21	3	closed	Title overlapping
+2014-07-17	2	closed	New wikisource locations
+2014-07-15	1	open	Normalizing pada-gana 'spelling' in digitization

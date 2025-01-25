@@ -1,0 +1,111 @@
+date	sha	title
+2024-09-01	6815cfcfbc68a12dab6db21b6e6185c11bd91f39	VCP: hwextra-Lbody conversion #432
+2024-09-01	1610df3a288eceb27e5de443c47833d3d2a692bf	SKD: hwextra-Lbody conversion #431
+2024-09-01	ca2882daf03d31f2c8c386cf8048deece2396b5f	SHS: hwextra-Lbody conversion #429
+2024-09-01	3e2eef29f80607b7b635a4e4dbd28f0f802cc97c	PWKVN: hwextra-Lbody conversion #428
+2024-09-01	a7715eff71e0eacf07a5476f40e3e3fda099277c	PWKVN: hwextra-Lbody conversion #428
+2024-08-31	8d63ec79c3ba3877b45e73306cc280e146665808	PW: hwextra-Lbody conversion #427
+2024-08-31	5f09e4079f59e4996af8fa218390d446a3e83bae	version 6 minor changes. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/426
+2024-08-31	2ff28da6cd675772f868912f93393f5144156a89	LRV: hwextra-Lbody conversion #426
+2024-08-28	bc0db97a92db993d30d61f620bcd1127b14fdb7f	CAE: hwextra-Lbody conversion #425
+2024-08-28	ae4944857c92579d352575023f54f9317893fe46	BUR: hwextra-Lbody conversion #424
+2024-08-28	7981e396f5b763be27045a406c5486fcfe59752d	AP90: hwextra-Lbody conversion #423
+2024-08-27	dfbb963d23317a73ea2bc33f937532a36d051ad0	ACC: hwextra-Lbody conversion #422
+2024-07-03	727183ee5f9c6b85a21effe5efd107d2338f07ea	Revise eascii statistics. #421
+2024-07-01	1b7e788ecd5ad275a55e821feca3492f880815e2	Rerun the xmltag study
+2024-07-01	d333db558b192464bc4c7263a31d5a07b81e9521	unicode_dump.py utility (enhancements/code)
+2024-02-08	876719e35cf880aa44a23a5781af4dbe07d8f2f4	recompute xmltag after changing 'pe' tag to 'per'. LB #366
+2024-02-03	6b6d0b02bb67220fa1f75c8c18b05a605ae5a88c	Update all_xmltags (to see which use 'pe' tag) in xxx.txt. #366
+2023-06-21	86531ba55c0b884a6d92e0f3e670605506af857c	download scripts for cologne dictionaries on mac
+2023-06-21	2e633069bb00a5bb9e829944ceea220bd442d0b3	a test on mac
+2023-06-02	7586109a16daa96fb91fd386b7184928d93f82aa	Update install_0.txt
+2023-06-02	7fd78f958a20ed6564e2ef692a00a0e4ad701f53	Update install_0.txt LB  LB Page links for local cologne displays
+2023-06-02	463c475de0b1bf093e8c1548255295e3c7aa3748	Update download2.sh LB  LB unzip overwrite existing files without prompt.
+2023-06-02	d98a47583aa056f46ecd4e0f9217b1edf61534ac	Update download2_all.sh LB  LB remove 'year' parameter in download2.sh calls
+2023-06-02	d535abf7843cabfca2e3b8bb29d53308f1e67cfc	Update download2.sh LB  LB improve handling of 'year'
+2023-04-24	c0d318ee884684c6460acb61f9475da0f05a695f	mac1 install notes
+2023-04-24	96336749e524b266f833d75dfbb18ca50449d37e	dictionary list
+2023-04-20	a7c052355f0287d88e6f3164857df60d8d59b47e	shorter lines in macCologneDictInstallation
+2023-03-25	3f8cb703903306710b3860e2450d9b3b65948511	issues/407 work
+2023-03-23	2fc61758e92f3a45e51a8ee108052a594c1e570d	include pwkvn. #407
+2023-03-23	bd3c4149c3a688641c26fdfbd3d5acb97265766b	Count of regex '[^<][/\\^][fxaiueoFXAIUEO]' in all dictionaries. LB Ref: #407
+2023-03-23	7aa1d425f98bc1b436cb3fbc17b53cd3cb292a8d	move various things into misc directory
+2023-03-23	3ba2279728439182f32105bc1b68c5e9bd2ac9bb	reorg aws info
+2023-02-07	462a5dc589f6e0b2882140ded3484f7dd3948b30	#402
+2022-10-28	8285fc4c7d3569ae622610b1cb5ac9e0f9d8b97d	notes on work to decrease vulnerabilities to xss
+2022-03-16	fc7f5fa107a0f9e4a1b5b5880fa1a913e7a54d8e	revise local install xampp instructions
+2022-03-11	c70f077c665080cb45b494c262d1c3445a63796f	Revise instructions for local installation on Windows. LB #393
+2022-03-08	bc5937c098e0d75937a7a81ec3b9aea8ec98627a	instructions for local install for xampp server on windows
+2022-03-01	2794656a6cc9e6162bc48efaa7cd96e461c4f3b8	Python3 version of updateByLine.py. Python2 version kept and LB renamed updateByLine_python2.py
+2022-02-27	9625a42fe7abbb9f5858a531459aa247715d8a92	Recompute xmltags. #366
+2022-02-17	b3f223af6859f9130cf9adc1d548220d6ff2d0c3	Revise iast directory. LB Ref #392
+2022-02-16	d124ed87982dc67e9777cd3005e3128c69eda479	IAST Cologne standard extension
+2022-02-16	322b2260618ff846a23fae62e11b2625726810eb	install boroo.all
+2021-12-18	4f4bdece96cca688691577e57fd97ec488479954	python code to convert from cp1252 encoding to utf8 encoding, and vice-versa
+2021-09-25	012326dffe0e9f2dbbef2fe5e8eb2221e3565bda	cleanup
+2021-09-25	711bf64ad3dd126aa93a93a67b8e4c7be7a6f7d1	Revise extended ascii summaries
+2021-09-25	c0218d03f8fee6166071ca6283108dbac4a394f8	Generate changes re #369
+2021-09-24	a634ae92bb51dc334caac73d9b505fb6003b4b4e	separate out CYRILLIC characters in easummary.
+2021-09-24	62976d295679f4d84f79d09644d6756d89220623	eascii first commit. #368
+2021-09-23	0dccf13971c38a491d7741edec7c647b0035f816	Revise tag counts
+2021-09-13	62ef5f2a137affac393846538991148c2bdf2c40	xmltags in digitizations. #366
+2021-09-12	f67c32f60aba34c8d909a9aab2c443bb1f1df2cf	Update xmlvalidate.py
+2021-09-12	cd53b0b28c8a387c9a1a1a997cddced59b44940c	xmlvalidate python3 compliant
+2021-02-09	efafcebec2c9920a41cca54e7ea838f423997a4c	revise readme_new_dict_addition
+2021-01-26	d589a802b11fb38d72d3547bdef86708d01a0096	readme for new dictionary addition
+2021-01-22	94917a4b46def9b87659404bcc40038441ba9a9c	scanparse.py utility for correction print change installation
+2021-01-20	2e5b657cdf9b612176d50108ab3bbb27c94ffede	make_md.py added
+2020-12-18	b54d9e5b565462f18f7d2de567bf9e6425b488c8	listhier API
+2020-12-18	7897022870a58b72bcd1d454827ae25fdaf5cadc	xml in getword API
+2020-12-18	bb1f40bbe8a8466e3091b3aa572869e1d4000701	searchpdf API update
+2020-12-18	3c942d117f7ffdf3cd17f0c267745b3f8ab13252	getword API update
+2019-11-04	28285c001e28770d8675c473bea0d09974993fdd	Paper on  Cologne LB  LB Mārcis Gasūns: History of Cologne Digital Lexicons (IIT Kharagpur, 25th LB Oct 2019)
+2019-02-05	20ad9d920972e67c01127b59c720a235aa960060	Update dictionary_init.sh
+2019-02-05	ac39271c0de85ae70aed6f9eda32a0704dc96608	Update readme.md LB  LB describe dictionary_init
+2017-11-05	997627a91738dd7ade5c4294970ca5afd931a72c	Add files via upload
+2017-10-18	378f562b396fd8a36fc2bdfe891c4e8d25bf46b7	Add dictionary_init script: make local copy LB  LB sh dictionary_init.sh pw makes a local copy of the Cologne environment
+2017-09-05	ca32f7aef4ca1e421844645a9389b96efec1a5e4	xmlvalidate.py
+2017-06-01	1c687ec9ba87d151dca4e0a49b79f1035b6d6546	amend readme
+2017-06-01	4765f3bd59c5d66323ef1ba13d4362075cab6657	updateByLine program
+2017-05-24	ede30b61b9e2de996715ec98e0ea147e1f426e52	Add files via upload
+2017-05-18	3583e4f382250560aabdb8a846521d4ea3158dd8	Create gh_missing.txt
+2017-04-16	fb3273f8f0c4fce300d93bb78b783edd18ff7d04	listhier.md added
+2017-04-16	c4a35ec54f040b3f09e77d1a32efce9415072533	trailing slash handled
+2017-04-16	cd7993b389f1b0ca625c148dca35a1a6d3bd8cb1	servepdf 2
+2017-04-16	939aaaf8eb8d3b9e905def791641c27cf3bc1a1e	servepdf.md ready
+2017-04-16	99f52590ed471042c68b9060da6ae53f900cf8de	Various APIs in separate .md pages
+2017-04-16	7a9a467e9ff5dd0c60404a11f8f15b97ccb848c4	expected output added
+2017-04-16	0f4ccdae249d0b1cef1264fea0932cdf7263e2a4	numbered the API doc
+2017-04-16	286888499ad7cad4d65b5d820cc117c8b1104489	optional items handled in getword API
+2017-04-16	4cb5f19bfcb668ec7e25921c92b8cffd5376be21	getword API documented
+2017-04-16	818f59ec3d799ec860e81c0f39113fc707e43d51	Documenting present APIs at Cologne
+2017-04-04	b7a57035fb6ca76d11421c9299dbb5e262663fc0	404 links for correction
+2017-04-04	a09cab86597a028f9b9688195805cee0b31d6a58	BUR added
+2017-04-03	36c93db7c55291b66f3c68f0323658cbd69da1ef	BEN, BHS, BOP, BOR ready
+2017-04-03	2321a3775232727f31fce3246a2809ca277e0da4	BEN added
+2017-04-03	9bbdf1e6c3a7c174015995591730ffc69e106b9c	BEN started
+2017-04-02	13b7387a283e27bd81b97c66afb303bebc822c77	ap90 prepared
+2017-04-02	29e3b0ade64dc8131d3221b9df38fd4bad91be81	AP90 started to better
+2017-04-02	9129964d5be2eb89ce9d85ebb02505c7659452b8	babylon generator for ACC bettered
+2017-04-02	4b99010009901ab4485324bf11d8bae65dc7f49a	ACC adjustments made
+2017-04-02	fd1fb396e0310ddf8988cb63bc31e98f21aee8e2	ACC started for stardict
+2017-04-02	7668dbe76150cdbd08cf1b6eea52d9a4b616ab49	separator for meanings in MD
+2017-04-01	ae88a678d1ef9711e4fc8e1f121682278d59bea2	started making babylon of MD
+2016-11-22	5b66eb4223c9a5f202c7a4313ba4729f858d7d75	Fix bug
+2016-01-16	f5e6f3fb344d4473f3e284957714e6422d9385d5	Better UI LB  LB https://github.com/sanskrit-lexicon/Cologne/issues/85
+2015-11-25	c74c32db45808933d16a51c7b8427b4ace9232b7	enhancement subdirectory
+2015-09-13	669637be908b865694f809dd5c544136ba46bd25	doc
+2015-09-09	db6c921d0f16385a9ec2f30fd70fc15dd5fb3f44	Buehler's sandhi table
+2014-12-28	240345e1240e8f180c027548c6cf9c8449b75a8d	minor changes
+2014-12-15	8b938edcde3367dcec300bfa8785ad89fe63affb	Add Kale, Whitney, Westergaard apps
+2014-12-15	db79de2d41818c92f626f7725e3aa7347d273650	Add KALE scans
+2014-12-14	70505f4dc2dcb553ae875ab65b74a8338c2fb189	File list for blobs of 'orig' and 'pywork' directories
+2014-12-14	2be7806cec4702cc43eaa10a293e6aee1df8f5c0	Scans for PW in pdf form
+2014-12-13	2830b2d151ff0a9cb92d07245b54ff19cbf1b0e0	list of web1 files, with sizes
+2014-12-13	da8be55539702ced362b393c31d2fa16bde7e97e	pdfs in sanskrit-lexicon bucket
+2014-12-13	1d2bb45e8f44c8287b43ceabe71ed77912be1554	License statement added
+2014-12-12	3a8bd690bb01f1f0c26eca2c89e0eb79b701aa93	filenames of aws scans
+2014-12-11	73a7502fe900365934e1f84889aec9e365b1b953	aws cli s3 introduction LB  LB Changed to .txt format for better viewing on Github.
+2014-12-11	b28f2dd555b431d2cbc09af24bb406026e09a8c4	intro to aws S3 command line interface
+2014-10-01	0c194addcaea4a049e7a9896ae4ce9f70d4dbe6b	Bibliography for 37 books added LB  LB Waiting for incorporation to the website, Jim.
+2014-01-14	d263eac05a9f6ee321b028afc69fef0b21275da9	Initial commit

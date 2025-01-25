@@ -1,0 +1,5 @@
+date	sha	title
+2024-05-13	951e23c2d97cbdd22f1b3bde850b2f8800b221d8	BOR:  replace scans for several pages. LB Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/54
+2021-10-04	6027e3763700b4b8c7ed984615d9f35505f7aaa7	Delete LICENSE
+2019-11-01	914bdc5a6287caa8d0aba5817ddf3e2d2bda0e03	Add pdfpages
+2019-11-01	35e2b40ff497188aeb2bb9c27b3763159182c081	first commit

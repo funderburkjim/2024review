@@ -1,0 +1,6 @@
+date	issue	state	title
+2021-12-09	5	closed	Unfilled </lang> cases
+2017-05-03	4	closed	MW72 IAST:  use modern forms only
+2016-10-14	3	closed	Converting Sanskrit in MW72 from AS to slp1
+2014-09-05	2	closed	vakratu?
+2014-08-24	1	closed	IAST convention of MW72 for vocalic 'r'

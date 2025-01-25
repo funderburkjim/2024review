@@ -1,0 +1,17 @@
+date	issue	state	title
+2022-05-26	16	open	List the CSL works having Arabic strings
+2021-01-08	15	closed	Arabic for 'mahall' in MW
+2019-10-29	14	closed	additional case arabic in mw72
+2017-08-01	13	closed	Another 7 cases of mw72 arabic
+2017-02-24	12	closed	Another 2 cases in MW72
+2016-12-02	11	closed	 جهانڭيرى  and jahāngīrī
+2016-11-12	10	closed	Anglicization of Arabic?
+2015-08-08	9	closed	Another 3 cases in MW72
+2015-06-22	8	closed	MW72 arabic, another case
+2015-04-14	7	closed	Arabic in PW dictionary
+2015-04-14	6	closed	Arabic in Wilson Dictionary
+2015-02-03	5	closed	PWG Arabic words, part 2
+2015-01-23	4	closed	PWG Arabic words, part 1
+2015-01-20	3	closed	MW arabic words, part 3
+2015-01-19	2	closed	MW arabic words, part 2
+2015-01-18	1	closed	MW arabic words

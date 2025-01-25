@@ -1,0 +1,26 @@
+date	issue	state	title
+2024-06-14	25	closed	LRV headwords not marked as per CDSL style
+2022-10-28	24	open	semantic versioning how to
+2022-10-28	23	closed	Add LRV to simple-search dictionary list
+2022-10-27	22	closed	lrvheader
+2022-10-11	21	closed	Add scanned pages
+2022-10-11	20	closed	neuter gender headwords
+2022-10-10	19	closed	Feminine alternate words
+2022-10-10	18	closed	miscellaneous corrections
+2022-10-09	17	closed	New xml lint errors
+2022-10-09	16	closed	xmllint errors on lrv.xml
+2022-10-09	15	closed	Add to csl-orig repository
+2022-10-06	14	closed	Potential places to find new headwords
+2022-10-05	13	open	Debatable entries
+2022-10-04	12	closed	Brackets showing alternate headwords
+2022-10-04	11	closed	Find headwords missing in sanhw1 (Cologne dictionary headwords)
+2022-10-03	10	closed	Find headword differences programmatically
+2022-09-22	9	closed	Multiple headword as first part and single word as second part of compound
+2022-09-22	8	closed	Duplicate page-sequence
+2022-09-21	7	closed	revert_2to1.py errors which give rise to differences
+2022-09-21	6	closed	transliteration error
+2022-09-21	5	closed	Some errors while finding key2
+2022-09-21	4	closed	Two spaces instead of one after 'b' tag
+2022-09-21	3	closed	Comma separated entries with multiple gender details
+2022-09-20	2	closed	page sequence v/s page column
+2022-09-20	1	closed	18 odd entries 

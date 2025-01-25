@@ -1,0 +1,10 @@
+date	issue	state	title
+2022-02-13	9	closed	Remove `<BR>`
+2022-02-13	8	closed	Too much data crashes safari
+2021-11-12	7	closed	mw.json empty after latest commit (8add17b) and words still in SLP1
+2021-10-25	6	closed	Fixes in Vachaspatyam
+2021-09-08	5	closed	auto-sync on ashtadhyayi.com
+2021-08-16	4	closed	All dictionaries of Cologne in json format
+2021-08-16	3	closed	MWE showing different pattern
+2021-08-16	2	closed	Shabdakalpadruma quotation marks
+2021-08-16	1	closed	YAT json comparable to that of ashtadhyayi.com

@@ -1,0 +1,7 @@
+date	issue	state	title
+2021-09-01	6	closed	Errors while regenerating via sphinx 4.1.2
+2020-11-22	5	closed	Lanman Front Matter
+2019-11-08	4	open	Front matter in local installations
+2019-11-08	3	closed	Recover 'contributor' link
+2019-06-27	2	closed	SCH-Nachtraege regenerated on each commit
+2018-11-24	1	open	Intro

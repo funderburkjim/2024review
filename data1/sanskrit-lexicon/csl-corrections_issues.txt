@@ -1,0 +1,93 @@
+date	issue	state	title
+2025-01-15	92	open	Scott backlog of 2025-01-14
+2024-10-08	91	closed	Another backlog of user corrections.
+2024-05-29	90	closed	bulk handling of part of backlog
+2024-05-12	89	closed	Some user corrections skipped entering the cdsl texts
+2024-05-12	88	closed	No updates (?) from users for last 4 months, surprising!!
+2024-01-25	87	open	How can we use the printchange files?
+2024-01-13	86	open	Correction submission to allow HW and L parameters
+2023-12-15	85	closed	In case of headword corrections, how do we generate hwnorm1 in local and cologne
+2023-12-14	84	closed	User Corrections - Dhaval
+2023-11-09	83	closed	change git remote
+2022-09-12	82	closed	post_github_issues not working
+2021-09-01	81	closed	how do I update cfr.tsv?
+2021-08-21	80	closed	BHS English word corrections
+2021-08-16	79	closed	BEN English word corrections
+2021-08-07	78	open	it markers to be marked up in SKD
+2021-08-07	77	open	ACC Devanagari scoping issues
+2021-08-07	76	closed	YAT ?? case
+2021-08-07	75	open	comma, period etc outside Devanagari scope
+2021-08-01	74	closed	metr. abbreviation in MW
+2021-07-31	73	closed	YAT English word corrections
+2021-07-31	72	closed	Greek in INM
+2021-07-31	71	closed	औ in Lanman - question
+2021-07-31	70	open	budDism v/s buddhism
+2021-07-31	69	open	IEG diestruck (non-Sanskrit headwords)
+2021-07-31	68	open	GiMR:YAT
+2021-07-04	67	closed	VEI english word corrections
+2021-07-04	66	closed	WIL English word corrections
+2021-05-01	65	closed	armh underscore and hyphen in key1
+2021-04-23	64	closed	SHS English word errors
+2021-04-22	63	closed	SNP English word corrections
+2021-04-22	62	closed	PGN English word corrections
+2021-04-17	61	closed	mwe english word error
+2021-04-02	60	closed	mw72 english word error
+2021-03-29	59	closed	MD English error, 2nd pass
+2021-03-24	58	closed	cátuḥcṛṅga -> cátuḥçṛṅga GRA
+2021-03-22	57	closed	MCI English word errors
+2021-03-22	56	closed	INM English word corrections.
+2021-03-20	55	closed	403 error with post_github_issues.sh
+2021-03-19	54	closed	bor: bad scan pages
+2021-02-15	53	closed	BOR English word corrections
+2021-02-08	52	closed	LAN English word corrections
+2021-02-08	51	closed	IEG, English word corrections
+2021-01-27	50	closed	gst english corrections
+2021-01-27	49	closed	acc english errors
+2021-01-13	48	closed	ap90 english word corrections, take 2
+2021-01-13	47	closed	AP90 english corrections, take 2
+2021-01-13	46	open	PUI - Kannada / Telugu influence
+2021-01-13	45	open	PUI inconsistent diacritics
+2021-01-13	44	open	PUI space in footnote
+2021-01-13	43	closed	PUI nAmakaraRam
+2021-01-10	42	closed	AE English Corrections
+2021-01-07	41	closed	PUI English errors
+2021-01-07	40	closed	abnormending 2_7 errors
+2021-01-07	39	closed	abnormending 2_6 errors
+2021-01-07	38	open	IEG ळ / ड़ errors
+2021-01-07	37	closed	abnormending 2_4 errors
+2021-01-07	36	closed	abnormending 2_3 errors
+2021-01-06	35	closed	PE - a rare error
+2021-01-06	34	closed	abnormending 2 letter ending errors
+2021-01-06	33	closed	abnormending 1 letter errors
+2021-01-05	32	closed	Github Desktop method for generating pull requests
+2021-01-04	31	closed	Pull request method for correcting Cologne dictionaries
+2021-01-01	30	closed	MW english errors
+2021-01-01	29	closed	Accidental conversion of tch -> kS in BOR
+2021-01-01	28	closed	Improve English error code
+2020-12-26	27	closed	Bits of Documentation
+2020-12-17	26	open	autofill correction form
+2020-12-13	25	closed	CAE, English Corrections
+2020-12-12	24	closed	extend Lanman dictionary refs to Reader
+2020-12-11	23	closed	English word Corrections and Git
+2020-11-27	22	closed	Greek in Lanman
+2020-11-21	21	closed	AP90 English word errors, part 2
+2020-11-18	20	closed	AP90 English word errors
+2020-11-18	19	closed	AE English word errors
+2020-11-12	18	closed	PW and other corrections
+2020-10-14	17	closed	BEN English Errors
+2020-08-02	16	open	skd dbijAy
+2020-07-04	15	closed	MD English Errors
+2020-06-18	14	closed	Find English errors
+2020-03-02	13	open	English-Sanskrit Dictionaries Punctuation Mismarkup
+2020-01-03	12	closed	Python3 printing unicode
+2020-01-03	11	closed	python coding : spaces or tabs
+2019-12-24	10	open	WIL separating genders
+2019-12-22	9	closed	cronjob for github update
+2019-12-21	8	closed	MW regeneration fails
+2019-12-20	7	closed	Commit confusion
+2019-12-19	6	closed	github issues posted from cfr.tsv
+2019-12-19	5	closed	install corrections, 1
+2019-12-19	4	closed	Git revert for syncing problem
+2019-12-18	3	closed	WIL errors while regen
+2019-12-18	2	closed	Preliminary instructions for Correction installation
+2019-12-17	1	closed	csl-corrections initialized

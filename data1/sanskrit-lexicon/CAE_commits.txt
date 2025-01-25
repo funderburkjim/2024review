@@ -1,0 +1,21 @@
+date	sha	title
+2021-01-10	fec8262c2611bca6906a8012b97c605de082b554	Update test.txt
+2021-01-09	f54b27d9d0459414165c4bcd1ce850b5c3adb60b	Sampada's first commit
+2021-01-07	635c6fca1e74b95de1e5312c8e0e400f45cdf60f	A second line added to test.txt
+2021-01-07	c87e49c7664ae93b777f8c5ab90c787fbb065560	A test text file
+2021-01-01	d52914f259b33f76b0c1506fc9bd2957d2821ddf	Bringing this version of cae.txt in sync with LB commit ef2732f..365c73b of sanskrit-lexicon/csl-orig/v02/cae/cae.txt
+2020-12-30	ba144c5c8381cf7b1fe443ee2efa8d8fa64abacc	Batch 5
+2020-12-29	84a003081c92d82b6f2666bdb28c2c2ded0ea67f	Batch 4
+2020-12-22	ee445adbe78af0f016d1b6b7b4815b9314e9b297	Batch 3
+2020-12-18	617b1e7045bfa63a29ec36fecf441dac7b882dbc	Batch 2
+2020-12-16	f034193682ae00c446b6061b9e691b90f9578f53	Add anna.txt
+2020-12-15	514c29825876872be14a075da9f2a28b1ce9e45d	Batch 1. Add anna.txt
+2020-12-15	374fc595e1965e0cd1b6f9cf3168302bb4893d68	Add anna.txt
+2020-12-12	4c835515a904bcc146d324870dcc8b576e7fb735	Prepare english_corrections.  Refer LB https://github.com/sanskrit-lexicon/csl-corrections/issues/23#issuecomment-743836759
+2020-07-07	53cef9b5f34cb04ead13335d074ab2302533fe42	cae_verb_filter_map corrected for a few non-mw verbs
+2020-07-07	a8a7a4d4a55f9ca076bfea917f8a67cd461288af	Use mwverbs1.txt from sanskrit-lexicon/MWS/mwverbs
+2020-07-07	b82edcbc1f21dfce8d1e568aa485298af9aad804	update mwverbs
+2020-07-07	273ba8fe1e934389965246beb677a0ee851b4134	cae_verb_filter_map:  map 'jar' to mw=jf,  rather than to mw=jar
+2020-04-18	e7d0e8c152056ad259af4b39901ceb73f62cc395	revise readme.md
+2020-04-12	9f4e5fa795846bfc62257382d66a22d5469fef24	CAE verbs01 initial commit
+2020-04-12	5a7dc89ebe4cf00e0ed0e00d3998f25a9d01bc87	Initial commit

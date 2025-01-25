@@ -1,0 +1,84 @@
+date	issue	state	title
+2025-01-13	83	open	BHĀGAVATAPURĀṆA link target problems
+2024-12-13	82	open	Index for BHĀGAVATAPURĀṆA, Bombay edition.
+2024-11-19	81	closed	BHĀGAVATAPURĀṆA link target
+2024-11-15	80	closed	Hariv. link bug (fgg)
+2024-11-15	79	open	Hariv. link bug (fgg)
+2024-09-28	78	open	Transcoding vowel-marker characters
+2024-09-18	77	closed	Remove gratuitous spaces in ls
+2024-09-18	76	open	VN missing pages, continued
+2024-09-17	75	open	Ramayana prakshipta link target
+2024-09-09	74	open	Standardization of pwg links for 'M.' (Manu)
+2024-09-06	73	closed	Manu-smfti link target
+2024-08-14	72	open	[INDOLOGY] Upgrade to online Koln Bohtlink-Roth dictionary?
+2024-07-27	71	closed	Standardization of pwg links for KATHĀS.
+2024-07-27	70	closed	katha-sarit-sagara link target 
+2024-06-21	69	closed	Verz. D. Oxf. H. links
+2024-02-26	68	closed	An interesting observation wrt displaying homonym numbers in PWG!!
+2023-12-09	67	open	German word corrections
+2023-02-04	66	closed	Resolving the {?} places
+2023-01-20	65	closed	PWG ls markup: numeric orphans
+2023-01-14	64	closed	PWG ls markup: handle 'unknown'
+2022-11-16	63	open	Page6 -> Page 6
+2022-09-11	62	open	Amarakosha markup
+2022-07-28	61	open	Enhancing PWG content with Weber's Nachlass
+2022-06-28	60	open	Bombay edition for Ramayana
+2022-06-26	59	open	provide additional links to different sources for the same work 
+2022-06-24	58	open	Minor abbrev suggestions
+2022-06-23	57	open	Ramayana link markup in pwg
+2022-05-24	56	closed	single-letter italic
+2022-05-24	55	closed	greek text refinements
+2022-03-13	54	closed	R. (Schlegel) link target
+2022-03-08	53	closed	RGorr link target
+2022-02-27	52	open	Apply VN
+2022-02-13	51	open	PWG ls markup 
+2022-01-28	50	closed	[Printed book page 5-1383]
+2022-01-28	49	open	HarivaMSa links via MBH Calcutta
+2022-01-24	48	closed	Links to MBH Calcutta edition
+2022-01-23	47	open	<ls>? -> <ls>
+2022-01-23	46	closed	ls markup corrections for pwg
+2022-01-22	45	closed	ls corrections for Spr. (II)
+2021-09-24	44	open	Corrections required in preverbs of PWG
+2021-08-06	43	closed	M2 and f2 in SLP1 encoding of Devanagari 
+2021-08-06	42	open	Taittirīya Prātiśākhya link target
+2021-08-02	41	open	Prātiśākhya ls references
+2021-07-27	40	closed	PWG scan page errors in  vol 6
+2021-07-25	39	open	VN missing pages
+2021-07-16	38	closed	LS markup for ṚV. 
+2021-05-17	37	open	Cologne Additions to PWG
+2021-04-17	36	closed	aufschreien(?) -> aufschreien (?)
+2021-04-16	35	open	Sch. missing markup
+2021-04-16	34	closed	Hyphens vs. em dashes vs. en dashes
+2020-05-30	33	closed	Random Missing Abbreviations
+2020-03-08	32	open	verbs01a
+2020-02-29	31	open	verbs01
+2019-08-12	30	open	List of Words (Next Word is a Hyperlink)
+2019-03-11	29	closed	Scansion Symbols [Metrum, a: {Ç} {Ç} b. c. d: {Ç}]
+2019-01-24	28	open	upasarga access
+2017-07-28	27	closed	Mistakes in definitions
+2017-04-21	26	open	Expanding abbreviations to number only references
+2017-04-21	25	closed	Page numbers clickable
+2017-04-21	24	open	Interlinking inside article, s. u. 1. c. 
+2017-04-21	23	open	Ṛv. 10, 16, 4. 1. Vs. 21, 9.  pwgauth.html
+2017-03-06	22	open	PWG Bibliography Cleaning
+2016-10-06	21	closed	The tag `<UL/>` in pwg
+2016-07-09	20	closed	Reorganize repository, PWG Bibliography
+2016-06-01	19	closed	a) b) c) instead of Greek numerals
+2015-09-26	18	open	Markup improvement and CSS upgrade
+2015-02-03	17	closed	Possible misc Russian in PWG
+2015-01-27	16	open	Bad scan page(s)
+2015-01-22	15	closed	Rudiments of pre-SLP1 Stage
+2015-01-22	14	closed	PWG Russian words
+2015-01-22	13	closed	W�rterbuch
+2015-01-22	12	open	PWG Bibliographical Issues
+2014-11-06	11	closed	Conversion of PWG to SLP1
+2014-10-17	10	closed	Correction re azka not made
+2014-10-04	9	closed	accents.html PWG Accents
+2014-09-26	8	open	(PWG vs MW) Structure Markup Comparison
+2014-09-26	7	open	Dhatu Markup 
+2014-09-25	6	closed	Adding of Russian Etymologies Started
+2014-09-25	5	closed	Rare Accent Coding Issues (ढ्य१ः॒᳠)
+2014-09-24	4	closed	caturvidham ..  Spr. 583.
+2014-09-11	3	closed	Please specify a Sanskrit or and English word, not both
+2014-02-05	2	closed	Cologne server speed
+2014-02-04	1	closed	Fix pwgweball.zip, pwgweb.zip download URLs

@@ -1,0 +1,7 @@
+date	sha	title
+2016-01-10	a779019c0c0b6c75bb7737ce3924899d8e056fd4	Remove hk-slp1 transcoding for key2
+2016-01-02	cd4cc2f0daa721344a402f5c2fd5879e52d380f1	trying to remove capitalization from vei
+2016-01-02	ad6ecb776bb7e2f20bfa621ac02601ed58f0e5ae	trial with second part of headword lowercase
+2016-01-02	1bdf92e1bf807cf21f3b8aefb90446ecaee7d63e	vei.xml without alterations
+2016-01-02	4fc8228932e08b83b72e2a170efc1a757d61f47c	initial commit
+2016-01-02	f354d4e0cb58398b65da0c3d23018cd5fbb7ce65	Initial commit

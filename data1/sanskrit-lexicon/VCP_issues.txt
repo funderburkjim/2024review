@@ -1,0 +1,30 @@
+date	issue	state	title
+2021-10-26	29	open	Spacing issues in VCP
+2021-08-13	28	closed	pending 'rbb' in vcp.txt
+2021-08-11	27	open	aNgirAuvAca
+2021-08-11	26	closed	print changes 41-50
+2021-08-08	25	open	Query regarding any addenda / corrigenda to Vachaspatyam
+2021-08-08	24	open	VAC vs VCP comparision tracker
+2021-08-07	23	open	Debatable items
+2021-08-07	22	open	Patterns to be handled later
+2021-08-07	21	closed	print changes pages 34-40
+2021-03-18	20	open	pUrbb vs. pUrvv
+2021-03-18	19	open	vac2a - picture data in TE
+2021-03-17	18	open	meld-prep: 'ai'/'au'
+2021-03-16	17	open	Suggestions from meta2
+2021-03-16	16	closed	Correction of {??} missing text in vcp.txt
+2021-03-14	15	open	Meld as a diff viewer for VAC-VCP comparision
+2021-03-14	14	open	VAC (TE) vs. VCP (Cologne)
+2021-03-13	13	closed	New VCP scans
+2021-01-15	12	open	vac-vcp-cmp2
+2020-10-28	11	open	abbreviation preparation
+2020-03-01	10	open	All Dhatu Entries: verbs01
+2020-01-16	9	open	All dhatu entries 
+2019-07-22	8	closed	Broken link -- from IITS Koeln home page
+2016-01-09	7	open	Progress in alternate headword extraction
+2015-10-22	6	closed	Tirupati v. Cologne example
+2015-04-20	5	open	Vachaspatyam-Doubles
+2014-09-02	4	closed	herasva> heramba
+2014-09-02	3	open	Link to Preface
+2014-01-25	2	closed	Renaming VCP to VCPTE
+2014-01-22	1	closed	Tirupati vs. Cologne Edition Text Comparison

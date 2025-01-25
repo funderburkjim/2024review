@@ -1,0 +1,5 @@
+date	issue	state	title
+2020-07-17	4	open	mapping verbs to MW
+2020-02-17	3	open	pw prefixed verbs
+2020-02-09	2	open	retrieval of '<alt>' records when using keydoc
+2020-02-07	1	open	 'keydoc'  (dev)

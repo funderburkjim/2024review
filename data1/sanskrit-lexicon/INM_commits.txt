@@ -1,0 +1,8 @@
+date	sha	title
+2022-06-02	c5e91237ee9a44d276638ffb69fff3d2e053585a	compare_greek1.  #9
+2022-06-02	40e7c221a6e67ec660e9ca841f353aacf83a33fc	#9  csl vs. ab greek frequency differences
+2022-05-25	b96fddbad0ccb0318c143b94f9f925ab9d64b824	greek text revisit. #9
+2021-12-15	1bcf101577ae15560637ce153b7d348c1accc772	Restore <is>X</is> markup for widely spaced text. LB Ref: https://github.com/sanskrit-lexicon/INM/issues/5
+2021-12-11	783d282d803c8194e1b49ab1a8da8d42828a8d4e	greek folder contains details of insertion of Greek text into LB csl-orig/v02/inm.txt. LB Ref: https://github.com/sanskrit-lexicon/INM/issues/4
+2021-12-04	187bd4c66e72383a4fadaacf8ad1f17374889e4f	Add Andhrabharati's version of the concordance. #1
+2021-12-03	7ac4e606c9af1eb8b3599d99762c706e1ec69acc	Initial commit

@@ -1,0 +1,15 @@
+date	issue	state	title
+2023-07-14	14	closed	Add 'Go' button for tablets
+2021-09-05	13	open	A missed question from MWinflect
+2020-10-26	12	open	Declension of nominals ending in 'j'
+2020-10-25	11	open	Correction facility for Cologne declensions
+2020-10-25	10	open	Huet noun declensions
+2020-10-22	9	open	Declension of cardinals
+2020-07-03	8	open	Huet data verb usage
+2020-06-25	7	open	pronoun headwords
+2020-06-25	6	open	Perfect forms (Huet/Deshpande)
+2020-05-14	5	open	saKi, m.  irregular declension
+2020-04-20	4	closed	Huet aorist forms
+2019-12-13	3	open	csl-inflect status #2
+2019-11-29	2	closed	declension of mahat
+2019-11-28	1	open	csl-inflect status

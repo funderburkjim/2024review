@@ -1,0 +1,62 @@
+date	sha	title
+2023-07-14	d27204db9dbcb7da3c0fbbb030979b8a83deb013	Add Go button. #14
+2023-01-18	7298b3a092aa28b58726bd230520cd7f93ae4b8f	PHP 8.2 dynamic variable change
+2022-10-12	a606f9f61fec9898aa1d61f7464cf1e1d666a0da	(a) xss security; (b) transcoder ignore warning
+2021-10-10	0ca917e754bf95b23874d656474639a4b95ef0b4	revise to avoid warnings in local installation
+2021-10-10	068853918958a047799178014f60a8289170ca92	add declension of Brajj
+2020-10-27	86e4a0e344f2f14e6931895e5f44c02179016221	decline_one.py:  In addition to the algorithmic declension, LB also show a correction, if any
+2020-10-25	533bd35ea2c0e4b00f07c07013d398dfe3495f35	Use corrections with decline_one.py
+2020-10-25	d6b75a2867ac6dbb314fd67d8518ab4919ccf461	viSvasfj.  Corrected for neuter only
+2020-10-25	ae79552585df054c4fc3e7e24b5705706c6c194e	remove all nominals ending in 'j' from stems_problem.txt; LB their declensions will now be computed
+2020-10-25	83cc18b8de0b6fec4a0aa66c96ae351254709005	show a-sfj as a compound in lexnorm-all2.txt
+2020-10-25	eddcd0d95b01dda6f4e56e7f436402faecf8913b	remove annoying print statement in pydecl/decline_pco.py
+2020-10-25	6fa44dd5b6a11455f1b6e79682dcced6ea4c119d	declension table correction facility. See #11
+2020-10-25	4c32f00150309b50aac10ea6a5406106684cfd80	code to compare Cologne and Huet declension tables
+2020-10-25	f7976a5a8a32321572599f2edc84059bc31f0018	extract declensions of nouns from Huet
+2020-10-22	d559f1ff35f558c2400ebff8f9d8c17b4d510b5f	nominals:  remove cardinal numbers from stems_problem.txt; #9
+2020-07-03	1618fddd48e7f634ee2efe5a20d361b3685f178b	Use Huet data for present, passive, etc.  See #8
+2020-07-02	b7b58f0c4f07e0d7e05fbcdfa8521764e22702be	manual present and passive tenses using data from Huet and some pysanskritv2 computations
+2020-07-02	c05a876122c0b928890a1f27f6cfc3896cc0a293	Extract data from Huet SL_morph.xml as of June 15, 2020
+2020-06-26	627af2482c2a7098d546dc978d3a98033b0a9681	reorganize verbs/pysanskritv2/inputs
+2020-06-25	500abfd818759edba6034d276b91f9ae09319a39	exclude secondary headwords for given pronoun stems. #7
+2020-06-25	ada32c11be979e99c339dbb15ec7f15b9db81513	add comment for perfect tense data extraction from Huet corpus
+2020-06-25	1445bb41b7f7968d5d63b1e5c031b265f010ae01	Recompute verbs with Perfect/Aorist data from Huet
+2020-05-16	9de7b1d6d7e1343ea4db970ed6fb7bfbbe3569a1	Correct kzan
+2020-05-16	323845c891b1122f32017b1dfdad3fd566597e2f	Revise web/getword.php for links to MW
+2020-05-16	59e6fe3f5f49fb0c97916a805c10daf83e9ca86b	Refactor stems.py for nominals.
+2020-05-16	da8ce90f7588a0f74170b7a4981513f2008952a8	Revise f. compounds of saKi to be saKI (unless otherwise specified by MW
+2020-05-16	59a46ef9b91e8af66df99a393b42792ae2d9ee98	Mark irregular saKi, m. and compounds. LB Comment out about 1000 difficult to interpret entries. Need to fix later
+2020-05-16	69aef99318b9cae5eb0f3772eebd3690f74848bd	revise aorist data, based on correction of typos in Deshpande
+2020-05-14	517ad32af225f619b9eb2fda7658d25ce057f7b7	Aorist forms from Huet. #4
+2020-05-14	b0a160d4dc06bdca1052710e8c9069d7511e45cd	irregular nominal 'saKi', m.
+2020-04-24	84d1fb2bf7dcba105fae9231d499ab382fdeaade	Add aorist forms from Huet DATA/XML. LB Add 'manual' directory for verbs. LB Reorganize verbs so additional forms from Huet may be easier to incorporate
+2020-04-22	a2f6ba859f9e7707a4aea4fe22bdf8249cabc25c	huet_conj_tables_aor.txt map a few huet roots to mw spelling
+2020-04-22	25946217ef57caa4446ffa58ccb1f88e955a6a3a	revise huet aorist from new download
+2020-04-20	1d16dae184c6176a23f9f273f46dd07c9998059e	MW verbs with Huet aorist forms
+2020-04-20	48b5696b3c5c1387bcfc74c4444a9de2aea73c58	add copy of aorist froms from Gerard Huet
+2020-01-25	fe4095749df240f556350fb04c9d764304a13be5	minor edit lgmodel
+2020-01-07	62f2c1057fb33c6a3255183e7cf60540f19460e0	add declensions of several pronouns; confirm declensions of some of these.  See '_pron' in stems_problems; LB see decline_checks.txt
+2019-12-14	7c9c9f18faf59c9519e1b48f7cc9fd1d679f5afb	special tense conjugations for models, using pysanskritv1
+2019-12-14	67f33c920325c02b60e923ced7efc8d52a0655aa	minor changes
+2019-12-14	cacf7502f5c0752d5bd6e331ff8c2e847c43676f	initialization of periphrastic perfect bases
+2019-12-14	e913d7493d18c60298557f905ec40dd15646af92	distribution of verb forms
+2019-12-13	b0dec990ba4c23f376a79266fac6451aa196a401	aorist tense, active/middle/passive voices.  From Deshpande
+2019-12-10	c15c1228ca90403cfc92262132222bf58fe781b7	Remove accidental file
+2019-12-10	a798c2174b92ad3ba087050545a7f37a43e6a512	Class 9 verbs. active/middle voice.  pre/ipf/ipv/opt tenses. Deshpande Lesson 31
+2019-12-10	f4fe487669ee7741ad25685dbceed8d699208a9f	Class 8 verbs, active/middle voices, pre/ipf/ipv/opt tenses. restricted to Deshpande Lesson 30
+2019-12-10	709ae54e3fb3a9815884a8c0b355b5b390e0e9b2	Class 7 verbs, active/middle voices, pre/ipf/ipv/opt tense. Confirmed with Deshpande Lesson 29
+2019-12-10	f04fa9fdd13b1b398982001fca45dcfdf1c658f0	Class 5 verbs, middle/active voices, pre/ipf/ipv/opt tenses - selected from Deshpande
+2019-12-09	f0d34e26c21d71784fc8728a024ac9cbd1b77121	Class 3 verbs -- those illustrated by Deshpande
+2019-12-09	e16c96ef8762cdb37d87170ad32e3ca6681c6e0b	class 2 roots, active/middle voice, pre/ipf/ipv/opt tenses
+2019-12-07	35e131a75b3e13c5c514d196b9f64af7c9754001	Perfect tense, based on Deshpande
+2019-12-05	30338cb651a70750919880f5c00a0520d114c50f	Periphrastic perfect tense, based on Deshpande p. 305
+2019-12-04	044f68640df542f6c31a66ffe393c4956b325430	benedictive tense, based on Deshpande
+2019-12-02	5c58781906d0fe8b6fddb52fbed10e8e58b3e379	conditional 'tense' (or mood)
+2019-12-02	a619f0e8ba6eb83ecf6bc37eb0802775e211bdf6	periphrastic future
+2019-12-01	a38d19e1bd3f1cf336de7b1ba2317e29f6aa3dba	future tense for verbs
+2019-11-29	85f6188e14b1fa08ff890f8c58c7d9017f911956	declension of mahat and compounds ending in mahat
+2019-11-27	c1d4a8daa6d84cd690964f253e80931f2c5cea0a	adjust noun model to conform with lgmodel. Changing pydecl might be a better solution
+2019-11-27	874fa8b88f06ea11647f56e726cb9118c3d15b71	minor improvements
+2019-11-27	1a46abf2c5e22a5768350cd2ac93fbe84a30f24b	remove python transcode directory. It is not used.
+2019-11-27	3945e534a655f5afa4e1b1a139dfa91092800fa9	Create LICENSE
+2019-11-27	d49fe31a06bbf48c11f58f5e171653bdc35b6a98	Initial commit, based upon zipped download of MWinflect repository

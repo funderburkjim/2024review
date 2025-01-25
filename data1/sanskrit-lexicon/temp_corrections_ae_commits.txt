@@ -1,0 +1,20 @@
+date	sha	title
+2021-09-01	852d5152e69ca3a222c88523d3fc56f5c4baddf9	Jim review of bhs
+2021-08-29	4bcc51e79ce9c08aad07d031230cd543c1ef5e0d	Sampada's first commit
+2021-08-21	833b4f8af7d13ac6366b008c764491fb62fe9276	bhs english word corrections prepared for Sampada
+2021-07-01	2844611924e8af14ed3eddd2f64342120da21971	Sampada's first commit
+2021-06-29	6f8d0d5de81b4615735f36f2941d0e1f8f60053a	Merge branch 'main' of github.com:sanskrit-lexicon/temp_corrections_ae into main
+2021-06-29	27a9f2532f4472a87fe848ef9f87f90ccdf415d3	prepare vei english word corrections for Sampada
+2021-04-25	a73d7aa56e85a44a3cefad653a49c54d11a0270b	Sampada's first commit
+2021-04-22	d254e0a5882104f8dccc97bfb9faeacc745cc7e4	Sampada's first commit
+2021-04-22	72073e19b310c49b66d23b87cf33f39beb007559	Prepare pgn and snp for Sampada
+2021-04-19	791e254b2695f77c75dbfadd2c41e9a0f499b694	Sampada's first commit
+2021-04-17	bba71d4a5a286400738449ff6e385f55711c1c65	Add mwe for Sampada
+2021-03-19	2cf02ef5cd97e90f8e4dcaddbf8466b9b60b77d8	Edit of bor_error.txt
+2021-03-19	cc77b9b9ad9a1e84c28a7bea2b9a92fa1683468f	Jim's revisions to bor.txt and bor_error.txt
+2021-03-14	3862a09484ea63737d346e3e13be6b76176ceb63	Sampada's first commit
+2021-02-15	b10d9f22f284f59a595c33e857de55bbc047948a	bor.txt added for corrections
+2021-01-13	70d107ed18e508243b0f0a1ad2668fb9f0056169	Jim's modifications
+2021-01-11	6d92ee76dd3e4f6e726cc6455c0476233a5d5a6d	Sampada's first commit
+2021-01-10	90089b43dd4f18c3bc20d0f24576b3024c3ed192	Initial commit
+2021-01-10	f798458cba94f8f5507082098a295b8aeff37be1	Initial commit

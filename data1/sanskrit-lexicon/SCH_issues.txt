@@ -1,0 +1,11 @@
+date	issue	state	title
+2024-12-07	10	closed	BHĀGAVATAPURĀṆA SCH literary source markup
+2024-02-03	9	open	SCH -- AB version for adopting into CDSL system
+2022-05-31	8	closed	ls markup
+2022-05-23	7	closed	greek text
+2021-09-19	6	open	Preface, Partial translation
+2017-04-26	5	closed	Changes to sch.txt and sch.xml
+2014-09-26	4	open	12427 (º) & 3148 (*) Entries
+2014-09-18	3	closed	[Schµ793] €1
+2014-09-18	2	closed	SCH-Nachträge
+2014-01-15	1	closed	Anglicized Sanskrit Coding Scheme

@@ -1,0 +1,22 @@
+date	issue	state	title
+2024-02-02	21	closed	Update 10174.txt
+2023-09-20	20	closed	Update 42399.txt
+2023-05-14	19	closed	Update 5.txt
+2023-05-12	18	closed	Update 5.txt
+2023-02-16	17	open	anunāsikas incorrectly turned into anusvāras
+2022-09-27	16	closed	Update 32332.txt
+2022-09-27	15	closed	Update 28196.txt
+2022-08-07	14	closed	Update 21405.txt
+2022-07-25	13	closed	Update 20899.txt
+2022-07-05	12	open	कल्पद्रुमे सायनः सायणीक्रियताम्। 
+2022-04-03	11	open	वीभत्सं बीभत्सीकुरु
+2022-02-18	10	open	Fix capeller svara data
+2022-02-18	9	open	Fix Böhtlingk & Roth entry svaras
+2022-02-17	8	open	kampa svara not being rendered properly.
+2022-02-17	7	open	consistent उदात्त svara notation
+2022-02-17	6	open	svara/ accent rendering broken
+2022-02-17	5	closed	इष्ठन् 
+2022-02-13	4	closed	Patch 2
+2022-02-13	3	closed	Update 12531.txt
+2021-11-10	2	closed	Update 34929.txt
+2021-10-07	1	closed	Update 16386.txt

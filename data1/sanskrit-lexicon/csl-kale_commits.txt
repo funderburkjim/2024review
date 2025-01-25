@@ -1,0 +1,6 @@
+date	sha	title
+2023-01-04	8220f06388b0c5b9427e584673df413c12168f70	Javascript version of Kale display. #2
+2022-05-05	092a0a38616ba0f0a1b71186bd87a0fb08fe600b	Correction for #1
+2019-11-09	4e9d835691b6ce33c3f14ff54db06ddc30a30096	display code
+2019-11-09	06ef1a0c5158512dff1cf631fcf8573779d0b2a6	scanned images
+2019-11-09	523cfe5b651eab6c248bb750ea7323ec0ee84dea	Initial commit

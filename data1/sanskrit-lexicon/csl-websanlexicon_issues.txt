@@ -1,0 +1,45 @@
+date	issue	state	title
+2024-11-12	44	closed	clickable link to page in "rev (page,col)"
+2024-11-08	43	closed	`<listinfo n="sup1"/>` markup in list display
+2024-07-04	42	closed	GRA display bug : abbrevs after chg
+2024-06-20	41	closed	Homonym repetition in pwg display
+2024-06-20	40	closed	list display, homonym centering
+2024-06-07	39	open	hiatus iast transcoding
+2024-03-30	38	closed	'python' at cologne
+2024-03-29	37	closed	Bug re the <per> tag
+2024-02-21	36	closed	Advanced Search highlighting Optional
+2024-02-01	35	open	Advanced Search highlighting oddity
+2023-12-21	34	open	Separate combined display for koshas
+2023-07-14	33	open	Revise  div coding for indentation
+2023-06-12	32	closed	Advanced Search prefix/suffix headword 
+2023-05-15	31	closed	webtc1 400 error
+2023-05-15	30	closed	webtc1 jit error local installation
+2023-04-06	29	open	link targets
+2022-12-11	28	closed	Remove '$' from indexcaller.php
+2022-11-29	27	open	key and xss
+2022-11-11	26	closed	PHP 8.1 
+2022-10-23	25	open	Chrome MW inflected
+2022-10-02	24	open	Changelog Revival
+2021-04-10	23	open	Hariv. 2227 and 12360 in MW
+2021-04-10	22	closed	Links for Panini in MW
+2021-04-10	21	open	Links for AV and RV in MW
+2020-12-22	20	open	readme for download of local installation
+2020-12-14	19	open	Advanced Search non-alphabetic characters
+2020-12-14	18	open	Browserstack for testing
+2020-11-27	17	closed	Browser title 
+2020-11-23	16	closed	Kill horizontal scroll
+2020-11-15	15	open	Fonts 2020
+2020-10-07	14	closed	IAST and Devanagari input choices
+2020-08-11	13	closed	Code refactor
+2020-03-21	12	closed	bhs, bur: remove duplicate image file names
+2020-03-20	11	open	Naming Conventions of the Scanned Images (Files)
+2019-11-06	10	closed	web/index.php a template
+2019-11-06	9	closed	xxxheader.xml 
+2019-10-31	8	open	change to display of <lang...>
+2019-10-20	7	closed	transcoder simplexml_load_file() undefined function
+2019-09-01	6	open	servepdf 
+2019-08-07	5	closed	Delete unneeded files, etc
+2019-08-04	4	closed	disp.php -> basicdisplay.php
+2019-07-30	3	closed	Delete unneeded  files in sqlite subdirectory of dictionary web directories
+2019-07-29	2	closed	fonts directory
+2019-07-29	1	open	check_inventory

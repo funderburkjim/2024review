@@ -1,0 +1,68 @@
+date	sha	title
+2024-01-08	3243a4c73ec87f728cfe57d2d9f5a0910c9ff6f9	add <e>N to metaline in Examples. #13
+2024-01-08	20df02454b502f466fc86e1ecbdefe40e0b7993f	L-12291.AB.revised_JF.txt  #12
+2024-01-07	344a71f3a98899a010d4c983d8db67c7d0dcab69	Documents of 2020 pertaining to english word corrections for md. #13
+2024-01-04	63e76ead66e6c0aa3c3fce1e661d6b97081c976c	readme for md_1b_subhw. #12
+2024-01-04	bcdf6dec5f1ddd23a71cb04ec606acfb8c5f70d3	Proposed intermediate form for sub-hws.
+2024-01-04	ec711169a751edd01a908fbfc763a9e47885a701	Initial commit for issue 12 #12
+2023-12-26	eb0be638f552c4a10dab775f037307ef5444d328	Revise mdab_input.txt. 1 print change to md.txt (upa). #11
+2023-12-26	373ec82c9f0d15c73b195fcbe1ecb4b3ab21a604	revise abv1/readme.txt # 11
+2023-12-26	7b57765ab21fa6f08d8c132fc89b5ac76b566d90	extended ascii regenerated, and put into md-meta2 in csl-orig. #11
+2023-12-23	e63d8a6217ef00bef2fbf538c29f6bc5224cf2c9	AB.v1 revision of md. #11
+2023-09-18	0fe179e0894dcf1b78da45915f75af6832c66bf9	correction to readmes
+2023-09-18	729f3399a021eb64279c08382dd7abed77876539	MD Initial <ab> markup #11
+2023-08-10	851fb7cf5da9a3836e4a367a82b7ce159c7e59ff	md abbreviations prep. #11
+2023-02-17	ecb8411444be11306e70a8349d98b6ae87c2cc03	Homonym markup correction. #10
+2023-02-17	3f7c474b792c83ab7547fc14e9718fd693e24caf	Misc. corrections. from md.lines...... #8
+2023-02-17	2a03c560f2357808812e71ed16a9a252582133ae	change_2.txt applied to md corrections. #8
+2023-02-16	3352e0b4f501147fda6938fe174552d6d26f71c2	#8 - change_2.txt Batch 3
+2023-02-16	59a25a77e3fb3f93783d296e6b65eca4331f56cb	#8 - change_2.txt Batch 2
+2023-02-06	0a22ee537229877631c3ca357d6604650e7cc393	additional italic change candidates for MD. #8
+2023-02-06	4f25b9106327f12f282f3aed1a7bd37de48ffbb0	#8
+2023-02-04	a66923c29697aa019ae95fa7c1046be9cbbc6b01	#8 - change_few.more.txt Batch 1
+2023-01-26	0fd356b914caa02c30e5f30c12839d03c0f68949	utility programs added. #8
+2023-01-26	0f23c84174c5b191dc304a05753a7ad9d1455cc7	Start issue8. #8
+2022-03-28	33de3ccba57c140893170e63f75d24a73bfcc115	make_change_pc_2b.py change_2b.txt
+2022-03-26	2409ec23bbd24727a7fb2bfabd300e0c122b76b7	step 2b
+2022-03-26	e6a15cb4bcef0d23bee688b715d88e1dc9cd2edd	show_entry.py program. #9
+2022-03-25	1f3ef37a3704fc3a7a50da6887c094a7b59916d0	step 2b
+2022-03-18	96437a4cf03183fae9c704e721d8f9bc8f5ed62b	test_make_change_pc.py and change_1.txt
+2022-03-17	8351c602efc84521be6f2c59b84cf9737e1ad8ed	test_make_change_pc.py
+2022-03-15	1cc74a7ca8b1156f82072af9284cc091aca98e1f	test_make_changes_pc.py
+2022-03-14	0f2794e0d22c6cca5bf8b12959e3fe9babe791e5	test_make_change_pc.py
+2022-03-09	6a6abb29b41f40c786b7bd2c7241450516aa949a	test_make_change_pc.py
+2022-03-08	f606166580618b3a99ab497d3e3391d68a55c094	test_make_change_pc.py
+2022-03-08	3373c364f4cf9c920edad17f6b0ade548751cc13	test_make_change_pc_py
+2022-03-04	0f8af01d875893231789957fe43d67606952014c	pcerrors.txt
+2022-03-02	c87913030e9d06ec2b84971c40834da5d132d40e	step2a initialized. #7
+2022-03-02	e8b32c5ccd1d0358c37ffa2679699953f06aa86a	temp_md_01.txt
+2022-03-02	259d786c58af7966cbcff42a8fab4da681e8fb66	Merge branch 'master' of https://github.com/sanskrit-lexicon/MD
+2022-03-02	24ce1ee65bd785798687af9f92d0857725223958	change_1_edit_copy.txt
+2022-03-01	608c1554a24ba84659478561363ce12191fc083c	updateByLine.py for python3. LB Comment 2nd line of change_1_edit_copy.txt; LB Ref: #6.
+2022-03-01	f6640698f9693c6ef128ca5e192d43bd47c06131	change_1_edit_copy.txt revised
+2022-02-27	941ef95553c1a7c4d61944cece6aa063ae2f55a8	change_1_edit_copy.txt
+2022-02-21	469a3d169317c06a729abdfe16ab10ad28c62889	change_1_edit_copy.txt
+2022-02-20	941db8bb1eb8dafbfb0ac5068dd76f3fdd29acc2	updateByline.py added to step2
+2022-02-20	e0ff6ce9d34d2eeec4ddf4bb2de454acf343d054	Corrections for iast circumflex vowels. #6
+2022-02-16	114487cd6900565964619c6c09b3210e0cb184fb	md.txt correction
+2022-02-14	155ecfb51d6a4e18f539dfa1bfa70b65648b2c95	md_slp_iast.txt
+2022-02-09	df359be5b00fbcff75fc64a304d9e5d5e9110f4b	readwriteA5.py
+2022-02-08	01ead3e46e4235bf3ed87a149fea1ca526f9c4ee	readwriteA4_copy.py
+2022-02-05	98b50e60284b76683a50fa2618b9ca1b61058797	bytes.py and unichars.py.  #4
+2022-02-04	56ff528f39121241c4721151f8fb334c384f402f	readwriteA4_countabnormal.py and nonascii.py
+2022-02-03	48c83b2cc8f2e8b91ec24d3d90886b6ebf177959	Step 1. readwriteA4 - transliteration
+2022-02-01	69e4ecf95ce8ab6bf17255a5b3cfa4537f96e89d	Step 1. Updating readwriteA3
+2022-01-31	fac4903b6abfdcae8562881fc305db12e466a096	Step 1. 4th program
+2022-01-29	f8c5710968892ddf64d8ac4c729b82397e75d8f6	Step 1 line 3 test
+2022-01-28	32beadd3bded8e390fbf4a5b08d2d2986e2ada57	Updated documentation
+2022-01-28	6abae4428bed8df5ae18e12cc087b6cdf9e1b22c	Split lines
+2022-01-28	d9b74e27bd2279d80e1f74710d9acbd5c59592be	Split lines
+2022-01-18	b8b949b47d510a6331443c86aa6ab58a56f18271	Final update
+2022-01-16	af82505b636f8a22fb96a69a6ef0d79b7cb21816	Updated file
+2022-01-16	38121e1c5f7beb8a238a7a549acf380d4c4ed490	Updated documentation
+2022-01-16	526c95ff9d54ba84640c5e0edfba27542e38bee4	Updated documentation
+2022-01-10	014db5eed6d3841b7eedb1927036951e7fa3f9a9	Step 0
+2022-01-03	ce260770698f093a8ddbf2134f2ef1f0b780b39a	deva_iast_comp/step0. #3
+2020-04-18	4b49b176d26b2a73df3949e5b02d2681b228980d	Update README.md
+2020-04-17	f0a25fe30f73dbc0ba855f52dc0638ab8167b5ff	verbs01 initial commit
+2020-04-17	48ad31cc87f353354d4ca8b6adc570f1be590bce	Initial commit

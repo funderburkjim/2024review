@@ -1,0 +1,5 @@
+date	sha	title
+2020-04-18	0d47b59df01df2746300e723fdcf2fdc331e24f0	revise readme.md
+2020-03-31	d6b8f367bc1c86435701f8518b783d15755f9b32	note on unfinished work re Westergaard Dhatupatha
+2020-03-31	c9d8440387687d4f090e2e11fd73b49e7518c6c3	Initial commit
+2020-03-31	24ca2b5cf65ce00f6fc1533a5c652fb5fa0dd164	Initial commit

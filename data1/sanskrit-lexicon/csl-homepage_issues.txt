@@ -1,0 +1,17 @@
+date	issue	state	title
+2023-12-19	16	open	Two links added to home page
+2023-09-20	15	closed	Time to update the homepage
+2022-12-07	14	closed	Link to DSAL Pali-English dictionary
+2022-11-15	13	open	pwkvn link
+2022-11-15	12	closed	LRV link
+2022-11-05	11	closed	MW inflected form link 
+2021-09-13	10	closed	Correct 'Clarin' tooltip
+2021-09-13	9	closed	Version updation simplified
+2021-09-13	8	closed	Write readme and remove bugs from selective script
+2021-09-13	7	closed	Displaying version on homepage
+2021-08-25	6	closed	AP90 publication date to 1920
+2020-12-08	5	closed	Simplify  link to simple-search
+2020-11-22	4	closed	Lanman added to homepage
+2020-10-10	3	closed	Link to Scanned Edition of PGN
+2019-11-08	2	open	local installation
+2019-10-03	1	closed	link to new '2020' digitizations and displays

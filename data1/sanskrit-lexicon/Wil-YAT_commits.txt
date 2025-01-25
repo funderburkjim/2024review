@@ -1,0 +1,7 @@
+date	sha	title
+2015-03-14	53adcb32e597faae500a7062aaf6594adf253fee	Correct typo
+2015-03-13	b9dae5ebad75d3be6049dc8064637dd1beb3e1a0	Correct typo
+2015-03-13	8a821a454d24f88a6f726387663a4c2307b12317	add gitignore
+2015-03-10	fe66e9b76e57888b344bf7151842b5f1661f395f	Create LICENSE.md
+2015-03-10	c63a5c154fc45f714356b472b916c0c5466725be	Create README.md
+2015-03-10	d4495c4d93ac8440332dc70ca3d028acdb9d4106	Initial commit LB  LB Comparison of Wilson and Yates Headwords

@@ -1,0 +1,36 @@
+date	sha	title
+2020-06-21	811a9744eb6cc6fbd5cc5a0c6f271894e33d8e28	Add <bio> and <bot> markup to wil.txt
+2020-04-18	c34be0a5895e172b722b0fc4ac44ac2d7ccfa948	revise readme.md
+2020-03-25	ec6adb527180c45d119324138b32401308a04fa6	verbs01-shs:  Analysis of verbs in Sabda Sagara
+2020-03-23	e08d14c7aed0e353844c5970814a46e8a8bffad3	deva versions of preverb1.txt for wil/yat
+2020-03-23	828fd9113ef99dbd45fb89618c82db84b0029b70	verbs01-yat:  yat_preverb1_deva.txt
+2020-03-23	fcf5fd4da737af34ef9c0d7190c9df38264df936	verbs01-yat:  Identify verbs and prefixes in the Yates LB dictionary; and develop correspondences with entries of MW dictionary.
+2020-03-19	66ecf592a71cf8c87d3cd58d5f426a4d0c149e11	verbs01 inital commit
+2018-09-06	3f4553dda89447e2e88af002b4b09226b1260c2e	add L-numbers to correspondence between WIL and MW roots
+2018-07-25	b1c40b9cc2fe43a2f432555d9e8efda92e2db977	iast system, from 1819 edition
+2016-06-16	3c65a1b893558b12747915798bab2ecde4f1ea4e	start wil_mw_questions.txt
+2016-06-13	992590ad23435e66a0fd190be52d0aa32c29fc86	revise wilmwroots/step2 computations
+2016-06-13	9228ac44ec09689bc9b629083f54c93e73ee8aec	revise wiltab2011/step2roots/otherkeys LB  LB otherkeys_revised uses an appropriate copy of the wilson database LB (wiltab2011.txt) for the computations.
+2016-06-10	da55507d3a8c1db364c7b58fba101914d8aa6eb7	rerun programs in wilmwroots/step2
+2016-06-10	c811ecedfb739fb186cbc80f12cee8ba864a2bba	revise some readme files
+2016-06-10	9af5c5a084f2bf4d35c06fa4909a0d2289c3e472	reviose gitignore
+2016-06-10	c1da1704e31ac649b2f14f6262d51b183a9d7dbe	add gitignore
+2015-03-07	efb77800d02f7f37ce4f11115b883b20f0f83538	apply revised wilson data
+2015-02-24	397b94fc82431c1c01510450ef7da7f5193d8afd	2nd step in matching Wilson and MW roots
+2015-02-15	ad922ef5cda6b6b37743548e7f6e35d4555b96ae	Format changes
+2015-02-15	6210ed91f139d8651ba28588f90aeeca317b05e1	Format changes
+2015-02-15	d425814c1a15de94c5a8c69df091efb1e7448c4b	Format changes
+2015-02-15	1b716e1a8e9b8a3498921461819ad75b1fc72aab	Format changes
+2015-02-15	578c71f8ccb30f9856d2600c47d8fcdb5167b130	wilmwroots/step1
+2015-02-13	f0a00d88386f6f9dbad98f89b154e53975c3436c	Formatting experiment
+2015-02-13	beafad02478e763e546db2f8b265a1ec0030b95a	Try span within td
+2015-02-13	d43f9689d519f02b84dbdcabe1cd6febc60612c5	Format with html table
+2015-02-13	5749a1609b936ceca2bfa6ced71790130f5985c4	Add markdown so readme.md looks better
+2015-02-10	0f024d44414d596a0329a4088e15fbae5400ea9c	maprep - Material from 2011
+2015-01-04	f893c1b6f02616d8dc85aa57444a5cb53565bad3	alphawork for detecting headword spelling errors
+2015-01-02	6973ba7666f637ef45e4536fd3f518a831b78810	Add case 5 of potential errors LB  LB Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/62
+2014-12-29	9163f7cd12a2e8e809aee5413bbb15042083a1d7	Working documents for case 03 of compare2 list LB  LB Ref https://github.com/sanskrit-lexicon/CORRECTIONS/issues/61
+2014-12-29	8b7d609869564c08b9e4fbfc0ff8424148c5868f	linkwork - generating links for examining cases LB  LB See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/60
+2014-12-28	48d39d36108b6c92bd46018425a752c7408cfd73	Update README.md
+2014-12-28	41f0fee0aafa5374295e1592f40391131fb4abc8	working documents uploaded
+2014-12-28	508662243c7aa4dfa398975e7c0a493bfdfcaa8d	Initial commit

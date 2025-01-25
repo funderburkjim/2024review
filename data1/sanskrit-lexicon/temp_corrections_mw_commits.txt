@@ -1,0 +1,8 @@
+date	sha	title
+2021-08-12	bfb526f1ae4d746427e266e63c50f1ae0a9e980f	current mw.  Copied mw_error from LB  LB https://github.com/sanskrit-lexicon/csl-corrections/issues/30
+2021-07-05	b0bca4f8426cc52519b6a42b5975b05845f3b014	Jim minor edit to suggest_changes
+2021-06-25	367c1930e5055796eaf10dcde5c103b5a6be3cfa	Sampada's first commit
+2021-06-16	fbed23e8f460d0b093baa9e19d2b05feb922a83c	suggest_changes : copy for Sampada. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/110 LB Ref: https://github.com/sanskrit-lexicon/temp_corrections_mw/issues/2
+2021-04-11	8217aef85052a02fec8d157b7071d58c89ddd825	initial mw.txt. LB Same as commit f7a225ac3d420482a7376c8a23f5bfb05035c887 of csl-orig/v02/mw/mw.txt
+2021-04-11	5d5f0801688c3c8c76ec4064635dcc61e5dbf03b	initial gitignore
+2021-04-11	3950c37f8ab3658864274d46d573d9cd942eabae	Initial commit

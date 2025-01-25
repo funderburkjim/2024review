@@ -1,0 +1,20 @@
+date	issue	state	title
+2021-07-06	19	open	Update of hwnorm1
+2021-01-06	18	closed	a blank headword in LAN in sanhw1.txt
+2020-11-29	17	closed	Add Lanman (to 7 places)
+2020-01-21	16	closed	anusvara errors
+2020-01-21	15	open	hwnorm1c and simple-search
+2020-01-21	14	open	sanhw1 moved
+2019-09-17	13	open	4 years after
+2017-10-19	12	open	A viable 'ending am -> a' normalization rule
+2017-08-18	11	open	ngrams for normalized spellings
+2017-05-20	10	open	Add headwords for alternate renderings resulting from यरो द्वे 
+2017-03-17	9	open	fem. singular/plurals should be joined
+2017-02-02	8	open	Verb normalization
+2017-02-02	7	open	ऋकारान्त words
+2016-12-19	6	open	How to find root 'nI' in WIL
+2016-09-11	5	open	whitelist
+2016-02-25	4	open	ejf/hwnorm1c
+2015-11-24	3	open	Normalization steps
+2015-11-22	2	open	Statistics
+2015-11-22	1	open	'rXX' notes

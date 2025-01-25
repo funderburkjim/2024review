@@ -1,0 +1,442 @@
+date	issue	state	title
+2023-01-02	441	open	Thank you for the correction(s) to GRA dictionary
+2021-02-08	440	closed	remove commas program
+2020-12-19	439	open	AP / AP90 - review pending 160 entries
+2020-05-31	438	open	INM Corrections and Additions
+2020-05-19	437	closed	List of anti-sandhi letter combinations
+2019-09-14	436	closed	SCH wrong display
+2019-07-28	435	open	AP90 - aMtari--rI--kzaM
+2019-07-26	434	open	AP90 - Compounds stated twice
+2019-07-25	433	closed	AP90 - {#(#} - Sanskrit marking for parenthesis?
+2019-07-09	432	open	Adding abbreviations
+2019-07-08	431	open	Hyphen at end of line
+2019-07-07	430	closed	STC Ç->Ś and ç->ś
+2019-07-06	429	closed	VCP - brU and Ba mixed up.
+2019-07-05	428	open	Better handling of reference to another headword
+2019-07-05	427	open	vfttitA / vfttitva issue in MW
+2019-02-17	426	open	AP90 - Alphabetic misordering in subheadwords
+2019-02-08	425	open	Greek numeral-like-letters INM
+2019-01-25	424	closed	BaNgIBIra in ACC
+2019-01-20	423	closed	Feature request: A way to directly link to every dictionary entry
+2019-01-20	422	closed	Abnormal indentations in PW
+2019-01-16	421	open	MWE spellings with 'v' instead of 'b'
+2018-09-27	420	open	Corrections to Burnouf IAST
+2018-07-22	419	open	PW IAST corrections
+2018-06-14	418	closed	STC capitalization of Brâhmane
+2018-05-18	417	closed	STC errors in French words with diacritics
+2018-05-18	416	closed	Improve MW abbreviation markup
+2017-11-19	415	open	Meter in PWG
+2017-11-19	414	open	Russian in PWG, a few more
+2017-11-11	413	closed	Odd Github Page Build error
+2017-11-10	412	closed	MW: SriNg print error for SfNg
+2017-09-15	411	closed	Trial for finding errors in AE headwords
+2017-09-07	410	closed	Std file for dicts vs VCP corrections
+2017-09-07	409	closed	Placeholder for pending corrections
+2017-09-04	408	closed	SHS vs VCP corrections
+2017-09-04	407	closed	SCH vs VCP corrections
+2017-09-04	406	closed	PW vs VCP corrections
+2017-09-04	405	closed	PWG vs VCP corrections
+2017-09-04	404	closed	PUI vs VCP corrections
+2017-09-04	403	closed	MW72 vs VCP corrections
+2017-09-03	402	closed	MCI vs VCP corrections
+2017-09-03	401	closed	INM vs VCP corrections
+2017-09-03	400	closed	GST vs VCP corrections
+2017-09-03	399	closed	CCS vs VCP corrections
+2017-09-03	398	closed	GRA vs VCP corrections
+2017-09-03	397	closed	CCS vs VCP corrections
+2017-09-03	396	closed	BOP vs VCP corrections
+2017-09-03	395	closed	CAE vs VCP corrections
+2017-09-03	394	closed	Std file for dicts vs PWG corrections
+2017-09-03	393	closed	YAT vs PWG corrections
+2017-09-03	392	closed	WIL vs PWG corrections
+2017-09-03	391	closed	VCP vs PWG corrections
+2017-09-03	390	closed	SHS vs PWG corrections
+2017-09-03	389	closed	SCH vs PWG corrections
+2017-09-03	388	closed	PW vs PWG corrections
+2017-09-03	387	closed	ACC vs PWG corrections
+2017-09-03	386	closed	Std file for dicts vs PW submissions
+2017-09-03	385	closed	'nh' in PUI
+2017-09-03	384	closed	PE vs PW corrections
+2017-09-03	383	closed	GRA vs PW corrections
+2017-09-03	382	closed	AP vs PW corrections
+2017-09-03	381	closed	ACC vs PW submissions
+2017-09-03	380	closed	Std file of dicts vs MW submissions
+2017-09-03	379	closed	YAT vs MW corrections
+2017-09-03	378	closed	WIL vs MW corrections
+2017-09-03	377	closed	VEI vs MW corrections
+2017-09-03	376	closed	VCP vs MW corrections
+2017-09-03	375	closed	SKD vs MW corrections
+2017-09-03	374	closed	SHS vs MW corrections
+2017-09-03	373	open	PUI - liMgins
+2017-09-03	372	open	PE - conversion of other languages to SLP1
+2017-09-03	371	closed	PD vs MW corrections.
+2017-09-03	370	open	MW72 - hiatus issue in acCa-i
+2017-09-03	369	closed	MCI vs MW corrections
+2017-09-03	368	closed	INM vs MW corrections
+2017-09-03	367	closed	GST vs MW corrections
+2017-09-03	366	closed	BUR vs MW corrections
+2017-09-03	365	closed	AP90 vs MW corrections
+2017-09-03	364	closed	CAE vs MW corrections
+2017-09-03	363	closed	ACC vs MW corrections
+2017-08-20	362	open	Etymology coding in MW
+2017-07-13	361	closed	Unknown MW literary reference abbreviation
+2017-06-21	360	closed	sch.xml - an abberrant entry
+2017-05-30	359	open	Errors in subject description of ACC
+2017-05-30	358	open	Rare MW headword error
+2017-05-27	357	open	Abnormal <P> tags - ACC
+2017-05-21	356	open	`,#}` in acc.txt
+2017-05-19	355	open	ACC - period after headword
+2017-05-12	354	closed	two small md.txt corrections
+2017-05-09	353	open	MW display of <shortlong/> markup
+2017-05-08	352	closed	ACC extra headword.
+2017-04-28	351	open	KRM devanagari
+2017-04-20	350	open	PWG reference markup
+2017-04-17	349	open	skd.xml issues
+2017-04-16	348	open	SKD - 11 questionable entries
+2017-04-15	347	open	SHS - separate meanings in XML itself
+2017-04-15	346	closed	SCH - Entries missed in conversion from txt to XML
+2017-04-02	345	closed	ACC correction for commentary - C¤
+2017-03-26	344	open	BUR alpha mismatch
+2017-03-22	343	closed	BOP alphabetic misordering corrections
+2017-03-16	342	open	Burnouf Accent Corrections in French words
+2017-03-16	341	open	sh in sanhw1
+2017-03-11	340	closed	AE corrections by page
+2017-03-08	339	closed	AE dictionary, convert AS to IAST unicode
+2017-02-21	338	closed	Accents on 'poet' in Burnouf
+2017-02-21	337	closed	Corrections to MW for Arabic markup
+2017-02-06	336	open	AP v. AP90 headwords, part 3
+2017-01-26	335	closed	AP v. AP90 headwords, part 2
+2017-01-18	334	closed	AP v. AP90: headwords
+2017-01-07	333	closed	AP, preparatory normalization of digitization
+2017-01-03	332	closed	AP90 v. AP: headwords
+2017-01-03	331	closed	Some way to handle sanhw2.txt
+2016-12-31	330	closed	display enhancement
+2016-12-31	329	closed	AP90 Sanskrit text corrections based on 2-gram, 3-gram
+2016-12-28	328	open	AP90, correction of loose IAST nasal spellings
+2016-12-23	327	closed	AP90, preparing for identifying text spelling errors
+2016-12-10	326	closed	MW72 missing '-' in Sanskrit at line beginning.
+2016-12-08	325	open	MW CAyA example
+2016-12-08	324	open	PWG Transliteration Font
+2016-11-30	323	closed	WIL corrections to text Devanagari, 3-gram candidates
+2016-11-28	322	closed	MW72 corrections to Sanskrit italics, 3-gram
+2016-11-22	321	closed	WIL corrections to text Devanagari
+2016-11-20	320	closed	MW72 corrections to text Sanskrit Italics
+2016-11-07	319	closed	Abbreviations of Mâlatîmâdhava  in AP90
+2016-10-30	318	closed	Apte English-Sanskrit Corrections, based on odd 3-grams
+2016-10-30	317	open	Follow up mail to the correction submitter
+2016-10-19	316	closed	SOS message
+2016-10-17	315	closed	hradroga
+2016-10-13	314	open	mw72.txt wrong markup ?
+2016-10-13	313	closed	mw72.txt deviations from AS
+2016-10-13	312	closed	bur.txt v/w
+2016-10-13	311	closed	Headword missing from descriptions
+2016-10-10	310	open	Miscellaneous pwg.txt corrections
+2016-10-09	309	open	Extend correction methods to description in dictionaries
+2016-10-03	308	closed	\xa4 in ap90hw0.txt
+2016-09-30	307	open	Issues in VCP hw0.txt
+2016-09-28	306	closed	Apte English-Sanskrit Correction Form, sample batch
+2016-09-16	305	closed	SKD, probable error in 4 m. nouns ending in A
+2016-08-23	304	closed	sattva misspelling in AE
+2016-07-28	303	closed	Misc. corrections
+2016-07-23	302	closed	dIpikA and friends
+2016-07-08	301	closed	allvsSCH_3
+2016-06-16	300	closed	long KRM headwords
+2016-06-13	299	closed	all vs PW 3-grams, part 2
+2016-05-24	298	closed	Misc. corrections
+2016-05-14	297	closed	YAT, bug in the display
+2016-05-12	296	closed	BUR Devanagari-IAST comparison
+2016-05-12	295	closed	Install recent 2-gram, 3-gram studies
+2016-04-26	294	closed	all vs PW 3-grams, part 1
+2016-04-23	293	open	Alphabetic misordering
+2016-04-23	292	open	Question about multi-word headwords
+2016-04-20	291	closed	skd corrections
+2016-04-19	290	closed	CAE, CCS corrections
+2016-04-18	289	closed	CAE corrections, continue
+2016-04-17	288	closed	all vs MW 3-grams, part 4
+2016-04-17	287	closed	BEN Devanagari-IAST comparision.
+2016-04-16	286	closed	all vs MW 3-grams, part 3
+2016-04-16	285	closed	all vs MW 3-grams, part 2
+2016-04-15	284	closed	all vs MW 3-grams, part 1
+2016-04-15	283	closed	all vs BEN 2-grams
+2016-04-14	282	closed	Question on User submission
+2016-04-14	281	closed	User submitted correction in GRA
+2016-04-14	280	closed	all vs BHS 2-grams
+2016-04-14	279	closed	all vs MD 2-grams
+2016-04-14	278	closed	PW apidev webpage not working
+2016-04-14	277	closed	all vs STC 2-grams
+2016-04-13	276	closed	Install recent n-gram studies
+2016-04-13	275	closed	CAE corrections based on alphabetical ordering
+2016-04-09	274	closed	all vs SCH 2-grams
+2016-04-09	273	closed	all vs CCS 2-grams
+2016-04-09	272	closed	all vs AP90 2-grams
+2016-04-09	271	closed	all vs ACC 2-grams
+2016-04-09	270	closed	all vs AP 2-grams
+2016-04-09	269	closed	all vs CAE 2-grams
+2016-04-09	268	closed	all vs SKD 2-grams
+2016-04-09	267	closed	All vs YAT 2-grams
+2016-04-09	266	closed	All vs SHS 2-grams
+2016-04-08	265	closed	CCS headword errors, part3
+2016-04-05	264	closed	CCS headword errors, part2
+2016-03-29	263	closed	Multiple verbs having same verb number
+2016-03-29	262	closed	Duplicate entries in verb database
+2016-03-23	261	closed	CCS headword errors
+2016-03-21	260	open	BHS verbforms
+2016-03-19	259	closed	Misc. headword corrections
+2016-03-18	258	closed	The word NORM
+2016-03-14	257	closed	All vs VCP 2-grams
+2016-03-07	256	closed	Burnouf verbs and verbforms
+2016-03-03	255	open	Foreign headwords in IEG
+2016-02-24	254	open	Identifying correctly spelled headwords
+2016-02-23	253	closed	PE headword pluralization
+2016-02-23	252	closed	Misc. headword corrections
+2016-02-19	251	closed	PUI headword pluralization
+2016-02-15	250	closed	MW unknown literary sources
+2016-02-11	249	closed	Corrections to Markup of botanical term Plumbago in MW
+2016-02-10	248	closed	MW corrections re MWderivations
+2016-02-10	247	closed	Using Git Bash rather than GitHub GUI
+2016-02-06	246	closed	C vs. cC in MW
+2016-01-25	245	open	AP headword scoping errors
+2016-01-23	244	open	SreAMs, etc. in STC
+2016-01-21	243	closed	correction aggregation
+2016-01-19	242	closed	crefminusbib, the rest of them, part 2
+2016-01-10	241	closed	2-grams vs MW72, part 1
+2016-01-10	240	closed	2-grams vs PD, part 3
+2016-01-10	239	closed	2-grams vs PD, part 2
+2016-01-10	238	closed	sammArga is correct
+2016-01-09	237	closed	PW Crefminusbib corrections, continued
+2016-01-06	236	closed	ls 
+2016-01-04	235	closed	ls corrections for PW, continued
+2016-01-03	234	closed	Remove Tamil from sanhw1 / sanhw2
+2016-01-03	233	closed	2-grams vs PD, part 1
+2016-01-03	232	closed	2-grams vs PWG, part 1
+2016-01-03	231	closed	ls corrections for PW, continued
+2016-01-02	230	closed	2-grams vs PW, part 2
+2016-01-02	229	closed	2-grams vs PW, part 1
+2016-01-02	228	closed	Make XMLs default instead of txt
+2016-01-02	227	closed	additional checks for standard format submissions
+2016-01-01	226	closed	2-grams vs MW, part 9
+2016-01-01	225	closed	2-grams vs MW, part 8
+2016-01-01	224	closed	2-grams vs MW, part 7
+2016-01-01	223	closed	2-grams vs MW, part 6
+2016-01-01	222	closed	2-grams vs MW, part 5
+2016-01-01	221	closed	2-grams vs MW, part 4
+2016-01-01	220	closed	2-grams vs MW, part 3
+2016-01-01	219	closed	2-grams vs MW, part 2
+2015-12-31	218	closed	VEI - make_xml.py error in generation of Key2
+2015-12-31	217	closed	PD - space inside key1
+2015-12-31	216	closed	BHS - multiple word headwords
+2015-12-31	215	closed	AP90 - Wrong parsing of brackets
+2015-12-31	214	closed	kLp - sureshot error
+2015-12-28	213	open	k1k2clash documentation
+2015-12-23	212	closed	PW Crefminusbib corrections
+2015-12-22	211	closed	PW ls corrections, 'numfuzzy'
+2015-12-22	210	open	PW 'ls' tag corrections, cmbsub Deutsch words
+2015-12-22	209	closed	PW corrections, Capitalization issue in literary resources
+2015-12-21	208	closed	PW ls corrections, crefminusbib part 1
+2015-12-21	207	closed	PW ls corrections, bib minus cref, part 4
+2015-12-20	206	closed	PW bib minus cref, part 3
+2015-12-18	205	closed	INM retroflex issue
+2015-12-16	204	closed	INM 'sh2' errors
+2015-12-16	203	closed	PWG bigrams verified
+2015-12-16	202	closed	PW 'ls' tag corrections, part 4
+2015-12-15	201	closed	CCS accent mark and anusvAra confusion
+2015-12-14	200	closed	PW 'ls' corrections, part 3
+2015-12-14	199	open	ध घ confusion
+2015-12-14	198	open	Similar orthography
+2015-12-14	197	open	All vs SKD 3-grams
+2015-12-14	196	open	All vs SKD 2-grams
+2015-12-14	195	open	All vs SKD 1-grams
+2015-12-12	194	closed	PW 'ls' corrections, part 2
+2015-12-10	193	open	abnormending 3 letters
+2015-12-10	192	open	abnormending 1 letter
+2015-12-08	191	open	Adverb marking errors
+2015-12-04	190	closed	3-gram vs MW, part 1
+2015-12-04	189	closed	2-gram vs MW, part 1
+2015-12-04	188	closed	1-gram vs MW, part 1
+2015-12-03	187	closed	Transcoder issue - |
+2015-12-03	186	closed	Non-Sanskrit alphabets in headwords
+2015-12-03	185	open	ngrams
+2015-12-03	184	closed	Correction form frontend
+2015-12-02	183	open	Fishy Ending Verification (#1)
+2015-12-02	182	closed	Earlier efforts documentation
+2015-12-02	181	open	Todo list as of December 2015
+2015-12-02	180	closed	Convention 3.2 errors
+2015-12-02	179	closed	Convention 3.1 errors
+2015-12-02	178	open	stats on fishy endings
+2015-12-01	177	closed	Abnormal endings
+2015-12-01	176	closed	blank entry in sanhw1.txt
+2015-12-01	175	closed	automate sanhw1.txt and sanhw2.txt regeneration
+2015-11-28	174	closed	aFem Manual Processing, Part 5 (MW)
+2015-11-24	173	open	Convention 6.2 violation
+2015-11-24	172	open	Convention 6.1 violation
+2015-11-24	171	closed	Convention 1.2 violations
+2015-11-23	170	closed	aFem Manual Processing, Part 4 (GRA, MW)
+2015-11-23	169	closed	aFem Manual Processing, Part 3 (AP, BOP, BEN, BUR, CAE)
+2015-11-22	168	closed	Webpage and PDF from L number
+2015-11-22	167	closed	Convention 2.1 errors
+2015-11-21	166	closed	aFem Manual Processing, Part 2 (PWK, SCH, AP90)
+2015-11-21	165	closed	hwnorm1 Option 1.3 wrong (PWG,PWK)
+2015-11-21	164	closed	hwnorm1 Corrections in PWG, Part 1
+2015-11-21	163	closed	anusvAra convention violations in AP90
+2015-11-21	162	closed	eleven odd members of AP90
+2015-11-19	161	open	Dictionaries with prefixed forms under the root headword
+2015-11-18	160	closed	aFem Manual Processing, Part 1 (GRA, CCS, PWG)
+2015-11-15	159	closed	Greetings, Thomas
+2015-11-15	158	closed	MW abbreviations wrongly rendered
+2015-11-14	157	closed	Trial 'o vs O' composite file corrections, 1-10
+2015-11-14	156	closed	Not found mw.txt in downloads
+2015-11-13	155	open	Suggested format for upd.txt files
+2015-11-13	154	closed	Suggested format for correction submission
+2015-11-12	153	open	NO CHANGE list
+2015-11-11	152	closed	'o vs O' corrections, ACC (part 1)
+2015-11-11	151	open	'o vs O' composite files
+2015-11-08	150	closed	'o vs O' corrections, STC part 2
+2015-11-08	149	closed	'o vs O' corrections, STC part 1
+2015-11-08	148	closed	'o vs O' corrections, MD
+2015-11-08	147	closed	PW abbreviations
+2015-11-08	146	closed	Literary resources standard format + corrections for pw.xml
+2015-11-08	145	closed	Misclosed brackets in pw.xml
+2015-11-08	144	closed	Non-unicode characters in pw.xml?
+2015-11-06	143	open	Abbrv lists for all dictionaries
+2015-11-06	142	open	Resource links
+2015-11-06	141	closed	Links gone bad - MW abbrev
+2015-11-06	140	closed	'o vs O' corrections, BEN
+2015-11-05	139	open	Crowdsourcing `o`_vs_`O` Corrections
+2015-11-04	138	closed	'o vs O' corrections, ACC
+2015-11-03	137	closed	`o` vs `O` Corrections in PWG, Part 2
+2015-10-31	136	open	o_vs_O Sorting Features
+2015-10-31	135	closed	o_vs_O - diff highlight, columns expanded
+2015-10-30	134	closed	`o` vs `O` Corrections in MW, Part 4
+2015-10-26	133	open	Alternate headwords in PWG
+2015-10-24	132	closed	PWG scanned edition page errors
+2015-10-20	131	closed	`o` vs `O` Corrections in MW, Part 3
+2015-10-17	130	closed	`o` vs `O` Corrections in PWG, Part 1
+2015-10-09	129	closed	`o` vs `O` Corrections in MW, Part 2
+2015-10-07	128	open	Image Links to Factual Errors
+2015-10-03	127	closed	`o` vs `O` Corrections in MW
+2015-09-29	126	open	MW feminine form interpretation questions
+2015-09-22	125	closed	MW key2 corrections
+2015-09-08	124	closed	PW headwords ending in anusvAra
+2015-08-02	123	closed	correction to sort order in correctionform.txt
+2015-07-19	122	closed	Change in cfr_adj.py
+2015-07-14	121	open	HxA corrections for MW
+2015-07-09	120	closed	Interesting Correction submission
+2015-06-26	119	closed	Accents in PD
+2015-06-21	118	open	PD IAST-Devanagari discrepancies
+2015-05-29	117	open	ApteSE-HeadWordCorrections
+2015-05-19	116	closed	A repository to store headword files
+2015-05-17	115	closed	kowISvaramAhAtmya in PW
+2015-05-16	114	closed	Life after faultfinder
+2015-05-16	113	closed	SNP Corrections drawn from faultfinder suggestions
+2015-05-16	112	closed	KRM Corrections drawn from faultfinder suggestions
+2015-05-16	111	closed	PE Corrections drawn from faultfinder suggestions
+2015-05-14	110	closed	MCI corrections drawn from faultfinder suggestions
+2015-05-11	109	closed	ACC Corrections drawn from faultfinder suggestions
+2015-05-11	108	closed	PD headwords with different Devanagari and IAST spellings
+2015-05-03	107	open	Duals and plurals
+2015-04-26	106	closed	PD corrections drawn from faultfinder suggestions
+2015-04-25	105	closed	Method to take backup of github issues
+2015-04-24	104	closed	IEG corrections drawn from faultfinder suggestions
+2015-04-21	103	closed	PGN corrections drawn from faultfinder suggestions
+2015-04-20	102	open	PWK Devanagari Сommas
+2015-04-20	101	closed	PUI corrections drawn from faultfinder suggestions
+2015-04-19	100	closed	Documenting methods for processing faultfinder errors
+2015-04-18	99	open	Homonyms
+2015-04-17	98	closed	VEI corrections drawn from faultfinder suggestions
+2015-04-16	97	open	Multiple words in headword of INM
+2015-04-14	96	closed	sanhw1.txt Sorting Issue (PD .a.)
+2015-04-14	95	closed	INM corrections drawn from faultfinder suggestions
+2015-03-26	94	closed	Missing Data for MWE, includes todo 
+2015-03-26	93	closed	Missing data in VEI (Vedic Index of Names and Subjects)
+2015-03-21	92	closed	Missing data in INM
+2015-03-21	91	closed	Missing data in PW - one case open
+2015-03-16	90	closed	Review of Corrections/Changes to dictionaries 
+2015-03-05	89	closed	CCS corrections from faultfinder, part 6 (last part)
+2015-03-05	88	closed	CCS corrections from faultfinder, part 5
+2015-02-20	87	closed	Corrections to Wilson, MW re verbs
+2015-02-19	86	closed	PW corrections for missing data
+2015-02-18	85	closed	CCS corrections from faultfinder, part 4
+2015-02-16	84	closed	CCS corrections from faultfinder, part 3
+2015-02-13	83	closed	CCS corrections from faultfinder, part 2
+2015-02-09	82	closed	CCS corrections from faultfinder, part 1
+2015-02-06	81	closed	BUR corrections drawn from faultfinder suggestions, part 4
+2015-02-06	80	closed	BUR corrections drawn from faultfinder suggestions, part 3
+2015-02-05	79	closed	BUR corrections drawn from faultfinder suggestions, part 2
+2015-02-04	78	closed	BUR corrections from faultfinder suggestions, part 1
+2015-02-01	77	closed	GRA corrections drawn from faultfinder suggestions
+2015-01-29	76	closed	GRA corrections drawn from alphabetical misorderings
+2015-01-28	75	closed	bhs faultfinder corrections
+2015-01-27	74	closed	gst faultfinder corrections
+2015-01-25	73	closed	MW72 corrections from faultfinder, with fuzzy suggestions, Part 2
+2015-01-22	72	closed	KCH corrections from faultfinder
+2015-01-18	71	closed	MW72 corrections from faultfinder, with fuzzy suggestions, Part 1
+2015-01-17	70	closed	BEN corrections from faultfinder
+2015-01-17	69	closed	MD corrections from faultfinder
+2015-01-10	68	closed	YAT corrections from faultfinder, with fuzzy suggestions
+2015-01-08	67	closed	WIL corrections from alphabetical misorderings, part 5
+2015-01-06	66	closed	WIL corrections from alphabetical misorderings, part 4
+2015-01-06	65	closed	WIL corrections from alphabetical misorderings, part 3
+2015-01-05	64	closed	WIL corrections from alphabetical misorderings, part 2
+2015-01-04	63	closed	WIL corrections from alphabetical misorderings, part 1
+2015-01-02	62	closed	WIL corrections from wiltab, part 3
+2014-12-29	61	closed	WIL corrections from wiltab, part 2
+2014-12-27	60	closed	WIL corrections from wiltab, part 1
+2014-12-24	59	closed	WIL - Duplication in display
+2014-12-22	58	closed	WIL corrections from faultfinder list
+2014-12-21	57	closed	Record 'types' in SCH
+2014-12-20	56	closed	Suggestion for code teaching
+2014-12-18	55	closed	£ character in GRA digitization
+2014-12-18	54	closed	Possible transliteration error in SCH
+2014-12-18	53	closed	Feminine ending in 'a' - sure shot errors
+2014-12-18	52	closed	Not able to locate some words in SCH
+2014-12-18	51	closed	SCH corrections from faultfinder list
+2014-12-17	50	closed	PW(K) corrections from faultfinder list
+2014-12-15	49	closed	PWG corrections, from faultfinder list
+2014-12-08	48	closed	ap90 faultfinder corrections
+2014-12-05	47	closed	SHS corrections, 1
+2014-12-05	46	open	Listing methods to identify errors
+2014-12-05	45	closed	`o` vs `O`
+2014-12-05	44	closed	Todo list for volunteers
+2014-12-01	43	open	Different conventions of Sanskrit dictionaries
+2014-11-30	42	closed	faultfinder3a
+2014-11-29	41	closed	Correction Status Date Format
+2014-11-26	40	closed	Confusion of anudAtta accent mark with 'f' in CAE
+2014-11-22	39	closed	CAE corrections based on MW comparision
+2014-11-22	38	closed	SKD - corrections found out by comparing with MW
+2014-11-22	37	closed	All dictionaries compared with MW - faultfinder 3
+2014-11-20	36	closed	VCP errors - by comparing with PW
+2014-11-17	35	closed	Alternative readings should get headword status
+2014-11-13	34	closed	Extending faultfinder to sanskrit words in description
+2014-11-13	33	closed	anusvAra and its conversion - Sanskrit grammar
+2014-11-12	32	closed	Vacaspatyam (VCP) errors - found by comparing with MW
+2014-11-10	31	open	Accents and hyphens
+2014-11-02	30	closed	Codes and readme
+2014-10-31	29	closed	Printed Book Errors vs. Digitization Errors
+2014-10-19	28	closed	Slide python over all dictionaries
+2014-10-18	27	open	MW - Drawing attention to potentinal errors in addendum
+2014-10-18	26	closed	accent after H in antaH/Salpa - PWG
+2014-10-18	25	closed	Documentation of Suspect false pattern generation
+2014-10-18	24	closed	Exclusive cases? -tta, -tti in MW
+2014-10-17	23	closed	kawunizpAva in mw
+2014-10-17	22	open	pāri--jāta------haraṇa-campū in MW
+2014-10-17	21	closed	MW errors - found by comparing with Vacaspatyam
+2014-10-16	20	closed	Digits Left Inside SLP1 Headwords
+2014-10-16	19	closed	PWG - accent after ṁ in aṁ/sa
+2014-10-16	18	open	Klassische deutsche Rechtschreibung
+2014-10-16	17	closed	MW - Ai type cases
+2014-10-16	16	closed	zWA cases
+2014-10-16	15	closed	svArmODna v/s svAmOrDna
+2014-10-14	14	open	Surplus Addenda at Corrigenda Pages (MD)
+2014-10-13	13	closed	pre-SLP1 elements in MW (-0906/, -0909/, -090ṛ/)
+2014-10-13	12	closed	sArisTAKA in MW
+2014-10-11	11	closed	Separate changelog for separate dictionaries
+2014-10-11	10	closed	Hiatus
+2014-10-11	9	closed	Wrong page in PWG
+2014-10-08	8	closed	Wrong entries in PWK v/s MW
+2014-10-08	7	closed	Request of SLP1 text of all dictionaries
+2014-10-07	6	closed	yAminIpritama in PW
+2014-10-07	5	open	Missing data in CCS after skanDas
+2014-10-07	4	closed	Convention for adding 'tva' to words ending with 'n'
+2014-10-05	3	closed	Extra space in Devanagari rendering
+2014-10-05	2	closed	Wrong entries detected in MW vs PWG
+2014-10-03	1	closed	Announcement of correctionform.txt

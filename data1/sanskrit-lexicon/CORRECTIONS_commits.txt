@@ -1,0 +1,676 @@
+date	sha	title
+2021-09-01	b1ff66f87e05fd390026f6dc4460675bd13dec4c	bhs:  English word correction finished
+2021-08-19	7b27d61e4d5e88463738d1eab04ad33cccdd9dc6	bhs_error:  one suggestion per line (remove_commas.py)
+2021-08-19	fb11a16a584258bd64da57905b65ded4cc7f335c	Clean up of a few corrections in various dictionaries.  status.txt to document LB what remains to be done in the English word correction
+2021-08-18	57f5098d086156ee85cc2fd41b8b0043820570f2	post ben english word corrections. LB Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/79
+2021-08-18	55a06dd5de5e57233fd3d2f5e6aac0ddab6bbc29	Post yat english word corrections; LB Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/73
+2021-08-16	2ee57a75ea28176901a710c1ffea5fc94ad81d42	YAT  english word corrections (yat_error.txt) finished
+2021-08-15	195fe5a6d8994b8874e4e8ca50834807e48cea6e	ben_error:  split records at comma
+2021-07-31	6ea4ccc86b044eca0c569da8f27f3ff26599a79b	yat_error -  revise to one case per line
+2021-07-31	437d437d99377d24f9d34f53dbf26b3d595636e7	wil_error.txt revised for english word corrections
+2021-07-04	4e87d3a8547f02dea36d997cff9a1597df0f6976	vei_error.txt processed. LB Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/67
+2021-07-04	b4c1d898fc447bca04f7155c6a313e28d27c3aa8	pgn corrections finished. LB Ref: LB https://github.com/sanskrit-lexicon/csl-corrections/issues/62
+2021-07-04	90883934561581a541fbe7cdc4c995ac90c2cfa1	snp_error -- corrections finished by Sampada. LB Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/63
+2021-07-04	6126c902dbaef4194a1eeb9bd0838c34a112c225	process commas in wil.txt
+2021-06-29	04f7f2304bfac1287a63edebbc7cbbc1f84cbf03	apply remove_commas.py to vei_error.txt
+2021-06-29	45ef620d9c42a6c3e712b5548bad6ad13383ebff	mark pui_error.txt as previously done.
+2021-06-20	89dc7fe3f475b01bb7970417af827763427c88c1	shs_error.txt addenda'
+2021-06-20	e9329daeae06b538b15890eee2501e60f801fab6	Corrections made to shs. LB ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/64. LB Sampada did the work.
+2021-04-23	56044706917508c3f2af94061d304c8e06ac82b5	shs_error.txt -- one-per-line
+2021-04-23	bcc8544052a1df9dd5149dc3501a30019d8868eb	mw72_error.txt finished; LB Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/60
+2021-04-22	cfef7284de2fa80d0a9010029580c962bb471074	mwe_error finished.
+2021-04-17	3232028591f0a8f2436077308f4e2a72fbc483e2	Apply remove_commas to mwe, pgn and sn error files
+2021-04-04	842f608a01ccaa332192991e2df751526c74dacf	MD English word corrections, 2nd pass. Now done by Sampada and reviewed by Jim.
+2021-04-03	41b92bedafacb07301759529fa20e3b2b6fdc1ee	mci english error corrections reviewed and installed
+2021-03-22	c13d841dc13107d834fd04254ff2d581059faff2	modify with remove_commas.py
+2021-03-22	6a843ab87d16ccd607912663c229ea6a3d760959	Sampada Finished corrections
+2021-03-20	59c220ca7310a3b3f3259c09a05d1c8aaf933e6c	english_error revised for pe_error.txt
+2021-03-20	8660fca0a3875bd60b4f22a9011e273f42127beb	finish notes on pe_error
+2021-03-19	2dc889fe24a660093e43423d7bcf5d7799f4817e	Sampada/Jim finished with bor_error
+2021-03-14	8677f16ec9af7d95a4156e7660fd842758bfcff6	inm_error.txt: checked out to Sampada
+2021-03-13	64d1ac1df6e9d3a9c1608f6b317a0fa98e6d9873	Update cae_error.txt
+2021-03-13	c89cac1fa7092ff09fff1e7b728ec120a236b691	Create cae_error_edit.txt
+2021-03-06	9cb6105f817bc18af795f63901bacdb6a0aecd17	pe_error.txt Batch 3
+2021-02-20	bc653a153b3bca22ab6ee1f947eed3bd53dd2342	Review of Lanman corrections;
+2021-02-15	ccc9ceb2bb4c5ae4134f3e338853ca3a6caa4d5f	bor_error -- applied remove_commas.py
+2021-02-08	ae32789502226a154eabd6adee186e31ec0a82bc	python remove_commas.py lan_error.txt
+2021-02-08	e10247eb3200c32f65e3b191f5b3b00fe1c98c72	Merge branch 'master' of github.com:sanskrit-lexicon/CORRECTIONS LB (JIM) Fine with me.
+2021-02-08	ebc8fa719fa2a3fd11fd8d5f41833aaab0796860	Finished corrections from ieg_error.txt
+2021-02-07	4b0dd94435b26d698b4d46c0789651871ceaa52b	pe_error.txt Batch 2
+2021-02-07	d74834f00feeef9270d50323260af5f95de91627	Merge branch 'master' of https://github.com/sanskrit-lexicon/CORRECTIONS
+2021-02-07	f9b71cade7608479b59d0ef1769bc634c0058241	pe_error.txt Batch 2
+2021-02-06	3af42e1e3b7f7cc1ebc6ab026d84f003a820b260	pe_error.txt Batch 2
+2021-02-02	94145489bad46d0f57a93b66f00e413ab3f1d5be	gst_error.txt corrections finished. LB Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/50
+2021-01-27	018c26c4a46c6ff6be3f784e3d539d90d0a9f566	python remove_commas.py gst_error.txt
+2021-01-27	fe30e65b14a86ec21a132f2157ac65ec8b9b032a	program to modify the xxx_error.txt files so only one word LB on each line
+2021-01-27	efaec090b5265ddb8e79962bff09f17d89d60f40	english_error/output/acc_error.txt  filled in by Sampada
+2021-01-24	ee8669acdb2042d0b90dcacf7774d5f1d62dd06b	Batch 1
+2021-01-22	3409026a5d46b4bd6700908e4078eace5426c5df	ap90 english word corrections, take 2. Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/48
+2021-01-13	c5f84a82def7d220adebcba49b97bd3b40a32ca2	Mark mw_error.txt as processed.
+2021-01-13	af10443d8fd1bbb0e79fa9b25ecc79a1040d9d34	Mark ae_error.txt as completed.
+2021-01-10	2d20a80dc395414c806b31f5a418a2638485179a	minor edit of readme
+2021-01-07	fe382f72d9b68b82ddefc7020785dccafb52de34	csl 40 regen
+2021-01-07	cc47efea918ae7443fed6a3bc904eec4944bae27	regen after csl 39
+2021-01-07	f7540f3abfdb0958d72b6f1a7a846cf02adba4aa	2_5 handled
+2021-01-07	c777c3d20c939bd8503308785e05b5e803b9cfd0	scl 37 regen
+2021-01-07	2a3638db4abc7f73a78a4c971e8c6380a50c083c	problemwords ignored
+2021-01-07	3c524c38670b132850836a6070490ddfa3fac6b9	2_3
+2021-01-07	b29dec9f554693af290b42b8daed7cb658235a39	csl 36
+2021-01-07	8dbd1f8570333047044d6a62a25964e339f69839	2_3 handled
+2021-01-07	bf8c6dcc5ae95e5fbb5d28b578f170f25597e6cb	nc_csl_36
+2021-01-07	8c418b01411cc2bf118d04be07e1b27985e0460a	update based on examination
+2021-01-07	1aa572206554fb390258a9634258210fdb65f7ab	removed dictnames trailing
+2021-01-06	8421b852b1182106407b4c453eb58bc68a1349eb	2_2 abnorm ending handled
+2021-01-06	5c79afd42f0b551d84b8b542a254dbb9641e96b0	1 letter abnorm words examined
+2021-01-06	dd8214cb02e7ecc9d40d4ee653d2934e93f854e7	update in nochange
+2021-01-06	89533bdac581df7561300cc5a89f4348cd259699	nochange for nc_csl_33
+2021-01-06	1596e65bce31f97ece56dd0a94f47e57e5e1a86c	some exercise
+2021-01-06	1620419a2d9711a3adede6c9204524a190807685	some knownwords ignored
+2021-01-06	5f1c1f8c3ea2eb43bb261cfefba85e7a618b0914	abnormending.sh update
+2021-01-06	011c47fe00e44a12d761a6d59e30970cabb423d5	abnorm3 at threshold 2
+2021-01-06	1e8893903397d55a5c4c7ef9d80f8523ddf35a13	abnorm_3.html updated
+2021-01-06	e89870bc7d928ebe012449324eed73e52e052a16	sh updated
+2021-01-06	444fe2decee95b46d885a8c2d6f1026547cf1a67	abnorm_3.txt based on 10 threshold
+2021-01-06	4d9efd54627832689ab6d801a97f01365a1d60bc	regen afresh
+2021-01-06	95f86c23863f1afd856b0a2d1d73a311f45a48f6	abnormending.py python3 compliant and based on hwnorm1c/sanhw1/sanhw1.txt
+2021-01-01	0386fe5f327e9868f2c6cd311510c017358f248a	find_english_errors.py commented
+2021-01-01	d0f75bf6b9fc98240790dbc8dc692dd615ea97d7	english error code uploaded
+2020-12-16	985d0d5be129e755e478a776187ff8825f8d9a00	Create Broken link report 2020.htm LB  LB Out of the 29616 URLs at Cologne 1381 URLs (4.45%) not found
+2019-07-23	5c9bfa025ccc38d5df2da7bd8dc40850965baa81	Mark old 12/05/2018 correction as 'cannot correct'
+2019-07-23	bfe85bb14bdc393f01599e69eb0fc28a9527b29a	Finish user corrections
+2019-07-19	d2cea7d12f30a106b4fa7bd2b8a39363555190cf	6 more mw corrections
+2019-07-18	f1076f67c68908a6b983a94fd8ad8467702d75ee	CCS correction in 07/18/2019
+2019-07-18	579d3516755fe1ab1fd3cc2e61caba9bc7ff1b3c	added history for c-cedilla STC
+2019-07-18	dcbce5e14d2c835d5fe5ff0c1649fcc2f27709ea	Merge branch 'master' of https://github.com/sanskrit-lexicon/CORRECTIONS
+2019-07-18	ec29c1ffaccb8035891f45c964cf8c1b5c860748	Corrections till 07/18/2019
+2019-07-09	672d63438d67251dc408ae921a3ccee72d26170f	headword spelling change in PWG (siha -> siMha)
+2019-07-07	58071e0c4d70e089c3e00462de9d71e06e4f335a	added cfr.tsv
+2019-07-07	1f9162b0b220bb1d7dd65d9c3d13dc3722070ab5	Correction form 07/07/2019
+2019-07-07	beb1ce0c432c392ac98d72853461473108e2ea2a	ap90 print changes
+2019-07-05	4e9bdb121e9b009be3368ebfc2bd3cc362cd2b2d	SKD 05 Jul 2019
+2019-07-05	db144623947b0a6380e74c5cddda59376ff26d69	Corrections in mw 07/05/2019
+2019-07-05	39aae54fa3a1062ee174423305bf2e538d155379	MW error corrections 05 Jul 2019
+2019-07-05	50f243a570f0a87be8bfcd22115a8bbc40a61595	First trial to correct Cologne
+2019-02-09	fab1bf2286fe4c25eeeb414d2bf8980861f99537	correction form corrections
+2019-02-02	bdecb0203b7f748f487594bc77509fd900a7ddca	Correction form corrections for mw
+2019-01-17	342cfe1fc0e0e58d2a7ea627be533a65f423f3b6	Correction Form corrections;  PWG AS (letter-number) corrections
+2019-01-16	5c18947e37508e2d9dfdeb18f4e0e3c7f8fd621d	update sanhw1/2 for change in MW headword spelling
+2019-01-16	701ac5231c1360f873d0390df3534bf2d2f919d3	corrections to mw
+2018-11-28	f4d2384cbdb2c52f1f1365f9c01dcb6a6ce34084	Miscellaneous corrections from correction form
+2018-11-28	d3a5fb231d97deed67e23e036534b9eea77844ab	Corrections to MW
+2018-09-27	1842babd1253d99b0eb998b9ac741afa53d112d4	Further materials related to iast changes
+2018-09-27	296342043e595b4d09ff80382dd74ad33bc58e8e	Burnouf plain word iast corrections
+2018-09-27	5fa65c1127bfde2dc2733e07fd803af6385636de	Burnouf iast changes. See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/420
+2018-09-27	cb8fb02111b91ec9c18081ea73bcdd3f7adaf00f	Burnouf IAST and French corrections
+2018-09-14	3f952dbf36005eb8e9a89784babbc37d146bb494	correction Form corrections
+2018-08-30	d112e5a17d98742af45010ddd95ddbe2f79a5c0a	update history
+2018-08-30	4a1733801edaa4415b930b2c4e225c7e1aff6d39	Corrections from user Correction Form
+2018-03-15	97a6eae12b8ffd2686b2f1c7f8617e6f9864c594	mw72 print change of Sanskṛit to Sanskrit
+2018-03-12	7ecff4ef58b405ea90ccebd388317da54dd72304	Sampada's AE corrections finished!
+2018-03-12	e8ac797afc6452de1a7eb81faa69dab72ad15367	meta-line conversins of snp, bor, mwe, mw72
+2018-02-18	3d76b8125141fd88dcc1146ce6e51c46b143383b	meta/iast conversion of PGN, PUI, VEI
+2018-02-14	479533f5fd28caf021d19174d23d8b3178823a4a	meta/iast conversion of PE
+2018-02-13	b72e49c442c94eae0d693b30833914c8e55816dd	meta/iast conversions of IEG, INM, and MCI finished.
+2018-02-07	79dd784f438f14c8ab607751f026f798cf9cdd04	meta/iast conversion of GST
+2018-02-03	c67493dd2db11a27d9aac5d44290ff0e00afbb43	BOP meta/iast conversion; AE corrections pp. 390-399
+2018-02-01	30157ecea44f25790c155b02f1ba0221112fae2e	AE corrections, pp 380-389
+2018-01-31	bbbe334b3c21df433f85ded65a07e63c37f91631	KRM, BHS meta-line conversions
+2018-01-25	0e92d0cf3e849f769b72f4776273146ee9128c96	meta-line conversion of GRA
+2018-01-05	675b8ec6677a9cc5a94bd23abe7318de7d28188c	Corrections to AE, Pages 360-379
+2018-01-03	f8bb10686a016c4fa324481e20559b8c0455173e	Process user form corrections
+2017-12-29	d73ae8fbd7c9a6aca15ef83bcc1b15d566c9894c	meta-line conversion of CCS dictionary.
+2017-12-21	62e0e49780c574ec89316a6e3aaeff50e6ac084b	Correction form corrections up to date
+2017-12-19	90df3d3d4ee0a827a04fe726dd448c3573623b77	AE corrections (pp 340-359); mw print change
+2017-11-13	f29b071e0a59d98ee0fa30b058c332519256732c	minor change to see if 'Pages rebuild' error is gone.
+2017-11-11	d4a01f2fd5a22ed26befbe16b4fae37e75321ea3	correction form corections
+2017-10-24	6898e89504d75824170bb4399aa6da984ed0a117	Set theme jekyll-theme-leap-day
+2017-10-24	ebc6f1ce7c8830fa903f74c75f8a1bb87f3fabfd	ae corrections, pages 320-339
+2017-10-18	96f06ef33a225debef0abd4e2ecc1d7d8dad7e81	pw iast/meta-line conversion
+2017-10-17	f037456f9a4e0a36b18c7724c4ed7be6d5522715	Corrections to AE, pages 310-319
+2017-10-17	35cae4460903fda193388ba2f85ee0e1397797b6	corrections to AE, 300-309
+2017-10-17	e5305ca9c88067f3ac2bce8e4122cefdf17312e9	stc print changes
+2017-09-15	6afa5d86c41fef6ce46e26d9b97752057690fd59	English headwords analysis started
+2017-09-13	c5db36420e84cb02fcc9e048102a8d5d39c8bacc	Document "UrdDa' non-changes in vcp
+2017-09-13	ce5782cd36ed12546362a66dbcf893709cb7a969	document print change aBisaMkruD->aBisaNkruD for mw72
+2017-09-12	8e3f73debf6473dc67a4dc97cd548a25d96e14ad	headword corrections in various dictionaries LB  LB ref https://github.com/sanskrit-lexicon/CORRECTIONS/issues/410
+2017-09-07	ae1535e6362c438c1f0b9e398784fec80514ef3e	AE corrections, pages 280-299.
+2017-09-07	19c3bdced86a11fcedaf3134a5a9e80204fe5934	corrections to ap90, sch
+2017-09-02	00b30f1e3b058e943bd73de5fbb4134512015393	Bring sanhw1/2 up to date after VCP alternate headword additions and corrections
+2017-09-02	c206c47ae8b003eaaeaade349cfa999db12e4e76	more alternate headwords for vcp
+2017-08-29	f0ca9436324dc226c2595bb3aafd5ae47d9eb14d	AE corrections, pages 260-279
+2017-08-20	e3286100323bd442fe8c6f2f14091c4d65764be6	Correction Form Corrections
+2017-08-18	4e297c8ac7641fcdf4cd31d857715176c9ed319a	update sanhw1/2
+2017-08-17	eb2d7db6b127cafd36fd1a6d4d748dcf47f4a77d	vcp meta-line conversion and first part of alternate headwords
+2017-08-09	b8a146e9c90fa8ab80eb159eec18fdff63b1d6de	note recent changes to SHS, AE
+2017-08-02	668966ec4c3288a8d489d704f882bd8d3fb9ed94	mw72 Greek, next batch of 100.
+2017-08-02	725e70c573ce36150c9158184684b284a188bb0f	Corrections to AE, pages 200-219
+2017-08-01	6fa20bb07960e849bd589dba945849bae5d76757	mw72, next batch of Greek text
+2017-07-29	6d2a02794bde8e532d332509ff5ce9b5e9e6be86	Notice of BUR IAST corrections, and meta-line conversion
+2017-07-21	9b059c458d0c7f7696e36bee0eff671f030a660c	notify corrections to AE, pages 180-199
+2017-07-15	8797f89e416c84ed0b30019c47db125d547b1239	bring sanhw1/2 up to date
+2017-07-12	ea8c01736a154aa891b74ea9446ca0f533e3d622	notify ap meta-line conversion
+2017-07-08	fe70dd01ebbc5b5191485cae8cb44885130aac90	notify meta-line conversion of md
+2017-07-03	f29adf932434a5d31c80e569d0c5345e254703fd	ap90 changes due to IAST conversion.
+2017-07-02	6b474e5f2302d06b23d95f4f1e36a5358ca18491	ae corrections, pages 170-179
+2017-07-02	ccb3742d78bd23aa8ce0e6c01cb430cc6dd5774b	ae corrections, pages 160-169
+2017-06-30	4a7c9778aecd099184dfd6ffacb416938602c755	AE corrections, pp. 150-159
+2017-06-29	6227de3040c54c9532856c18fac366a2d9b91a72	corrections to AE, p. 140-149
+2017-06-23	48c37c314390e7537d69998e142c543d33f7a6a4	corrections to AE, pages 130-139
+2017-06-23	d66f4b9d5630916e9eebdc0b5d52ef3aaec8e922	correction to sch.txt; redo sanhw1/2
+2017-06-22	1822ad5ecbebeeb43c5da8694188cf1b5cf732e6	corrections to AP90
+2017-06-06	af734143c3720c872b1069bb4c15b35dd03d3434	AE corrections, pages 110-129.
+2017-06-01	65a92392235240e4cab375e2db48a894bfbac8e6	Yates restructuring, one new headword
+2017-05-25	bd62413cc806f99379e7deac2a6ab6379ea79f61	Restructure ACC
+2017-05-24	a85fd575d8f5409cb0ba6185378aef137f040830	corrections to AE, pages 100-109
+2017-05-17	7aeba9d628f54bd1b21572b0658d5d79cee722a4	corrections to ae, pages 90-99
+2017-05-12	2509660b895527ae72abfaaabbb3dd3dc80bbe57	ae corrections, pages 80-89
+2017-05-10	c792b46365caa342af99bafdba4a60c03b601726	md 'erish' corrections
+2017-05-10	482298dc87ceb462f2a806e076f0a51d3921bd8a	ae print change
+2017-05-09	01202607c1d65c0ab26d8eaff9b365f04e9ab30f	Correction Form Corrections
+2017-05-07	830b24559c3bdeebe5d10d1a8eb3cde2cbba5573	ae corrections, pages 70-79
+2017-05-05	b56d32b4711f68a50eb14a884316394b10b41e86	ae corrections, pages 60-69
+2017-05-03	d4415ca5aaf7579419f274a929ed57a7ca15ce76	Greek in Sanskrit, mw72
+2017-04-28	ab2a77e940406950f4d482ba1f6645d6815ac2c1	AE corrections, pages 50-59
+2017-04-27	6dba79a1b9646296b678236538aca70088a105b6	sch conversion to IAST
+2017-04-27	0c50e9246f5d946d127c684d5f1b30a1aefe9093	AE corrections, pages 40-49
+2017-04-24	1190e6479ac0f2ba77f6a21917ad980d3bb7425b	ae corrections, pages 30-39
+2017-04-19	3d11ec315116f291d1f73d2f4fc224d84d8bedd4	ap corrections for division markup
+2017-04-12	455605b89ba9411fff4911bbc26071043413e050	Corrections AE, pages 20-29
+2017-04-10	a2f7d30e61932ec0306d336d4b61cfd8f6d71021	Benfey conversion to IAST.
+2017-04-05	e5d52f38b2ec5fefa5e6854edcf5e79dd1c41294	Note ACC now uses IAST, instead of AS.
+2017-03-31	20578b3dae7fed31c6ce034e65b9f3ee6c91478d	correction to AE, pages 10-19. #340
+2017-03-30	095a72a876a336d5ae029208bfee9c4141af1c93	Notification of changes to IAST for MD and BUR dictionaries
+2017-03-28	c9cd87f0165359155eccd32d14929e7d261a5ddf	corrections to BOP (#343) and MD to IAST.
+2017-03-22	6f9cce5b4563d5ed656cf23f57e53eb95617f39f	alphamismatch regenerated
+2017-03-17	306c2e8d7fed55ed84b784e1b56cc0c0ce15e55d	Correction form corrections; and #341
+2017-03-08	81d43e8ea938e12dcd8b6013688b177765f84267	#339.  AE dictionary AS coding changed to IAST unicode
+2017-02-22	4cc4ba31f3429aac31e6d622035f90486701ffe3	AE corrections, #318, batches 26-7
+2017-02-21	ab1728ae507314024e0091fa3633e93cb8fe6f1a	Bring Correction Form corrections up to date
+2017-02-21	3094dd64768d3fa1f58b24bfb252a0a0aa56693d	Changes to MW, Arabic language markup, issue #337
+2017-02-17	14a2f36ff207ebeb2fc009897ff62977f06504fa	Corrections to AE, issue #318, batches 21-25
+2017-02-14	49c67ea302e71334203bee35b5729a51a89a61bd	corrections to ap90, ap. issue#336, batches 208,209
+2017-02-10	534b71d4eb7596d7c3588a5b8ce678efd82bf230	ap90, ap corrections. issue#336
+2017-02-04	b5d627f71a00d539922c70c203a336f0b2f8fb52	Corrections to ap,ap90. Issue#335, continued
+2017-02-03	38acd1e94719524f8ea2ebc81a2c846f1c400453	Corrections to AE, issue 318, batches 19-20
+2017-02-01	525587a98f9adc2fabb7598fbeb45bc28f097eb9	Corrections to AP, AP90. issue#335
+2017-01-26	7c592fa57659bf8c8f5a6f9ab9297c133a25c02c	AP correction, issue#334. ALso user Form corrections.
+2017-01-24	15d0fe48435b84689cf0a028d7bc6086d1d96730	AE corrections, issue 318, batch 18
+2017-01-20	c59f8ba7f81b91d933d68c0163b824d5905d9e33	AE corrections, issue 318, batches 16,17
+2017-01-17	1fc095cd87163f2b3d6321036430368294351dbe	corrections to AP, issed 333
+2017-01-11	75589f749193369355c5c3c10428e754622feb9d	ap90 corrections, issue 332
+2017-01-09	ad4d05b958cef2e253f6d71a6067c8c021367e78	AE issue 318, batch 15
+2017-01-06	a1e308a863468e0c2e4f6d907a2b5630b6971420	Recompute after hw updates
+2017-01-06	215ed214feb4ae1be53a0da4718d3c03cf8bad77	Correction Form Corrections Update
+2017-01-05	88b00456e0023de2db35d7211d115ef07919ef92	Report corrections to AE,
+2016-12-30	cfcf4541ce7a5062681e1432da6b4c117558991e	SanDic Source Files
+2016-12-24	5746c63dfa1f2d66ccd05ff9987f52cd07e06974	AE corrections, issue-318, batch 11
+2016-12-23	a4b1479fa0436b49552dbebc0d4c918c31852187	revise print error for Wilson
+2016-12-21	774fb7c8a92ae3c5149b7505785e78d37f056974	WIL corrections, batches 315-320 LB  LB ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/323
+2016-12-21	3e4c3441904d6f89afb21d3a4f7f2a2fde05aef0	AE corrections, batchs 09-10, LB  LB Ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/318
+2016-12-17	c9d56c441368b20bb56d6c6e7ba42dea358a0761	Wil corrections, batches 313, 314 LB  LB ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/323
+2016-12-17	13e0d0affb321461c313268528384fa292e9f74b	AE corrections, batch 08 LB  LB ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/318
+2016-12-14	886f9e314132188806bfafc81e3266a275cfcc7f	issue-322 mw72 corrections finished
+2016-12-11	a6fb87d516a541e5e8a8cdf41e8d6e442d0560d5	post latest corrections for AE and WIL
+2016-12-08	d1abe18d541f2bdb031c1d3bf253d54176997c50	process correction form corrections
+2016-11-28	9911eeaf67661e2ded5d1ac3a48e17338f40105e	SCH and STC errors uploaded
+2016-11-07	377fe01bf009a1400009e9043ca2427b13a0b9f5	Update from User Correction Form
+2016-11-06	012e30cd880d2ac2a83157a2383800574b6c0f72	AP90 alternate headwords
+2016-10-27	d869272fbcc63f298905336af6a939d1052a15c8	revise change to 'chink' in AE
+2016-10-27	223ffe53f5303493a2ba168e61022beed11db6d6	corrections to AE, issue #306
+2016-10-23	4f34a966bcdef10b5eb6c198119e62457452f3cd	sanhw1/2 update, with alternate headwords for skd.
+2016-10-17	cf75a9624da33f5d5581236dbec92629c3041ce3	AE issue 306 corrections, batches 2, 3
+2016-10-17	40aa9fff64d103e4bb1905ec39c5f79645aae5c2	Correction Form Corrections,
+2016-10-13	0ca05b3387e20b36736994c173322bb9a1f36da8	mw72 added
+2016-10-13	e6216ede11a2019e8bc2a8c89000cad9d284fb6d	BUR added
+2016-10-13	4527057e936fb4cfe2519af509ce522d74cca733	BHS added
+2016-10-13	670c87a31523409c641c5aa283cee1513be41a7b	ben added
+2016-10-13	119b6c57691d254257f78ab2b961ce4cbb314532	AE added to description errors
+2016-10-10	3d5d29fbc79e33a27113feee01eada8e5cafe081	Merge branch 'master' of https://github.com/sanskrit-lexicon/CORRECTIONS
+2016-10-10	e9f7c4d84a8e7c670a873f47615a9f3645bb0365	corrections to AE, issue 306
+2016-10-09	0606648db9defe4ff748d87f0ce96fa472b1aee1	todo added in readme
+2016-10-09	12d7c36e0df6ba6aa75ab15e4ba22da2e2c03bb0	added a readme
+2016-10-09	19a3c6b5e04a3bca0c9bea2dda768e1139ade249	majority dictionary description errors displayed
+2016-10-09	aa2513a8144a7dab252212d8c83bea02780a9cdb	Delete vcperrors.txt
+2016-10-09	020371cdbfe11f9f58af67f162e2dddc31b467c5	Delete skderrors.txt
+2016-10-09	327fecaf593a31cf0882359b0469bec631c63f00	AP90, AP, PWG, PW suspect lines prepared
+2016-10-09	7aa9a7b8bc8f7f7aee902bbe06541db70876f824	removed unnecessary linebreak
+2016-10-09	a8e08257709942d110f9b6f3b64053da68b3e735	description ngram errors started in SKD and VCP
+2016-10-08	5caaab4486b2a4df9fae669b1f2f977998f35a79	remove UL tag from PWG LB  LB ref: https://github.com/sanskrit-lexicon/PWG/issues/21
+2016-10-03	d3c17c4b15a2a07a891f734daef35eec0e21434b	ap90 corrections, issue 308
+2016-09-17	d81d0ef3e80cb0107b14f17e2d6a6fc7da855f1a	update sanhw1/2
+2016-09-17	714bd77de13f835c7ed34edda05750845d9c23c5	corrections to skd
+2016-09-17	a2d960418301f21a0e46f96b96f76e8add9715d9	correction form corrections
+2016-09-06	404ff76cd37edaf1ac87da2b4271dc93e9a76ea8	ae corrections, issue#304
+2016-08-23	9a91cecca6d10a33a9371c8e1a502876c66ef74e	Merge branch 'master' of https://github.com/sanskrit-lexicon/CORRECTIONS
+2016-08-23	792e2ffa24d4eda759975614f5f51e10018a08cf	61267 words added
+2016-08-23	6d4311e05ef22fb4191ff6258b1c01db72fecf68	user form corrections installed
+2016-08-14	d71a682cc0c13e70d18d03529d79842b45e43fc6	add latest to history
+2016-08-14	c1a62ff555fc3b3eee2d799f2328c82634bd79d5	corrections, issue #303, and correction Form
+2016-07-28	e8e4b8361f5b632c808a041225d662b12482ea95	install correction form corrections
+2016-07-06	1d93af1eb71fe32771f738b1f8055c9db3941e22	remake sanhw1/2
+2016-07-06	b27b3055d95e778bc88477ab975aa95f7db5565d	correction form corrections
+2016-06-17	9bfdfb95137abeb46a1387b9df2066136b2be2d2	corrections issue 300
+2016-06-17	699e76235db38a43c3713eea38e1c3bfbbedf540	ngrams for Shalu
+2016-06-15	709afdfe357f52275269c39d727169c9fb2df1bc	update sanhw1/2
+2016-06-15	afb7d2f880d35aaf0fceb69ef9bd8f5b30dfbe3c	corrections from issue 299
+2016-06-13	002fbe24dcf3fe0b7fcdc5e07755a8ba07aee94a	allvsPW trigram corrected
+2016-06-13	83b1b420479c5105bed05160956f8ed5c9da3596	1-100 corrected LB  LB https://github.com/sanskrit-lexicon/CORRECTIONS/issues/294
+2016-06-13	60bf174704af80bee29b86255dc3783121ae12b0	Devanagari conversion for Usha LB  LB https://github.com/sanskrit-lexicon/CORRECTIONS/issues/294
+2016-06-13	50a1eb9859d7025a651395381345ddc4f465c9ae	Revert "transcoder files" LB  LB This reverts commit 4b0dea328f22252b243952126bb8cadfe9c27c09.
+2016-06-12	4b0dea328f22252b243952126bb8cadfe9c27c09	transcoder files
+2016-06-08	927a74b6d0a61a9e61b40814a1a7084a29c08531	sanhw1/2 updated
+2016-06-08	e103b2b6ceece940d25ffab76786b30ee745edc5	User Corrections and Corrections from issue 298
+2016-06-02	e45fdb766c8c4134ace40cef18ff90d7df1e3967	correction to images in BUR
+2016-06-02	583f6be894fce41ce2f34e85dd25f30a295af51b	BUR correction, nochange, issue-296
+2016-06-02	8008c78798b05b5e902c1122a07596ed26e5c61d	corrections to BUR, issue-296
+2016-05-25	162e442a37a37316ac074b4384b9eb6ed6b0660a	issue-298-preverb1 work
+2016-05-24	42f76427588dc98a7f46d77cce5386a77ef30292	prep work for issue-296 (BUR)
+2016-05-19	5a85be9d8e09c7e7a9212956cc865fe83a56fb25	reference programs for issue-108
+2016-05-18	a9190612eedf91486f7c68e2b312ded5aac13083	issue-297 notification
+2016-05-14	6016b635f98e591df83a8c222e5abeaf7755cc5a	Corrections issue 295
+2016-05-11	d19635030e2cf590645dc34340d49fb8299976df	correction issue 259
+2016-05-05	07ba85a0455c892ffbe8416fc4be7df04fd2890e	include correctionform.txt
+2016-05-05	c39987b8a7051a84df2ecc09f1a343548dc73afa	Corrections from Correction Form Responses
+2016-05-04	9512e753c8d44210ca86de645bb6ca8ac96816e6	update sanhw1/2
+2016-05-04	26135fc32839508308152bcfce36a425ebaed447	Corrections to SKD, issue 291
+2016-05-04	4c5d4d34f023fcda6694f2b2f8697c3a45fb075c	BEN corrections, issue 287
+2016-04-30	49d753d7822134a560d5f6bbc535b05948cee1ba	HTMLs for testing
+2016-04-30	6da8193986dc023269f9cc62e38ccc77dc30a0f9	log ammended
+2016-04-30	e0232e9c84d55f3b5269de127872548d9a4737f3	removed 9,99,999 etc problem
+2016-04-30	a194989549089f7d6309ca821177ab372c8ce405	mwspecial - Not much useful to examine MW
+2016-04-26	7948bef5cd2bfade1af0af0ecd77ffb7261c49c7	accomodated the addenda corrigenda entries
+2016-04-26	cd6c8ef7772f489e2999b5618b69d46e1b4baadd	addendum list made
+2016-04-24	fa70a35f9e4122ae984eb404bd58165cf9a27bc5	MW addendum ignored
+2016-04-24	caa18df0d35c9c61d91b656aa6750291a9ad38db	addendum tried
+2016-04-24	13e4d5384e297853fb5db8cd8d7e115afac43828	removed unnecessary scrap from code
+2016-04-24	7a44ebb2e21598e816485d1473ae98d6f692a3aa	removed unnecessary mid-product
+2016-04-24	3475019e2809db9621fe7e79144be552a393c0bf	alphamismatch in standard format
+2016-04-24	e4c850aaef09763b6190cd953276854e18acdaa7	log added
+2016-04-24	59905afc2325ee6feeae96d97e6b8b76fd2a9284	typo corrected in alphamismatch.py
+2016-04-24	b2692457922d2569f635202aa3b0ffb2c9ad910c	Issue 292 raw data created
+2016-04-23	017e0ff5f5e2fc45c1538690e608617e5b24e285	Issue 288 uploaded LB  LB https://github.com/sanskrit-lexicon/CORRECTIONS/issues/288
+2016-04-21	cb233ea212f89325da3f8961ff765b63f4c5ef8a	revise prepartion files for issue-287
+2016-04-20	af80b218b07d4d2bd17388f17796324ab5962665	working documents for issue 287
+2016-04-19	0c949f5ba83ff9028e4c1c090cef5d0a09b64017	another working document for issue 290
+2016-04-19	c434ef2ba04ac3a6af62ec3b5bdf1af34db65611	working papers for issue 290
+2016-04-19	4540f348f543a3bfa6838e32de986d87ebddde4a	corrections to cae, ccs issue-290
+2016-04-18	6aec8b6d4b53c81634cf0d6506271e9a2cb41ef8	Working documents for issue-289
+2016-04-18	c15a5fc82a56a863213f051fa8eff8b2e3de5d58	corrections to CAE, issue 289
+2016-04-17	77d2cb82cc1a9f7dd88844015e449b2a857ae702	issue 286 corrections uploaded
+2016-04-16	7e74cdf87abc82d2b31f85a490cd8e1a7e868bf2	issue 285 uploaded
+2016-04-16	1ea9bc28142f273233edf575b811f3cf1a1b3444	added issue 284 corrected upto 100
+2016-04-15	476a2af2658a40e786c8af772c0fb2267207f154	allvsBEN 2-grams uploaded
+2016-04-15	29a3073eee4e96473b6efebf99ed5234f6768b6e	Merge branch 'master' of https://github.com/sanskrit-lexicon/CORRECTIONS
+2016-04-15	91e7a225eb65ac5398d711fdf3bc1ee7f9400bfa	allvsBHS_2grams uploaded
+2016-04-15	5c99b8187d6683d3656f056845c641dbe478083a	remake sanhw1/w
+2016-04-15	1e168aaf55cc79ffa72598851ab81fef45da4c78	corrections from Correction Form, several dictionaries.
+2016-04-14	74815db08d3726389a9db1fefb60a3cd09837ba0	corrections to multiple dictionaries, Issue 276
+2016-04-14	43f5790bfa39884cae1f669d92ec678a4f208b69	allvsMD_2grams uploaded
+2016-04-14	0297b4930cc59c81820a5181cc96b42b303f6892	allvsSTC_2grams uploaded
+2016-04-13	37387c5e6b7333422f0525cd8719f25fbbb93b41	cae alphabetical errors working documents
+2016-04-13	8d24f4e5e26d51838a7cc6a1baf40d82ed9f1ad8	Corrections to CAE, CCS. issue-275
+2016-04-09	5ee76d93364eaa2ee7071d737083e5ca9aebe348	allvsSCH_2grams added
+2016-04-09	3e4bc98ea0fa13ae09d5bd93f9ff209c8cf960bb	allvsCCS_2gram uploaded
+2016-04-09	4dc29dc0b45ec38543b155ebdb8b17e2098b38d4	allvsAP90_2gram uploaded
+2016-04-09	96a1afa27200ce382f11328c4259dfa59a9e2dd9	allvsACC_2gram uploaded
+2016-04-09	e62ad985ef6923e23e4b21b1283490d7d2117cf1	allvsAP_2grams uploaded
+2016-04-09	f3392fbdf0c5081d173cdd409a6944183bcc3c0d	small error corrected
+2016-04-09	28dc52601963d71093836819e8e37e8917ba5753	allvsCAE_2gram uploaded
+2016-04-09	caef3ea822e275e0c384d6e5f57af059c19aef65	allvsSKD_2grams uploaded
+2016-04-09	f5ebfeeffc6b07d637780d3987168f649a77a0bc	allvsYAT_2grams uploaded
+2016-04-09	cecd3fe6772a45f25cf67bdcaf24a09368d2ae70	allvsSHS_2gram uploaded
+2016-04-09	08dedfd6bff3ca05ab4885e02628cfe9a9503b96	AllvsVCP_2 corrected uploaded
+2016-04-08	84c46fc14395b1c96908af684e7cd62901755696	CCS corrections, issue 265, preparation
+2016-04-08	572f378c501635f812571af9a80c30b10273a7e2	ccs corrections, issue 265.
+2016-04-07	e5672705a128af21642e3dd679a64f481730bd85	update sanhw1/2
+2016-04-07	4f4748024df51f2239418d5fe4c4904690e9df64	issue-264 preparation material
+2016-04-07	dd6397ad3ae3ed44333c072eda6c9a74de4c71f0	CCS corrections - issue-264
+2016-04-05	4db58d80057f0024dbb487f85653517ba715f47a	allvsvcp2 till 50 entries
+2016-04-05	8ed52a7007d835a2f7a363a570ad977bdeda414c	Update sanhw1/2
+2016-04-05	77dcebb313830fc021237eb98151c1387bed9489	revise working document for ccs issue 261
+2016-04-05	256a0688611a3567cdc88555faecd48f3dcea443	CCS corrections. Issue 261
+2016-04-05	62f7b1ee235b7de9047bd45a6e57b06642f80ec5	pd issue 108 working document
+2016-04-05	417620658c8660faf9c3d743a02ecb8ecbf36fd4	Corrections to PD. Issue 108
+2016-03-23	1c8d97d52b1f747c56c54b60d4c2e9a9456b9bc2	ccs issue-261 preparation
+2016-03-21	55b294305b8c9ee302db73c2b702332055f4b02d	BHS verb forms
+2016-03-18	27440cc4208756300e3b49c5f857bcd6bd09ac57	corrections from correction form
+2016-03-17	2cdb070efa81ba60d5f23cd6ecce8dd0cbf2a59d	remake sanhw1/2
+2016-03-17	1f003f31fcfd2c611bfaa7387eb2d6016b84c864	corrections issue-252
+2016-03-14	41f85f20f888c59d9954fd046862e1f56b302e3d	MW72 2grams done
+2016-03-07	be6cd6daf9c55bd1b90637bfb018928e19bc57d9	Burnouf verb form study
+2016-03-03	31b38fbbde79016944c2280bb950e5a265837abf	foreign headwords in IEG
+2016-02-23	c3956401399f378889d63d9dcf28aae448cf8be5	Corrections to PE, issue 253 (Pluralization)
+2016-02-23	5783c7240cacc39a6487c8404c47c97ba29339fd	Update re PUI headword changes
+2016-02-23	8401d321b1bde535ac9caa4e30a18fd32a3e7e3c	pui classification of possible plurals
+2016-02-22	efed9fe09d7d63b55165ca934a0f22e473b957df	PUI plural work, issue-251
+2016-02-19	b42deecdae255136ce335744998fc0ea14b63a3c	Miscellaneous corrections to various dictionaries, sanhw1/2 redone
+2016-02-11	ac3dd2b4401de2fae53077d2ae53ff40dc3ff450	Corrections issue 248, 249
+2016-02-06	783c326b891f542228828b316f7e7c952ba34607	corrections to mw, issue-174
+2016-01-30	b4d9282753a3e3b11b53b4f7a35f35c5e582db9f	Correct root sign in display
+2016-01-30	51f6f5bf3f40455500dda05a7ffb1525d6679b97	rerun of the afem1mw displays
+2016-01-30	45edcab427e132fb39690bc6fbd3fae57dae9eba	test reformat of md file
+2016-01-30	650a4c58804f1867736891ca342ede9e67ace52c	Materials for study of mw headwords ending in 'a' and feminine
+2016-01-29	6eeafb26ab0c07c62cffff81e9f6f99591b6ab09	corrections to CCS, issue#201
+2016-01-28	b27315da257b1d5774cc0b8c29e32735f211b21d	Recompute sanhw1/2
+2016-01-28	32e68aac3736fa14033b8878ba34e3d4678502c6	Corrections to BHS, PWG
+2016-01-28	f682727ec9cbceb627933cfa3b6f81b184e176e4	Revert "Correction to PWG" LB  LB This reverts commit e28945f8e35a777041651e62bafc5d43c5b313a2.
+2016-01-28	e28945f8e35a777041651e62bafc5d43c5b313a2	Correction to PWG
+2016-01-27	7a340c5aa8afddbccf3dbb49e5bda2a11602a118	ap90 corrections, additional from issue#215
+2016-01-27	8069f97faad09547e7ece326c95ac286b995e688	ap90 corrections (issue#215)
+2016-01-25	8d2ff0d2397e478c69a85d6d475d651c7ca99256	Recompute sanhw1/2
+2016-01-25	0f33d858ad4bd01d91808feca8d0978108312264	AP: CORRECTIONS/issues/245
+2016-01-22	0945277a0372f98632568350dccfa5322e1f5fc0	recompute sanhw1,2
+2016-01-22	a9efd3c894fa8c7d66d134f16995440b98ef41ed	issues/243
+2016-01-20	ea24f45a1e80077117fcee81a2afab1d076abe5a	CORRECTIONS/issue/242, continued
+2016-01-20	2b01822fbcfac9650aac01dafb88d706a09e13f8	PW ls changes, CORRECTIONS/issues/242
+2016-01-19	e7fd80672523553b2af0f740bf448cda0026ed61	PW ls corrections, CORRECTIONS/issues/237
+2016-01-13	9d485932dd7f6b7bf8873ee513aa48618b5425d1	Corrections re issue 189. sanhw1/2 remade
+2016-01-12	35f7bc75579af011df3573cc9c6df1eb8ed865a6	CORRECTIONS/issues/217 - remove space from key1 in PD
+2016-01-12	1e8a944574b9d63d0723f8fa3e206e9cb1f49477	CORRECTIONS/issues/214, remake sanhw1/2
+2016-01-11	9b35b8f9cc2740082ea52d9a6cc986d1b07d21b4	Merge branch 'master' of https://github.com/sanskrit-lexicon/CORRECTIONS
+2016-01-11	8ba823d5b5d7f76fd24aa120ad799065630705e1	removal of IEG from bigrams
+2016-01-11	03df6c7a43371e541d5d99dc7ef8136fa542f724	Correction Form Repsonse corrections, various dictionaries
+2016-01-10	614628c07efd9c78fdd437494fc98a518686ac65	VEI and IEG removed from clash.py
+2016-01-08	438ccdd56fa311fd6f8d02d25a872464924803b2	PW corrections, issue#236
+2016-01-06	b38f3c7ebd7bf6850bacd91d961f8dd503ad5b7d	submittester explanation
+2016-01-06	3f0d00ffd58008cda33558b7db32023468a56a75	LS corrections for PW, issue#235. sanhw1/2 remade
+2016-01-03	23d62ccc0763f1732a64156051f1fa27654567cc	PW Corrections, issues/216
+2016-01-03	7d77070df837f4c23623c74b060f1fc8d5176a14	small correction in readme and PWG bigram file
+2016-01-03	7eb17ae010f08d8ef0a721f9d93002569b539718	submittester.py
+2016-01-02	80417004c399e5e7e6245c75e3d8d54e436f28d3	PW bigram correction submission
+2016-01-02	ed39015c77ca7f4fbed1f78770714cbba6c6e567	k1k2clash regenerated after VEI adjustments
+2016-01-02	e1ec0c92a5c1491c71b5968ce05610719fe284ad	after VEI adjustments
+2016-01-02	2f69c5bd081ec681dbae2a77c336fcc640f4189e	BHS alteration
+2016-01-02	a772d9d77b16cacedf01bb461bb6acc4deb8c688	k1k2clash regenerated after BHS adjustment for #216 LB  LB https://github.com/sanskrit-lexicon/CORRECTIONS/issues/216
+2016-01-01	56b6d6f7d31a0fc77b517de7d22e33afd6b60979	allvsMW bigrams submission completed
+2016-01-01	2ab66128ff73e0eab567fcbe4a8a0b8dfd37863a	till 175 mw bigrams
+2016-01-01	b49ad93eb2413836e4df08700e8a3dfb5e1fe387	till 100
+2016-01-01	ee22776ecde77a3de4f4f11fc9f4cc66ddb1c574	till 75
+2016-01-01	edb2513a14f46c5e92c63b54a92c93b73fe7dbd8	till 50 MW-2gram
+2016-01-01	520d7e3e2712588a2e6d1faf675532bec9e0ffa0	allvsMW_2 corrected till 25
+2016-01-01	7ff364c6de4506bbeff944db103cfcbd95042fe3	kLp file deleted
+2016-01-01	4dffca6a49dd06d3f7b23986f5d5aa148d9ba788	Merge branch 'master' of https://github.com/sanskrit-lexicon/CORRECTIONS
+2016-01-01	fbedbec5f2ea9ab33ab52dfdaa69f885d734404e	1 addtional correction for issue#212
+2015-12-31	1f1ba6f4f6b706812c7b9decca078de5fc2198b7	Merge branch 'master' of https://github.com/sanskrit-lexicon/CORRECTIONS
+2015-12-30	eb2230f93fd2e8c6bddd74666e14c93868e936f2	clash.py customized for various dicts
+2015-12-30	23fbf06eb0ca1af98ca5ab607053a58e1c0388ff	Corrections to MW. Remake sanhw1/2
+2015-12-29	18e8b1b9812558bc698faf388cd20026576a2112	ignoring known patterns dictionarywise
+2015-12-28	1e18301a78d1ec7657243be1fe8f03c153204492	k1k2 clash
+2015-12-22	084a2a46c26029bf30f679390e4ba6f771f94649	PW ls corrections
+2015-12-22	851d25d3832dd6d1cba1ca65e4eaccf69672abde	literary source corrections to PW
+2015-12-22	6cc7916f1062031003654e143731611d645c238d	Literary source corrections to PW
+2015-12-21	9f818019542e3ed51080a01562bca8a6a810686d	corrections to PW
+2015-12-20	52b7caebcf6e4a07f84e2e7c02a57834ea9ef8a1	1 more change to PW
+2015-12-20	5aa99aac156979692b570bcd39eb5fcec51f2293	Corrections/changes to PW
+2015-12-19	78afc284967b2b15949285b751857d63a1cc29ee	Literary source changes for PW
+2015-12-17	4568bed99f2114694297951915b292a5e2ebb1ae	spelling correction in xxx_printchange.txt files
+2015-12-17	9726f8a4c4ed180c5a291965493918b1c4f42570	corrections to INM
+2015-12-17	f8b2feb020a0e4a0b35f8e80ed21fc4e2b21afa6	Merge branch 'master' of https://github.com/sanskrit-lexicon/CORRECTIONS
+2015-12-17	e8cb6fbb72ebd2d18660ee635a4ab8ed4b7208e2	3grams generated
+2015-12-17	395cc7f7e1220c230084e3aafd819f62eae9fe0c	update sanhw1/2
+2015-12-17	33ca2812fd663da983beb59bfd767885a5b9767e	1 VCP no change case
+2015-12-17	9e22347482dd6a118bd50f4cf6ff6377249ded67	SKD no change cases
+2015-12-17	ecb8773dcdd57fbc43d92ad629c53e8224a2af29	pwg nochange cases
+2015-12-16	2307ca3c671bc2508373029385311a0a4aecc3d1	pw nochange cases
+2015-12-16	c554a3a1e10919bfafdae42aa8d417721744d23c	Corrections to MW72
+2015-12-16	31d7f940a7ea522076caa134dcb419106ff9d970	Correction to MD
+2015-12-16	5f5094e2282f030b88126db809a11a05ec284e11	Corrections to INM
+2015-12-16	e7d548209fe1f750781e8d5393a8b8388a70b093	Correction to GRA
+2015-12-16	8afadfd5772787895b033548fac92c71f2a1b021	correction to CCS
+2015-12-16	4dc5ff4dba3307dd3d84622e72857004c866e297	ngram spellchecker
+2015-12-16	c5b6529ff62825d2568b7ce5432b18a8978e5275	two grams auto generated
+2015-12-16	4890d9ca4fb42ac2a62f608be18a1f0f8224e6fa	Update of sanhw1/2
+2015-12-16	f290264698121572127d1d8e52d5ec5c113c9a79	Corrections to MW
+2015-12-16	b281ef3719ba8e5b67e8f53b0ac52ad2bdea7797	WIL corrections
+2015-12-15	53fdbe629a9fe18e1ae6fd8479616d22ddff0031	Corrections to SHS
+2015-12-15	d84d1f2de016403eecedae73ecd293688bebf48f	SCH corrections
+2015-12-15	412210750e89976bf6c4efef2ca53fc8dbd729b9	PWG corrections
+2015-12-15	0f9403a43d7a966efcf339fb8bdcecd7f31733d1	PW corrections
+2015-12-15	8c617d5dad7ec7108fa1fe1d233f19731631cf1b	CCS corrections
+2015-12-15	f7fecc626c69c500eb637d1d00a165a5c8c7ce6a	corrections to CAE
+2015-12-15	22822a3853c0f61f71d671df12c0b2192cbe740f	corrections to ap
+2015-12-15	69947f5f6b36f58019b4e1a7fd27ba4b68ef4de8	ccs anusvara
+2015-12-15	58cede6dd696c9f194773b434e56c88c68625952	PWG, SHS added
+2015-12-15	cfe3dd965956d5038c284142fee09f492a3f3e1c	correction to skd; remake sanhw1/2
+2015-12-15	f0affff2ad184b3891a4d3e914cae4aa9d9c2e77	correction to ccs
+2015-12-14	39e7efe079964080da272dffe614c50522dbf122	corrections to ap90
+2015-12-14	f18ebfff65ef15d08d776a39ff142c054fc709a2	AP, PW, SKD
+2015-12-14	8b502b20a49ca2b841a72489aba7ed40705b7598	allvsMW_4 removed (Too many false positives)
+2015-12-14	0eca3101e7863aace7eda081c45a0bdbd59c8bbf	Merge branch 'master' of https://github.com/sanskrit-lexicon/CORRECTIONS
+2015-12-14	8d342979cd954ace39ce5d3f4d2885f21fe066df	SKD ngrams and DGconfusion
+2015-12-13	585fcb743fae092e808afd025b459b20c84f76d8	literary source corrections to PW
+2015-12-13	cdfd6712f29a4bd7c50e09e0a1eb81189a9ec46d	allngramtxt.txt ignored
+2015-12-10	5deed4c63b9534d9b2babe56aa18470cb022c339	Merge branch 'master' of https://github.com/sanskrit-lexicon/CORRECTIONS
+2015-12-10	a53b3ecf3d4287a143bd379211390496ed1185f8	abnormendings 1 and 3
+2015-12-09	7b67effb98334cdb1fc6971bf36daedfcacf7095	PW literary source corrections
+2015-12-09	88734c8c1fdf41380b8910ff91e3266193a66705	Correction to STC
+2015-12-09	f94145005cbb313e455a94118b3ef8d14eab0ff7	Correction to GRA
+2015-12-08	75110f57a9220f01e005b7d982e6fe6769110477	correction to mw
+2015-12-08	e09c9c46d6976341dc5f2b2b9a4fba4581e9bc6d	sanhw1/2 update for ap90 correction
+2015-12-08	ba7f245b0d3b251803aafb1deeeb7203a967c7fc	correction to ap90
+2015-12-08	cac5ef33d86ed884ed4ddd1550bdd11e46301c22	Corrections to PW
+2015-12-08	1cfc460c27eb6571f22c14a042eb1485424cbe26	all possible ngrams
+2015-12-08	2aee19dd9957246a6abec343aede5bcfb7274027	html for adverbs
+2015-12-08	fdf1f9ae6c7e97579c2a2c29d2868a579a0e7628	adverb errors
+2015-12-08	0141cd42dfea63de29f9e15ea3b68abda2249058	Corrections to PD
+2015-12-08	3ab3d8fe2ab6f26cfec35b9103afd4d9f66a5728	md nochange records
+2015-12-08	bdc6b3a2ce0f8eaabf347441cd9af6cbe8bf3892	corrections to mw
+2015-12-07	8e46449ff9af103dd8178dfa6fa1c2472632c210	corrections to PWG
+2015-12-07	75cf63d84de82b4913c090080b8f63076dd8d532	Corrections to skd
+2015-12-06	dfbed38e743fdf1619b2c298b272d3c54ed87ccd	samasa trials
+2015-12-05	19a5cc9a0e9eac18fd7814c0761bf50801d9cf60	samasa normalizer
+2015-12-05	d0ca554cdab9a384433ff66f6e48eb4ddbe83fc1	try split
+2015-12-04	8b32416727b2708f0a7700cfdae8616a758f338b	trying samasa split
+2015-12-04	ee7cb2cad4310dd98caddbbcab605875af3754ba	Added check for previously checked entries
+2015-12-04	be61151afc35573158c5287b33f3c9421f246f61	ngram.sh
+2015-12-04	94bfaa0935d77f651f12dba5d27317117d23d226	MW till 2 regenerated
+2015-12-04	23771ce7a16044c58e413b4d38cf84f068db4d90	history.txt saved
+2015-12-04	95b24751c0e2d33c820a95287545491da40e8acb	corrections to mw
+2015-12-03	a1bb2700e8e2dd2a14517898f2d2f86a1bff0717	Correction to PUI
+2015-12-03	b7d216dbd3f1db0a5967503586992e582b9b7f13	highlighted the difference
+2015-12-03	e0b002584866d626196f37359ee5567ce57a0d62	nonalphabet
+2015-12-03	b911712a8a9296c44b022fd2b6ea3eb698858f3c	htmls in ngram
+2015-12-03	df22dcd4bf3e224544374d9a53c338cbc5fa1d19	Merge branch 'master' of https://github.com/sanskrit-lexicon/CORRECTIONS
+2015-12-03	cf6a863727d8fd3f2a5d222d596526eda8db3a66	sanhw2 used instead of sanhw1
+2015-12-03	7a650cdfb196f8073310d3398f05f09147493e3a	CAE corrections
+2015-12-03	d130aee39f6a733ce802d51453b4efa5573f5756	corrections to BUR
+2015-12-03	f6caa1bf9eb417db040eeaffdf849c43917806df	corrections to BEN
+2015-12-03	af6d3d4d3f267b7d06a2bbf665ec8b73a8d92cb7	corrections to BOP
+2015-12-03	5284f190afc9c56300e5169f212ad132cc698434	correction to ap dictionary
+2015-12-02	6ab12355fde555389a31b11af11c4699ee01d58a	acc corrections
+2015-12-02	c3006281f997f05e209ed399889a51df3c97340e	first commit
+2015-12-02	11ea8dc6074c5e4478dc4ea9b68122ea96aa849f	html file and shell file
+2015-12-02	3ed411d3234cd36dd9aa649dbc34e18016915623	abnorm - only single dicts
+2015-12-02	2a7764abd95e0c755203912ab169e13bf88b4fb0	Merge branch 'master' of https://github.com/sanskrit-lexicon/CORRECTIONS
+2015-12-02	0d7782617875094fa4acc89d21f1e67db3788769	abnorm.txt
+2015-12-02	cd801863ba75096c8e19c31bef8dbf30ecdec550	Corrections to ap90
+2015-12-02	b596a36aa6cf6f7323ae9f8bd47539e30d708675	correction to SCH
+2015-12-01	d3796443847b8ddbce45f5b8e6624aa05192f9e7	pw nochange record
+2015-12-01	fc6e0e037f7b503c815bfe72ba2c527a00dba8c7	Merge remote-tracking branch 'origin/master' LB  LB # Conflicts: LB #	corrections_nochange.txt
+2015-12-01	a589e3d2aa1ab28e4bb125aeba59f6d3501b344f	pw corrections
+2015-12-01	a4d60a9a2077e41473a693494968a4d1b15e8298	two automation scripts
+2015-12-01	5a3bb577eb5ea376b96089ded2818ca149319445	Update corrections_nochange.txt LB  LB issue 163
+2015-12-01	5cc1efcf9ebf46fca1979c85864f0031908103ce	ap90 corrections
+2015-12-01	f9b437f4642dafbb47a0277a53ecc4ed744115aa	Update corrections_nochange.txt LB  LB The former version was in error - some html file.  This is copied from https://gist.github.com/funderburkjim/31056c8e340d8c9cbc12 and should be probably up to date.
+2015-12-01	b01b729c0d4bf5efda78e11eb933ec4dd7cc53f5	corrections to pwg
+2015-12-01	9bd34e918b21ad75c0379b934ddc487aa13d23be	correction to AP
+2015-12-01	a76cb61c40ceca9317b4004fb319ce4def2b6152	ccs corrections
+2015-11-30	67c9d6fa534ef37370cdc278e00276a360d795ac	PW literary source corrections
+2015-11-27	2d839bfc99aebbf2dc6a89730715b24dcaf904dd	corrections to PW
+2015-11-25	80df94b426a554e6a7d65e89345c5c4b96a4e690	initialize corrections_nochange.txt
+2015-11-25	5e6cecc356307a26bc23ff55a14e0c6a8b29a281	ap90 corrections
+2015-11-23	ef60068d1bc0b6baa131ea494b28f7e41c0db76c	update sanhw1 and sanhw2
+2015-11-23	c4a0aed8d1f86a38e0efae4a74c6bd73759aaf96	corrections to mw dictionary
+2015-11-20	58cb82cbd11fbb779604ce7092086e0907eff3d4	Corrections to STC
+2015-11-19	7eb6313f2a6e93532a8c40f3ccb4cc277dbc70c6	Restored xml files wrongly deleted
+2015-11-19	c8b5abe70e70a86f131dff8c6fe74835297c1018	afem.html
+2015-11-18	2ae467613219af2e07374160925b85d0363dcd75	Corrections to MD
+2015-11-18	644736676a80f7d961d6ef6432a4bfeaaef7efd3	readme added for afem
+2015-11-18	68c4ab4988e327326bbcdcb3da5a5d2c93bc4850	Added afem for all dictionaries
+2015-11-18	f030e83777dba485b028f97c4f69c449212a7152	ben, bop, bur added
+2015-11-18	fd21ae037cd1fb522595e399c0d7a4b790d9185c	regex fine tuned for AP,AP90,CAE,PW
+2015-11-18	88e663d38afc579dd21176e908bf1ea946229641	afem - akArAnta feminine generation started LB  LB https://github.com/sanskrit-lexicon/CORRECTIONS/issues/53
+2015-11-18	10c15e1c90036c96e760278b4ac53b52b7a47788	Benfey corrections
+2015-11-17	9a73290453c7c7e0dd8c7153088f9f88cf72374b	typo corrected
+2015-11-17	9aaacb67e52a6cc2712262036972461782eedb53	readme nochange
+2015-11-17	8c3b27be1945098c26001e0e51934cd1fb6f049a	readme spaced
+2015-11-17	e3bbf29b4178a23d341d96b19ae870ff3c78c623	nochange for all issues LB  LB Except o_vs_O submissions
+2015-11-17	1160b4c35998b4c3163680011e49b2e280582aed	anudAttaCAE.txt in testedfiles LB  LB https://github.com/sanskrit-lexicon/CORRECTIONS/issues/40
+2015-11-17	601212586da5890dd47b940a99a1874c945d2233	readme for nochange
+2015-11-17	56e852428fbc124a975902a16ddaf8b35cc0ca26	removed upd folder once again
+2015-11-17	7527c0183b12621313788194076811aaaff5c2cf	Merge branch 'master' of https://github.com/sanskrit-lexicon/CORRECTIONS LB  LB Conflicts: LB 	pw_dhaval/correctionwork/correction-issue-155/prepareupd.sh
+2015-11-17	7f22e2f31186365f2a9eb2d42699fa94cc9193fb	nochange files generated LB  LB https://github.com/sanskrit-lexicon/CORRECTIONS/issues/153
+2015-11-16	4c31d4f6d066d132102c23e855494159ac1e520f	move to https://github.com/sanskrit-lexicon/pwk/
+2015-11-16	5a0ac16f3caa1711b2b8985f4bc92ab86ab7789a	faultfinder3 output file uploaded
+2015-11-16	a8c0423db46116e9f247f748820142f6515beea0	Further refinements in nochange LB  LB Checking whether the word exists in sanhw1 and adding only if it exists
+2015-11-16	046c7187be18a7ae5a23a673fd17d855d7ceb8b9	nochange till issue 32
+2015-11-16	b76a8bbc4a0c4088eb4339890dd0d669d31aef72	nochange till issue 23
+2015-11-16	65ebd1fea90a1d6d70f3eadac1f9d472c1d95d9d	Readme for nochange
+2015-11-16	a5ff5be9d09b79ad88ece7c1fb2e1ac04cfddb92	Started building nochange list LB  LB https://github.com/sanskrit-lexicon/CORRECTIONS/issues/153
+2015-11-16	4d52b64c750c084cd0aee713e6a331c92ab7bec0	minor
+2015-11-15	05beb201106170ab8d8e4f451f23548f25871039	Updates to MW
+2015-11-15	b6dae23011d29c05230c4389a2ab1fb28aca33cd	Code alteration for autogenerating remarks LB  LB https://github.com/sanskrit-lexicon/CORRECTIONS/issues/157
+2015-11-14	ab3a0302a89abb590c6d4d8820187508553b17cb	add comment re SAmBara
+2015-11-14	4c4602c2193bb657b3e29edae231189f9e96c8e0	update sanhw1, sanhw2
+2015-11-14	8ea5552b828c1081b6996fcbb5e05589afc48a44	move xsl documents to folder 'spreadsheets' LB  LB This is done to simplify the top-level structure of the repository.
+2015-11-14	c302329ac251776a9af85f8f9ef2965521558220	initialize and update dictionaries/MW/mw_printchange.txt
+2015-11-14	7feaf519c97fe9f814e493c84430ca6d92efab16	corrections to MW
+2015-11-13	ae3820988384341256d86ae4f1640102f14df91b	pwg corrections
+2015-11-11	b071e73ffc4829bae816500096ac4af3dbb54818	initial version of acc_printchange.txt
+2015-11-11	d2149e8256900f5f28bb153ed4b6c6b8413df4ed	corrections to acc
+2015-11-11	ef4426c57af4dd9233393267f1f1ec0dd3a6626b	change.txt
+2015-11-11	304033abccc179172c492369e60ef0c98959df47	Trying to generate pwupd.txt and pwupd.tsv LB  LB For auto-generation after correction submissions
+2015-11-10	fa0c990f8b3a6115d5ee36d822cd88b82e07d20d	links to webpage and reverse
+2015-11-10	d4d60a29c17fa307cb540d1f1bb79d32032f3b7a	PW abbrv lists LB  LB https://github.com/sanskrit-lexicon/CORRECTIONS/issues/147
+2015-11-10	b487a1e488d614264f1711e6ccb7d0fed159e04d	correction_form_app, initial commit
+2015-11-10	f356ebd53105b4d28f8e9df0e16363aff1dd4da0	PW correction, diaresis to comma
+2015-11-08	68b8635c181842fd05b994f5d2210590b60f50fa	PW abbreviations research LB  LB https://github.com/sanskrit-lexicon/CORRECTIONS/issues/143
+2015-11-08	24c2f0cab61224f6648b659a40e002e92022bd76	abbrv.py commented
+2015-11-08	9a54e302e511e9fcf2b932d427baea5df508ed06	updated the ref files
+2015-11-08	c35dd5ce713180cf72f43eb56a34dba87aabfd1c	sorted file added
+2015-11-08	ab63006b7f7252bb043fd0c96d2e55bfe9ca5f6d	PW abbreviations
+2015-11-06	956f52cb082822c16afca5c6a87407aeefde6efb	First edition of pwg_printchange.txt
+2015-11-06	d9b047407282bf6429ce3c1a35d2d6d64e3a3eff	pwg corrections
+2015-11-03	81ffdc672793d353a84cdc4a4b6a24d44eaa4f4b	First edition of sanhw2
+2015-11-03	c78e89540b6970a121b613ec5483baa6141f58fd	new edition of sanhw1
+2015-10-23	cf397eb771f9151dc8c16ceff71b233d4be59323	correct Lnum mistake of prior commit
+2015-10-22	04879c2266a9bc790ea4158720f8752190e4a234	Two corrections, to PW and VCP
+2015-10-22	90c289d10edacce1feb809733e152d1569d79ed6	Corrections to MW
+2015-10-20	7adeb9cc0a49022fa59cc658119886b494df83b5	List of wrong reading words in PWG LB  LB https://github.com/sanskrit-lexicon/CORRECTIONS/issues/130
+2015-10-06	81cad6c921e284a71846464791a05288743babc1	Bring up to date from correction form responses
+2015-09-28	4229a303a906bec3b1f1552970d19b69c6862438	Install Correction form corrections
+2015-09-20	f3f0aa00dcdd47accb426689b636ae473bfafc74	Install Correction Form entries
+2015-09-09	b79050bdb1b6ae594b353d5527bc6c45e85fdefa	PW anusvara headword corrections
+2015-08-30	53e5b4da7891220be6423ef5d579d71684b7626f	Implement correction form responses
+2015-08-03	82b3c34fdef76344c19e45c8099dd41ae3743b17	Bring sanhw1 up to date
+2015-08-02	68c6a58837f8a838d673726e58b1f5f9337c6b7f	bring up to date
+2015-08-02	c37a66398df5c80a0e73a8aa690ed8d0c5c4958a	correction to sorttime in cfr_adj.py
+2015-07-19	2b4a0ecdb46b4903c8fbd1d483184f2b884e4520	remove unneeded message in cfr_adj.py
+2015-07-19	11d54fedd0280f79f1c433f9549fbcbf20666c8b	Change cfr_adj.py so Case-number consistent with date-time
+2015-07-14	6fd58dbfa238c93bdd7e74450f4cabe7f20a79df	HxA corrections to MW
+2015-07-09	fc22b56d5f8bf83ae75b98275be08799c1ef00c9	Bring up to date
+2015-06-26	72699714ba6765cb47f2d06ec0f15e51ec79bcf5	Bring up to date
+2015-06-04	1897dc16f225706c38f2ee8d70a4cfe0c793ef2c	Mention PWG Greek in history
+2015-05-19	ef12d832c76870fb4453bed6dea30b741d53e42a	Bring up to date
+2015-05-19	22af6f00feea6447e90ceaadb5ee7a32129ee39e	Bring sanhw1 up to date
+2015-05-16	58a10a891dc9807e1ab9973fa4e6ee4443543809	SNP corrections (none) based on faultfinder
+2015-05-16	fde4a14d50637c0352fd447f35f0e8adc593e280	KRM faultfinder analysis
+2015-05-16	7635022d115d257982df03d49fe974909813406f	PE corrections based on faultfinder
+2015-05-14	e835ab95ae6ee4881a2e1df33f05739190ed78c3	Bring up to date
+2015-05-14	960e92a512714cc9ab804ac99a2765ee5a8b7f53	MCI corrections from faultfinder
+2015-05-13	6b98e2d0ba8665034533497807540bf566bdccc3	ACC corrections from faultfinder
+2015-05-11	2aefb9ec1b637065d9890f19a7c60778e9b7f31d	PD corrections from faultfinder
+2015-05-07	8c2e2cd010cdce57cb08db31d8ba5ee7da29e4bf	IEG corrections
+2015-05-05	61a5ac5b63eb84f32c3f9dafd4566034a06e894f	PGN corrections from faultfinder
+2015-05-04	6fb7b33163389cedd3496f38b817018a978518e1	Corrections to PUI
+2015-04-26	1be2c9453b881cae379948bb26280738edba6b80	Work text files for PD faultfinder correction work
+2015-04-24	7f40e7845c44feab97a634469933657890840858	faultfinder fuzzyalpha work files for IEG
+2015-04-23	88ab771ddd9c6a680cbe2f6ab3eeb4b94c0cc7d7	Corrections to Greek in PW
+2015-04-21	36b7d84021310d8f7d254110c0ec57740b528d84	upload pgn fuzzyalpha files
+2015-04-20	feea26573a1453006fead5bf99b6b05f52750fea	Preparation materials for PUI faultfinder headword check
+2015-04-19	61b37e2ee59c4f12fef0db914a1c26f836357ff8	faultfinder corrections to VEI
+2015-04-19	dd1507174e8eb62b08775dc0ca40c3f860327c0a	Bring history up to date
+2015-04-19	548a75c4b1faeedd277ee55a5f72ae02401daa96	completion of MWE missing cases
+2015-04-18	b4da0b39a32c06485d5e1156cc91bd3cc73dbe07	Arabic/Russian in PW
+2015-04-18	f830349842fb14ad80afde324a0daf4d4ec7ec1e	work document for vei corrections via faultfinder LB  LB ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/98
+2015-04-16	d2dd469147a1116796783f923eb311778dcc8f3f	bring up to date
+2015-04-16	6b9e350cce2504e196a81e516d0b0bcaa6e96e91	INM corrections via faultfinder
+2015-04-14	71e874e88d6f767ebf645715ecb04e0496f71e0b	Dhaval-requested modification
+2015-04-14	52cd6e089af1906132f4626688f52bc890618dc4	INM preparation for faultfinder changes
+2015-04-14	e58eb32efb1feb987c9d99f1b7e2494aa1c9691b	Update sanhw1
+2015-04-07	bf9491dc876d9e8ed172073ac668e6fdd841cc77	Bring up to date
+2015-04-07	2debf6d266fe4613c48aaf2a0e6b842ee37e171a	PWG Arabic in Sanskrit, first gitignore
+2015-04-01	bde656a136e13f4accc123840d2d5880219e5fd8	Convert PGN to SLP1
+2015-04-01	4d0328a62198ebf05e930b6a15fd5790659a634b	Conversion of KRM to SLP1
+2015-03-31	bb2d26a45286e68d96ea315444ee9b0141b1b38a	Delete history.txt~
+2015-03-31	fa23d0dbbd2faac66e60b96a13416c9c1ae5875d	Conversion of BOP to SLP1
+2015-03-29	c30a454843d7a98591fce23031dc8f50c4d0416d	PD converted to SLP1
+2015-03-27	8ef20123b255b17b23a22d65341241cdd6096933	History updated
+2015-03-26	9eaaf0a9a5c04e9ae818f45ed8ab7bae4c31b0f9	MWE missing working data and todo file added
+2015-03-26	90524b46b0c04ddf00888647ba9332b629dd1464	Correections to missing Data for VEI
+2015-03-25	6f74347c74cdd2c138a4d0cc2d34412fdc8c3b1c	back correction of candrabindu in SLP1 coding
+2015-03-25	9e2816d0b624762dd0702ca976b4770da50b4f36	Corrections to PWG (candrabindu, <NV>)
+2015-03-21	6d0ae7b2ac526e489985bd46e78e5fccb597a21f	Initial missing data in INM dictionary
+2015-03-17	321a747e472d2496cb4ecf1360eb48219f4afc6b	Bring up to date
+2015-03-10	be0d7e630732c86cd61785112d4cfd9ea516af90	Notice of WIL-YAT corrections
+2015-02-22	d1266da17a869dd58d682979b70fa962c2cffa0c	bring sanhw1 up to date
+2015-02-22	97bd7dc36b5773814d6b1908e35c2e4bf2c5bcdd	Bring up to date
+2015-02-21	acf14e3a25fd95a7dc7951b03e6d2a428ab535e2	begin corrections_factual.txt for YAT
+2015-02-19	aa8971611c2db9f14b666dc160f77ccddffcd97b	saptapuruza
+2015-02-19	70a6fae3c4a3697e12a2b0f0c85a787e99b905f9	Bring up to date
+2015-02-19	13ec0ed7bf252202f70deaa04dcb6b42b2c4b35d	working data for PW missing
+2015-02-09	a4b02d9986f3e57ffc21bf0fcfa4e51a301eb440	suggestions for ccs headword corrections LB  LB See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/82
+2015-02-08	0e7b57740b4a0f749fe9643b6fb8df36c7c3364a	Clarify history
+2015-02-07	b25fa32578333b5a493f71d837584964960df331	Bring up to date
+2015-02-01	2e31c71ec12bd409b236c0339c4e13925d47b88a	Bring up to date
+2015-01-28	62456cb7de41bf91bb9acce1a30b52a5aba51f8c	Bring up to date
+2015-01-28	3ad74ecd5984edef81ecf0d405487ea511089c0d	Bring up to date
+2015-01-26	abf2af596aff76f1797d307e6aca7571ca72730c	Bring history file up to date
+2015-01-26	4f841b3e1499b3e806581155aac005641a05f049	Bring corrections up to date
+2015-01-22	5d1a5154ba775f4570945837e3d230b5aabab76e	Sanskrit-Russian dictionary cleanup LB  LB non-Cologne
+2015-01-17	46e101628736813e503d23566dbcce0abc1d3cee	Bring up to date
+2015-01-09	a04aa98c03dfdc8e0aa969bd9e634a176bd0c1e8	Remaining list of Wilson alphabetical misorderings
+2015-01-09	aa5d3d2adf755357564c5fb8eedd53c30da20b9c	Bring up to date
+2015-01-03	5f151c1e97b21df7efd5377e2e3db10eebc5afa9	bring sanhw1 up to date
+2015-01-03	8828c6ef1faa16b5b12ec7d02bef89a88dfa5bf9	Bring correctionform up to date
+2014-12-30	22e7d6a106f811ee559af40d62a13572c4844aea	Bring sanhw1 up to date
+2014-12-29	e3dbc6952319a12f382e4d846c419fdcdcacd72a	Bring history.txt up to date
+2014-12-29	a4311e4c50041d3c418ad86b01489258a350290e	Initialiize factual_corrections.txt
+2014-12-29	e425510d77250448b690ff4fc55732b179fe09bd	Bring corrections up to date
+2014-12-26	84fe97ea259e6edfa0e712774e3273994058a59d	Bring corrections up to date
+2014-12-20	66a3a98071b96762009e5bc9591f100cef91704b	Bring corrections up to date
+2014-12-10	16bd60266bba2d874ec5dfaa7a4a57373536b6fe	Fuzzy addition to old Apte release
+2014-12-09	5d6acc314545e8c51fd5ac54151522f4d66be8b8	sanhw1 brought up to date
+2014-12-09	3d80423c74654388b030ca8be80b8c4290c23b84	Bring corrections up to date
+2014-12-04	d15ea4f8633a24b207311efebfcf5a04296f4ad3	Add sanhw1 to this repository
+2014-12-04	4b65f2524c7f58909c3ee4e02c5f6eb718d162db	Corrections through 12/03/2013
+2014-11-30	9f0dada5f9faae4389b8fcf3900b4cb01e3b6b0c	Excel file with same data LB  LB https://github.com/sanskrit-lexicon/CORRECTIONS/issues/42
+2014-11-28	76dbfc5c17b8d690dcba68a5209c26dec219f20a	Corrections though 11/27/2013
+2014-11-23	e293544be052815cb1d0a3fc9d67c4031b369542	SKD corrections via comparison to MW LB  LB ref: https://github.com/sanskrit-lexicon/CORRECTIONS/issues/38
+2014-11-22	3a630f5b12186087f0433b12ca5ed381e96777d8	Correct guvvI to gurvvI
+2014-11-22	82fbdc2459947b853de80d770c8afb6c0ef92c22	4 overlooked scan errors corrected
+2014-11-21	58d59c4fa3b25ee8f3843eb0d815e40432d1ca11	Revise stanBa instead of stamBa
+2014-11-21	fef240a0b50225c4432cd8ab0c6401e07b721997	VCP corrections with faultfinder based on PW
+2014-11-21	332dbab0fa48f7139256afb1c6ae7d2f97d270b6	VCP corrections by faultfinder comparison to MW LB  LB See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/32
+2014-11-19	8d9a04ec79e7df0b3ce3cc6f6fb85d583aaf5d73	SKD alphaerr corrections working documents
+2014-11-19	45aa700d7602709f9d49a53ca82c7b74c9033828	Bring up to date
+2014-10-30	a39512de9f2f73926b81c0326e1de81abac3afa0	Bring up to date, Oct 30, 2014
+2014-10-22	787042591e4f0f9b2b53b6e2080c3f1be21fa91b	bring up to date LB  LB backfill history.txt LB skd/skd_history.txt
+2014-10-19	73cb450c059ce97d38bf83db80cdc74673693ad2	Update history.txt
+2014-10-19	f3feaf3905571122a5708430a1fa352245e8caad	Accents precede visarga also.
+2014-10-18	9f05121e4b011eca22a7b2d11916b4d18fe51962	Begin history file ; update readme
+2014-10-18	b5536c2ea8300969c135da3026b89925589eda08	Headword change summary from Ahlborn et. al.
+2014-10-18	5a7390d8736f2f59e8d349a28189e3373de69a5e	Updated for dictionaries folder
+2014-10-18	10eec4c92a2cc34a217e39021680fac74a7f6b0f	Make dictionaries folder, with subfolders for each dictionary
+2014-10-18	24c68d793794944bbb3ac586c376dd416d28a789	Update README.md
+2014-10-18	5faf910b13f5c0eab344b87d7783890fdff0b0c0	add directory with correctionform for each dictionary
+2014-10-18	86329c79fc401b24096044242fbb4ff97c0fac0a	Bring up to date
+2014-10-16	0ff3c3810c2c4bd019230ff2735976927f6c3257	German old spelling dictionaries LB  LB https://github.com/sanskrit-lexicon/CORRECTIONS/issues/18
+2014-10-16	949b2eabb3826b47ead65b8c5a4bb1c27e8e2f57	wohl so zu lesen st. LB  LB False positive: <i>zu studiren , zu lesen.</i> LB Correct:  <noti>Wohl zu lesen</noti>
+2014-10-15	d5d9b19d46f585815a29e403c5c9ee62c85bab08	PW corrections: historical + Dhaval's
+2014-10-09	3ae3d572660a367a9f0c7d6f63b91ff51bfbf2df	Dhaval's corrections
+2014-10-03	29c61bb2db4c5da6f36e206bbb17c4c1a938d05f	Resolve pending cases
+2014-10-02	fc6425eef0c8868e5c873b583df0c018e8013c05	Corrections through Oct 2, 2014
+2014-09-30	c25d7de00947c17ee245cccba21f9cc9424bb619	Initial commit LB  LB Cologne Sanskrit Lexicon Correction Form, History summary
+2014-09-30	e1ccb24221a058e2c188fbee9b58c09b186b938d	Update README.md
+2014-09-30	fed7c9d9b720c0473bd38243062aaa4c03e46c77	Initial commit

@@ -1,0 +1,6 @@
+date	sha	title
+2023-04-10	9fb6a6864adbcef74c52c2eb450fc50918b2edb4	update README.md
+2020-03-10	8cc498b236a4960a08a2abab66f69510d84d0c71	list of roots with upasargas. ref: https://github.com/sanskrit-lexicon/PWK/issues/68
+2019-11-08	1ad3839f7ae5da9b7507192a3770e67140c2e4b4	Avoid PHP 'notice undefined index'
+2019-11-08	50b959a5b9340dcb2ee9e33819ed200221b9ff92	Initial commit
+2019-11-08	0dcec9223ad02c186c5e500ac995f596a4ee25a9	Initial commit

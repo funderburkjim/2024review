@@ -1,0 +1,248 @@
+date	sha	title
+2024-12-22	2a11f5ae093c87fd4e3cdf40eb781f98add12694	#111 readme_auth_unknown.txt extracted from readme.txt
+2024-12-21	d335af337f3a3fa21955aad62ce5d0c0c556a1eb	#111  bot tag revisions
+2024-12-09	bff7613442f23b1f7dc5c26ce4acb957e63cf864	pw: apravizwa 7,12,15
+2024-12-09	52ecb2ae2705228f59b7957cda2c8ab88addf699	 apravizwa 7,12,15 revision for pwkvn. #110
+2024-12-07	d9d3fa1383a9efc89258c79fe40cc73e11772a40	#110
+2024-12-07	3a9d9a86eeeb114f8441476eee9d979e743dccfc	#109
+2024-04-02	df0fb6bf2c1a28e620d3b212bd7c9c6e8a6ea876	italic_tooltips_2.html: italic and non-italic tooltips. #97
+2024-04-02	3673c052e0c953b997d80d64be9ca3d86b8ce0bb	italic_tooltips_1.html example
+2024-04-02	ecca4ed9dd369a0cfa892e55ab50905ed9d5b06f	revise italic_tooltips_0.html. #97
+2024-04-02	025dc1c58398d2cb8bfccdc34608617b517d84ff	removing double vision - first examples. #97
+2024-04-02	450d51460d580c3213d0e7043274d199b75dead1	italic tooltip experiements. #97
+2024-03-25	9545457a422fce7a48be03cb565297d7993d2a50	revisions to readme files re print changes
+2024-03-24	4b84e604ed76cff3136acf9674ce6ed018eea5f8	remove two accidental files
+2024-03-24	f6edde64c2d75bd68c1372925d34d546bc7e2322	version 9b. #106
+2024-03-21	21f2ce0ab5012de018f2e398d86112c35e59b727	versions 8 and 8a of pw. #106
+2024-03-18	6826bce541b98f7411ca76238d80fd01abaf6095	pw_7_work. #106
+2024-03-15	267b82ea280cead35ac30c52fe25d9d1551192a1	pw_6a_work  #106
+2024-03-13	56f530d8220ec52cf2199e455239eafb533e0f21	Preliminary work on expanding 'Chr.' ls references. # 106
+2024-03-11	52ecc981e3de0765e89556451facc311d0b961bf	edit of pw_6_work/readme
+2024-03-11	97ec3b052adb307ed98f629773a4673edb933bb5	change_5_6 #106
+2024-03-07	b6170987ce28f834730a56963179b07ed27d2960	revise pw_5_work readme
+2024-03-07	ff7bf946d5625d9828242e1342e6521ccfda1caf	further revision to pwkvn portion pw.txt. temp_pw_4a and 5. See pw_5_work. #106
+2024-03-04	56a6e709638b1ed6da56a62c9817c75ca3cbcad6	count_k2.py
+2024-03-04	e634745685056536d640a295cd1eec3085cfb3c4	change_2_3.txt updated from Feb 23 (https://github.com/sanskrit-lexicon/PWK/issues/106#issuecomment-1962073856) LB change_3_4.txt  alternate headword and k2.
+2024-02-21	adeccb1d255c55af8f1641661d8d7b10b55ea50d	issue106 initial commit. #106
+2024-02-09	7abfc7c3af448befc2a9f1ddc8c5340ebd181558	PW: remove <e>N codes from metaline. LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/105
+2024-02-09	32c9ad9e1a3dcebb5249eefb0f77fb645d4ebb92	#104
+2023-12-25	d449d56f9d3a5e0c9599e376d32373875647b471	Misc. corrections from Thomas. LB Ref: #100
+2023-12-25	48bc55df3aa5bb6540ff399f6ff8c95cc2238c3c	minor change in pwkissues/issue103
+2023-12-16	8e0471bd7bdb10e7d88d447d0a5d87fbaecea30f	pwkvn version 2 from Andhrabharati. #103
+2023-12-08	783fe19a0ef848538434bfa1a5f03671a6079c15	#101 - remove accidental copy temp_pw_3d
+2023-12-08	7531735cfd0399b9bf717b8c71cf7313c6d0a60a	#101  german1
+2023-11-28	19ed6ac6dfdd6754921b53add2151372e4c6f328	#101
+2023-11-27	372056168d7ac3ac4cdbdb153f89621d81941d62	revise step2 readme. #102
+2023-11-27	b8a2593896d0bfcdd35b4809d6ae71a6230ab183	#102
+2023-11-27	cdbdfd2bd7bc2f3dde30b502ca6cec05199ba058	#102
+2023-11-22	03f0644d9866a997bc260263fe0fc9284f1d5812	transcode pwg, pwkvn to hk for @maltenth. #95
+2023-11-16	5c7e413f1778512218d3dbe11f0e7a373831a9fd	#102 Step 1.  Reproduce temp_pw_ab_17a.txt from temp_pw_ab_17.txt
+2023-11-15	28616b23676b742109a5c2a283a6b4743d2911ac	pwtranscode: et_example
+2023-11-15	f68c27053d35f3e7976be8521bbf4e189a0f1e7d	Revise bot_freq_withmw
+2023-11-14	0797a1a12062b4c39db848ca2815c569003b0674	#102 initial commit: temp_pw_17a
+2023-11-13	8189aa4f1528f14810bf7ee9c75dc2c6006f408e	remove duplicate file
+2023-11-13	aa0179f4737b20f035d145fb5e381d8bf0a75306	initial commit:  frequency of bot tags. #101
+2023-11-13	d66a41e344dfb4867204a8072b185101b4b604df	Revise HK version of PWK for @maltenth
+2023-11-13	954998a4b5045372c2dfb32c3c7aea96d6951d75	lineadj; das. #88
+2023-11-09	b7dd3b8b6f73e52a63851c29daa63dabd1cddfda	temp_pw_15, temp_pw_ab_15. (right-angle-bracket, misc.) #88
+2023-11-07	994d724c8829e0d10d0f545d1c7b1abad7a1e055	edit of dhata/readme.txt
+2023-11-07	09d2fdd8632d018897a98935962a2b1d28ecc73c	remove temp emacs file
+2023-11-07	5863204f9a395d5deb0a33275e929a7aa7b51e85	temp_pw_14, temp_pw_ab_14. (dhatu mark, misc.) #88
+2023-11-07	fba332d2ff9cfc49b7b4427016f8f7c0a999044d	Correction to change_pw_ab_13.txt. #88
+2023-11-06	80107fee2e41ef12b7f0cf5e0ca075d0d59a190e	correction in paren/readme.txt
+2023-11-06	c728fec66d4bd297365fb1610c938dc09a794165	correction to paren/readme.txt
+2023-11-06	4c627ed9aaac869e141e7c5212c297a1e6235017	temp_pw_13, temp_pw_ab_13. (paren, lex, div) #88
+2023-11-02	43c782bf2aafbcb3351363dad82b57fec4e80927	temp_pw_12, temp_pw_ab_12. (ls resolution) #88
+2023-10-31	98ff130ea5edbca5fd315b97e2d654682203d958	version 11 - hom markup from Andhrabharati installed to cdsl. #88
+2023-10-29	3ff393a4ab6af9b35807a4c7065fade8b0d6195e	typo in change_pw_ab_10
+2023-10-29	46bd9eeada6c98ed9a36762f89413ad5d65856b2	 typo correction in change_pw_10
+2023-10-29	d9951afcd49cfdc09dc80ee1c8e68c9f6d55eda6	temp_pw_10, temp_pw_ab_10. #88
+2023-10-22	f9414f38e021750b5a37d56c7400be24566619f4	temp_pw_9f, temp_pw_ab_9. #88
+2023-10-20	0e9a1eddbd8f6138302f0090eb38411ba13694d9	Merge branch 'master' of github.com:sanskrit-lexicon/PWK LB Got an error when pushing. Hope this resolves it
+2023-10-20	62ea977fcc502de6c0308f276b861722881d966c	Revision to temp_pw_9e. #88
+2023-10-19	94347eb59c45322f76093532a57cfaef3f0cf6bc	Update readme_zoobot_summary.md
+2023-10-19	04bd8359e00d2711e62c26b79ddc20265e3d19b8	readme_zoobot_summary.md
+2023-10-19	10cf6145f34eff30427ffa39c6b305cce23c8347	temp_pw_9e, temp_pw_ab_9. #88
+2023-10-12	33fd69d1c072bf7fa3a9727bc62120aafdba7270	temp_pw_8, temp_pw_ab_8. #88
+2023-10-06	80bddfe62808fdb0c3230548fa6c05aaa42f7f8e	Version 7: #88
+2023-09-28	a447f0a5404c8f3634eb73d01cf4928f4977ad31	temp_pw_6, 6a, temp_pw_ab_6, 6a. #88
+2023-09-24	97b225d0c7054096c0a0ceaa64a3be3ace0aaef2	temp_pw_5.txt, etc.. #88
+2023-09-09	bab435492b68e189c8d21918c6e00e6b427e2fba	Integrate user corrections (csl-corrections) into temp_pw_4.txt and temp_pw_ab_4.txt. #88
+2023-09-04	42af957664b78d07d0e82c8be3839c90505cb70d	ab_local_tm:  extract of pw.txt for local abbreviations #88
+2023-09-04	fa052576a95112486d768285f60b3ea95154938d	ab_local_tm:  extract of pw.txt for local abbreviations # 88
+2023-09-04	9996258ba45bf0c8255e88b07d5fab161b17f80d	temp_pw_4, temp_pw_ab_4:  a few additional changes. #88
+2023-09-03	0de2ed42b6827892ef8adcd53bcdf3c041d19b30	change name of change_3.txt file. #88
+2023-09-03	ea5778a2237ad7710fc1585ae5249013579356f1	pw_3: local abbreviations <ab n=T>X</ab>. #88
+2023-08-31	0220fee6a08096b3ae579728ba34c4662efd05e7	Resolve '<ab>' differences between cdsl and Andhrabharati versions. #88
+2023-08-31	8ce4a38a7f52b341d6ddc5ac1d4fb0a3b1f5efdd	update issue95 readme. #95
+2023-08-15	57d07725b828a95b22b859422287474bfd858ffe	Initial commit for issue88. #88
+2023-08-15	9711de587d258e8b1bec0fe3e8eee3422e0787c0	initial commit for issue95. #95
+2023-08-15	5382fd7f2355829006723e9c95273a53ec966a9a	stop work in abbrev1 directory. LB Will move to pwkissues/issue88 directory.
+2023-08-14	eac68a004b49ddc60bb6b6b391b1180a946719e7	minor corrections to pw.v1.AB. LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/88
+2023-07-25	e9280bd38ef590608409c7875dc13afba09bd0cc	compare1: metaline differences between AB versions 0 and 1. #95
+2023-07-25	dd9ac5f9b3118809a035197f40447c9b4d1a7a92	ab_1:  minor adjustments re xml markup. #95
+2023-07-25	442406e2b2dfacf68ed49f0447e9d12c92b272aa	First comparison of pw_ab_0 with pw_ab_1. #95
+2023-07-24	66ff5f220b2dbbeaa1ee03f49e565f5803635faf	compare0  first look at AB's first revision.  #95
+2023-07-21	0b086cf5dc052dda0790953eb7365b5bcf59cc4b	litsrc initialized.  #95 #96
+2023-07-19	773b46a08eeeeff2256656264493cf7dbf99f0b5	Revise to use pw-specific devanagari transcoding in pwtranscode directory. # 95
+2023-07-18	b52b15b893c37575453f478a3753c696e834b4f2	Transcode scripts between slp1 and iast (=roman) and slp1 and deva. #95
+2023-04-10	e5f6700b0642b25b29290395b159d0ba4171bd05	Revise change_2 for typo in DUmaka
+2023-04-07	9793d26a92893ba520167f9f84bc8541d508eede	Additional corrections change_2.txt.  #93
+2023-04-04	2a9da63df0edefd25bb15a498622bddcf7b3c999	list remaining 'unknown' and 'number' items. #93
+2023-04-02	4104d8b28710636aea13685dbcf10430d38ef805	Work for https://github.com/sanskrit-lexicon/PWK/issues/93
+2023-01-26	a045bfd75890fcac94187f18688e262eba2c62ea	Final commit. #91
+2023-01-25	d9be2adb7b9d8c6213375882adb8d23509595ad1	#91 - udated change_1.txt Batch 10
+2023-01-25	16ea4441a854dc3758d56175fc31b90551844b28	#91 - change_1.py change_1.txt Batch 9
+2023-01-24	b4547123c9e5d92a104ce36a1380e685d084ebab	#91 - change_test3.py Batch 8
+2023-01-09	ffde6f5c15e6447b047ded4d8a933e41014e28ff	#91 - test8.py and change_test2.py
+2023-01-09	b33a58999a30af38f98bfd6e11da67903577e95d	#91 - test7.py Batch 7
+2023-01-08	d7688df02d6bbd733f887cda5cf580ea6fe00bb0	change_test1
+2023-01-08	8d0467884dd6b7ed802176a47e87800a6f77a606	#91 - test6.py Batch 6
+2023-01-07	9af38ad9ccfcd49cdc4903f612f05e36885fc33b	test5.py  for learning about Match groups in regex patterns #91
+2023-01-03	caeace1815bd330fc0f7a05831cca76ccf2db9fb	test4  #91
+2023-01-03	93b6621a593d3127e5546f60f09beda069a19d3d	#91 - test3.py Batch 4
+2023-01-02	8447ccba04c5feafdf3e702f513eb9639a975ff2	Refactor test1. #91
+2023-01-02	74f1916588df9d1f84414105ed9bdbfee051ccbd	change_test.py Batch 3
+2022-12-31	0b95a0e6fa4c84983e56093bd301ed629dcacd7a	change_1_ejf_01.py added to correct indentation problems. Anna should modify change_1.py similarly
+2022-12-31	97262a21f528e9dc03d5aab752b09091af4b649f	change1.py Batch 2
+2022-12-30	b3ff788e2658dc1ed02cb3a32b9470a06d726311	change1.py Batch 1
+2022-12-26	a2533938e64220d37501247856c090b7dfb677c7	edit readme.txt
+2022-12-26	c2c5a7bd58a4775c5f67a4212d71442b5bb03bdb	initialize #91 with sample
+2022-06-10	8c89eae620b922a6fe34da7aa1bbcefa5ab65f92	Refine R. GORR. and R. markup. LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/90
+2022-06-08	b77357cbd5a1563776a35438a961805f5b836a92	improve <ab> markup in italic text. #88
+2022-06-07	3a9ac5a96bf643b7b30efd2b6b9cbdec0bc6f0c9	#88 pwab_input.txt
+2022-06-07	db20ae9eacd2f80b1b66b02c55b5342231457a01	Improve <ab> markup. #88
+2022-05-11	87a0c40550f67c44f37ce865a655b90f7f397ded	pwkvn althws changes. #87
+2022-04-26	6cc7d54cc4e81bc4bf837c11a0d57b4c6b3b556e	initial commit of pwkvn. #86
+2022-02-19	e78bfdbefe4c38f2c75e034533a5cf590829992d	PWK ls summary; LB Ref: #85
+2022-01-21	2dbd3a96177b4b50d396808aa21caafa89818832	#81
+2022-01-18	639f87bfb6a2282235eb9cf018e44f7649f17e03	Revise pw_ls/pw_ls_AB/readme.txt
+2021-11-24	15167c40f8b4d82264c74c2da6049d1c017eeb94	data pertaining to literary source changes. LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/79
+2021-11-23	b08f266fc906ad58d58eae58196d7d9dbc620396	code used in developing changes to ls markup of pw
+2021-11-03	113e98e1027afd5ba14257d74119ba32608541f3	#79 -- change_05
+2021-10-29	04a4ff59c5765bfcacc7252f7809e5cf85bbac9c	ls corrections, related to commit 32e0d45  of pw.txt. LB Ref https://github.com/sanskrit-lexicon/PWK/issues/79
+2021-09-30	0c69a603b982098c6c0a4c09cfca817512a058e5	vn-sch step3. #77
+2021-09-26	2d1e950d918d7a25ebf33abb9fc4d28e4757a656	26/9/21 pwk.vn pages 256-265
+2021-09-23	aba7def7744e0a68eab1665b366c6c8dec439b5e	Additional changes. LB Ref: #74
+2021-09-23	2ab67e3053a20b1d955f7538c64620f29d35d9e4	step1/change6 correction
+2021-09-22	4bf8fe22abb531313a2abd7b634cfb4ce3f7c062	vn-sch initial commit
+2021-09-19	c4bcdb32062bc906ca2d9cc8c3977457d79d66c8	bringing some older work up to date.  Hopefully no problems introduced!
+2021-09-19	278f28b89e0a1e2b835b0f51f42e113ccca3ddfe	Merge branch 'master' of github.com:sanskrit-lexicon/PWK LB Required by git when doing git pull. Not sure why.
+2020-12-19	c399a471297e0d954244b91c4b494907a0d88242	Update pwis_notmw3_correctionform.txt LB  LB Correct Case 23
+2020-07-07	589767b751325667d2cfb757e79300bed0237251	Use sanskrit-lexicon/MWS/mwverbs/mwverbs1.txt
+2020-07-05	ff31b78729179c2102bf58f969149ff4c4c0340d	Rename verbs01a to verbs01 -- for consistency with naming LB convention for similar analyses for other dictionaries
+2020-04-18	b2734ffd9b1ae1233d6091dde8e1db09b9e389f1	revise readme.md
+2020-03-08	f98ff1a20d805f79fa6f9b784a7ad99917f10421	vers01a initial commit. #68
+2018-08-31	1c4b3f3414ea5fd6692d54699ce047228933aff3	Update readme.md re 'corrected_by' field.
+2018-08-31	f8cdc603580ddba9c7f2d1acb7da11652d5275f9	form for IAST corrections
+2016-08-05	c8a15be56a8088a0abe6b1d6864a8766ebf1a26c	revise pwbib_parse0.py
+2016-08-03	04fde67acd64bcfa30c309383c63fb7086c4a6fb	Merge remote-tracking branch 'origin/master' LB  LB # Conflicts: LB #	pw_ls/pwbib/displayprep/readme.md
+2016-08-03	ae2bebacbf7e864eab6ea33c53ad9ef08397d336	revise sortbib to include 'volume 0' items.
+2016-07-27	893b3256bd70bc7737b83c853f184dc1c2e31e05	Spelling and markup update
+2016-07-26	da7cd6f338fc4f595aed3a246b51864264186dc3	Begin pwbib/displayprep
+2016-02-29	e223ab9abd19c5d4868462fddf117e593eccc39f	Jachertz pdf and digitization from T. Malten
+2016-02-29	8fdea69e927d9dce1140348f54a74fa4c8d93324	bibnew_disp2_edit.txt - begun LB  LB This is a place to 'fill in the blanks' of the 'new' literary citations LB found in PW.
+2016-02-19	e1196838aa42523a2ec54370e8ce8db98d1e0d29	recompute, based on changes to PW and tab_tables.txt
+2016-02-17	06a087f0dec3e4c29e6fe4e91067270387612925	rest of pwbib_new_work
+2016-02-17	08f4796423c1f708e80f00a89d2e11ae97d5435c	pwbib_new_work
+2016-02-16	e960f308ef303166ef76ba5b0f625a146a6bf37c	clean_proper.py separated out from abbrv.py LB  LB The abbrv.py functionality is unchanged.
+2016-02-16	72700eb494fe936996b9ce87b6214f5c63197fc3	Minor corrections regarding pwbib_new.
+2016-02-16	aead6e3690009ce94717044c7a30fa13e3eaea44	refactor abbrv.py so 'cleaning' is self-contained. LB  LB makeabbrv.sh provides exactly the same output as before.
+2016-02-16	84b76c03a4753ff53a9f3f9e06af288f0fce986e	Update pwbib_unused.txt, and use it in crefmatch.py
+2016-01-20	280e78543c19be3aa41078e3402b97fe4879374c	adjust pwbib_new and abbrv.py, rerun
+2016-01-20	8ab47a276e08012719f9e83394b92059520f7fb8	adjust abbrv.py, rerun with changes to pw.xml
+2016-01-20	5cecb1b1bdb6ab279b1e3e1abdb24ec10ff4c387	changes to abbrv.py, etc.
+2016-01-20	feaf4315e6dfc6272822dc701c396bc44399b526	corrections/additions to pwbib_new
+2016-01-19	bd0fd614336d8e672a8a3125810f8d21b7ee7d88	redo computations
+2016-01-19	4f9b2dac61e19b7c974fe90cbb7904bf5b5beb41	addition to crefmatch.py
+2016-01-19	5d9f6346ed13c2f8a0ce37bdae77c8f7dcdfa0b6	Additions to startpairs in abbrv.py
+2016-01-19	5b0b8ff44d7a645fc40dc55ec2757999a8491219	Additions to pwbib_new
+2016-01-10	62cc81d7a3bca9a9c10ee4d9ff8daf32ed9c92bd	pwbib0 manual corrections
+2016-01-06	da5b508b392b58670e25f6c11f6b662db23229e7	pwbib0 manually corrected
+2016-01-06	74c4f8fc14da837b3bf269b781526cd28be7de49	correction submission file reran after 53
+2016-01-06	7b983a5e0797512c5e414fcc563b77712af7fc7a	reran after 53
+2016-01-06	5d497ec27a02c05e936fe9ce1644d63ce97c7558	space removed
+2016-01-06	8f125a8425f0976001034349c20303a49965abf0	Based on corrections of issue#53
+2016-01-05	a94b920e3093d947b8ae07dc7b560b94e2c9680e	other files added
+2016-01-05	ba21e0a803e3c18702307395561526f3548641bd	commentarystudy modified
+2016-01-04	9544dcd13ae0460b224f5f3947d6269ed7ce315f	regenerated standard format submission file
+2016-01-04	6341f5cb194ded9ca4745de4e2cb1a63058e9dcb	reran after 43,45 corrections
+2016-01-04	c4dbf10bd6e2f4abb29ea5de7412f6bc9f175bc8	fuzzymatch1
+2016-01-04	7bb18cf7955159d3ea34d08c0e0b88c2d00ca263	crefmatch.py prints pwbib_abbrv_all.txt
+2016-01-03	69454fd029cd1b11d8cfa2f03dca087ca3760f20	Rerun with corrections of issues 43,45
+2016-01-03	6f3861db0b21911f0774b82a0644b2ce17b195aa	Corrections re issues/43, 45
+2016-01-03	bc51f78750bfea545f79c8cb27fc0a59373a1243	minor errors corrected per issue 227 of CORRECTION
+2016-01-02	58d1f76617de4486c33160d282771c16800faaa8	brahmanas adjusted
+2016-01-02	aeddc411bf830d42e79c55325b77d1112587e2ac	till 227
+2016-01-01	c8770a773c02655b1ada5115cdd298a24d84061f	submissions till 200
+2016-01-01	4990afd9bac849d47da2a231c505098b0fcfa2c3	regen as on 1.1.2016
+2016-01-01	ea271075f1d073bf035d55d45965cf6a69807584	rerun after corrections PWK/issues 27-37
+2016-01-01	a4768ac30bada4fe863ffd99d123c8b667de92a4	Corrections issue #212
+2015-12-31	287b2841efaa678c14a89d8a7d3f95924a981d41	Seite cases noted in abbrv.py
+2015-12-31	6cf09a3578204302cb2fe1f8f953bd5df265211a	Correction to pwbib0
+2015-12-31	f56c63c976d09ab50aa541e39e38e4aec3e7ffe7	add temp files to .gitignore; adjust abbrv.py and pwbib_new.txt
+2015-12-30	c7f2426eba3467e993d95a4145438b8e97cafa08	add 'startpair' logic to abbrv.py, rerun makeabbrv.sh and redo.sh
+2015-12-30	81a1296af5f6ab3645b1052637ba9c3c94c58bab	Use pwbib_new in crefmatch
+2015-12-24	b7b48f006b054dba1f5bc129132120e13c1efba7	updated till 157 line
+2015-12-24	4d81e5c6065e98f938c8ecfb467c074d7445a068	stdfile updated till issue 45
+2015-12-24	053d0ebc91c3158f2de2423547bdeff281340ae0	crefminusbibsubmission regen after #44
+2015-12-24	d8d74e8dadcca277a327ffd627fca387a879c384	fuzzy logic for submission files for 'ls' too LB  LB Suggestions given
+2015-12-24	12f78db9e215f4aa4aceaf182524375de627f2a3	capredo reran
+2015-12-24	5a5351baae0ba08d3fa8fb93a9b5b48f463e8774	makeabbrv path back to Jim's
+2015-12-24	bb50b3be208d76560d24d29f7065f92c092f5030	rerun after PWK/32 correction
+2015-12-24	2ea11319d1834856b776177e409519f5d9d67e3d	Seite trailing [.]S$ removed - Issue 32
+2015-12-24	06628ce0342eff8485b050f730d3d4328bfd4a57	crefmatch rolled back
+2015-12-23	a8b90b345f45458e700f4530e84770259c34eb0b	seite adjusted
+2015-12-23	14abce28770a5141b592a092a79b433dd591dacd	crefmatch for Seite adjustment
+2015-12-23	2f7eb12a641bfd90fc4afa898ce2aa2d722cbabc	pwbib_new CA7N5KH
+2015-12-23	e7f05ae016233312c9f9f472a09bcc070516b9ab	crefminusbibsubmission regenerated after #42
+2015-12-23	0a7ce9d81f7d7c2677ca383d0e8ae301f02291f2	cbisub and cmbsub in descending order
+2015-12-23	92ff43ef058a7b0a0cf505675eed23b8dc43761f	Reran after #41 LB  LB cmbsub decreased from 2044 to 1884
+2015-12-23	bee321b1b3c855c3b97c5350e471088c0488fde7	Rerun after changes noted in issue#41
+2015-12-22	055a5692ef447fd646c51a6e0d5858f3d0cb1dfb	Begin pwbib_new.txt
+2015-12-22	e52b93edfd1f505394b2f59317b5ab1598538ed8	add pwbib_unused.txt
+2015-12-22	cceab9a99b49dabde61cc24155f440e1dd2ba096	commentary <zu> analysis
+2015-12-22	9f50d3ab41c416a9b8c519ba3f6a9be49ee7d76c	commentary and nospace
+2015-12-22	581665f364dd20691415284c3fe683bbe415766a	diffstudy files updated #35 corrections
+2015-12-22	f6eb52bbea45d142b357ddf45d0b426b53c3fda6	rerun after implementing issue#35 (literary source capitalization)
+2015-12-22	5f02ac284870b1b49ab81c8e68a686c68c8cf951	capmatch in pw_ls/pwbib
+2015-12-22	d32f9cd76e6b2570fe6842d63fa6d020dbbab502	Rerun after Corrections#208.
+2015-12-21	d2f0d933833f14002cc93a9e0ba7d1d9feaf2733	crefminusbibsubmission synced to cmb.txt after 100th line LB  LB To remove some 50 odd members already corrected earlier
+2015-12-21	01824fa82170f02a331b224a9074f7452c1fe475	Regenerated cbisub, cmbsub based on Corrections in #22
+2015-12-21	1bc1252b2b8981499dc8c72fe27a96a3b90c5f1c	Updated for pw.xml, pwbib0 changes, etc.
+2015-12-20	b6cb96fa081568baf5c35f8fe6716b68c758fd27	Regenerated cbisub and cmbsub.txt LB  LB By running stdabbrv.txt after corrections in #21
+2015-12-20	b9e2f13de880338749f0e6edf7a3608ef1cb0f72	Rerun after corrections of PWK issue#21
+2015-12-20	ae653e7a1d7c4f27dea72b2fa5d30724be9c4b66	Merge branch 'master' of https://github.com/sanskrit-lexicon/PWK
+2015-12-19	73891a06be58b021b337d3af4c217e2be460e2b8	capitalization
+2015-12-19	16b33495950816a00526b8c887b683af1306d31a	grep improved
+2015-12-19	39facfaae1b20d063f0efcd876de99b71d54ea82	zu - commentaryrefs.txt
+2015-12-19	0d81be5ce5b2bcc3ff919372d91001c00f0db58e	update for changes at pwk issue#20
+2015-12-18	f65d3fa3a5264ef04ea13943f5abc2f0634f93c9	till 60
+2015-12-18	e2ddbcfa15caf2fe8c74f790d1263b25362349a9	displayhtml bettered for heading
+2015-12-18	ebf7588c7bb95f39e4892b2705992de00eaf0c83	html files for cmb and cbi
+2015-12-18	3c39386f4030e53386859a502d77c115478ee857	standard format for ls corrections
+2015-12-14	b36a35ea5a417a004889f8a55853e39f6358ba81	adjustments to abbrv.py and crefmatch.py, and rerun
+2015-12-13	d0781024f2baba73ab18c0bc340bf3ede2b2ecf8	another change to as_roman.xml, rerun pwbib1
+2015-12-13	5632ee6b8b732210e4cbd8e93d84a3534c88e445	change to as_roman.xml, rerun of pwbib1
+2015-12-13	a8d79260e416ead0e2b3abe0fe89e0e82b7e1fc8	corrections to pwbib0
+2015-12-11	bb13f30e03c56e3b4117f9d6289ac92784771bb5	differences in pwbib and cref
+2015-12-10	3b666c633ea4a15915ac03a2a32abd33876ef1d5	correct pwbib0.txt, minor change to crefmatch.py, rerun pwbib/redo.sh
+2015-12-10	55e0ae65aaa0bf6f353829d29bfc82bfa0348d0e	Comparing cref and pwbib1
+2015-12-10	18fe035dce810bf62715b0d90bb601b6245304c2	minor edit of pwbib/readme.md
+2015-12-10	54c96bcba95e4bbe6edbdd911a1459938c4319ef	crefmatch, plus rerun
+2015-11-30	88b02850b73700fa5e45be79a7b00f5437a3b1ae	Rerun makeabbrv.sh after corrections to PW
+2015-11-21	acfa2e5bf92ede0580b891e4176c68e613033a1f	regenerate pwbib1.txt
+2015-11-21	b9c65b66259b9f89cdf2423f39d022b7d5a85cc3	minor corrections to pwbib0.txt
+2015-11-21	6db691dbc9be96cfca1c082baa22033c01d8f2a9	minor correction to pwbib0.txt
+2015-11-21	d2b0cd50d7c31e642e136abf9373ad9b1f8f90fd	N7->N4, and G7->G4  (letter with acute accent)
+2015-11-21	f7965a7b68520597589354a7d93651635978482e	normalize m5,M5 as coding of m-tilde
+2015-11-21	c4ac2c4f7b6ee23204ad43a89e24443a8434c47b	Correct typos in pwbib0 LB  LB Refer: https://github.com/sanskrit-lexicon/PWK/issues/14
+2015-11-17	7aeb2699a2ca4d6d7d3195f2a8b5b5344ed4bde0	pwbib1 - conversion of AS to Unicode
+2015-11-17	7d64c3291fa4c609d7f77e0b802a9fc6ebf2e7f0	pwbib0
+2015-11-17	28fc1ed53dfd0c87ce1f4740a83ae4bda0c6d1bc	pwbib_orig, and pwbib_utf8
+2015-11-17	21f3dab6ac512e8106b744eab8e8f736e4b37305	readme for pw_ls
+2015-11-17	33cf6244f1f8483b73086e5897282acc4207a676	add gitignore
+2015-11-16	c945e3fa4bd14d325aa3309a0c4408b665febbee	Move pw_dhaval to pw_ls directory
+2015-11-16	f220be5dc89f410c9d350f008469767e2fa749e6	Moved from https://github.com/sanskrit-lexicon/CORRECTIONS/
+2015-11-16	aa8c1730fe612db2c6d4e7baa27aa5817707700d	Moved to https://github.com/sanskrit-lexicon/CORRECTIONS/
+2014-11-08	573cc6ee67871d24113eea5197a0e30287f6cea8	construction of pw_orig_utf8_slp1.txt LB  LB Make the base form of the PW(K) digitization use SLP1 as the LB transliteration.

@@ -1,0 +1,13 @@
+date	sha	title
+2021-05-04	ee21e308a322bba202aaab06ee5e64da6414511d	Further refactoring. Add ap90 ptrs
+2021-05-01	71b849b84bc50f24594c1c6dc41650d01b651aa7	Revise distincthws
+2021-05-01	ed0108b45288bdd60093a2569479b09046d3ab67	update redo_glob1.sh
+2021-05-01	71368cf42511a1e273a7fc6371ff761511926cd6	Revise construction of keydoc/keydoc_glob1.sqlite
+2020-07-17	575f269edc0e7a8e8485a2027f79664c08d48790	 #4
+2020-02-25	473828f39dc6c70edb968ee4fad42539e0c87b79	revise mwverbs, mwverbs1 due to additional verb markup in mw
+2020-02-18	46bfb51dfaed7e23490650f1e485fc712929ffb1	work files relating to pw prefixed verbs
+2020-02-17	20b20255ebb8c191e72c34d3f1ac0fd61432dd4a	Prefixed verbs for pw. LB ref: https://github.com/sanskrit-lexicon/hwnorm2/issues/3
+2020-02-06	c414caee76103741a910a5d282f4b8f7a4c88bfb	revise keydoc2;  introduce keydoc_glob1
+2020-02-02	f91a4f37bf9f601c3827d175335591f74cf466cf	improve by removing some duplicates
+2020-02-02	201db9a32025c1924728c08986a3dc7d6689ff53	minor correction
+2020-02-01	f03c95b8acd69c4ed78bc65c1e3d180d6c2a53a6	initial commit

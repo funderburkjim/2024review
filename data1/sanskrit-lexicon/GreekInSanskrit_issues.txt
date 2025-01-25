@@ -1,0 +1,45 @@
+date	issue	state	title
+2021-10-03	44	closed	MW: Διϝός / δϝι in 'dva' headword?
+2021-10-03	43	closed	MW questions
+2021-09-14	42	closed	Greek text boesp (notes and addenda)
+2021-09-14	41	closed	Greek text in Benfey
+2021-09-12	40	closed	Greek text in VEI dictionary
+2021-09-11	39	closed	Greek in BUR
+2021-09-11	38	closed	Greek text in GST dictionary
+2021-09-10	37	closed	Greek in BHS dictionary
+2021-09-10	36	closed	Which dictionaries have Greek text
+2020-02-27	35	closed	a, t, v, Librae, and γ 
+2019-10-31	34	closed	Greek in SNP
+2019-09-15	33	closed	Greek text in Benfey and BOESP verses
+2019-09-03	32	closed	Acknowledgments
+2019-08-31	31	closed	Greek in MW72, part 10 -- the last part
+2019-08-31	30	closed	Greek in MW72, part 9
+2019-08-28	29	closed	Greek in MW72, part 8
+2019-03-16	28	closed	Greek in GRA
+2018-10-08	27	closed	Greek in INM, 2
+2017-10-26	26	closed	Greek in Cappeller Sanskrit English
+2017-08-02	25	closed	Greek in MW72, part 7
+2017-08-01	24	closed	Greek in MW72, part 6
+2017-07-07	23	closed	Greek in MD
+2017-05-03	22	closed	Greek in MW72, part 5
+2017-04-28	21	closed	Greek in INM
+2017-03-28	20	closed	Greek in MW72, part 4 
+2016-05-21	19	closed	Greek in BOP
+2015-10-27	18	closed	Few unresolved Greek cases left in MW
+2015-08-13	17	closed	non-Sanskrit Word List
+2015-08-08	16	closed	Greek in MW72, part 3 of 6
+2015-06-22	15	closed	Greek in MW72, part 2 of 6
+2015-06-08	14	closed	Greek in MW72, part 1 of 6
+2015-06-03	13	open	PWG Greek section headings v. Greek text
+2015-05-08	12	closed	Greek text in PWG Dictionary, part 4 (last part)
+2015-04-29	11	closed	Greek text in PWG Dictionary, part 3
+2015-04-26	10	open	PERSEUS_LINKS spreadsheet
+2015-04-24	9	closed	Greek text in PWG Dictionary, part 2
+2015-04-23	8	closed	Greek text in PW: open question
+2015-04-23	7	closed	Greek text in PWG Dictionary, part 1
+2015-04-17	6	closed	Greek text in PW Dictionary, part 3 (last part)
+2015-04-17	5	closed	Greek text in PW Dictionary, part 2
+2015-04-17	4	closed	Greek text in PW Dictionary, part 1
+2015-04-16	3	closed	Greek text in Wilson Dictionary
+2015-04-15	2	closed	Greek in MW: review
+2015-04-15	1	closed	Welcome, Jonathan

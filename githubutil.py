@@ -21,8 +21,59 @@ def get_issue_comments(owner, repo, issue_number, token):
             break
         comments.extend(page_comments)
         page += 1
-
     return comments
+
+def get_commits_between_dates(owner, repo, start_date, end_date, token):
+    # see copilot_test_commits.py for example
+    url = f'https://api.github.com/repos/{owner}/{repo}/commits'
+    headers = {'Authorization': f'token {token}'}
+    params = {
+        'since': start_date,
+        'until': end_date,
+        'per_page': 100
+    }
+    commits = []
+    while url:
+        response = requests.get(url, headers=headers, params=params)
+        try:
+         response.raise_for_status()
+         # no problem
+        except requests.exceptions.HTTPError as err:
+         print()
+         print('******** BEGIN WARNING commits %s %s********' %(owner,repo))
+         print('%s %s %s %s' %(owner,repo,start_date,end_date))
+         print(f"HTTP error occurred: {err}")
+         print('url: %s' % url)
+         print('******** END WARNING ********')
+         print()
+         return commits
+        commits.extend(response.json())
+        # Check for pagination
+        if 'next' in response.links:
+            url = response.links['next']['url']
+        else:
+            url = None
+    return commits
+
+def get_issues_between_dates(owner, repo, start_date, end_date, token):
+    url = f'https://api.github.com/repos/{owner}/{repo}/issues'
+    headers = {'Authorization': f'token {token}'}
+    params = {
+        'since': start_date,
+        'until': end_date,
+        "state": "all",  # both open and closed issues
+        'per_page': 100}
+    issues = []
+    while url:
+        response = requests.get(url, headers=headers, params=params)
+        response.raise_for_status()
+        issues.extend(response.json())
+        # Check for pagination
+        if 'next' in response.links:
+            url = response.links['next']['url']
+        else:
+            url = None
+    return issues
 
 # Example usage (from copilot)
 if __name__ == "__main__":

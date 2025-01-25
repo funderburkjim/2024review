@@ -1,0 +1,51 @@
+date	sha	title
+2023-10-19	58589f4f454c0f8cb8e02bfbdb60d962b38ae720	transcoding script for skd. #17
+2022-06-07	10cf830bdd1a01f49347531a67258cbedd408a36	#15
+2022-04-25	7ee67978acf1a4bd72717d462cfc98cc5ef4b8e7	issue15 directory
+2022-03-31	00efc4b224d2089e1f012d465c6f0fbff8b3914f	location for work on corrections for issue #15 (column data in <pc> of metalines
+2021-01-14	cb134960f4c7b8c6d0bee402cd6cd30ad55467ec	Include corrections 'pUrbb' -> 'pUrvv'. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/465
+2021-01-14	e372df8c51709e07617a826de3cee82a7e822c14	Create skd_error.txt
+2021-01-14	e1bb88479ffe486364362649b933ef06c95f8198	revise coding of o~ when 'OM' or not
+2021-01-13	e8686f3d84c6a26d47b8ed7c0b0ac217ce71224a	Minor Correction
+2021-01-09	dc744a5eb2631a5f484b866bb98bdcc4efc0559f	Sample Devanagari version of skd.txt digitization for Usha
+2020-07-07	a8cbe68dbd18bd0cf8532be3b9ccd11fb62eef81	minor update to roots and root mapping
+2020-07-07	540cb140d150178764cb762a2872d5231d609f6a	Use sanskrit-lexicon/MWS/mwverbs/mwverbs1.txt
+2020-05-21	bfb6aef2a1597087e2d895a48ebe83969871f63e	vcp_skd1 inital commit.  #10
+2020-05-19	8eb30dd2faa2fa24819c3a0ea6f9c07913b6809f	addtional verbs found in SKD
+2020-05-18	d3cec41ae3fa06f30f708bd8208af96044af7f65	Refactor so redo.sh works in this directory on local xampp installation
+2020-05-18	5b6aac7fed1c14659f69bc7d2a05f87bd0ff9434	encoding=utf-8 into html file head
+2020-05-17	79ef555d54248a8ffac5b83fea79555aa9850c53	redo after a few additional vcp verbs recognized.
+2020-05-12	c6d50951c166d38fcae4e4f51912d9d6087e8f24	Revise vcp_skd
+2020-05-12	133fe42f199d544c0b693d01a4b73dbc90d20fe5	Revise based on comments in https://github.com/sanskrit-lexicon/SKD/issues/9
+2020-04-18	b7bc3859eb68aa36f929b2a2f095cbe5a1a0cbb1	revise readme.md
+2020-03-04	649e3fe06100ac2da910e9a4d43952ab7c3e0a80	report of the unmatched verbs in vcp and skd
+2020-03-04	e811a888c5d1ac68ae51d964fdcdb5d9df80b47f	vcp-skd comparison report
+2020-03-03	94fb5fb820cae8bcedf6093c7fcdb537b0898998	several skd corrections
+2020-03-03	e036082cf900e47d09559fd33df900153310b0c7	verb kmara
+2020-03-03	8e4f378e1ba3d0b78b3d662c98129b2533403c07	add verb 'i'
+2020-03-02	56fbc993546cd2ebd896509e45a9df0d487b1ff2	revise after changes to mw, skd
+2020-02-25	89aff057e916961d47567db9133894cc5597a8b1	work on verbs in skd
+2020-02-25	e4ee71d72d8e7dd3063d42d7df4150f145696486	put old work into 2014 directory
+2014-11-19	99bdf4bef2371c44111b18c91e8b6c7fc4000220	Potential Change records for db-text spelling LB  LB The detail records corresponding mostly to LB vowelwork-confident-summary.org.
+2014-11-19	2076881eb411c8703a60648fe6785c994def520b	Interim work on 'db-text' potential problems. LB  LB See CORRECTIONS/dictionaries/SKD/SKD_history.txt for some description.
+2014-08-14	dd39deb3c5a9581301b4e29ffdccbc39f240d82b	Normalization for skd headwords LB  LB (a) the data is in slp1 transliteration. LB (b)  the final 'M' was left, rather changing to 'm', as before.
+2014-08-14	42f5c02d0ec5c2bb3f8fa62aa0bd7bf58efff97a	lines of skd with db[ry] LB  LB Rerun since skd.txt is slp1
+2014-08-14	62967a8fdff7808ccb8c96a41d2652750665c67a	db followed by consonant other than r or y LB  LB Redone with slp1 form of skd.txt
+2014-08-14	1fdc5cd871a0b636b97b78d6b81333efc7315d81	lines of skd with 'db<vowel>' (slp1) LB  LB Rerun, changing search to slp1 notation
+2014-08-14	6b05e181b36eabb9b976621b66e6d3c5377896d7	db-01-skdkeys corrections removed. Transliteration slp1 LB  LB skd.txt was changed to be slp1 encoding.  This was so everything for skd LB is now slp1, rather than a mixture of HK and slp1.
+2014-08-14	5b2096c2b5baf1a734ec424894c66f471db66307	Regenerated, after the db-01-skdkeys corrections
+2014-08-14	3d3e34fc6f35b529e4b7e2bef0b403e19d049cbb	updates to correct spellings in db-01-skdkeys LB  LB These are old/new lines of skd.txt. LB The coding is slp1. LB Based on the corrections from Dhaval
+2014-08-03	796cf2172cb7be1f126a6a08f722177a35a18f15	headwords from skdhw2.txt with 'db' in spelling LB  LB The spellings are in slp1 transliteration.
+2014-08-03	135c3e71f599780f65e864860635b2e06b5f22c2	deleted file, which was not to point of 'db' study
+2014-08-03	b3e832456034415bb2797e4ab6a7142af8f29f94	Change file name from 'bd...' to 'db...' LB  LB The file contains keys from mw whose spelling contains 'db' (so the file LB was misnamed). Spellings are in slp1.
+2014-08-03	fc96bec24eaf13c6bb7cd087ce4521720eec86f0	Change file name from 'bd...' to 'db...' LB  LB The file contains records from skd.txt with 'db<VOWEL>'.
+2014-08-03	a115144493ad32f2c1fee0b9747476c493f0226b	Change file name to 'db' LB  LB The file was renamed, since its contents contains lines in skd.txt with LB a 'db'
+2014-08-03	ddeac63336d170feb367df83d63a02590a5c63b7	keys in ap90 spelled with 'db' LB  LB from ap90hw2.txt.  Spellings are slp1
+2014-08-03	36b35fcec73dec43d023be0836b66817090ae7ca	Deleted 'bd' keys from ap90 LB  LB This was an error pointed out by Dhaval. We are interested in words LB containing 'db'
+2014-08-03	5b74c240637fcec7a8c38cd94ec8c98ba74f366a	Change file name from 'bd' to 'db' LB  LB Correct oversight. The file contents was 'db'
+2014-07-27	1e0e8ac25708a08b6e01a0fa7a63264a7e44faf2	lists of words with 'bd' in spelling LB  LB These lists requested by Dhaval in issue#1. LB Generated by Jim.
+2014-07-23	c8da088d9a71165378f8dbac4cb10ef32b6ee195	headword normalizations for skd LB  LB As of July 23, 2014. From Cologne website.  Spellings are in HK LB transliteration.
+2014-07-19	988f09de31eaad494204ad8b5c806ad9b71259aa	Headword normalization removed LB  LB SKD headwords for masculine and neuter nouns typically appear in the LB nominative singular form. The prior version removed the 'H','m' ; this LB version does not remove H,m.
+2014-07-19	0778863106e853a15d267c86092db68c650cc4b4	Sort errors in SKD headwords LB  LB This lists the sort errors in SKD.  The coding of headwords is in SLP1.
+2014-07-19	e6a0cb0c60dba61a4355ae110e0f978a0a5173c8	Update README.md
+2014-07-19	94844f2ce6d94433f44b53af08078786fe24a422	Initial commit

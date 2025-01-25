@@ -1,0 +1,4 @@
+date	issue	state	title
+2022-02-18	3	open	AP90 ls entries
+2022-02-17	2	open	BEN literary sources extracted
+2022-02-17	1	open	MW72 literary sources listing

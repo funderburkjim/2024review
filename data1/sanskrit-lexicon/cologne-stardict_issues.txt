@@ -1,0 +1,39 @@
+date	issue	state	title
+2024-02-07	38	closed	Fix correction link in stardicts
+2023-06-16	37	closed	Handle unnecessary conversion of ॐ to ओं at some places
+2023-06-16	36	closed	PUI new tag
+2022-09-22	35	closed	Bad headword पर्ॐहु
+2022-06-14	34	closed	Wrong accent in VCP
+2021-12-16	33	closed	Remove git lfs and shorten URLs
+2021-10-04	32	closed	Give Devanagari to interested people to correct
+2021-10-04	31	closed	breaching 100 MB threshold in mw.babylon
+2021-10-01	30	closed	Give links to scanned page and correction link in babylon
+2021-10-01	29	closed	MCI diff
+2021-10-01	28	closed	INM diff
+2021-10-01	27	closed	BOR diff
+2021-10-01	26	closed	CCS diff
+2021-10-01	25	closed	Wrong conversion of a BHS line to accent
+2021-10-01	24	closed	SCH accented items not handled well
+2021-10-01	23	closed	IEG diff
+2021-10-01	22	closed	GST diff
+2021-09-28	21	closed	hwextra to be roped in
+2021-09-24	20	closed	Make babylons from txt instead of XML
+2021-09-12	19	closed	remove unnecessary Anglicized Sanskrit lines from make_babylon.py
+2021-09-12	18	closed	remove lxml dependency of make_babylon.py
+2021-09-12	17	closed	remove depence of make_babylon on transcoder
+2019-01-20	16	closed	WIL indentation
+2019-01-20	15	open	VEI footnote handling
+2019-01-20	14	closed	Preserve line breaks in some dictionaries
+2019-01-20	13	closed	STC indentation
+2019-01-20	12	closed	SNP indentation
+2019-01-20	11	closed	SCH has points in Lnum
+2019-01-20	10	closed	PWG accent correction
+2019-01-20	9	closed	PW segmentation
+2019-01-20	8	closed	PD segmentation
+2019-01-20	7	closed	MWE shades of meaning on separate line
+2019-01-20	6	closed	MW has multiple headword types
+2019-01-20	5	closed	GRA include the accented data
+2019-01-20	4	closed	Wrong inclusion of ; in Sanskrit markup in CAE and CCS
+2019-01-20	3	closed	Regenerate babylons after meta-iast conversion
+2017-06-21	2	closed	AP90 - reference to other headwords
+2017-04-20	1	closed	Creative commons license

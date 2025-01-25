@@ -1,0 +1,49 @@
+date	sha	title
+2024-08-26	a87a2ebee66acb7a1835c680e767ed974a21b1d3	finish Lbody for groups #34
+2024-08-15	c3381f2a8398979e4fc4354f3bcc18c857f39dae	Alternate headwords with Lbody. #34
+2023-07-12	351770fa27584baa41eb9b1b9d8e6feff4f48e08	Install temp_graab_10 into CDSL displays. # 32
+2023-07-11	6a640d0bf25d1e1808b13a0bfdc51c9d7c54d1a5	revise gra-meta2.txt
+2023-07-07	4e92b66ececf17c92d70b9fdf26bd9cd55f6cdaa	graab_10  Tooltips for Kuhn's articles. #32
+2023-07-06	bbb7e76f971e8d7a2533b148ecd9dc582ebc5614	graab: graab_10 . #32
+2023-07-04	6f60970a9cfb4c6ee6a937b3810772b87bb271c2	graab  through 9g version.
+2023-06-30	2519d80be39b32662c7b6ef8336186ec8d01925d	graab/meta2  extended ascii. #32
+2023-06-29	0942bf05b5cb9a99aa8112b51c1a60412c1eb992	minor changes to graab_9. #32
+2023-06-29	4ea913a3b700647a3738990781ba35369ed7a3c7	gra_hwextra.txt  #32
+2023-06-28	4fd5efa0ea73bdd929cbab90706b39c18fe6d94e	miscchg - 3 more changes. #32
+2023-06-28	909f8803385d8c905bc6bce299a981753639ac24	mischg . change_9a.txt. #32
+2023-06-28	3545bf0c30fb8ea225c99309f30c0ee4d3491460	litsrc2. Markup of non-standard RV links. #31
+2023-06-28	5bffc391df25597efc19b6b3420f2e7987a32a8b	litsrc1: tooltip update #31
+2023-06-26	14dc3c195b3b84da3e9952f74b0ce23513446bf6	Finishing touches for abbreviations. #31
+2023-06-25	223f7eadac834ada05fbb5f487555777b8a96d0a	Review of ab, pe, lang abbreviations. abbrevs1. #31
+2023-06-25	937ea871d27a69f0115e16338234d8403f2f5d8b	revise litsrc1 ls abbreviations. LB Ref: https://github.com/sanskrit-lexicon/GRA/issues/31#issuecomment-1606161708
+2023-06-24	6bf7f30ec08e060455f26606ac1c360ab0899978	Revisions to temp_graab_7.  #31
+2023-06-24	6539de7e84a2db39ee0902eab6715f5fcb916ab5	litsrc1 bug corrected #31
+2023-06-24	c10fd5a7e0bd2a8d3aa16223c48381f403777e13	litsrc1 and temp_graab_7.txt. #31
+2023-06-17	d83dfa36b0166e418892caccc2a25904f1875e85	litsrc markup changes - graab5. #29
+2023-06-16	8ffbea421541dc1441650c5c87149494bdc944a2	Add abbreviations (ab, lang, pe tags)
+2023-06-13	8d6e7759f3ae2b72ddcdffc6c8280e5f7d8bddbd	Begin work on abbrevs. #29
+2023-06-12	af61d74e57dead2a003eb18fd57996d914d6a9bb	revisions to one.dtd (which exists in csl-pywork/v02)
+2023-06-11	385aae40c32059ca0a4c84a084efd1fd09f3762a	graab_2 and graab_3 work. #29
+2023-06-09	dfab26cab08229302a20cd94c964e754c7a48159	notes for change_1. #29
+2023-06-09	14eb81782b5f9ad64f74f0e0aeb41dc05c954910	graab change_1.txt : for well-formed xml
+2023-06-09	62f2601d92899724c329330eef14fd09809cbe36	gra-dev
+2023-06-09	54b63894bd961150d1e9cea58c5f150d59f5160f	misc vn info
+2023-05-24	86ef33549e773057c98b92feed0c8be0e6740986	Markup multiple k2.  #21
+2023-05-09	6c8c175fe36d09616b26d811a745115a2cd1da62	minor revision of code and documentation
+2023-05-07	9e8770b0b10320fd406342279e5a8f363b22ada1	list of headwords with vn information. #21
+2023-05-07	2d78ce06a42a63b2042d18c9bf379b099c28a3ac	add cologne url to gra9/readme.txt #21
+2023-05-07	337d626f80f9fbb6cc0740326e4c97be70ff4014	gra8, gra9  #21
+2023-04-27	d68c6a3235f3cb4e61a646c84405e51b1050e24d	temp_gra_7
+2023-04-25	efac59526a4655445c08e93bff02463fd49082e0	readne -> readme
+2023-04-25	9098d306391cb4c162474150a428c69e349f4682	vn3_2  derived. #21
+2023-04-24	f3f9d8c97a998d777d83f10034eb1aee82a555bd	Prepare Grassman VN. #21
+2023-04-17	f9a7e9200aa00062bf578e6f81fa23e9a672566f	change_gra_1.txt. #21
+2023-04-17	29c125053aa28c928c272b28663e628bde13073f	VN work through orig/vn3.txt.  Ref #21
+2023-04-14	727ee244b1a83734b7efd2979db26ec1f604a1ab	Initial digitization from @maltenth LB Ref: https://github.com/sanskrit-lexicon/GRA/issues/21
+2020-07-07	c225513c82c0ea504b89f0d8bb9047135c1e7fcc	modify 'tir' and 'tvAy' in gra_verb_filter_map.py
+2020-07-07	3bd57d73ced6d5d6eecd4fe516879f01eddb3921	remove mwverb.  Use MWS/mwverbs/mwverbs1.txt
+2020-04-30	6da8e8d1ce733aa286df6ff2ee3f0da709def69e	Correct Readme.md
+2020-04-28	1331cbe336ea83db0b3a9b041c3c9b8555a19682	verbs01 initial commit
+2020-01-07	1cd7331fcd2c7194bd901526b51ae10a31aa0b91	Dmitri
+2018-06-28	8caae9251cbff3ed773ec444df5b76ef7093ed7d	translations of forward
+2015-01-04	7119f0a7ba62e6dbefd4ea43a9a97a1f5d1653da	Literarisches Centralblatt für Deutschland (1873) LB  LB https://github.com/sanskrit-lexicon/Cologne/issues/66 LB https://archive.org/details/literarischesce00frelgoog

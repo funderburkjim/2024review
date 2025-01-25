@@ -1,0 +1,6 @@
+date	issue	state	title
+2024-03-27	5	closed	Misc. corrections
+2023-02-17	4	closed	Proofread Greek text
+2022-05-10	3	closed	Misc. corrections
+2022-05-10	2	closed	greek text
+2020-04-09	1	open	verbs01

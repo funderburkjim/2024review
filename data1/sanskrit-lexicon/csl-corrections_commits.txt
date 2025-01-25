@@ -1,0 +1,369 @@
+date	sha	title
+2025-01-21	c6696ae1854d43eddb3cd5c6f1ee650dc80c3c58	vcp_printchange edit. LB ref:  https://github.com/sanskrit-lexicon/PWG/issues/83#issuecomment-260073150
+2025-01-18	b0e573cdd3f410c08a67751bb9c3dba92e61d582	MW: AcIrRa, Adisarga. print change. LB > Ref: https://github.com/sanskrit-lexicon/PWG/issues/83#issuecomment-2592597118
+2025-01-15	5d674255ba09b21e7fd4488c6392fdecb60eca2f	batch_20240616.  This is the first instance of a batch LB handling of changes submitted by Scott Rhodes.
+2025-01-14	c17732915575a68566d412b815651e1b60b4ccc2	batch_20250114 correctionform files created from scott.tsv
+2025-01-14	0adbc0223e25c76b5585f7e4e0613b6a0a0531b0	Separate out Scott updates. See readme_snowcrest_tsv.txt in batch_20250114
+2025-01-14	47524b3e4e63f018ecc8b6117b4ea056bbaa3242	reorg:  batch_20240623 contains work product from LB previous batch handling of Scott Rhodes correction submissions.
+2025-01-14	c8a14edb4f80cd5dada5770956a63ad5c607da32	cfr.tsv on Cologne server since last commit
+2024-12-21	bee33f5f044320ecedf8c3bb1ca2b539c3407dc8	PW: bot tag print changes LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/111
+2024-12-10	5ebea78f6dc49edfe928649157255f05dd1f0cfb	sch_printchange.txt for Bhāg. P. LB Ref: https://github.com/sanskrit-lexicon/SCH/issues/10
+2024-12-09	75d48fdbbc86f3a3766eba1e88fafe7fcda6dec0	MW: standardization of links for 'BhP.' LB Ref: https://github.com/sanskrit-lexicon/MWS/mwsissues/issue182
+2024-12-09	df2b1baadebaa204733938e5afa6b6dff31ee7c3	PW print change revision apravizwa 7,12,15 LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/110
+2024-12-07	036854e2615e7c1b3823eb51303aa3bddbbbe1f9	PWKVN: print changes LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/110
+2024-12-07	fab57da359591ef365358fcf3f94f13856318248	PW: print changes LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/109
+2024-12-06	e716196ee09b315c9259a02f7c9b68f391fbd264	PWG: print change revision under sarj. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/81
+2024-12-06	155fc5907ea88d8f4344441e9155b2f7dbb9f99d	PWG: print changes LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/81
+2024-11-11	abab6ef06c98d3a74f757d7137d94f5617a3190a	VEI: apacit print change. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/614
+2024-11-11	41ffef0814f6aa7564b8921b5889080bb99f15b0	typo correction in Study.revsuphom.summary.txt #91
+2024-11-11	86b94c668340f37031ca10d085082b8aeb11f589	See corrections_extra3.AB.comments.txt, LB Study.revsuphom.summary.txt, diff_mw_15_16.txt  at #91
+2024-11-07	44044661fd25ef3a68f7ad5fe2bb5270f91cfab5	correction_response_20241105.txt, diff_mw_14_15.txt  at #91
+2024-11-05	a201fe2534d4d5691a977aaf19682120044c21a1	corrections_extra3.txt, diff_mw_13_14.txt  at #91
+2024-11-03	9baff8d11c14d980970061a8cc6fee6a931feeab	corrections_extra2.txt, diff_mw_12_13.txt  at #91
+2024-11-02	8952ffb96d51ac909dcc75a4fd73e07ba8ce7c7c	non-Scott, and non_mw user corrections since last update of cfr.tsv (4 records)
+2024-11-02	ba4899c6ac54bcce995a26dcc266ecb301c58e42	corrections_extra1_insert.txt, diff_mw_11_12.txt  at #91
+2024-11-02	b159cd65797b09b3f513878c43cfc55d73ce0476	mw_printchange.txt related to temp_mw_11 at #91
+2024-10-30	afb7d2b821b7fa6e9316d3892769b74f6893dbda	#91 corrections_mw_not_abbrev.AB.comments.-P.2.AB.response.txt processed by Jim
+2024-10-29	b9b438d8bd432de6908d03d867c4ff0a6cba5ac0	#91 Process AB comments on recent corrections
+2024-10-29	5dd2a0390314c5a5fad679a801972e2c7c220d0c	update readme.txt of issue91 -- will this be accepted at cologne?
+2024-10-27	6529c01bed42e3f68fa3f5f2daca759e7e396337	#91 starting with issue91/change_search_insert_1.txt
+2024-10-27	148db5a4ad14a5f1c6849010fd688108a2f906ab	cfr.tsv 4 extra lines
+2024-10-27	b1e7ea381639ed73dffa58f280d65b82647f87d1	Merge remote-tracking branch 'refs/remotes/origin/master' LB Bitte geben Sie eine Commit-Beschreibung ein, um zu erklären, warum dieser LB Jim is trying to sync csl-corrections.
+2024-10-27	91741e553b3b0103f573d39076aae40371dca121	Try again to push unchanged cfr.tsv
+2024-10-27	79b92dbd83ec79acd368c9a67625b445d27eb7e0	cfr.tsv sync to github
+2024-10-26	d1ca882eeb95ab105727ae7aeca83f1e13236c79	#91 See corrections_mw_extra1_insert.txt
+2024-10-24	c10fe9c3ef91d01648c164421ec08c8f65a24bc7	Scott last submission of 10-24-2024
+2024-10-24	36fd31132d0559bdb44fa55d287e4cfd63f437fa	#91 See corrections_mw_alpha.AB.comments.txt
+2024-10-22	054439b30647242b643a84fc564e69c89b03bbbd	Add 3 non-MW corrections from scott (10/12/2024 and 10/19/2024)
+2024-10-22	2d0bdf09e748bae4b8818564aaec69cb31442a91	add 2 non-scott entries to cfr.tsv
+2024-10-22	0211d2adccbdc35c3f4800e83051b2566f844ea5	Try to undo previous change to cfr.tsv
+2024-10-22	ed5be1a6284d0d2182cad080666e6ba88bbe652d	cfr.tsv update non-scott submissions
+2024-10-22	9fdfe0a5679bc8ad25f922679799fae80f15f79a	#97 cleanup readme
+2024-10-22	c4e4381165918f3f7a7906968a54246c54cc7f84	#91 See corrections_mw_insert.txt
+2024-10-21	6bb0c87de5950a0d0c812b48afb091129848148e	#91 corrections_mw_alpha.txt
+2024-10-21	0b9fa51cc816caff599ed42edb1584e7871c2f4e	#97. changes_mw_3.txt
+2024-10-20	7d50698807f8be8e826136ed223689ef43370e7d	#91 changes_abbrev.txt
+2024-10-19	030e2f9280cd09d7f737aee0a0d26b306963e722	#91  Indentation in list display
+2024-10-19	7bf063cc41b131671fb65ce92f5379d07903514f	#91 corrections_mw_not_abbrev.txt
+2024-10-14	b6ace216b2b359cacfa86e893c9e00972b0b4c3a	#91  corrections_mw_abbrev.txt
+2024-10-12	a1c7a9e5f302162f99f24b96d9776a96653b4d11	AP90: ap90ab revised
+2024-10-12	38676490139c3b0685d804e046ec8adae8a57415	corrections_pui.txt #91
+2024-10-12	40a7f0f7bc5f5a8263f621e40e29e02ae279d136	shs corrections.  #91
+2024-10-11	1ba9ce787a104c47f6fce506df564c6511a61f4b	corrections_lrv.txt  #91
+2024-10-10	e072c86ecdf0266627e6ba66e3dd118b8a346f49	update readme
+2024-10-10	d3f974b7a159c95814e4c356a2aaf3a0e44bed20	Process non-scott corrections. #91
+2024-10-08	2e1973dd378b9f84047939c166ab4ef19d6638f6	#91 - temp_cfr_2.tsv
+2024-10-08	2c2451a4745d55077f201970c9d08594bd53d89c	#91 backlog of 1700+ usercorrections since Jun 26, 2024
+2024-06-28	ff9bfc59414f83ad0ab12d467ff26177687c40da	User corrections, various dictionaries
+2024-06-25	e3540cc2d2bf27c89b49fdc74fba06adc070e70d	commit cfr.tsv unprocessed user corrections
+2024-06-25	d59f017af0e9bb4dcd376cd482fc63d4c60db80b	SHS print changes:  correction backlog, 6. LB  Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1645
+2024-06-25	f1a56316b1cca95e43e23a5ddb3f92efb341455b	MW print changes:  correction backlog, 6. LB  Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1645
+2024-06-25	71c48f7a1786f976169b3ecd7c3d76d584158f2c	readme_batchnotes - another way to process user corrections
+2024-06-23	f767be660dea3b064c6818af049325ffc98e3be2	offload snowcrest batch corrections
+2024-06-23	8f878c26ac82f983f78096b0baa30a7ceac402a4	cfr.tsv user revisions
+2024-06-21	a89fe57a04f5e8e479088fe54176d1af0220414f	mw print change. L=61878. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1643#issuecomment-2169099447
+2024-06-16	6e223affb083e869925966f94d8576af9b6ba8d8	MW: LB  Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1643#issuecomment-2171829518
+2024-06-15	edbf286b3ace473970bb47d6b474b949466b2eb6	MW:  dityavah; 180506 : vajrahUna -> vajrahURa LB  Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1643
+2024-06-14	2d208cbfd840e820035691eb61c50c713c718e4d	MW: sanskrit spelling corrections '<s>[^<]*n[kKgG]' LB  Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1643
+2024-06-13	67972559a18118fd2713b4e2c14085085857038a	MW: mw_todo_dhatup1 LB  Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1643
+2024-06-13	2a4d43468d4089c4ca4caeb637fd32cf87bdc5f2	MW: #1643 mw_todo_misc1.txt LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1643
+2024-06-12	f7fe7e1ec8fb83b2946d0f6dbe408f195af97c9d	MW: incomplete dhatup refs. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1643
+2024-06-11	0a259998548c69a14bff15cef3c5cdcf3ef3ac9a	MW: Remove '213663 : SaraRa : fr. Sf : fr. SF'; LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1639#issuecomment-2161353202
+2024-06-10	347e024c0c8bcf559b2de72d230bd5c6fe049ac9	MW: print changes. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1639
+2024-06-09	585f91a639c153ef07187fd2d7fdd6a60d66a44f	PUI: LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1642
+2024-06-09	22ac339484d98ab44c54b9f1b1322f3684161f7c	AP90: print changes. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1642
+2024-06-08	60615724828a2e07417c4096789e61a6e73cd4aa	SHS print changes. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1640
+2024-06-08	3f923c6ead5f9ed3746ab15c85ce5f512e03a454	MW print change revision. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1638 LB batch2_rev1
+2024-06-06	828cab52872d6c4a68468caf61ce88cfffa1af21	mw print changes re backlog of Scott Rhodes corrections. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1639
+2024-05-29	45047a3e2d7a02ff9b6a1ec03c9337c945514cf2	minor edit
+2024-05-29	581f69fade93c7442b94c4b7b4a09431199b485a	Handle backlog. #90
+2024-05-29	fc97843b693385a550105c505d8a430db0328fe7	Remove unusable input lines from cfr.tsv.
+2024-05-28	43fcb191569efa3ec2efa1dc237243435d5b7b72	MW: trayodaSama  print change
+2024-05-28	a29c5639236cbdd1090d0961e5d80e5844a89311	updates to cfr.tsv
+2024-05-16	0ad775eb05ac88f9d78934f9baf3c29431faca77	MW: druh. print change LB Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/74
+2024-05-09	7cd1473623cef5e4aa5ec1612e5dd35456fa808f	MW: GArteya. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1634
+2024-03-29	f42e53f51e079f7820912297d42f07b495b9903f	bur print change. LB Ref: https://github.com/sanskrit-lexicon/BUR/issues/5
+2024-03-29	70b10c533baf2584e8435ae2e99b3549c41bc2bb	sync cfr.tsv
+2024-03-25	ed99771f0ebd1694774be18a39ddc034ad1db3aa	PW print changes noted. LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/106
+2024-03-25	4383962b49100a857ed29e3b4c3bcec638ff5562	commit cfr.tsv
+2024-03-18	b7245f9863dce6731c317896871c7cb25a1292f4	MW: 243366 print change
+2024-03-18	04b3d125dc65c24dbf3f37904d4abeddd01c0463	commit cfr.tsv
+2024-02-05	9b4cde86471ecc0afca5c760e4f777d7bbe8e328	MW:250321 print change. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/161
+2024-02-05	ec6b8ab09ca58d63aaa56e761f85363848f5c506	cfr.tsv update
+2024-02-01	3859b74965fff987aab3856259d10ba7bc5521fb	PWG: print change. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/126
+2024-02-01	e670a2719c5d8ee9027f5c3b4f99361aff7d5735	update before adding a print change
+2024-01-30	20c5d09e6e66ed41dbb513aa7755a8e19f8f6746	MW print change. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/126#issuecomment-1916078204
+2024-01-30	f520922e760081d0ec6e98e0c1b65c7a4271ad92	new user correction, preparing for mw printchange
+2024-01-29	bb90add8d6481208fc702acfb65e78a1a56a3306	GRA - printchange. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/646
+2024-01-29	861f5e0749be59e46a005abf9414a5726d718347	latest cfr.tsv
+2024-01-26	097358b9bbc23819cb03aeaa6c85afb13a083a12	MW print change
+2024-01-26	2c6956cb8d2a64e9ff800daf10afa5e3c06a56d1	corrections made till 26 Jan 2024
+2024-01-26	0aa7ec80a9ac97b719d87d372b57b865c3d05017	redo cfr
+2024-01-26	392655d897cfce34ea183b954221c7697e0ca5cd	redo cfr
+2024-01-26	0ed5acddc129c2be580d7d00610782ac39a7f5ac	manual copying of corrections from cfr.tsv
+2024-01-25	8a0dc74b911d63d3eca1c1598c31c38a49d9ac52	MW: revise mw_printchange re cerebralisation. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/127
+2024-01-25	2b220e6fee452ef08fd1be0ea959b5047cd4d1d3	Resolve cfr.tsv -- ejf. Encountered problem when LB pulling mw_printchange.  I think this solves that problem and restores cfr.tsv
+2024-01-25	c24c4028959f0de77b46779051733b14b55e29a7	MW print changes. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/127
+2024-01-24	350dc072a83571a8579dc4feba917f18221ada66	new corrections till 24 Jan 2024 pulled from server
+2024-01-24	16adbf9d33b50495a60f934af7df10c370ef5614	MW only 3 pending
+2024-01-24	5e3e6b79034f54afcac167cfbf2c363ccf1bbc5f	redo cfr
+2024-01-24	fce03509a79839e5b0fb72f2accf148175f3db2b	Merge remote-tracking branch 'refs/remotes/origin/master'
+2024-01-24	148450544526b0549f44b324886f51d59efb7273	small update
+2024-01-20	b4ccd406e2b606869ef32d5a16602ef303cbddea	PE printchanges. LB Ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/36
+2024-01-15	c3d17294838cc0504f21d89209f4312fac7947bb	user corrections
+2024-01-15	cdbdd9925d23024ce036b4fc4966e547880bfea3	update last_cfr_line
+2024-01-15	16af433a37fa56fad014e40fb61b05096f8f351b	user corrections copied from Cologne while we were processing earlier corrections
+2024-01-15	44e2d4fc10d6dac747fd72053531cfa1600a79d5	additional corrections copied from Cologne server
+2024-01-15	1a4b2484e1f28d92a89eea0af6b4b32580fd29a5	user corrections
+2024-01-15	eb2ec708c870b1ec8b812a73f7d3655ed379e659	user corrections in SHS
+2024-01-15	1d0ff2bbaa28b693f47fedc4d2bdbf3f74ecd81b	user corrections
+2024-01-15	b412d28d388bb3265790dd90e34f899ff2ae7711	user corrections
+2024-01-14	8fb1093e9acf345e835fdc2bb0fd604b30c5831e	user corrections 38 pending
+2024-01-14	7cf7452c89970f8a69cd3536b31ad5027e884ca7	user corrections 68 pending
+2024-01-14	bde0a9bbf6c6d3d57fcadca4e9a244730f9c0c5c	user upadtes
+2024-01-13	c15ef4fb8522832cbee2d23b4b89abee99dd91e8	user corrections
+2024-01-12	7bb8bd523ad2af5ed207710b6e2b263135cf993f	corrections pulled till 12 Jan 2024
+2024-01-12	ab93ed0c60396421ac594ea8b3c73bb9505d7d66	user corrections
+2023-12-26	51d6062c643ac6bbfbb273f952c04fab111d212e	md:upa: print change noted. LB Ref: https://github.com/sanskrit-lexicon/MD/issues/11
+2023-12-25	451f9807645cdcd1836e0fbbd5539c54c675a94d	PW: print change noted. LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/100
+2023-12-15	866cf4e6365a177fdbd6e7652cd95a5a13842dc1	revise readme_howto for hwnorm1c
+2023-12-15	a9fbb1fb5b48b5c1d890140d3fdd9e408080c800	update user corrections
+2023-12-15	fabb9762454ab7540cd76478e56a29eb5c2fd1b8	user corrections 15 Dec 2023
+2023-12-14	05d6c650c5351c8cca578bab0339cc5a674f771f	modify readme_howto
+2023-12-14	e0c9c9f177ce4b155970b9ab6a463dcf038eb333	Process user corrections through 12-13-2023
+2023-12-12	81fea7ad25fd162e13ef2a0b7da7a0c38775246a	user corrections
+2023-11-09	7b2a16f62f1474bac7ac9c14b265d5240800c6c7	Test change to a file
+2023-09-09	f550c745af0cddd2fb356f22397cc85c3b277d3b	user corrections applied
+2023-06-09	99df7e695242892a278ecc82d67263127412445d	process user corrections through 06-05-2023
+2023-06-05	4f6f563276ccb240578a9af35a6279ce0d762775	Preliminary corrections to cfr.tsv
+2023-06-05	9747846fa91977d4f17b47a07a303fec5ade03c2	test push from local
+2023-06-05	b8c8a9ab8be3cebe374a9cd73d9654d239a86f71	debug text in readme.md
+2023-06-05	466ff6952013b9a14e50e6241313aba80280e83b	test commit
+2023-03-08	b5a1125c13cfeed1525a005f6dcd7d19a2b27248	User corrections processed
+2023-03-07	deafd447a620e12eed8d4e5e95249602c366269b	Prepare for user correction update
+2022-12-24	5cfffa2b0234c7b5badca3d73dc2386666e829ef	GRA user corrections
+2022-12-24	09d8073224fd6b271b73fea0bd338cbff6fbed98	User corrections for bur, mw72, mwe, pw, shs, stc, wil
+2022-12-23	8a6eb932e130a125c5d79bf156d2a3e2e517a541	AP90 user corrections
+2022-12-23	83c08a5595a56823b6c354c2fc00600cd8588072	MW user corrections
+2022-12-22	df8c0bf169398f199bc4afc0502849917dfdb634	User corrections through 12-21-2022
+2022-10-02	a91a4ee61a464486b0be801bdfbf8b5c7f024045	MW print change. Ref: https://github.com/sanskrit-lexicon/MWS/issues/141
+2022-09-17	4c1fc23c3cb282a1e4085b47bd1b0dcbd26aa410	bur burab_input edit
+2022-09-14	9a5f3a60f914bc58907cfcab87c8093f1f016b01	ap90 user corrections
+2022-09-14	8127704e273dfb1c41e221708771ddf8a37d92f2	minor update
+2022-09-14	091708339d8c4fb62c22f94a3b41882eae613c73	MW user correction
+2022-09-14	a710cc4dd74cc9ebea16c2731957bb1397547761	another mw correction submitted
+2022-09-14	2fb39b9d9f2c80c31a68a2945700022f851c772e	BOR user corrections update
+2022-09-14	269102d731ce412c37c7b6b0e1460aed9f273179	STC user corrections
+2022-09-13	2d049deeb190d675d5c5fbfbd5c1d43df815b6bb	BUR user corrections
+2022-09-13	ae6254d2bec298b1909bc1c32541b9638ec126c5	PW user corrections (3)
+2022-09-13	14dea0a44ac06822d5d564788a7be717bad1a691	CCS user corrections (3)
+2022-09-13	f0d68fcc182d44fd034cc798ba1b6fae4d49c9db	WIL user corrections
+2022-09-13	b8d2835b5d1b43ecaadb7c16c0b192ee40746bc4	PWG correction submission
+2022-09-13	4fd84a58a2b67900c54c7470b54873c9a5aa4e22	MWE correction submission
+2022-09-13	9ffcadd9b9e95a2004f9cdc8d977615aa6edfcc9	GST correction submission
+2022-09-13	3dc409a7dcc4992cac3b0ffed3cf43d0f7c38b63	GRA user correction
+2022-09-13	23f14a7fe3c76ba38faa2991db3abf76e020b136	skd user correction
+2022-09-13	8160c0249a56f046e89ef0c6ae4edaf095756edc	User corrections for mw
+2022-09-12	c3c1ff01c5d83ea2897cfa34dd315df26d654944	Prepare for updates
+2022-09-08	24525d87f24bb14b2b8e0841b871c286cc685095	security patch
+2022-09-01	86d3f1762fb23795da50d879da799167cf7f0819	mw print change. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/137
+2022-08-28	b7ccd24d1988e8cda9105adcd18eda3d1c9ba1b0	MW: punctuation at end of quoted text, e.g. ‘some text,’ -> ‘some text’, LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/137.  This is print change
+2022-08-05	b55e65852d4594dbd214f08f3ea769426444c20a	mw print change update. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/135
+2022-08-05	95752e1b41117498ffc6094e4e48c4ab304518f6	MW print changes. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/135
+2022-08-05	67acf14a1703d7bb0c6f0d135e54a174bad74369	mw print change. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/135#issuecomment-1205917590
+2022-08-04	28e55157eb9f20384c96e06e1365f6dbc61289cf	mw print changes. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/135 change_4
+2022-08-02	a81b5a7ed8cb498b27054f879ce0e41c624dee38	mw print changes. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/135 (change_2)
+2022-07-27	c17958209d2492821e7bdbe252cf88503c585d0d	MW print changes, ls abbreviations. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/135
+2022-06-27	8cb646c2be19903ba8cc45f9500aae9016d952fb	MW: print change. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/121#issuecomment-1167567985
+2022-05-13	10639052ff22fb6417523faa67ca58d9b087c149	BUR printchange revision for gOrI and jaina. LB Ref: https://github.com/sanskrit-lexicon/BUR/issues/3
+2022-05-12	3a1fe7b3c1722274cabcfb85d2f48d8c8a6c587a	BUR Gaorî print change
+2022-04-29	57d262a1538f82e87449525e2f97c9524baabb2f	BUR: https://github.com/sanskrit-lexicon/csl-orig/issues/799 'Additional corrections'
+2022-04-28	ed173d548a7009d4dba5acce7d61d946e56e8411	Process user corrections
+2022-04-26	3d2753a4c91b549d47c3db8de2765a53e6f8d5bc	user updates to cfr.tsv
+2022-03-14	75e2031ad2b018890892482e4b56056ba7b41558	https://github.com/sanskrit-lexicon/SKD/issues/14#issuecomment-1066089770
+2022-03-14	62e041208bfa4724f7a148d522d527406308fd69	https://github.com/sanskrit-lexicon/SKD/issues/14#issuecomment-1066089770 SOryyaM
+2021-12-21	b1d70b2d356d70eac9edb0c23ac9f1c98627db3b	User Corrections processed
+2021-12-20	b3ae06929f22b079c814f68f2c403c4fb2f05864	latest user corrections. Begin work on cfr.tsv
+2021-12-14	37944d92ca73ce55e3d98bea827d7ac59779b6ca	INM: Headword spelling print changes. LB Ref: https://github.com/sanskrit-lexicon/INM/issues/4
+2021-10-26	bb44c92eb9597b47401e794234689d9b16efb5fa	VCP print change. LB Ref: https://github.com/sanskrit-lexicon/csl-json/issues/6
+2021-10-17	cfb989d694c644b108f46507c78f0da4ad5aa68f	MW print changes. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/121
+2021-10-15	7a7dac5f56214eca8ca315963079b46fb4d25fdf	MW print changes. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/121
+2021-10-08	40ff84e9aab542122e051679e340d975d228a01e	MW print changes related to Panini ls reference normalization. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/120
+2021-10-07	5bdf3c60a53f48e346676830db53f7fec2819c13	Revise mw_printchange
+2021-10-06	617b9d5171a3a16e76991de7445d600beef4c2cc	MW: 243955  print change. sq. -> seq. siMhaka
+2021-10-04	f19dd638350b626fd608fbf9b3b8ab0832d8e9d5	BEN print change. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/633
+2021-10-03	59c2e32ff24ae7dbcc781d82f61e714796d9641a	BEN L=10424, BaRqila. LB Ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/33#issuecomment-932854581
+2021-10-01	8f2a979b9c9ae8ab2be3a1a6fa3f236fe5a4b1de	User corrections through 09/30/2021
+2021-09-30	d72656eb0e2c01bf307da6c1a4dec4a2aef08a2d	Prepare to install user corrections
+2021-09-30	a3406e8f9c42178395cb45e462ddf3a507c5e470	sch print changes. LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/77
+2021-09-17	4801014eda86b3e3d40bd52ab766877ff1ca8070	push user corrections
+2021-09-10	5018fea0c84dcd634800f054d69361b29492b6f9	Merge branch 'master' of https://github.com/sanskrit-lexicon/csl-corrections LB prepare for ben printchange.  Forgot to pull.
+2021-09-10	d978075fcc52beda50b494c0a05c23968f67110b	BEN print changes re ab, ls markup. LB Ref: https://github.com/sanskrit-lexicon/BEN/issues/2
+2021-09-07	5feee5520037de3e63de542048b58b68d2bff91a	noted printchange in INM based on https://github.com/sanskrit-lexicon/csl-orig/issues/612
+2021-09-01	0c7cb1aef7d156a6ddf70b4c679607c33d1390d1	bhs print changes. LB Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/80
+2021-08-29	cf0b7e7cfb53e4239cda674b1e9785ef4f95476a	add print change for ap and ap90
+2021-08-18	0308cf64ace95fde8ec144973f109b84e0140cc6	BEN print changes; LB Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/79
+2021-08-16	275ed6c9f923da2d00bbfc28a79fc573c72b92a6	edit to yat_printchange.txt
+2021-08-16	1659249610e1d975b8123eab8f97e8a8aa6c8e50	YAT print changes. LB Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/73
+2021-07-31	28985fd7130dbd09aebd34f79168c33ebad413d2	wil english word corrections. Ref #66
+2021-07-31	5f3006c83bd61fe73eb95823d1a8e49e7b105b97	GRA and PUI print changes
+2021-07-31	e0292a0ba76c56bbf7bc861baa061d35b7f8b819	PD printchange atitfh
+2021-07-25	379789f72d5c599c86e619e91485c7281cf0199b	ap and pwg printchange modifications
+2021-07-06	51b1b682e0650b3f51aa0ff9ad2d7e1b56d59374	MW print change revisions
+2021-07-05	3bc95c14538dd8c752181786728e3610bd94bd0a	print changes for botanical names. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/110
+2021-07-05	db7f8de315c424af334b569e228bc9bc03c7cc4d	VEI english word changes classified as print changes
+2021-07-05	f5ff53cf60332ae4a037086dee822aa66f679611	convert from slightly different format as preparation for LB scanparse.py
+2021-07-04	8425f87723f7d90406fbebced7306606e073c6fc	pgn print changes. LB Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/62
+2021-06-22	8e2f3dbf5fb304d4fce7a1676c5076c1549054fa	print changes from user corrections
+2021-06-21	ff17c93a5dfdf9582ce99c4a4c66281c1700a3c7	Process user corrections since 03/22/2021
+2021-06-21	53597863558078c07244490f7de5f812021c2c6f	Prepare to process user corrections
+2021-06-20	95a01520e0e3e283f6097699e3b24155804a2412	SHS print changes for english word corrections. LB Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/64
+2021-04-23	d1883d80f361a2defdc88962d601724212a42928	mw72 print changes. LB Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/60
+2021-04-22	9e2d377e8213fdfd6890f84018b7e9e486071505	MWE print changes. LB Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/61
+2021-04-09	495add13278173cb9c83a49b05d78b0392a826d6	GRA print change. LB Ref: https://github.com/sanskrit-lexicon/GRA/issues/16
+2021-04-03	2eaa4202b1ef30969d5901bd738ead101a0dc6c1	MCI print corrections from english word corrections. LB Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/57
+2021-03-22	0d4acdd20fa61eac0149c2ff7d1acd835c8ee64b	INM print changes. LB Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/56
+2021-03-21	258ff530921e76392a6bde039c7a8e76744cb794	User corrections
+2021-03-20	9f26205796835f2fc5f73977ea8d6f8655fa1cfe	Add LAN to known dictionaries
+2021-03-20	c74f8bfbc61424fcb47eb8cae7a245efb7ec6fdd	Deal with 403 error and encoding error with print. LB #55
+2021-03-20	91e3ed992563ae506e5dd71b02990f728663e6eb	pull latest user responses
+2021-03-20	4aac1ff0ae171c962887c472eb3056caafe0c892	Pe corrections update
+2021-03-20	243faf5f8d3a60e3e77f18196b94811504cd606e	PE printchanges noted. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/468
+2021-03-19	89870ef57cb17d984f72f6e4980618b49f9c283c	bor print changes. LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/53
+2021-03-04	7e717f6922c674ffd9c35b45a1b59afc08df7492	VCP: L=44490, zaqaBija. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/469
+2021-02-20	04a6d4effcbb3b32ef1f1ad05142a253d98894e3	Lanman printchanges; LB Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/52
+2021-02-20	96040908b2c3f3732f0d0b5b8bc5e0d2a9c566f7	Usage message in scanparse
+2021-02-08	f205208622d213fa4b6a674f5a4b9f99adacf69a	ieg print changes. LB Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/51
+2021-02-02	f75064ace07d5c28a98d3d93cfd690e7e99662fa	GST print changes for english-word corrections. LB Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/50
+2021-02-02	6086114e5509d1d0e4f3a9ccecd98a3593f8aee6	scanparse.py is a utility for construction printchange records LB from a file.  Input file format is like: LB L:headword:old:new LB ; comments.  If the comment has word 'scan', then an output is written to first file. LB Usage: python scanparse.py <INPUT> <OUTPUT1> <OUTPUT2>.
+2021-01-27	31b723efd4a4fe338b7553d47096e95632c67804	acc:  printchanges. LB Ref: LB https://github.com/sanskrit-lexicon/csl-corrections/issues/49
+2021-01-22	5bad0826f08a90a990dabc8feaf9cbaac40dfdc4	Merge branch 'master' of https://github.com/sanskrit-lexicon/csl-corrections LB not sure whay this happened (funderburkjim)
+2021-01-22	c3219d518a4ba23a096a3708cb8e5c8539f408f7	AP90 print changes re english word corrections. #48
+2021-01-21	0d2da91d1c6cce6a6fd916244ac44481b1146172	Update mw_printchange.txt
+2021-01-21	c63ab6da265595392a047378831e5de09f8e02c9	Update mw_printchange.txt
+2021-01-13	84240c63a541cb0150f4c32dc9d2f04afb558793	AE printchange additions
+2021-01-12	d9aceb7c58beafffd5b5804b51fa5c3525748319	User corrections 11/18/2020 - 01/10/2021
+2021-01-11	63459dc984143d1922885dd1dd85cabc89c89120	latest user submitted corrections in cfr.tsv
+2021-01-05	d77c3e5fb13eabfd55c8098e34d835eefa7632c4	AP90 print changes. Noticed during corrections of English words. LB Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/20
+2021-01-01	b0b12cd146d66cbdbb0ea6528fc80820a0599f41	CAE print changes. LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/25
+2020-12-16	544e74751a54d29df9c172e7753e484917ecfb4d	3 print changes for sch.
+2020-11-20	9b94969f4c6816a3d6cc3e7e532bd18833433b0d	Process user corrections
+2020-11-19	aba6023dfb03e4745fbd89e522640a35c19b3d88	modify upload_github_issue.py to use personal access token LB for Github authentication
+2020-11-19	07b472f732e21d1d2f204384229b4d93a54451a8	Merge branch 'master' of github.com:sanskrit-lexicon/csl-corrections
+2020-11-19	04362f327e1660c34cc0d95dc75f94cb6765c74b	cfr.tsv of 11-18-2020 16:32
+2020-11-17	2a6d5cc81646e08b7e028e59bcb63e2120ae604b	Benfey print changes noticed. LB Ref: ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/17
+2020-10-06	5a28d6503741851e4f46ba2ca5db7059961452ef	AP 5 corrections
+2020-10-05	81d29ba600d78bae431d15dcb68263c27737fd80	GRA: 1 correction. print change
+2020-10-05	926088090b345e3b56b1887ec0e7273f3037f905	CCS 2 corrections
+2020-10-05	5f880d239c018f2a556fbd7d981128047fe8b314	STC user corrections
+2020-10-05	adbfa1b51281e03ca21f01237c0b06874559b883	BUR: 3 corrections
+2020-10-05	a5c89f7f6195498a6f7b76e3e237e55cc27c3b9e	PW: 7 corrections
+2020-10-05	ccad23bd1a79a9ce8736161c3bc4735b951671e2	SKD: 1 correction
+2020-10-05	e1f717d5ca0cc1e3db11d3068730d5ced85b0c8c	new user correction
+2020-10-05	e26025214dbb2f77c1274024244b709466985a0d	PWG: 3 changes
+2020-10-05	2acdbb9374ece5555e4e3e06dbc2e5f420c36d33	SKD: two corrections
+2020-10-04	b4f455a0e0c69ef88307c4c1cfad1b0fbc92f8ed	ap90 user corrections
+2020-10-03	da5256021a8ba21fafb59b3974ab3c59384dbc81	one MW correction
+2020-10-03	b7b38ebb0dc5a8bbcc910b519ab7f20d4ae85b03	User corrections, MW and VCP
+2020-10-01	f139c52a85d75fd9c0c7e0e18a46afb29945aa3d	another batch of user corrections - cfr.tsv
+2020-08-11	e61d57a9b6bb1f4519129f156c00d52c21b4d95f	corrections to mw, bur, stc
+2020-08-10	680b9a7d49984e85abe93dac2963bff6ddbbfa02	User corrections since 6/19/2020
+2020-06-18	19e8043eae3bbb8ed5ea0f11fd3e5452e7f548bf	User corrections processed
+2020-06-17	57eb27f560501789dc4898e5392a0b9623a3f937	Corrections for mw, mwe, pwg, skd
+2020-06-16	23ddf9a2cff62f44e36f2a4edfcd04c94a0ee0cb	Merge branch 'master' of https://github.com/sanskrit-lexicon/csl-corrections
+2020-06-16	ab5e5eed8b1d3c88ceb369f90cc52ef70623d74e	process user corrections
+2020-05-11	1a1a56e37d404194ed165676747139287a71db33	VCP print change: ref: https://github.com/sanskrit-lexicon/csl-orig/issues/272
+2020-05-07	884a85dbfb0bd11f146ecd478388cea7153fd555	MW: 121944. Kaquka -> KaqukA. print chg. LB Ref https://github.com/sanskrit-lexicon/csl-orig/issues/267
+2020-05-03	0ca4b546589f15667727bb34cd123d90c19131c6	BUR, STC corrections
+2020-05-03	ef7f9b10056349e74108a7fb900645f5bd58bd0a	User corrections cfr.tsv
+2020-05-03	d02011475664ff6f30088973ffe3b126277a9d18	bur, stc user corrections
+2020-05-03	a856bbc23df9e7c16edf7c7f83cfeb0372097d20	various user corrections.
+2020-05-02	d2675e006c438af0fb3dbd3e8fe90f0b369006c4	latest corrections
+2020-05-02	de89b16e2f39db53737e576a759b34027262c370	SKD: https://github.com/sanskrit-lexicon/csl-orig/issues/224 LB AE: https://github.com/sanskrit-lexicon/csl-orig/issues/240
+2020-05-01	b084e0bd5f7f9a000726dcf5d64d71c00d17764d	recent user corrections, cfr.tsv
+2020-04-29	317ec1a02a9132542f4ee76cd66f0a339d804410	BEN print changes. LB ref: https://github.com/sanskrit-lexicon/csl-orig/issues/217
+2020-04-19	3433cc7fe07f41feb5d5291e29afc9ae581b02f1	STC L=7016, apusaMpre -> upasaMpre; LB ref = https://github.com/sanskrit-lexicon/csl-orig/issues/216
+2020-04-09	c930613cf98a3e3966c5102a71e880682e8ab7e0	BUR corrections. ref https://github.com/sanskrit-lexicon/csl-orig/issues/207
+2020-03-31	995b51ed09f3d3100c5cfe090b3f357decd53ed3	krm print changel L=1594 viCa -> vicCa
+2020-03-28	67e057cee4ba961d20bcf24366511ec8f0b07a5b	krm: L=890, dva -> dvf. LB ref: https://github.com/sanskrit-lexicon/csl-orig/issues/205
+2020-03-25	e1502e794614c6ca40bf9197c5e3fd8131f391a2	YAT: upasarga spelling changes. LB ref: https://github.com/sanskrit-lexicon/csl-orig/issues/204
+2020-03-24	5172e15c23a76126912106e97eb3c9797e42b3ff	shs print changes
+2020-03-22	41a242fe774df13be8719a25f15fd50d31f66880	YAT: printchange related to upasargas. LB ref: https://github.com/sanskrit-lexicon/csl-orig/issues/202
+2020-03-22	60daa349ea3f39c9c1333ecd29fd8912b6fd4e5a	YAT print changes. LB ref = https://github.com/sanskrit-lexicon/csl-orig/issues/201
+2020-03-14	0a1633587c0b6ea02e825c6707205ed538cfb359	ap90: 15940, DanIyatI -> DanIyati. print change. LB ref: https://github.com/sanskrit-lexicon/csl-orig/issues/197
+2020-03-12	d30d519c0df991b159df06102c27f9cff472374d	ap90 print change notice. also refer to LB https://github.com/sanskrit-lexicon/csl-orig/issues/195
+2020-03-07	5a570874404c7102d0c0055e90b77ad8ae945eea	pw: 81342, BlaS -> BlAS. mark print change. LB ref: https://github.com/sanskrit-lexicon/csl-orig/issues/191
+2020-03-06	fbff08043a2f00f8d6a419a4a4609c34174e6de7	PWG: 114357, sparS. print change
+2020-03-03	90b958f2f9fb54cfe3045a7a1f308c92923b86b8	L=36934, zawwaH -> zawwa print change. LB ref https://github.com/sanskrit-lexicon/csl-orig/issues/186
+2020-03-03	c3982b930a586717c0c3adac336b9fb58289b2e1	skd print change: 35999, SucaH -> Suca
+2020-02-24	1329dd00733bd3313484d1d137421b19bb1b82a4	skd print changes for 3 verbs
+2020-02-18	134e9f4384a68a6f55909336cd3a687a66f9edd3	history notes pw preverb corrections
+2020-02-18	c262ee6fac4ff510465e4528f2676970052ad3eb	User corrections submitted since 01-22-2020
+2020-02-17	a2a3263011adf66a9d7ae9e87083864ac5620417	notice user corrections since Jan 22
+2020-01-22	62fe9552e54e181e0dd6fd556fb43e968b00e490	mw:112063,nFMHpraRetra; 111941,nFnHpraRetra; LB pui:9678,BIzMacaRqika print change; LB sch:16401,nayavartMan
+2020-01-22	c3002e4ee36f20b4af72217b65a2d726c13c8dea	User correction submissions
+2020-01-21	dcc11ea369141333a3f5b20b4735e661580d434f	mention stc abbreviations
+2020-01-20	690d338fdf0a5277da39c6db57825281cc14cd54	yat:18342,dArwwura; mw:151473,Buvana; stc:8866,go; bur:101,agni; bur 11073,piWara
+2020-01-20	2f88744aa34101217cbb9afc7a146285803c4b35	user submissions
+2020-01-13	00d023e43b4887e076831fc30f2604fbb51556b4	MW: 125104,puMsa; 94067,durnivAra; 137153,pravIRatA; 144480,bAla; 144474,bAla
+2020-01-13	4bfd598860384d5e1c5a72e06bdad2d552a3f480	bur:1043,aBava  add alternate headword aBAva
+2020-01-13	a49b1a6dc044e1fd1729afbc242e4330afa93d66	vcp:36708,BU  ref: https://github.com/sanskrit-lexicon/csl-orig/issues/97
+2020-01-13	a0685af1e912c7088865a301b7ba840b451b9fbc	new user corrections
+2020-01-10	d7c456011ac903e504af3c0749063c1eda68691b	mention Vartt changes in mw.
+2020-01-10	e223733fb2d8ef198c8aa5d7495f9a9401ef14a6	mw: 227696,sakft; 221883,sOrya; 156872,manu; 189435,vA; 213058,Sam;106947,nirguNamAmasa
+2020-01-10	93ab8e17245202d1c5b0e2a565f23a036b451e86	corrections to ap90, bur, gra, pw
+2020-01-10	e5a1057fdd4e46e3ffcd0899d95b4e9aae78f64e	new user corretions
+2020-01-09	a223d46667c5f9c2171dea6b30751ff9343cbec0	gra:10160,soma  etc. LB refer https://github.com/sanskrit-lexicon/GRA/issues/5
+2020-01-09	462ad0b47b39bd07ef3af13b1baf1000b5549483	GRA greek text
+2020-01-04	6d2bcb4942141168c72e693c35c057d7ffd314c9	Corrections: pw:86451,mArjAra ; mw:144580,bAlaboDa and 9 others(wks. -> <ab>wks.</ab>
+2020-01-04	4193b397e790d57e406b3a772249fe1bb0f0045e	minor corrections to cfr_adj and upload_github_issue. LB rerun post_github_issues.sh.
+2020-01-03	7a227ceee96f228c03f3025d9cb4ba2072189c51	Two new corrections submitted
+2019-12-28	ed5fa5b366cee3d985eb5865b3ae44f85666c9f7	ap90:12876,Gana (print change)
+2019-12-28	648406c3d7927b04a3cc2bc5b1125f166c6fedb7	finish mw:106052,nAradasaMhitA
+2019-12-28	e4e6e548c1457e60fd61a6de8c77f003ede93b39	mw:106052,nAradasaMhitA - ref: https://github.com/sanskrit-lexicon/csl-orig/issues/90
+2019-12-28	4f721ce386cbf29ffca4ac6d185504e0c72da5d8	Add error detection to issue upload program; and upload 1 new issue to csl-orig
+2019-12-27	54454f9a0d58c357b28dc2c208ca467e3aa9fe76	add another mw correction done while working on prior commit
+2019-12-27	d19c55e87955c468f95e9eb61b30f8b47517c9fb	mw:26704,AlaB; 73297,ci; 36910,upe (print change); 232191,saMnyAsa; 141468,plu; 42763.2,kaTam
+2019-12-27	c6d4f279ac62d11cff1da5cf90bd2884b494b2a7	Mark as corrected several from MW, from the 'help-wanted' list at https://github.com/sanskrit-lexicon/csl-orig/issues
+2019-12-25	859dd8ce2d265d40029b5e82064bd44819ec99bd	shs printchange
+2019-12-22	45bc3db34f8c18e48a79a322b7542f65ba9e0ed8	SHS extra colon removed
+2019-12-20	23b03eb9337c86aa212251641834a1482a33ec68	bur: 11462,pracinomi; 8975, hw=devana; 6629,cit; 6914, Cettf; 2281,ABAs; 18758,sumuK; 9883,niraYjana;17449,saDa;2763,ugra; 13181,mahezvara
+2019-12-20	bfc2fba6cd6fc59ae39831a74873e6f1e5d416ce	PW 2 cases pending
+2019-12-20	660c0720740b775fbedeb021f8c0f977fbe96d65	pw:5211;131499;119017;89316;89765;68313;78541;118430;43345
+2019-12-20	31905598871a633bc5baab24e62d13a43251f882	ap90:25341;29024;23422;20836;22713;28403;26599;23810;7869;26523
+2019-12-20	122cc0fed4a89441b179a2651768aefe819592bc	wil:167;5927;41435
+2019-12-20	06dd5c6b36acc3a5d8237c3d0e32570d70fd06c8	skd:27439;41818;37902;21935
+2019-12-20	bbe8db4cf263e34970854add45111cb61c7b1132	vcp:26789
+2019-12-20	5f3e4bbedd01e4b11ba409957499d081010ef43b	github removed
+2019-12-20	9e99b19e4b257e665a95c45ded9508f0abc44d66	github issue posted in separate shell script, email removed
+2019-12-20	7c931047fd766d7cd766692fdb9beef5b430d3e7	mw:262545;234227;68463;162924;161686;86231.1;62541;197590;173266;239967
+2019-12-19	110c4ca6e6e0b8d1b4140f5daac027290ba77834	bur: 11471, pracodayāmi
+2019-12-19	b9fb3befc40c31c8aedf74bfd7a4b5d50ef47667	stc: 15705, prez; 24206,sva; 12787, paYcama;20894,saMskf
+2019-12-19	962613f00d35606174b4fa0ccaf810c6a4607b3b	ccs: 5038,kup;11126,DI
+2019-12-19	ab0212451d47b1d9f06d11d5a3fb6511e4609a17	github issues upload made part of redo_cfr.sh
+2019-12-19	bf3bf2deb46394b14d5c70f2ecf13fdaa0316493	last_cfr_line.txt
+2019-12-19	c596757e1a2674fbef93e0da973a5988e2ccd19f	upload cfr.tsv to github issues
+2019-12-19	dfaed8f7827cb9e5cf02fedefabfcf4d477d9c75	autoupload trial
+2019-12-19	31df69c62b6643e9d62e1c9d7a5c51dd9fcc578b	correctionform1 removed
+2019-12-19	986ca4541fd9741aae51d09029be61016e9d5e29	cfr clash sorted
+2019-12-19	70de297489e38873f88e255f2bc127952c5e63b8	local changes in MW
+2019-12-19	116c27c04445ea17ef922d3fa09f87a896ad76f0	cfr-adj.py now shows pending corrections for each dictionary (redo of 0525f95)
+2019-12-19	991402a2a3c5c4467aeb58c601bc8776e1e73a38	Revert "print message for any dictionaries with pending corrections" LB  LB This reverts commit 0525f95bfe9414bbdb3390b7f54c9e93cce1e157. LB  LB Try to get sync to Cologne.
+2019-12-18	c4eb672c105224c19e603c7d80526d0e5c6c3fa6	user corrections added while doing pwg corrections. The last 4 lines now agree with Cologne
+2019-12-18	48dc4b90d370a5181ce4c2f28cbdac3a5f643bf1	pwg:35439,droRa; 19764,kram; 101905,SreyaMs (print change); 102723,sa; 102722,sa
+2019-12-18	0525f95bfe9414bbdb3390b7f54c9e93cce1e157	print message for any dictionaries with pending corrections
+2019-12-18	40da6590a0ab6ac47eb678aa26d186836f5aacfa	WIL corrections
+2019-12-18	b90b1ae96dbdaafb85d0f5f95d74b2aa36f25422	WIL:35063,35064
+2019-12-18	6b5f2772eeb1d2f38a2fef23ae11e56ffec471e8	ae:11278
+2019-12-18	3dc632f8fde17b0c4d6176ccf85c413ca88f31f4	Merge branch 'master' of https://github.com/sanskrit-lexicon/csl-corrections
+2019-12-18	d833dd985cb171d75ccbc58fda59b2ebb9b5cf95	trial for autofill
+2019-12-18	b0627bda6001d293913a14b3a41ea0528bdb0f0e	correction to 'ae', pending changes for several other dictionaries
+2019-12-18	5843055062d24929303a169ad6a6f9457896b08c	Revise so only dictionaries/xxx/xxx_correctionform.txt is revised only for dictionaries that have new correction submissions.
+2019-12-17	00cd5ff815b762b9d6a5516b4bded4b9b9a094a6	remove cfr.tsv at top level -- the 'live' one is app/correction_response/cfr.tsv
+2019-12-17	2dd238f7c06237f06ec580bb4db4c20ee08900d8	new correction
+2019-12-17	6a835cf2d92617f73a8287eaa79d7280bd4adc25	trial for autofilling the old and new entries
+2019-12-17	9a5b9baaf81cc360bb36ac05832deebb6731d6a5	trial for autoupdate
+2019-12-16	03c38c194339f446c8e3fae9107016ececb13df0	correction form submitted at 2019-12-17_00:50:54
+2019-12-16	e23efa275d1950ab179e36b9e26ed1237d3d4e57	initialization from Cologne /php
+2019-12-16	6fa5aa987701f0e696775ab81a663ab73d9d9d36	Initialize material from sanskrit-lexicon/CORRECTIONS repository
+2019-12-16	e854ffd2f3cc1275118f8137756875463f72b047	Initial commit

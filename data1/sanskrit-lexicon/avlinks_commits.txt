@@ -1,0 +1,8 @@
+date	sha	title
+2023-06-19	f2b6eace9fa276e48ffaae03f4b51324a63acb23	Add Sanskrit 2003 font-face. LB Ref: https://github.com/sanskrit-lexicon/GRA/issues/30
+2021-04-09	671954f89980c9192018c47494d870e9186a31ff	Add log of each hymn and number of verses
+2021-04-09	4f2142f201531e988dc3d4486989e6522c4fdd87	revise readme.org
+2021-04-09	915e66495009c646d7d12618c62364ecead6f8e5	Creation of avhymns directory
+2021-04-08	a3f97d5397ef126fe6dcd3c3a463d3a66b168fcb	Change tab character to space
+2021-04-08	35a653d0e33b4d39ed282718a7ff0ba7a9ef139e	newline at end.  unix line endings
+2021-04-08	743350606e392ba39a2d975f5858b196757738ff	Initial commit -- Atharva veda html file

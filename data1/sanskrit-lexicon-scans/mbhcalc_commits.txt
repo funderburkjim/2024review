@@ -1,0 +1,11 @@
+date	sha	title
+2024-10-29	9821d9b5003542ee5e0abc3eeeaed5665bf0554e	#1 Rest of corrections to index, courtesy Andhrabharati
+2024-10-29	0173693c701bc45797c4a315fdac9e78b7833dc1	Correct page 527 index
+2024-10-29	4158855eb354b444723b7b801c0b84c0e0c37b41	#1 2nd try works. This commit updates additional files
+2024-10-29	5a436f1b24f03388937c57979bdc6c1afc841f98	#1 2nd try for parvanverse revision
+2024-10-29	51ce4a0da93ea24ee3a0203709971f203a14018c	#1 First try for parvanverse revision
+2022-01-30	787887b0589d08ed5bb5b454315d705a77f926c4	list of pages with verse gaps. Note in readme on harivansa
+2022-01-30	39484f0ccb2f038f1cc6965f586dc3601e3a424a	Information on creation of pdfpages
+2022-01-28	9bfffbfd23c12f39debf6e133149ab169e8d49e8	Correct numbering error in 3.500-3.859. LB Use archive.org source for 3.498, 3.499 and 3.727. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/48
+2022-01-27	23025eabe8bf00447f399e33241f257e78e31f2e	Initial commit of images and html
+2022-01-26	fbe997726ed54f86540093c642e81efd92e8a56f	Initial commit

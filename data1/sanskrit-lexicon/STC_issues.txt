@@ -1,0 +1,3 @@
+date	issue	state	title
+2023-03-08	2	open	Abbreviations from 'ADDITIONS ET CORRECTIONS'
+2020-04-19	1	open	verbs01

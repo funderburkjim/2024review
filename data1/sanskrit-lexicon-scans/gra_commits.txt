@@ -1,0 +1,5 @@
+date	sha	title
+2023-04-17	e8c81acca45bd9ca3867ad3f11ddeca8f1791701	Correct the page 1769 of pdf
+2022-12-31	1ece9bf1c85299f87b6f86c16c0ab0a4fb6d828a	Work directory regarding Bayer scan installation
+2022-12-31	3674a4c034c5921c426b60b3d9723537f33f9b7f	Initial commit of new images to sanskrit-lexicon-scans/gra
+2022-12-31	f50d7ad3b040d30595890bb8c12531931b33f925	Initial commit

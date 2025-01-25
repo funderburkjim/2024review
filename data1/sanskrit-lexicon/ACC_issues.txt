@@ -1,0 +1,19 @@
+date	issue	state	title
+2017-08-30	18	open	<HI> tag importance, part 2
+2017-08-30	17	open	Request to review acc6.txt
+2017-07-09	16	open	multiword headword tagging issues
+2017-07-08	15	open	Rewrite literary resource tagging for long tags
+2017-07-08	14	open	locatives in headword
+2017-07-05	13	closed	xml problems with markup
+2017-07-05	12	open	downstream modifications for XML and display
+2017-07-04	11	closed	mis-tags in acc4.txt
+2017-07-04	10	closed	mis-tags in acc4.txt
+2017-07-04	9	closed	Odd spacing issues in acc3.txt
+2017-07-03	8	closed	Sole occurrence of §
+2017-07-03	7	open	Potentially missed literary resources
+2017-07-03	6	closed	97 duplicate tagging in acc6.txt
+2017-07-03	5	open	Flag non-English words which are not headwords for examination
+2017-06-29	4	open	Exploring significance of <HI> tag
+2017-06-15	3	closed	Internal references in ACC
+2017-06-06	2	open	Analyze non-English words in decreasing order of occurrence
+2017-05-28	1	closed	Document Literary sources in ACC

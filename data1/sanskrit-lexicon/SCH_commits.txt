@@ -1,0 +1,22 @@
+date	sha	title
+2024-12-11	a2ed0fb02e9d29b9b89a2da0b4fdb349aceaac68	#10 version 3
+2024-12-08	def48a54e83eebb50e6a295be0a160db1ae4c21d	update readme.txt
+2024-12-08	4dab56e399181ef1d8ab80111c03892db9273d12	standardize links for 'Bhāg. P.' #10
+2022-05-31	9384595b70f38327b8fd55c9be1b480ef73e2257	link markup. LB #8
+2022-05-31	d55da116086e223b0086846fd5895e016b97e357	Sch initial ls markup. #8
+2022-05-23	6bbd0e9c376bcafd0b5e366e904083f267a18d1d	.gitignore added, and some temp files removed
+2022-05-23	b8a4a95e24fb51503714e454a5c2e18bcc0e0124	Greek text. #7
+2017-04-26	a6fe9b50c99ac3a675e2d3ad6a56f94c0a3bb310	directory tree of Cologne for SCHScan/2014
+2017-04-26	c9f66eafc4a378c17d89ece62ab3742a90f135c2	revised dtd for sch.xml
+2017-04-26	73f8f7b128375e3c2bcba078186b0d984a2dfc98	Revised description of sch.txt coding conventions
+2014-09-24	f3a14fc9742e8b05bce7ec227dc0aa7e858e5ed0	Fixed typoes, added links to books
+2014-09-19	65ffd7c79a4c367f596c96e1d390553ee98c4101	UTF-8
+2014-09-18	254ac3d32f47b89eb7a34f0e4d6eb16b03b1186c	Preface in German
+2014-09-18	31004260eb3a5c79c6269b533967e49e09203c5a	Preface
+2014-03-22	51ac08a482082c57a6713a203dc090e24e69e58e	Update VideoTutorials.txt
+2014-01-29	ef19e1ca2854d2d9a5de7b9fe9b8a0a90a32a48c	Update VideoTutorials.txt
+2014-01-27	0eaf5c44cd7be5859a396bf0bd86a5a5708c2ef6	Update VideoTutorials.txt
+2014-01-22	e9aee0778daae0a8fc324af7a56d40f0c07b5e04	VideoTutorials LB  LB Links to Video Tutorials on Youtube re Schmidt Dictionary
+2014-01-16	82d48efdf10a5f81f7d034205c9fbf083eb31fc9	first schmidt change file LB  LB Revised
+2014-01-16	d27e0ea65d14dd6606833a5e3591e5c57e2c3bc3	original schmidt, and initial changes LB  LB The original schmidt digitization from Thomas Malten, converted to utf8 LB (from cp1252). LB And the first set of changes applied.
+2014-01-15	f78bc1015d352bd9928437eeda6a256baedf737c	Initial commit

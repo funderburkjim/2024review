@@ -1,0 +1,334 @@
+date	sha	title
+2025-01-13	d311f447160ade0f9edca210946ea7fabb98435e	basicadjust.php modified re links to bhagavata purana. LB skandhas 1-9 use bhagp_bur, and 10-12 to bhagp_bom.  This applies to LB dictionaries pwg, pw, sch, and mw. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/81
+2024-12-10	54c2e40ac4bb0ae7aeac1a72166efd52a8994b26	basicadjust.php for sch references, corrected. Also Bhag.P. LB Ref: https://github.com/sanskrit-lexicon/SCH/issues/10
+2024-12-08	225e3d5bb2f62335d12a14c614f446015391cb58	SCH, etc. links for 'Bhāg. P.' LB Ref: https://github.com/sanskrit-lexicon/SCH/issues/110
+2024-11-15	27549a00c39ddfb320cb09937f000c08623e6ed9	Hariv. link references missing. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/80
+2024-11-15	f678289579eda9906e60666e4ab9a0a84357c2c0	MW page links for <col>X</col> tags. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/64   'col link'
+2024-11-14	8e8071c3bfa65a4c98a8cdfa5a57740b5a144023	Revise page links, hoping to avoid 'click to load pdf' messages. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/64#issuecomment-2474787451 2nd try
+2024-11-14	64ab5957668206b1a938f432d9cb269c74503ac0	Revise page links, hoping to avoid 'click to load pdf' messages. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/64#issuecomment-2474787451
+2024-11-14	f2e8cbdebefb59fe687e73ba982d6f309c4b445d	MW: Links for page references. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/64#issuecomment-2474787451
+2024-11-12	598507b0dc89c3728577f8bd74b54dcaaedf4011	#44 revision to use different way to get
+2024-11-12	a9ddb83f5a9af065e9c26fabb510136712c9ffef	#44 - clickable linke rev (page, col)
+2024-11-08	45076a9b02277867d1f61f14c1b55a2e52e94154	MW: apavarga flaw - #43
+2024-11-08	d04f93fbcfd99255aa28e8f6b481af3a7928281e	add debug section in listhiermodel.php/ list_center function
+2024-11-08	648e0a6089342a9e3e9432613b56158d8ba203d5	Correct error in webtc1/listparm.php
+2024-11-05	237ddf7ba2ae18aef19c84c2b6581cf30550b39b	MW: In list display, avoid SS and RR LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-27	c526f94572a7893f06091b03559b0d22a4117948	MW: Do not display artificial homonyms in list display LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-26	370a6eb2dbf7926a2a3a79d75564c4285f278c05	MW: list display. Allow circle-R circle-S LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-22	cc7e175902e4b354cc9d9cfd75555d42c21bc9c2	MW: See corrections_mw_insert.txt at LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-08	916ddc9c3ee98b54ef79548be380e70c0497f5b5	RV links in pwg with 2 parameters but no 3rd verse parameter. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/59#issuecomment-2395931982
+2024-10-07	325a0575a9065e6eab38ff42e8b2c1888a91cf6d	PWG: missing VN LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/76
+2024-10-01	438ba985e33b480dd5596c6cdaf2b8f8bf383245	Revise pdffiles for VN pages. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/76
+2024-09-28	f9f1809892380ef2d162e59eb16915875fefd4ab	deva1_slp1.xml transcoder file. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/76
+2024-09-17	98bb8b8c41a5f472b4da21a5545cf00569bc0056	PWG: Ref. https://github.com/sanskrit-lexicon/PWG/issues/74 version 10
+2024-09-17	8c3932d00f15d2722cabe89eb04f38f43b108148	PWG: Ref. https://github.com/sanskrit-lexicon/PWG/issues/74
+2024-09-09	2d7b40604f8c0aca4402c05922791f81b50f16cf	pwg, pw, pwkvn, sch, mw: manu link target for BLAM displays LB  Ref: https://github.com/sanskrit-lexicon/PWG/issues/73
+2024-09-08	c15a6192342cb0e0a1ed1e5f76869ea85bb3ccb0	PWG: activate 'M.' (Manava dharmashastra) link target LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/73
+2024-08-25	1889ad6b704e808d00e6dec6331cdd6400fe42e4	Correction to slp1_deva2.xml: This currently only is LB used in MW dictionary.  UdAtta accent also not shown before M,H,~. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/177
+2024-08-24	753c30a949b7160cd014b4a8ea6046117209975c	MW: LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/176
+2024-07-28	e2cb7519e9d4210abf34de6ee2f7935a785f39f9	MW Kathās. link target. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/70
+2024-07-28	0f0801a522ffeeaac5d8d82104b8d5ec7c101210	SCH link target. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/70
+2024-07-27	44d3e4f64500733c8f4e75e443984ebe0221e297	Katha-sarit-sagara link target. For PWG, etc. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/70
+2024-07-27	c8f473b699cb1b2c373c4e759ed78c40ba1a1a80	Correct typo in apidev_copy.sh
+2024-07-12	b2d09d69cca7ae8d1301028f8c44de35740d26f0	revise apidev_copy.sh -- coordination between LB csl-websanlexicon and csl-apidev repositories
+2024-07-11	8915dabe073c2f9aa678f9d24adfa6927116d178	changes getwordClass and getword_data to reduce LB differences with the same modules of csl-apidev
+2024-07-11	c75a0923203aec7cf3874cc770657d96a53ca05b	 1. rev-sup display https://github.com/sanskrit-lexicon/MWS/issues/173 LB 2. titular abbreviations https://github.com/sanskrit-lexicon/MWS/issues/172
+2024-07-04	25b609dd085d6c2ed4fa5eb55275d365a214c60e	Remove confusion between '<abbr>X</abbr>' and '<ab>X</ab>'. LB Ref: #42
+2024-07-03	659071e41f599f34239c299768736fb51a837cf1	transcoding of slp1 'L' to iast, now using ḻ. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/169
+2024-07-03	47564bd9b101a68b9b9140b27b55fbfdce18f26f	MW display accents:  udAtta not shown, svarita shows as LB  U+0951 = (DEVANAGARI STRESS SIGN UDATTA); LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/169
+2024-07-02	fd4ef4615813c8165538d5e52a028cb55d476c77	MW devanagari accents: udAtta invisible, svarita as in PW. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/169
+2024-07-02	39e3f3b7087ce30687aed2df7430755ae502f563	MW:  Use PW transcoding slp1_deva1.xml . LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/169
+2024-06-23	70ab5737ef3ec5f5645027350c34a671bd9ba1cd	ls links for 'Verz. D. Oxf. H.'; LB for dictionaries pwg, pw, pwkvn, sch. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/69
+2024-06-21	0de4d41e2c61cc47bdb2c50eee91baea029876ad	Remove display of hom in head. Rest of dictionaries. #41
+2024-06-20	a4cdf2d907705391d50f0215f84c8f16655e6b93	Remove homonym doubling in pwg displays. #41
+2024-06-20	7c990216ba95c035a20547826bff5044e353e5d8	list display recentering. #40; LB Also see https://github.com/sanskrit-lexicon/csl-orig/issues/1639
+2024-04-16	16140c35c52cce820a9b4ce6568c5019cbcb21fc	MW lang tag and related. LB Ref: https://github.com/sanskrit-lexicon/mws/issues/65
+2024-04-09	842247331447ba5ea8c97cd9edc07e7c1113e4a8	Reset dbg to false
+2024-04-08	6eb9a26e72006553d8594a4f4763e1312fe0e37a	greek text in mw italic. LB Ref: https://github.com/sanskrit-lexicon/mws/issues/65
+2024-03-30	e15ab439376f117d99060e2736910d5ab3d532fe	Use python3 in generate_web.sh.  'python' command is not LB found when 'sh generate_web.sh gra xxx' is run, but 'python3' works
+2024-03-29	1f4af9ba1974642b85c79161df64f8ef3aee7015	#37
+2024-03-12	280124943f3507eb80f0471d1451e7af2da6d18d	pw:  pdffiles.txt change to fix bug. LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/107
+2024-02-22	cc13f25f16983000df26aa0b2b06a6132ff11d7e	4th try at optional highlighting. #36
+2024-02-21	c64974d0986b879cd98cc50d6d063a40a2792f44	3rd try at optional highlighting. #36
+2024-02-21	1e907c9055e50299b6e298a4b0e6e3729905a43c	#36.  2nd try for highlighting option
+2024-02-21	b5cbee493e1e514281368c51380138c0b07621e3	revert highlight options. Cologne showed an error.
+2024-02-21	3a4be3111c345fec5be9d0de2ed73c83959f4725	advanced search highlighting made optional.
+2024-02-09	8bf24cfdd19a2bbd7a6f35d466408ad42199758b	pwk display for '<info n=sup_N/>'. LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/104
+2024-02-05	4f9c6b1ee31bebf55edf0c249a80de307a7bab9e	gra, md  and 'per' tag; LB Ref: https://github.com/sanskrit-lexicon/csl-pywork/issues/32
+2024-02-01	fda709ca256f1bb6e19f41995134c1a83669fb2c	SCH:  implement link to Westergaard dhatupatha. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/126
+2024-01-30	1c5dd1ba037f53bb5058fa2181ec38cdad3822f0	Link target for Westergaard Dhatupatha. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/126
+2024-01-30	151e184894cf675300c6389d719c25ee0cddaa06	Ref: https://github.com/sanskrit-lexicon/MWS/issues/160 LB copilot dialog as example of 'prompt engineering'
+2024-01-26	3d91570f0f6cf358d5bcd078352533b5af5af824	Advanced Search highlighting refinement to solve problem. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/160
+2024-01-19	be8dc6b930e43c555314952056adc920a9a820b4	MW Ramayana links for Kanda i, ii link to Schlegel. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/151
+2024-01-19	18e3c1705cf54fcb58a627fb6d372b168935532a	Advanced search highlighting. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/5
+2023-12-23	5fb39aab148b99febf3ea4d506117741d8908ac3	MD: major revision. LB Ref: https://github.com/sanskrit-lexicon/MD/issues/11
+2023-12-10	70f936327a3f426ade90e714405ed3b41f2ffd6a	worldcat entry for ABCH, ACPH and ACSJ
+2023-12-10	2972dca9ffdc528d9e735034cfb2121addffe61c	dictinfo has ACPH and ACSJ
+2023-12-10	be552e1286dd69e39203362804cee40eceb916e3	ACPH and ACSJ pdffiles updated
+2023-12-09	9b45b9c7bd906de77d5d98f095111e02c1f79ec6	ACPH and ACSJ update
+2023-11-27	39eb065a5201a1dda884331bbaec1297bf15f7d2	PW: Ref: https://github.com/sanskrit-lexicon/PWK/issues/102
+2023-11-24	d1709f0fcc71762e7ca11f8b1f20e3c562e3061e	ABCH: Ref: https://github.com/funderburkjim/kosha-dev/issues/23
+2023-10-31	7fe4df83884c21d1ec95370c3bd35c1d8c5989e2	hom markup added to pw. LB   Ref: https://github.com/sanskrit-lexicon/PWK/issues/88
+2023-09-24	dd594c49276ea01dcffb857e3e98ad436df9327d	PW: Revise basicadjust.php LB   Ref: https://github.com/sanskrit-lexicon/PWK/issues/88
+2023-08-09	67d33faf2cde87157c6a48e8bb141795b3516d52	basicdisplay.php correction
+2023-08-09	c4f19fb05c0e17d6891698e0f564ed84b4fc0e7d	BHS:  abbreviation markup display revisions. LB Ref: https://github.com/sanskrit-lexicon/BHS/issues/1
+2023-07-14	96cf41214d89b7fd714140f5902502a686d959f9	basicdisplay: div indentation. Ref #33
+2023-07-11	98cfaf259486e8a9b86218094b899b73958d5b28	Revise for new edition of Grassman. LB > Ref: https://github.com/sanskrit-lexicon/GRA/issues/32
+2023-06-12	5bbaa5a424bc594b52847125d4c5f56eb4524f15	Advanced search prefix/suffix headword search. #32
+2023-06-02	e9ee2f70100b650e7426183bdd834c4a75226f9b	Update cologne dictionary scan locations
+2023-05-15	3263d5b6bfbdb95603d86409c1a37657f2b0c87e	webtc1 400 error. #31
+2023-05-15	9cfb261456799d1ee5a755eb0f537aafdccb1310	pcre.jit=0 . See #30
+2023-04-11	7411aa6702ed02829723a7ab52f53d58a491441b	Spelling revised
+2023-04-10	3739234deef34451b6d964539969cde5c8ab5b2a	linktrack update. #29
+2023-04-06	a41e41e868333fe82b8b3c1b4eb2f3a9bc49a2b8	link tracking documentation summary. #29
+2023-04-06	e8b88da45272268b223a2695da8a82eeb01b93ee	first documentation of basicadjust.  Ref #29
+2023-04-04	380bfc1f22721137a69ccef2ea1c0deaf70afae0	PW link target for Chr. (Boehtlingk Chrestomathie). LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/93
+2023-03-22	18ae0d449951b4dbf36b3a6ebda2e139d9c31a2f	slp1_deva1.xml:  for accent, next state is INIT. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/407
+2023-03-11	e07743df850c9bc5f23096868efe4115aec3dfd3	Remove references to piwik user tracking package at Cologne
+2023-02-17	e0c7f84a19fab10c6bb0f25530d109b3572df8fa	md homonym display adjustments
+2023-01-14	e247cc6d9962e9bd56fe572ac7244e860dddc1a8	 Add vertical space between 'Preferences' line and data below
+2023-01-14	d33579436cf4c8916ea799bc476e739c9d6a1cf0	Correct error in handling accent display. LB Ref: https://github.com/sanskrit-lexicon/csl-websanlexicon/issues/27
+2023-01-13	46a88a840f0e684fd589fe8671733b4ae5b92dcf	revisions per php 8.2. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/401
+2022-12-11	248753242f9835ff53d0bdc7b04667586da26bc3	remove '$' from indexcaller.php.  #28
+2022-12-02	4b07c84505d8f6d0a4be1ba82b52d217ac606a82	Correct error in transcoder.php, a few other minor changes so webtc2 also works. LB Ref: https://github.com/sanskrit-lexicon/csl-apidev/issues/34
+2022-12-02	2916da4f41d75b2c083a1ee20664c1fc39d691cb	Fix a bug in List display. Also, some related code cleanup. LB Ref: https://github.com/sanskrit-lexicon/csl-apidev/issues/34
+2022-11-29	091630c06f5e524f65455702ba69689a69eb97cb	x s s adjustment. #27
+2022-11-18	1ab1fa56be5e5f816ec559f992dabfa33ba3f217	Correct error in redo_cologne_all.sh
+2022-11-10	6ed83bd0ca115cdb74aa181a5896625de6d83c2f	Minor corrections re php 8.1. LB Ref: https://github.com/sanskrit-lexicon/csl-websanlexicon/issues/26
+2022-10-13	4916ab796195e6c6fa354c676ee624dbad63af30	LRV pdfpages location at Cologne
+2022-10-13	aa4fc862526e615a6af4dd87deb42e886d3dd8f9	location of LRV scans at Cologne. LB Ref: https://github.com/sanskrit-lexicon/LRV/issues/21
+2022-10-11	244cbfeae3367011e9a25819043052a577f1eb68	pdffiles for LRV
+2022-10-09	3aecfc5a0cbf6fc04fb48fe8477c868f20a4c912	lrv
+2022-10-09	412a4b84fa94c4926f13f7a8d61aa312810800b2	LRV init
+2022-09-19	40990f3fa9c5c0875307bbbc27c531c34dd90287	revise slp1_roman and roma_slp1 transcoder files. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/140
+2022-09-16	3ebcc7fa1ab50b4e3e7541c579de8260106dbad5	Correct some display problems for ls. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/950
+2022-09-08	6fb55506368242f6c61e37ea3608f3ad84f0625d	ARMHSCAN -> ARMHScan in redo_cologne_all.sh
+2022-09-08	be2bbcad8c35b802b13c5a9d4b48610f46b85eb8	 armh in redo_cologne_all
+2022-09-08	a0290cedcc0a6489c4afa345fe95107cff551f2a	sanitize mobile1
+2022-09-08	839ea7e3f8b9e205bd21cda21ab0eb8997305ed2	sanitize key parameter in indexcaller
+2022-08-02	61c0e19e708ea8511723646b69dbe69decbb396c	basicadjust: mw R. (G)
+2022-08-02	8411f022650b776f64f85dd90e5827dbac4da69c	basicadjust (mw). LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/135 (change_2)
+2022-07-27	37109961bf3dee6128ee2c2fb25e0bf0f08939b9	MW ls display minor revision. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/135
+2022-07-01	5e9994fe0c14eff819ba03989e0b6e71e5782f86	MW: 2-parameter RV/AV links. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/130
+2022-06-13	665e6721d45d72321041225f56d121e55ed88976	basicadjust:  use rschl for 'R. x,y,z' with kanda x = 1,2. LB Use rgorr with other kanda (3,4,5,6,7).  This is appropriate for pwg, and LB is assumed also appropriate for pw.
+2022-06-10	455e9672cb4b50e19c7ccb3c5f83190d74cd43aa	pw, pwk: R. SCHL. link recognized
+2022-06-10	446afac02dd9d54578c3e7eb99b1eb8c3ecc585d	GORR. links for pw, pwg
+2022-06-02	0e7f0da25bb0c10bd9a4bf206113bde7b89b89ec	inm page number change for corrections section
+2022-05-31	a7444d61a5614b4a098a444d0b36e5a873fa8ba6	schmidt ls link display. LB Ref: https://github.com/sanskrit-lexicon/SCH/issues/8
+2022-05-31	1cef42ded202689b8f3bb8b53b970c259e43fe92	basicadjust for sch ls markup tooltips. LB Ref: https://github.com/sanskrit-lexicon/SCH/issues/8
+2022-05-23	019646aa48dc9168533fba00287723117fabbebc	sch greek text display
+2022-05-23	a850e60447205132f7fa4fec37f38ba527c2219a	Ben greek text display
+2022-05-10	87a7b65a97a5623d7f7c1e843b3a9a26d0cfa2a4	BUR, BOP lang tags have been filled
+2022-05-05	7640f98bf96834fc09b6fa8902e291ac47b58683	pwkvn: add siddhanta1 font for pwkvn.  So accents displayed LB in Devanagari according to Boehtlingk conventions ('u' for udatta, etc.)
+2022-04-29	ab36638c3ada22bd7e5fbc792ce836b42adfe89b	display <hom>1</hom> in pwkvn
+2022-04-26	7c05a2a89f4eea38a2d3b2b01bf4a0826433aaca	pwkvn dictionary added. LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/86
+2022-03-13	5ad80ca541201349e7328f84b1ba0ed283c18121	Activate link target for Ramayana (Schlege)  'R.' for PWG. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/54
+2022-03-11	f54f51fca083dfe784e2933d2c945f599214e9f5	Revise transcoder.php for compatibility with php 8.1.2
+2022-03-11	b53263d1d5d4f3d3e14b49a887d2fa1f28360b95	revise webtc/parm.php for compatibility with new php version
+2022-03-10	5f86eeca631af7634e3d3ff83864e6bbe8a642de	additional revision re file_exists
+2022-03-10	6f3a56c5f352ad688ad7ddd5d107ed3f2ebac81d	revise for compatibility with php revision
+2022-03-08	3515336f5873128f6fa3bb9311c1258ea6de6624	Links for pwg to Ramayan Gorresio link target. LB Ref https://github.com/sanskrit-lexicon/PWG/issues/53
+2022-02-17	dad92c294079f8f06e19345708265d0101e43349	Revise iast-slp1 transcoding rules. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/392
+2022-02-08	9826acba2ffbd7532980e659f83807f2f0cdd72b	basicadjust:  Activate links to HARIV (Calcutta) for PWG,PW,MW. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/49
+2022-01-30	a8e4d1fdaf4bd802402f301b615afd239da03545	Correction for csl-apidev version to provide links to [Page...]text; LB Ref https://github.com/sanskrit-lexicon/PWG/issues/50
+2022-01-28	8db10beaf6a90f05b2a30010693fb9419cb1207a	page breaks in pwg. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/50
+2022-01-27	9776768b8b139819ad1c757797c087889f6bf41f	Links to MBH (Calcutta edition) for PWG, MW. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/48
+2022-01-21	b3e9f4a9089a0f8c76641762d5fc249958c27c19	Links for Spr. literary sources in PW, and LB links for 'Spr. (II)' links in PWG. LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/81
+2021-12-13	9e31d7cb090a93ac87813b558c48957c69e773ab	INM: Greek text displays as italic
+2021-12-10	31b112dc95654848720a7a7d97c5e2cc2a776a45	INM Greek text. LB Ref: https://github.com/sanskrit-lexicon/INM/issues/4
+2021-10-09	e853ec2cc46ba25d0f3e2ccd3cd1b244f589303a	Advanced Search fix problems with '|'; LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/377
+2021-10-08	f19ae60e0cd0d0157584602171bd6c5867d12630	basicadjust handle MW panini references with roman numerals; LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/120
+2021-10-08	f268075a4501d037c8ce53663041f9189283e35c	basicdisplay for mci show section names
+2021-10-02	05c6bd34b8bc8da517280222da7fcb8204e89e1c	BEN:  add scans for 'ADDENDA AND CORRIGENDA' to pdffiles.txt
+2021-09-23	5cecc55c4b5933632ce78534cd547b62e6c376d2	For sch dictionary, remove conversion from ^x to <sup>x</sup>; LB this is now part of sch.txt. LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/74
+2021-09-09	6a98c1ff6f07912d22cb7331ebbc8b47ccc7c04d	Add benfey to dictionaries with ls markup
+2021-08-18	9b15a74ed74232d8a34b17869a5ec27e577289cd	siddhanta1 font used in all Devanagari displays, in place of siddhanta font. LB In pwg, pw accents are displayed according to slp1_deva1.xml transcoder, in place of slp1_deva.xml. LB Ref: https://github.com/sanskrit-lexicon/pwg/issues/5#issuecomment-900762302
+2021-05-31	de8adec1f5a17c27488294642e5109cd8340418a	Handle 'style' attribute of 'div' class; used for ap90 {v..v} markup display; LB Ref https://github.com/sanskrit-lexicon/AP90/issues/16#issuecomment-851588534
+2021-05-17	0874b141616b22c58c1aba64091733538335850d	Change to CharisSIL-I.woff for italic Devanagari  in  MW; LB #15
+2021-04-23	c8108ffba5e0ac19675f7e74ffe527b0c259060e	Use oldstandarditalic font for italics in mw display. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/4
+2021-04-22	59e13e7190232483555ab4e74e5540b0fbe6bd95	AP90 abbreviation markup. LB Ref https://github.com/sanskrit-lexicon/AP90/issues/4
+2021-04-16	69eb117332d7efdb803ee0adc46bb748570192fb	Revise basicadjust.php, etc. for literary source links. PWG and MW are now done similarly.  More revision will be required in future.
+2021-04-12	3eaf9a5d5e4d74573e151478c56803afed2aba4e	basicadjust line break adjustments for ap90 display. LB Ref: https://github.com/sanskrit-lexicon/AP90/issues/6
+2021-04-10	cdfbec4a019c5aa5d3d6138e8ee3acd62642efaf	MW: Panini links. #22
+2021-04-10	33825e8ceb4ffcec4b512edb732d485b85fa5fad	generate hyperlinks for Atharva Veda and Rg Veda in MW dictionary. LB Ref: https://github.com/sanskrit-lexicon/csl-websanlexicon/issues/21
+2021-04-09	a0c43d184ed2e7d302dbb3c3e539e512ac1f3b1f	add ls_rv_callback_mw, for access to rvlinks
+2021-04-09	4ad5e44c8a101840fe09999bba1d68560cad79a7	AVlinks for Grassman Dictionary
+2021-04-07	327f62f5cece7b197d759082324599a94c444a06	Modify GRA RV links, consistent with {nnn,n} markup change LB in gra.txt. LB Ref:  Ref: https://github.com/sanskrit-lexicon/GRA/issues/15
+2021-03-21	8d3788cc59677c399db132cb1e630139fdbce2b2	Correct spelling to Grassmann (two n)
+2021-02-04	0cbe4341c9dcd46b3735f1833cf89d8ce3fdac5d	LAN mention lan/armh for pdfs.
+2021-02-04	489ff9a183ed1ced13782b577cf74287b1d58e4c	Lanman now has Greek text. No need to print (greek)
+2021-01-25	df9e96d21e4aa638e7c11493cf2b6690ed9b7ad3	ARMH changes
+2021-01-09	62c4aa11544c705b57603927bf5d2d52d5c99861	add dirpfx function to dictinfo.  Currently not used here. LB  compare usage in csl-apidev for further refinement.
+2021-01-09	5a969d05c9abf3fcb74ac803e5f8fb5250e4e7f0	Revise transcoders between slp1 and deva/roman to be LB consistent with funderburkjim/sanskrit-transcoding repository.
+2020-12-25	9bc4381a828c13269607a161019abb70f23d8504	Remove text (space and empty lines) outside of '<?php ... ?>'
+2020-12-22	35b6cf99b074980f09fbe62d31ea20d7d350b7e2	Change location of servepdf used by dispitem.php. LB Now, a local installation will display local images for dict xxx if LB the images are in cologne/scans/xxx/pdfpages/.  Otherwise, a local LB installation will get images from the sanskrit-lexicon.uni-koeln.de server.
+2020-12-22	550c03483cfb9484190898433248e2a701994434	Instructions for local scans in web/readme.txt
+2020-12-22	512327fe3dc88cb5659b7a5206ff9d1b8bb7cc72	revise web/readme.txt
+2020-12-22	da3b6b0e4aebecbc9092f752b0d5906ca7fa5f8f	php 8.0 compatibility changes; also xampp 8.0 compatibility
+2020-12-21	8f83370a7bfd82fdbc4f9efd7325483a127cb293	Add readme file for installing downloads
+2020-12-21	0e2f50050717bda7d31c4e9aab56a9831edd8c9b	SKD: Change date in browser tab title to 1886. LB Ref: https://github.com/sanskrit-lexicon/SKD/issues/5
+2020-12-13	ba6b95c0968059da503fa9b07aa4463b3237480d	MW: add italics around Greek text. LB Ref #21
+2020-12-10	e61847db5c559e3153d6f70959773a8dfdd3b0fc	Add year of dictionary publication to browser title. LB #17
+2020-12-08	8259041ab2b0e189740ded58d526166788750958	Change browser title to use 'dicttitle' dictionary parameter
+2020-11-27	cb7953540e2a7a1792ced3592e7f4cce3dede3e6	LAN:  change 'sup' font size to x-small. LB Ref: https://github.com/sanskrit-lexicon/csl-homepage/issues/4#issuecomment-735002576
+2020-11-27	3220aa85ca9ca4427f12b6447189b3a8a73728a3	LAN worldcat: LB Ref: https://github.com/sanskrit-lexicon/csl-homepage/issues/4#issuecomment-733530838
+2020-11-24	5c32ab97eb3b6fefb1563db9d0dd288aebb357bc	Eliminate 'long lines' in display. LB Ref: https://github.com/sanskrit-lexicon/csl-websanlexicon/issues/16
+2020-11-22	50c9c151b01981a9a6494804b4f270904441f9d5	code to display Lanman Sanskrit Reader as dictionary 'lan LB '
+2020-11-20	b1ef3e182bfb734ca90fc410062a3b8c99b77d9b	keep v02/makotemplates/web/webtc/getword_data.php in sync with csl-apidev
+2020-11-18	318392213642c87c1f37d27c165c76186534fce3	Correct error in webtc1/listparm.php
+2020-11-05	efaa66cf0aec8a8e38743626b3e0ce449a6e1e44	Refactor webtc2 so webtc2/main.css extends webtc/main.css
+2020-11-05	5bd3750fcc254342e1539e4f97621a24fbee413a	Revise mobile1 to use webtc/main.css
+2020-11-05	76be17bb7e8b192906b44b76e8df7cc425465345	webtc1: use webtc.css for markup common to webtc1 and webtc.
+2020-11-04	2f4ae47dc57ee2a673ea1eef7ab95272877fd89f	Minor changes so files will be same as those in csl-apidev
+2020-11-04	998ece5e22714367701ec9a706e509d4a97b45eb	Revise for greater conformity with csl-apidev code
+2020-11-04	a259a954d915f35101835970e987025765d55ca0	webtc/parm:  add basicOption parameter set to 'true'.  Used LB in GetwordClass (formerly GetwordviewModel)
+2020-11-03	f4a18baa116a3781087193e277110f50b0a7a2dc	webtc/dispitem.php now agrees with version in csl-apidev
+2020-11-03	1f049a66302006b1bfb2b2a18f3297b7d19dcda5	Remove getParms parameter to GetwordViewModel constructor. LB Now getword.php is almost same as in csl-apidev;  the only difference LB is that GetWordViewModel class name is used instead of GetwordClass in csl-apidev
+2020-11-03	6088809b1e441f0438cc706fd4b0b7cff275171f	Change from 'new Parm()' to 'new Parm()'; Parm constructor in parm.php now gets dictionary code from dictcode.php
+2020-11-03	fda9e2dd3c53aed465725564326ecb6fc4fadb37	webtc/dal.php.  Now identical to version in csl-apidev
+2020-11-02	0e1fed07e73e93deed266929e3e26e54e5daeb40	basicadjust minor change to agree with csl-apidev
+2020-11-01	8db94e4dd595434e4eb4456e777c58eccc5a2ab1	add .cssshade class to main.css for mobile1, webtc, LB webtc1 and webtc2
+2020-10-07	677d2cb8df92d434e1796441bf5aa7145479b8dc	Add input to be IAST (Roman Unicode) or Devanagari unicode. LB This is already present in simple-search (csl-apidev).  Here it is added LB to webtc, webtc2, mobile1 displays.   webtc1 already has some facility here, LB and uses an unwieldy javascript system which it is no longer feasible to LB maintain.
+2020-10-07	f7a16f77e8bb34f9f14ce0ca76ae2c121887ea2e	Refactor webtc and webtc2. LB I think this was done to support an experiment with web components LB which was made in August 2020.  I'm hoping that these changes do not LB break anything -- light experiments locally with MW suggest no problems LB are introduced.
+2020-07-23	63cc0bd536fd4c49c1d33951926b528dcfcb1ee0	Improve construction of Westergaard and Whitney links for mw.
+2020-05-07	271cb760cfe40b94bb8a9b8d26f2783b6a603f25	stc basicdisplay.php omit [Pagexxx]
+2020-05-06	db1dd1b44359be061befdfeb350eafd51f1ec3d9	basicdisplay: don't print [Pagexxx]. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/266
+2020-03-21	054632e0cdb17c6dda5da2ec0c7e6ba8c5a2f943	readme for imagework
+2020-03-21	845be83692021eb8a9fbd7a3474ddf89ac3a95b4	imagework: file naming conventions in the pdffiles.txt files of the dictionaries
+2020-03-21	754e5c686ad11cbb579b1911bf225e5658264881	remove duplicates in pdffiles.txt for bhs and bur. #12
+2020-02-08	de52c08dd72e777d0d6810e720ccd6025312b634	replace '  with '' in getgeneral sql expression. LB Example: in stc, qq'un  is an abbreviation. LB Without this quote doubling, the program fails (PDO exception)
+2020-01-13	1430256981bdfa7b9d39afd2ba7477a2e40616c3	bur: div display improvement
+2020-01-09	8dddce5236d2393414e0ad2d125bf82558ad7932	basicdisplay changed for gra and lang tag
+2020-01-08	b20676485e1b205a21a1dde37ccfe66918a82589	For mw, remove space after sqrt character. LB ref https://github.com/sanskrit-lexicon/MWS/issues/71
+2020-01-06	5346e373f15659f2d952e6f42e3d41a47b3a9484	Allow GRA rgveda references to be preceded by '(' as well as ' '
+2019-11-09	4929f5e9f4f4f987086d12df53855086dbcf6a42	Alter links to westergaard, whitney so they also work with csl-apidev
+2019-11-09	a26da2de6e4bf50cd5ec975331bd2c3f7e2cf696	change links to westergaard and whitney (for mw display)
+2019-11-08	cd4c96ce591832fe5575268af58d609b2fbed387	In local installation, link 'Front Matter' to local csl-doc, if available
+2019-11-05	5f96c69e02fa7f2403a4d1d36b03f69c229d4cf7	rewrite web/index.php as a template, and treat it as a template in the inventory
+2019-11-05	345b3c65905af5a1bb41c10de985f7956f3704e7	Add dictwc (worldcat) and dictbe (bibliographic entry) parameters used by new template web/index.php
+2019-11-05	9f94cb52cac5ab879c1995c2c6384482156c1572	remove v02/distinctfiles/xxx/web/index.php - web/index.php now a template
+2019-11-05	a29773e870fe9874d355b480a639744ca5a464b4	remove v02/distinctfiles/xxx/web/xxxheader.xml -- now initialized in csl-pywork/v02
+2019-10-31	81b3684dcbc81c390575264b3bfd2b7b5c5f2287	modules shared with csl-apidev repository
+2019-10-31	1f455b86aeb779cde299f46c368fb93b46b95e81	Changes related to display of '<lang n..>' elements
+2019-10-26	b54042cd7d99c2d5e4ee1de723f88cacda8697bd	Add cologne/scans/xxx/pdfpages for local scanned images
+2019-10-03	7093d0c8743510b59e673252f1fe05adca6893d9	remove dictlo, dictup
+2019-09-28	3cd4abe3895f4e8eadc046ddb64c755813cbeef6	initial commit of v02 version
+2019-09-23	5c9c8586d585ea18d9cf6e2bc75272f5c572b4b8	Make v01 area not tracked by git
+2019-09-23	dbd36b4c2fb498417d94641f419d056689231957	revise webinventory
+2019-09-20	3054c048886ae6a1d873c14c5aa2343b0be420ec	fix to webtc2 to avoid problems resulting from ill-formed or unrealistic searches. Ref: https://github.com/sanskrit-lexicon/Cologne/issues/286
+2019-09-12	816d64e1a452a5390c4f19564257d34cafbc5e49	Cologne server identified by starting with '/afs/' or '/nfs/'
+2019-09-01	239a369e490507c6e5d59e09df6222f8d51018f9	(a) push ServepdfClass into separate module servepdfClass.php; (b) add 'android' logic for pdf images
+2019-09-01	81e1b78c17f1624a2d6e3b4d15b0aa641670c289	refactor servepdf, and helper routine(s)
+2019-09-01	6f812b065356a897cb7623ea52f8749dbd971d8d	dictinfowhich distinguishes between cologne server and an 'xampp' server
+2019-08-27	4e6d19b2809bd631a43afa89086a0bef558e0e26	webtc/disp.php made a 'D' file (to be deleted if present)
+2019-08-14	432197d7f95b27dc9e9277251552ac0248043361	Get rid of unneeded 'echo' statements; change name of init_query.php to unused_init_query.php (python version now used) -- probably ok to delete
+2019-08-08	b204e6d9c4cd56b484d206108b3c56a5759d5dcc	improve instructions on dal.php, basicadjust.php, and basicdisplay.php -- apidev same as csl-websanlexicon
+2019-08-07	6008c82e3e25d7736910f86a66ae7e2d8661bcaa	remove get1_basic (method of Dal class in dal.php, and replace calls to this method with calls to method get1_mwalt of Dal class.
+2019-08-07	2852fb3f1947fa7a576ad2497d53b80e243d0f86	remove dalraw, and references in dal
+2019-08-06	67adf6c6b737586aef79f475ddb06094041cddc3	revise apidev installation instructions
+2019-08-05	4efcc74c30499146f882def7ff9ec17f84f09b0a	disp.php -> basicdisplay.php. Ref https://github.com/sanskrit-lexicon/csl-websanlexicon/issues/4
+2019-08-04	662810b86ce886db2f70541476741f7d70f0dc5d	disp.php (class BasicDisplay) is COPIED -- it is not a template. Use in apidev confirms this.
+2019-08-01	e178ff95f4166bc08f45e88450a389dce4fbacce	revise doc for apidev related update
+2019-08-01	c4cbc61c2c3e19f7751ab15cc040ea56300ccf21	Handle Dal constructor for non-existing sqlite files, such as xxxab.sqlite
+2019-07-31	f459d6f1e7b1d316b34e2f5408d72c287d1a4268	delete empty sqlite files
+2019-07-30	d1293cd040a6d63b7acb27b8b68e5f1201e07762	remove sqlite/input.txt from dictionary web directories. Ref: https://github.com/sanskrit-lexicon/csl-websanlexicon/issues/3
+2019-07-30	b46a0d8e079c78068408a7de92f791c08373cc91	remove references to praja and sanskrit2003 fonts
+2019-07-30	d82bfc527d10905a0f80da5a3f2361312da486d6	Manage fonts. Ref:https://github.com/sanskrit-lexicon/csl-websanlexicon/issues/2#issuecomment-516550903
+2019-07-30	396f16f218b3d8b359ef267fa1631ca960497cd9	Initialze fonts and fonts-unused
+2019-07-29	ed42bf742961ad7038fc9907e0cf84d2bc6f5302	Update readme.md
+2019-07-29	d95f339fa75c246bdfd6c6ce29eb39c9f6843f73	webinventory - first run
+2019-07-24	981fae5ac856a05430c1510354f0bc6a12e84d56	redo has better logs
+2019-07-24	a7bbb6a8bb00d4ec015fded371fadb3c539cee41	py3 portin 2
+2019-07-23	01dd782c36e781c2cb5094c66b35ffd934b48520	redo for 2020 version
+2019-07-22	df1dc409525967aca400f6edc2e6671c66bc4093	revert generate vcp to 2013 in v00/redo_cologne_all.sh.
+2019-07-21	242ab8fd404ae1f68814e552470cc4786a75f78d	Correct 'roman viewas' problem for webtc1.  Change to webtc/parm.php
+2019-07-20	e4d409d2807eec76ca5f576bb836235fcc0ed015	Merge branch 'master' of https://github.com/sanskrit-lexicon/csl-websanlexicon
+2019-07-20	6dd45e0bf21f1d949102d4c47e0f7badd1209a7a	trying csl-pywork and csl-websanlexicon merger
+2019-07-18	d89c3b5a7f1c6cbcbf50aa9f359bd458da28697f	Merge branch 'master' of github.com:sanskrit-lexicon/csl-websanlexicon
+2019-07-18	16d622cfec5f1c296f123a97ddc92a1b680a08b7	trial for cologne #270
+2019-07-18	49f5a60c0e2707eff9065b9767f9782c39a517c1	render_unicode trial
+2019-07-14	8a6941a5cb75b2d27acb65dfca6fb0f77a571c90	Update readme.md
+2019-07-14	d20c10c7afb93433c32f14e6f1f3b2edbdcd483d	Reverted back because of missed %if in mako
+2019-07-14	95537e8954c875b40aa3e8f1c0fda294370ef2e2	Correcting def.sql to T
+2019-07-14	921770f1b9d0fcfa8b8383d326b53d277c0d3ffb	https://github.com/funderburkjim/websanlexicon/issues/2 correction part 2
+2019-07-14	e165156a37baa966125ee3cda1b17d0aef50dd93	https://github.com/funderburkjim/websanlexicon/issues/2 corrections
+2019-07-13	2eca80c66a06c7684dd451b6660fbadd47d8e64f	Use VCPScan/2020/web
+2019-01-15	e9fce7c8860c43f3a45b361fc5c6ddaa0f51def1	Close 'bio' span in webtc/disp.php
+2018-11-30	32484d214011f594ba879c8cc47ea074a29caa0e	minor adjustment to ap90 compound display
+2018-11-30	76b3c3e4b5f6a35628c7ad96faea0e2f9b07e392	ap90 line breaks on subcompounds
+2018-11-24	b5422944c05e9faa9208fc8f231b05f04382ded9	gray text for 'ID=' portions
+2018-11-17	e96cec94603f6f142aa1bc320f267c96fda65c2c	Remove dbg print statement
+2018-11-16	c942e765214b2910550d1bd69c1938ca8a192524	Correct syntax error, which causes parse error with php 5.5.23
+2018-11-15	f450c40139c928a10845e84485d4c5ff8edbef0c	change http:// to protocol relative '//' in preparation for https at Cologne
+2018-11-13	e90812c9710537a33a8610f0008e9fa56e748d7a	improve apidev instructions
+2018-11-13	d789ca9d6f1ae11536917cc4cc5a5dc0ccb7a9c1	mw in verbs, 'Caus.' etc. bold
+2018-11-13	99836d69d12eeaa0f2fdc2563061e46d78aa5dc5	adjust mw display for background color
+2018-11-13	5846842ebf083d7f0348ad38f1b46b79409095c9	Correct duplicates in webtc2
+2018-09-28	7f0f9e266ec8cf8af9c668121d3316eb160b2549	Use &#8217; (right curly single quote) instead -- for benefit of xml_parser
+2018-09-28	17c9b6d1a181dd882ff8039236d4ebf571f4c8df	handle ampersands in lex abbreviations, and single quotes in ls references.
+2018-09-16	2bff88b8ffce8996d8425bebe30d30c507258e33	revise for CORS calls
+2018-09-13	2c0685688dc717628f5ba1f14c38e8329afe01e1	revise to correct for  (a)Cologne memory error and (b) MW filter condition
+2018-09-07	c3c8fd933ec6f505509a12c1caa8e17d821b69a4	Correct bug. Ref: https://github.com/sanskrit-lexicon/Cologne/issues/235
+2018-08-30	564fbe3f79002f0b9f0a1f299f56e557f37910da	instructions for apidev update following websanlexicon update
+2018-08-30	8f8e5ab83ff7899c7493e43297290d9d0d03f576	grassman rvlinks
+2018-08-22	d0222c2f6f794240e3f0ee1b270396009a29e0db	Allow local scanned images, if available
+2018-07-30	aa1cb5c78dd59b05338a2732da9b4723c44a4106	Improve capitalization for IAST text words
+2018-07-30	5c8b3408da24d1aa1fb11331de8d6a8462e7cb07	v00 conversion for acc. This completes the v00 conversions
+2018-07-28	4a66affcd2698b82ba28446255c96b5ba3161591	version v00 conversion for snp, vei
+2018-07-28	d472ffc75d3d63fa3493d060726598aee25f4e6d	version v00 conversion for pui, sch
+2018-07-28	c894989e0ae184c2b6e55e35e987a9e1fa452d81	v00 conversion for PE and PGN
+2018-07-28	cda44408e8acfee4fab16e39ad41152286464b5c	pre-version v00 backups of pe, pgn, pui, sch, snp, vei, acc
+2018-07-28	a857e17a55e5f2fc1ef5c683b8a3cdde2d26f6aa	v00 conversion of web displays for mci
+2018-07-27	7fa583dd1f24ccfcc508d12d2da27cf08dedf219	v00 conversion of web displays for krm
+2018-07-27	a1bdee193501d8f89adad9d1021619a7811ed531	v00 conversion of web displays for inm
+2018-07-27	eced8103acda10a05356c45a38c2f4b76a7e486a	v00 conversion for ieg
+2018-07-27	c8bf103409bf7658028b5666ebbe6e97a7a82fb9	pre-conversion backups of web displays for ieg, inm, krm, mci
+2018-07-26	1804d60589a46ae45423002a7bec871a7928b37f	install version v00 of mw72 displays
+2018-07-26	7ce0a3b0abb675b6608b15da41d9ba8db9b59b83	install version v00 of mwe
+2018-07-26	c8f93a0c1442ac095553c00d37a11d5cf4f1c9bd	v00 conversion for md
+2018-07-26	354970af3882a3c617642b13a2b1fd67dc30e7cd	v00 conversion for ccs
+2018-07-26	60bcae69c3c18c83b7cb590ca91750f406dbd3ed	correction dictname in bor (was blank)
+2018-07-26	9b9320b12e8473ac96368729c6d566b5106c4e3f	install version v00 of bor
+2018-07-26	c359c23761db1da566525f8d1b3bbbecd0064cdf	install version v00 of bop
+2018-07-25	0e1db14498f85444e5615a41d93d23c870ff6bcc	install v00 for ben
+2018-07-25	df35c7ff8ab7a0c85b36883392ca9a21a037a988	pre-v00 convernsion backups of ben, bop, bor
+2018-07-25	1948b6d930ddc1b447468818424238db8cfae6c0	install version v00 of vcp
+2018-07-25	3f68d0bd33038479096e60147ddb5f21b39b30bf	mod readme_cologne
+2018-07-25	340f20c915700e949aff341cbee291b0dc6dd519	install version v00 for gst
+2018-07-25	fd9ee0911260a3e9bca140597d2d84560d03ea30	correct readme
+2018-07-25	9e92a28e000a5379360a71247e8da6ac2356f8e6	install v00 versions for yat, shs
+2018-07-24	3d767eb9106ff79dda0f583475dc04ae8ca81350	revise for wil
+2018-07-24	08f92daf68c9abd10a891bfe19300a376eff12ba	version v00 of wil
+2018-07-23	797360a89b7686b5bb2cfe72cabd85530e25091d	minor revision to readme_cologne
+2018-07-23	79bf914a901d4859d122d88497a1897187215fe7	v00 conversion for bhs
+2018-07-23	ac4eed4566901dd5ef295a0b50097f5ffb34480b	minor change readme_cologne
+2018-07-23	5c4f3d363d3f1beaa0ba471a3b7ea6244442e384	v00 conversion for pd
+2018-07-23	582f8ef4135723f4cc932b7d8bc8c3e63422d338	minor correction to readme_cologne
+2018-07-23	a62415037ed193ba9ff5773361e4be82ecb8360c	v00 conversion for ap
+2018-07-23	40b0f7c082628b856784fa00fff0d6fc567d1f87	conversion of ap90 to v00
+2018-07-23	05f2a11399ddd8f789f6f2882238e2a28be2eb4d	backup of ap90, ap
+2018-07-20	dd9d0464df9deb7001863caf0a9f5d9172addf4d	minor revision
+2018-07-20	9895d86a18d7a16e7aab2d3ff6643a7cb1315910	sqlite/redo.sh and def.sql treated as templates
+2018-07-20	02112360593c855ab37217bffff1f23ba0ca321c	pw backup
+2018-07-20	6aed0fd05dd669b77bfda0650a585090247880b6	pw conversion. There are also changes to pwauth
+2018-07-19	97ceb4013275782614e0dcdce0bd4ccf510dd739	finish installation of gra, bur, cae, stc, pwg, mw, skd, ae
+2018-07-18	d9168e5824459c92d2d95ce8d690de751b63cbbe	conversion for dictionary 'bur'
+2018-07-18	928bb4d3633a917c3a57caad22a4e6928aa1ac45	correct file system capitalization difference between windows and linux; add microversion to webtc/dictcode; Cologne specific documentation
+2018-07-18	158e7e235d1a0b089663634ea5f4f102d48e617c	install mako 1.0.7 as pure python in v00, but change gitignore to exclude it from git
+2018-07-18	86d995510140c6ad69630a25d65822ab2628e6b6	revise readme documentation
+2018-07-17	740213c2624a89f34fd6e711be57f15222baa597	add 'ae' (english-sanskrit dictionary)
+2018-07-16	22a826e6ec573437d7096d004541756fd2d5b7e4	conversion for skd
+2018-07-13	5a02a686d835cc9a73ee841bd7a4ec5a933fc435	backup of mw code prior to version 00
+2018-07-13	c1ebea5fd62f51a7d2517e1aa5aaf4beb9574d34	images from Cologne; compatibility with apidev1
+2018-07-10	361d86f0cf07a57420d748e9a0164d8314686b8b	remove decodeURIComponent call in displayDB of webtc1
+2018-07-10	a666547bb38a7bd93d785db01f4f1e0a00943967	pwg mostly installed
+2018-07-09	a0e71d933097b03e8d7b4a000ee72d579d3372af	stc installation
+2018-07-07	0d7aa94a9aa2bde2c7b933230516fbe3b1532cef	revise webtc2. tested on gra, bur
+2018-07-07	05105840db219f8f20aa60ee5ff0b0fbf9c27ffe	improve advanced search; also init_query.py replaces .php
+2018-07-05	087f015f0f9a512a6a4ee1391dec0f3dcc323e04	bur backup;  add parms for download.html
+2018-07-05	82d1cb02928ca22396bbd4a53efb3255937d9d00	remove mobile1/monier_serveimg.css -- not used
+2018-07-05	aacb57a80e2ac9f2e1624d4c97baa026c5f44ee1	sqlite def.sql and redo.sh depend on dict code; remove pdffiles.txt -- make part of install copy
+2018-07-05	9dd72c0e9df0287e4080b6fdec1b671de3bd102e	separate out div function in webtc/disp.php
+2018-07-05	b66f40fb470421f529486d79c1723f4169f6cfeb	version 00 of installation python script
+2018-07-05	01aa411e81515641cb827a276feba14e943a4621	Initial template driven version v00
+2018-07-02	70d100e4cf792164a153fc2bc053ea6931072fb2	Initial webinstall commit -- gra backup

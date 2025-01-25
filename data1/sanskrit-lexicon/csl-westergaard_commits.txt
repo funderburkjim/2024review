@@ -1,0 +1,4 @@
+date	sha	title
+2022-11-11	1bbb460f538715dac5eb2bb43f2b2a6a24e27bea	Minor corrections re php 8.1. LB > Ref: https://github.com/sanskrit-lexicon/csl-websanlexicon/issues/26
+2019-11-08	10ce6fd814c32059acd259dc15ea329e0d7e6a9b	Initial commit
+2019-11-08	725181b85f8cf921462ae4c2946b9870377c540b	Initial commit

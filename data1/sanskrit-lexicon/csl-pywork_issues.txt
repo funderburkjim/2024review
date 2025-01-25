@@ -1,0 +1,35 @@
+date	issue	state	title
+2024-11-26	34	open	Syntax warning in init_query.py
+2024-04-10	33	open	mwab_input format simplification
+2024-01-22	32	closed	one.dtd: pe tag in pe dictionary
+2023-04-07	31	closed	Revise MED tooltips for PW
+2022-10-11	30	open	Support 'fem' tag in hwtype
+2021-09-12	29	open	undefined function simplexml_load_file()
+2021-09-12	28	closed	Error on computer without python2 
+2021-01-01	27	closed	PW / PWG xml errors while regeneration
+2020-12-21	26	closed	xml regeneration error (python2 / python3)
+2020-12-17	25	open	Convert abbreviation sqlite constructors to Python
+2020-12-17	24	open	Use python to make xxx.sqlite
+2020-12-14	23	open	indic_transliteration package for transliteration
+2020-12-14	22	closed	Unknown problem with mw.sqlite at Cologne
+2020-11-27	21	closed	'python' at Cologne: script vs. terminal
+2020-07-11	20	closed	small change to xml for ap90
+2020-06-01	19	closed	PW, PWG abbreviations re Gaspare Gorresio
+2020-01-14	18	closed	make_xml in distinctfiles renamed
+2020-01-13	17	closed	BUR change in xml 'div'
+2020-01-09	16	closed	Broken bar
+2020-01-04	15	open	PEP8 compliant code
+2019-12-21	14	closed	string module py23
+2019-11-08	13	open	Create an offline version of website and dictionaries
+2019-10-31	12	closed	Converted lang n="Russian" to lowercase
+2019-10-26	11	closed	local csl-apidev
+2019-10-23	10	closed	local scanned images
+2019-10-21	9	open	dtd study
+2019-10-20	8	closed	csl-doc repository
+2019-10-20	7	closed	unnecessary copying of orig/xxx.txt file
+2019-10-13	6	open	xxx.dtd a template
+2019-10-12	5	closed	make_xml.py a template
+2019-10-06	4	closed	Python3 compatibility in v02
+2019-09-30	3	closed	Ubuntu installation problems
+2019-09-30	2	closed	Progress
+2019-09-17	1	closed	templates and constants

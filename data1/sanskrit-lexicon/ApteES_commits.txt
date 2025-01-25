@@ -1,0 +1,15 @@
+date	sha	title
+2024-05-28	b7f92b3a2fce384f7f30aad7bde3b8f2d792527c	temp_ae_15.txt:  subheadwords separated as '<e>2' entries.  #9
+2024-05-19	be0da5ae8f57220bfa6a237c585e1c4eb29015bc	Jim's work through version 12. #9
+2024-05-15	1b8c20bd42daba2730c682fa77ae22c06c41bc5e	First phase of cleanup. #9
+2024-05-12	e07ff7799f8729fd0b0ef993ace956ae51e9fa0d	first commit issue9. #9
+2021-08-21	9d43d78aeabe3ee8b2830000f1efec1f9a2e4d13	Prepare ae_deva.txt
+2021-08-21	7de0b3730dac5da552334a22fcd0aca76524f2ca	Adjust period character in {#X#} Devanagari in ae.txt
+2021-08-21	7409d11a50006b3b7c069c49f77baafaf3d7d062	update readme re wikisource
+2017-08-18	3c1102314f922b6704420e8fe380208bbefdb2cc	ngrams for mw headwords of hwnorm1c
+2016-10-30	97adc5f6b56cdfd61b8cd88f6fdb7d2b49b9d173	ae 3-gram study begun
+2016-10-14	7484906af66dc30c23fa099fc594f7f8f9b308a0	rename hwnorm1_v1c to hwnorm1c
+2016-10-14	0e41b11535ff43d77803544c1fd9abaa55e8c26a	ae_saninvert
+2014-11-04	48cfa8930c4305384682fe81de4739be44b7cff9	spellcheck headwords LB  LB Use pyenchat Enlgish dictionaries, and Google Docs, and scans to LB generate spelling changes to aehw2.txt
+2014-07-15	4b98c272ad0f48a08107549f782a3daf54267580	Update README.md
+2014-07-15	d72c534454eb5dd71bf759d876cc021c59b7d01b	Initial commit

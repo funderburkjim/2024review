@@ -1,0 +1,29 @@
+date	sha	title
+2024-08-27	650e2ccc9c4ebc12f492e211fe788ee74a282ba0	Finish #9
+2023-07-12	0de97b0d5b75cad2b4a1470c5e5f5fff47295dd2	one more change. k1=du. dā̆va.  #8
+2023-07-12	37fac76210b3c951b8e23901baa2f80e157bced1	install ben based on changes_1.txt . #8
+2023-06-25	54d9c6c859c9d11d08521440010e37cdac52d754	#8 - change_1.txt Batch 1
+2023-05-09	36c87adc2cc9d1a8477e0fac568853898724197e	Revise readme.txt instructions Greek proofreading. #8
+2023-05-08	a93d9a6f0e4746836437da650822f40ed1bbe869	Prepare For Greek Proofread, #8
+2022-05-24	f2facb26e5d8d6a547108b7c2ada5f3c30d7fcdc	greek text in addenda LB Refer #6
+2022-05-21	5758520fb098222c27df704cdf57839d27036f8d	punctuation after greek text markup
+2022-05-20	9bd3330e257acb133fdc797b984cd05d6ea83bf9	Greek corrections. LB Ref: https://github.com/sanskrit-lexicon/BEN/issues/6#issuecomment-1133194534
+2022-05-20	2c17c50bb16868fd4de69c0bd9a58395edc8a851	Merge branch 'master' of github.com:sanskrit-lexicon/BEN LB Required before greek directory can be pushed.
+2022-05-20	c3858fa35a1d082231a64db74cb9a3ee17f22aea	Greek text added. #6
+2021-10-04	b4f64705f3106934c684d5c39c168ca40e332f5b	4
+2021-10-04	7619cfd53092f5e29849e978b8aa14658622468c	3
+2021-10-04	b4433951854f4cfa7c071959b416729f52e6e825	ab and ls ignored
+2021-10-04	e6ae4eafd7a15e8feb452c4126d8bef70457a0fd	2
+2021-10-04	b919a597771b3ebfb840ae328f7071a9b89bb12a	1
+2021-10-04	63d513adf07863c284b2c41cc040c80702422efb	greek
+2021-10-04	b7bfa3de16b9a9f4f07702ed0d1a980aa4c38502	AB BEN analysis started
+2021-10-03	5b33c6e6b0b41a7677f20e925c216b2a702f4b6e	correct issue reference
+2021-10-03	cadf29357b365770a37edc80b5454107fd7e8de6	2010-01-02 correction work. Ref #33
+2021-09-10	f728c953c1c4dac8c498e85f09b28ddf6bde9ff0	readme.md : guide to abbrev files
+2021-09-10	826948733fa64b10cee845b5051714f83f854b3d	Benfey ab, ls markup work; LB Ref: https://github.com/sanskrit-lexicon/BEN/issues/2
+2021-09-04	d90ae20280f40f1d1584a79ffa749b2650de6a11	revise ben_ls
+2021-09-04	893d1f21bb85cb1bed5ae7b12ce9f88b4d3d0c98	Separate abbreviations into 'ab' and 'ls' subsets
+2021-09-04	ba4ba612ad053d5cc116bb28834d151dffb7b81c	abbreviation markup work
+2021-08-16	f6149480654b4d487b649b8931311853101a54a2	eng_error_lang work on identifying possible english word errors
+2020-04-30	32ec22cc2fe5d4882c9533385ebf5b678e807cdf	verbs01. Initial commit
+2020-04-30	021299f459d6663a87aed9f0bc1fdf5be93827b3	Initial commit

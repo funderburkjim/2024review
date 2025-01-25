@@ -1,0 +1,26 @@
+date	issue	state	title
+2021-09-17	25	open	How are alternate headwords used in current digitization
+2020-03-02	24	open	English-Sanskrit Dictionaries Alternate Word Extraction
+2017-08-16	23	open	VCP alternate headwords, continue
+2017-08-16	22	closed	upper-case and lower-case repositories on Windows
+2017-05-18	21	open	ACC alternate headword patterns
+2017-04-28	20	open	AP alternate headword issues
+2017-04-23	19	open	AE alternate headword patterns
+2017-04-19	18	open	SKD alternate headwords
+2017-03-31	17	open	UI for VCP alternates
+2016-12-16	16	closed	How to find root 'nI' in WIL
+2016-10-12	15	open	PWGpreverb: pfx spelling  involving nR sandhi
+2016-10-12	14	open	PWPreverb
+2016-10-12	13	open	PVMW examination
+2016-10-11	12	open	PWGpreverb
+2016-10-09	11	open	VCP verb anubandha handling
+2016-10-09	10	open	VCP alternate headwords
+2016-10-09	9	closed	SKD alternate headwords
+2016-10-09	8	open	PD alternate headwords
+2016-10-09	7	closed	AP90 alternate headwords
+2016-10-06	6	open	STC embeded headwords
+2016-10-05	5	open	Embedded additional headwords
+2016-10-03	4	closed	General questions
+2016-10-03	3	open	AP alternate headwords
+2016-10-03	2	open	WIL has only verb anubandhas in brackets
+2016-10-03	1	closed	Sole entry in BEN

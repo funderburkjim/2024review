@@ -1,0 +1,6 @@
+date	sha	title
+2022-02-14	8f109b0bb5d8ad6ae957534ac469f240627a6277	Complete index.js. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/49
+2022-02-06	4904cf820104331589398edd2b3ccff7247888d2	Correction to index for pages 144, 145. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/49
+2022-02-06	9502ffd47897d2018b5ebc8a88627b678e207071	index.html, and hariv index for pages 1-100. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/49
+2022-01-29	1eb35395e68d12b27e84adbcd4e7e77d28adc86b	initial pdfpages
+2022-01-29	576da045805c7f202d75ac429548bbb40cf396ea	Initial commit

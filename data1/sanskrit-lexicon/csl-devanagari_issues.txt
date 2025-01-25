@@ -1,0 +1,44 @@
+date	issue	state	title
+2024-01-16	43	open	SKD diff
+2024-01-16	42	open	PWG diff
+2024-01-16	41	open	MW diff
+2022-04-28	40	closed	BOP study-2
+2022-03-28	39	closed	BOP study-1
+2022-03-05	38	open	slp1 to slp1_accented in transliteration-- Side effects!!
+2022-01-30	37	open	BUR Study
+2021-12-16	36	closed	 PE non-Skt entries
+2021-10-30	35	open	SKD study
+2021-10-30	34	open	INM Study
+2021-10-03	33	closed	Correction work based on #32
+2021-09-27	32	open	BEN Study
+2021-09-16	31	open	IEG Study
+2021-09-06	30	closed	Small changes in correction file
+2021-09-06	29	open	PGN issues
+2021-09-06	28	open	AE issues
+2021-09-04	27	open	SCH issues
+2021-09-03	26	closed	Line markers for "body portion"
+2021-09-03	25	closed	Not all metalines to be with Devanagari text!!
+2021-09-03	24	closed	Devanagari in other than {#...#} tagging
+2021-09-03	23	closed	GRA issues
+2021-09-03	22	closed	YAT diff
+2021-09-03	21	open	WIL diff
+2021-09-03	20	closed	STC diff
+2021-09-03	19	closed	SHS diff
+2021-09-03	18	closed	SCH diff
+2021-09-03	17	closed	PWG diff
+2021-09-03	16	closed	PW diff
+2021-09-03	15	closed	MD diff
+2021-09-03	14	closed	LAN diff
+2021-09-03	13	closed	GST diff
+2021-09-03	12	open	GRA diff
+2021-09-03	11	closed	BUR diff
+2021-09-03	10	closed	BOR diff
+2021-09-03	9	closed	BHS diff
+2021-09-03	8	closed	BEN diff 2
+2021-09-03	7	closed	BEN diff
+2021-09-03	6	closed	AP90 diff
+2021-09-02	5	closed	meta line to be converted
+2021-09-02	4	open	MD issues
+2021-09-02	3	open	CAE issues
+2021-09-02	2	open	LAN issues
+2021-09-02	1	closed	MW72 questions
