@@ -1,0 +1,16 @@
+
+13 cdsl dictionaries with <ab> markup
+Ref: https://github.com/sanskrit-lexicon/COLOGNE/blob/master/xmltag/all_xmltags.txt
+ap90 46065
+ben 65514
+bhs 46675
+bur 65454
+cae 25564
+gra 45729
+md  46956
+mw  201485
+pw  107807
+pwg 1546  !
+sch    2
+stc 80362
+lan 13216

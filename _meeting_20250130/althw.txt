@@ -1,0 +1,139 @@
+
+example from grassman dictionary.
+
+Two ways to code gra.txt
+cdsl approach (current) 
+<L>1078<pc>0116<k1>arva<k2>arva<h>2
+<hom>2.</hom> {@(arva),@} {@arvan,@} {@arvaṇa,@}¦ <ab>a.</ab>, zu verletzen, <ab n="siehe">s.</ab> anarvá <ab>u. s. w.</ab> [von ar].
+<LEND>
+<L>1078.1<pc>0116<k1>arvan<k2>arvan
+{{Lbody=1078}}
+<LEND>
+<L>1078.2<pc>0116<k1>arvaRa<k2>arvaRa
+{{Lbody=1078}}
+<LEND>
+
+Andhrabharati approach (AB):
+<L>1078<pc>0116<k1>arvan<k2>2. arva, arvan, arvaRa
+<hom>2.</hom> {@(arva),@} {@arvan,@} {@arvaṇa,@}¦ <ab>a.</ab>, zu verletzen, <ab n="siehe">s.</ab> anarvá <ab>u. s. w.</ab> [von ar].
+<LEND>
+
+===========================================================
+Both approaches construct 3 entries at xml creation time
+
+In effect, both methods create the same 3 intermediate entries:
+
+<L>1078<pc>0116<k1>arva<k2>arva<h>2
+<hom>2.</hom> {@(arva),@} {@arvan,@} {@arvaṇa,@}¦ <ab>a.</ab>, zu verletzen, <ab n="siehe">s.</ab> anarvá <ab>u. s. w.</ab> [von ar].
+<LEND>
+<L>1078.1<pc>0116<k1>arvan<k2>arvan
+<hom>2.</hom> {@(arva),@} {@arvan,@} {@arvaṇa,@}¦ <ab>a.</ab>, zu verletzen, <ab n="siehe">s.</ab> anarvá <ab>u. s. w.</ab> [von ar].
+<LEND>
+<L>1078.2<pc>0116<k1>arvaRa<k2>arvaRa
+<hom>2.</hom> {@(arva),@} {@arvan,@} {@arvaṇa,@}¦ <ab>a.</ab>, zu verletzen, <ab n="siehe">s.</ab> anarvá <ab>u. s. w.</ab> [von ar].
+<LEND>
+
+What must a program do to get these intermediate gra.txt entries?
+
+The 'body is copied (without change) in both CDSL and AB approaches.
+The metaline:
+CDSL:  copied from gra.txt
+AB:    constructed
+old: <L>1078<pc>0116<k1>arvan<k2>2. arva, arvan, arvaRa
+new: <L>1078<pc>0116<k1>arva<k2>arva<h>2
+     <L>1078.1<pc>0116<k1>arvan<k2>arvan
+     <L>1078.2<pc>0116<k1>arvaRa<k2>arvaRa
+Notes.
+1. the new L depend on the L of the record AFTER (1079 in this case)
+   A change in this following L can cause the derived L's to change.
+2. the new k1 values are derived by parsing '2. arva, arvan, arvaRa',
+   which is a comma-separated list of three values.
+   In this example the parsing is easy. But in general the individual
+   values in k2 can make this parsing harder due to accents, dashes, etc.
+   For example:
+<L>25<pc>0004<k1>akutra<k2>a-ku/tra
+{@a-kútra,@} {@a-kútrā.@}¦ {%Dahin, wohin es nicht gehört,%} <ab>d. h.</ab> {%an den unrechten Ort%} {120,8} (<ls>Text</ls> -ā, <ls>Pada</ls> -a).
+<LEND>
+<L>25.1<pc>0004<k1>akutrA<k2>a-ku/trA
+{{Lbody=25}}
+<LEND>
+
+==================================================================
+In MW, there is another category of 'extra' headwords, which are
+referred to as 'parenthetical headwords' (phw).
+Example: agastidru
+<L>823<pc>4,3<k1>agasti<k2>aga/sti<e>1A
+¦ <bot>Agasti Grandiflora</bot>, <ls>Suśr.</ls> [also <s>-dru</s> <lex type="phw">f.</lex>, <ls>L.</ls>]<info phwchild="825.1"/><info lex="inh"/>
+<LEND>
+<L>824<pc>4,3<k1>agasti<k2>aga/sti<e>1A
+¦ the descendants of <s1>Agastya</s1><info lex="inh"/>
+<LEND>
+<L>825<pc>4,3<k1>agastI<k2>aga/stI<e>1B
+<s>aga/stI</s> ¦ <lex>f.</lex> a female descendant of <s1>Agastya</s1>, <ls>Pāṇ. vi, 4, 149</ls>, <ab>Sch.</ab><info lex="f"/>
+<LEND>
+<L>825.1<pc>4,3<k1>agastidru<k2>aga/sti—dru<e>3
+<s>aga/sti—dru</s> ¦ <lex>f.</lex>, <ls>L.</ls><info phwparent="823,agasti"/><info lex="f"/>
+<LEND>
+
+Note
+ <info phwchild="825.1"/> in L=823
+ <info phwparent="823,agasti"/> in L=825.1
+
+Jim thinks cdsl should consider using {{Lbody=N}} markup.
+
+<L>823<pc>4,3<k1>agasti<k2>aga/sti<e>1A
+¦ <bot>Agasti Grandiflora</bot>, <ls>Suśr.</ls> [also <s>-dru</s> <lex type="phw">f.</lex>, <ls>L.</ls>]<info lex="inh"/>
+<LEND>
+
+<L>825.1<pc>4,3<k1>agastidru<k2>aga/sti—dru<e>3
+{{Lbody=823}}
+<LEND>
+
+This would have benefits:
+- textual simplicity
+- reduced duplication of text
+- freedom in L-assignment  (e.g., it is simple to 'move' agasti-dru, if needed)
+
+
+
+
+
+
+
+
+
+
+   
+
+=========================================================
+Then each of these is processed to 3 xml records (gra.xml)
+
+<H1><h><key1>arva</key1><key2>arva</key2><hom>2</hom></h><body><hom>2.</hom> <b>(arva),</b> <b>arvan,</b> <b>arvaṇa,</b>  <ab>a.</ab>, zu verletzen, <ab n="siehe">s.</ab> anarvá <ab>u. s. w.</ab> [von ar].</body><tail><L>1078</L><pc>0116</pc></tail></H1>
+<H1><h><key1>arvan</key1><key2>arvan</key2></h><body><hom>2.</hom> <b>(arva),</b> <b>arvan,</b> <b>arvaṇa,</b>  <ab>a.</ab>, zu verletzen, <ab n="siehe">s.</ab> anarvá <ab>u. s. w.</ab> [von ar].</body><tail><L>1078.1</L><pc>0116</pc></tail></H1>
+<H1><h><key1>arvaRa</key1><key2>arvaRa</key2></h><body><hom>2.</hom> <b>(arva),</b> <b>arvan,</b> <b>arvaṇa,</b>  <ab>a.</ab>, zu verletzen, <ab n="siehe">s.</ab> anarvá <ab>u. s. w.</ab> [von ar].</body><tail><L>1078.2</L><pc>0116</pc></tail></H1>
+
+
+
+-----------------------------------
+current (01-28-2025) Cologne dictionaries with alternate hws marked
+{{LBody=N}}
+
+acc   1592
+ap90   456
+ben      1
+bur      1
+cae      1
+gra    914
+lrv   5840
+mw    4337
+pw   12186
+pwg      9
+pwkvn 2365
+shs     13
+skd    335
+vcp   1765
+---  -----
+ALL  29725
+
+(+ 1502 456 1 1 1 914 5840 4337 12186 9 2365 13 335 1765) 29725
+

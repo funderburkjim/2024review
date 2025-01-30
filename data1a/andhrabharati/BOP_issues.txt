@@ -1,0 +1,7 @@
+repo	date	issue	state	Andhrabharati	title
+BOP	2024-02-09	7	closed	4	Explanation of LS numbers in BOP
+BOP	2024-01-16	6	closed	4	Incorporate changes from BOP-Main-L2 file
+BOP	2023-04-15	5	closed	5	Proofread Slavonic text
+BOP	2023-03-24	4	closed	17	Proofread Greek text
+BOP	2022-05-05	3	closed	3	Additional entry in AB version
+BOP	2022-05-02	1	closed	3	Greek text

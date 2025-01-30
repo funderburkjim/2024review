@@ -1,0 +1,286 @@
+
+Link to an issue.
+Example 1: issue 1755
+https://github.com/sanskrit-lexicon/csl-orig/issues/1755
+
+Example 2: issue 1606 redirects to a pull url:
+https://github.com/sanskrit-lexicon/csl-orig/issues/1606
+   https://github.com/sanskrit-lexicon/csl-orig/pull/1606
+
+issue	date	state	#comm	title
+1755	2024-11-13	closed	1	pwg:13239
+1754	2024-10-09	closed	1	mw:  # title change needed
+1704	2024-06-27	closed	1	ap90:  # title change needed.
+1703	2024-06-27	closed	1	mwe: # title change needed.
+1678	2024-06-25	closed	1	mw:  # title missing
+1652	2024-07-05	closed	6	gra:áṇu  # display problem solved in csl-websanlexicon.
+1645	2024-07-02	closed	20	Correction backlog, 6 # @aumsanskrit batch . Handled by @funderburkjim @Andhrabharati
+1643	2024-06-23	closed	45	Correction backlog, mw_todo items # @aumsanskrit batch . Handled by @funderburkjim @Andhrabharati
+1642	2024-06-09	closed	1	Correction backlog, 5 (ap90, pui) # @aumsanskrit batch . Handled by @funderburkjim @Andhrabharati
+1641	2024-06-09	open	1	SHS dictionary # To be decided how to handle
+1640	2024-06-09	closed	1	Correction backlog, 4 (shs)
+1639	2024-06-23	closed	46	Correction backlog, 3 # @aumsanskrit batch . Handled by @funderburkjim @Andhrabharati
+1638	2024-06-23	closed	12	Correction backlog, 2 # @aumsanskrit batch . Handled by @funderburkjim @Andhrabharati
+1637	2024-06-23	closed	13	Correction backlog, 1 # @aumsanskrit batch . Handled by @funderburkjim @Andhrabharati
+1634	2024-05-28	closed	1	MW: GArteya  # batch of @aumsanskrit begins
+
+1632	2024-02-26	closed	11	'ks' in slp1 - which mostly should've been 'kz' or at times a typo/print error  # @Andhrabharati several dictionaries. Systematic cdsl error
+1631	2024-01-30	closed	4	5 corrections to MW dictionary # merge from @aumsanskrit # finishes Dhaval's handling of first Scott backlog!
+1630	2024-01-29	closed	4	5 corrections to MW dictionary # merge from @aumsanskrit
+
+1621	2024-01-26	closed	0	5 corrections to MW dictionary # merge from @aumsanskrit
+1620	2024-01-24	closed	1	6 corrections to MW dictionary (submitted on Jan. 22nd) # merge from @aumsanskrit
+1619	2024-01-22	closed	2	15 Corrections made to MW Dictionary  # merge from @aumsanskrit
+1618	2024-01-18	closed	1	Edits by aumsanskrit  # github merge
+1617	2024-01-27	open	12	Indentation / data error for headword categories in MW # <e>2 error
+1616	2024-01-22	open	3	Wrong parsing of subheadwords in MW # 
+1615	2024-01-24	closed	2	Somehow missed correction # rename? 'MW:210432'
+
+1605	2024-01-13	closed	1	corrections on page 811  # pull request shenyileirob
+1603	2024-01-12	closed	1	mwe:  # title needed
+1582	2024-01-15	closed	7	mw:32257  # need to show history (print changes)
+
+1561	2024-01-15	closed	4	mw:234597   # samopta adj.
+
+1552	2024-01-26	closed	5	mw:23212   # AB ref Siddh. K.
+1540	2024-01-15	closed	0	shs:  # title needed
+1537	2024-01-24	open	10	Capitalization in Proper Names (earlier was mw:179760)
+
+1526	2024-01-24	closed	1	mw:58471  # AB ref to MBh. Bomb. ed.
+
+1524	2024-01-26	closed	6	mw:178029
+
+1512	2024-01-24	closed	3	mw:240910  # AB comment on 'grouped entries'
+1509	2024-05-10	closed	16	mw:63712   # introduction of Scott Rhodes
+
+-------- routine user corrections
+1753	2024-10-09	closed	1	mw:28747
+1752	2024-10-09	closed	1	mw:80341
+1751	2024-10-10	closed	1	wil:6290
+1750	2024-10-09	closed	1	stc:10915
+1749	2024-10-09	closed	1	mw:164838
+1748	2024-10-10	closed	1	vcp:37664
+1747	2024-10-10	closed	1	gra:4265
+1746	2024-10-09	closed	1	stc:11682
+1745	2024-10-09	closed	1	bur:8584
+1744	2024-10-09	closed	1	bur:18023
+1743	2024-10-09	closed	1	stc:7572
+1742	2024-10-09	closed	1	stc:8445
+1741	2024-10-09	closed	1	mw:106933
+1740	2024-10-09	closed	1	mw:97720
+1739	2024-10-09	closed	1	stc:13882
+1738	2024-10-10	closed	1	gra:5514
+1737	2024-10-11	closed	1	gra:6296
+1736	2024-07-05	closed	0	MW: 262445 hastinApura
+1735	2024-06-26	closed	1	mw:200196
+1734	2024-06-26	closed	1	mw:200195
+1733	2024-06-26	closed	1	mw:200194
+1732	2024-06-26	closed	1	mw:200193
+1731	2024-06-26	closed	1	mw:200100
+1730	2024-06-26	closed	1	mw:199915
+1729	2024-06-26	closed	1	mw:199874
+1728	2024-06-26	closed	1	mw:199361
+1727	2024-06-27	closed	1	gra:2645
+1726	2024-06-26	closed	1	mw:193733
+1725	2024-06-26	closed	1	mw:203141
+1724	2024-06-26	closed	1	mw:-śirayati
+1723	2024-06-27	closed	1	gra:6055
+1722	2024-06-27	closed	1	mwe:4165
+1721	2024-06-26	closed	1	mw:137883
+1720	2024-06-26	closed	1	mw:162843
+1719	2024-06-26	closed	1	mw:162837
+1718	2024-06-26	closed	1	mw:3913
+1717	2024-06-26	closed	1	stc:12925
+1716	2024-06-26	closed	1	stc:22180
+1715	2024-06-26	closed	1	stc:8413
+1714	2024-06-26	closed	1	bur:400
+1713	2024-06-26	closed	1	stc:21309
+1712	2024-06-27	closed	2	ap90:19308
+1711	2024-06-26	closed	1	bur:14692
+1710	2024-06-27	closed	1	ap90:21642
+1709	2024-06-26	closed	1	bur:7660
+1708	2024-06-26	closed	1	bur:10399
+1707	2024-06-26	closed	1	bur:1463
+1706	2024-06-26	closed	1	pw:10081
+1705	2024-06-26	closed	1	stc:17042
+1702	2024-06-26	closed	1	mw: ard: 16095
+1701	2024-06-27	closed	1	ap:4564
+1700	2024-07-16	closed	3	ap:916
+1699	2024-06-27	closed	1	vcp:2074
+1698	2024-06-26	closed	1	mw:133620
+1697	2024-06-26	closed	1	mw:20604
+1696	2024-06-26	closed	1	pw:95079
+1695	2024-06-26	closed	1	stc:12876
+1694	2024-06-26	closed	1	mw:7904
+1693	2024-06-26	closed	1	mw:97705
+1692	2024-06-27	closed	1	vcp:sevA
+1691	2024-06-27	closed	1	gra:12480
+1690	2024-06-26	closed	1	mw: 199616 vilamba
+1689	2024-06-26	closed	1	pw:80202
+1688	2024-06-26	closed	1	stc:17042
+1687	2024-06-27	closed	1	ae:225
+1686	2024-06-26	closed	1	mw:234226
+1685	2024-06-26	closed	1	stc:4995
+1684	2024-06-26	closed	1	bur:3630
+1683	2024-06-25	closed	1	mw:145646
+1682	2024-06-26	closed	1	pw:18644
+1681	2024-06-27	closed	1	ap90:
+1680	2024-06-26	closed	1	stc:17094
+1679	2024-06-27	closed	1	gra:3243
+1677	2024-06-25	closed	1	mw:94984
+1676	2024-06-27	closed	2	gra:6412
+1675	2024-06-25	closed	1	mw:240462
+1674	2024-06-26	closed	1	stc:21470
+1673	2024-06-27	closed	1	mwe:6995,dear
+1672	2024-06-25	closed	1	mw:ID=33124
+1671	2024-06-27	closed	1	bor:13516
+1670	2024-06-27	closed	1	ae:11188
+1669	2024-06-25	closed	1	mw:256240
+1668	2024-06-27	closed	1	bor:12848
+1667	2024-06-27	closed	1	bor:12848
+1666	2024-06-26	closed	1	pw:105972
+1665	2024-06-26	closed	1	pw:105969
+1664	2024-06-25	closed	1	mw:ID=235582
+1663	2024-06-25	closed	1	mw:199361
+1662	2024-06-26	closed	1	pw:6104
+1661	2024-06-26	closed	1	pw:20665
+1660	2024-06-25	closed	1	mw:255055.3
+1659	2024-06-27	closed	1	gra:5372
+1658	2024-06-27	closed	1	ap90:28844
+1657	2024-06-26	closed	1	bur:7662
+1656	2024-06-25	closed	1	mw:121434
+1655	2024-06-25	closed	1	mw:176053
+1654	2024-06-26	closed	1	pw:54356
+1653	2024-06-26	closed	1	pw:85942
+1651	2024-06-27	closed	1	gra:8159
+1650	2024-06-26	closed	1	pw:125800
+1649	2024-06-27	closed	1	vcp:ID=31085
+1648	2024-06-26	closed	1	bur:13833
+1647	2024-06-27	closed	1	ap90:25342
+1646	2024-06-25	closed	1	mw:200631
+1644	2024-06-23	closed	0	PWG: 53773 BaganarAya
+1636	2024-05-28	closed	3	MW: त्रयोदशम gender
+1635	2024-06-04	closed	5	MW: adas
+1633	2024-05-28	closed	1	MW: 243366 sAvaisirole 
+1629	2024-01-26	closed	1	ap90:9569
+1628	2024-01-26	closed	1	ap90:13174
+1627	2024-01-26	closed	1	shs:39486
+1626	2024-01-26	closed	1	shs:22827
+1625	2024-01-26	closed	1	shs:44332
+1624	2024-01-26	closed	1	shs:13896
+1623	2024-01-26	closed	1	shs:44780
+1622	2024-01-26	closed	1	shs:1350
+1614	2024-01-15	closed	0	mw:226307
+1613	2024-01-15	closed	0	mw:97391
+1612	2024-01-15	closed	0	mw:37657
+1611	2024-01-15	closed	0	mw:226096
+1610	2024-01-24	closed	1	mw:226096
+1609	2024-01-15	closed	0	mw:225839
+1608	2024-01-15	closed	0	shs:43012
+1607	2024-01-15	closed	0	mw:226077
+1606	2024-01-15	closed	0	Update mw.txt
+1604	2024-01-12	closed	0	mw:225777
+1602	2024-01-12	closed	1	mw:237403.1
+1601	2024-01-12	closed	0	mw:237401
+1600	2024-01-12	closed	1	mw:237206
+1599	2024-01-12	closed	1	mw:237167
+1598	2024-01-12	closed	1	mw:237079
+1597	2024-01-12	closed	1	mw:236838
+1596	2024-01-12	closed	1	mw:236834
+1595	2024-01-12	closed	1	mw:236626
+1594	2024-01-12	closed	1	mw:236410
+1593	2024-01-12	closed	1	mw:236407
+1592	2024-01-12	closed	1	mw:236322
+1591	2024-01-12	closed	1	mw:119058
+1590	2024-01-15	closed	0	mw:119058
+1589	2024-01-15	closed	0	mw:235668
+1588	2024-01-15	closed	0	mw:235747
+1587	2024-01-15	closed	0	mw:235620
+1586	2024-01-15	closed	0	mw:235620
+1585	2024-01-15	closed	0	pw:7362
+1584	2024-01-15	closed	0	mw:235499
+1583	2024-01-15	closed	0	mw:235462
+1581	2024-01-15	closed	0	mw:235188
+1580	2024-01-15	closed	0	mw:237403.1
+1579	2024-01-15	closed	0	mw:236667
+1578	2024-01-15	closed	0	mw:236557
+1577	2024-01-15	closed	0	mw:1927
+1576	2024-01-15	closed	0	mw:15739
+1575	2024-01-15	closed	0	mw:16541
+1574	2024-01-15	closed	0	mw:235786
+1573	2024-01-15	closed	0	mw:235783
+1572	2024-01-15	closed	0	mw:235524
+1571	2024-01-15	closed	0	mw:235113
+1570	2024-01-15	closed	2	mw:102255.2
+1569	2024-01-15	closed	0	mw:185406
+1568	2024-01-15	closed	0	mw:131110
+1567	2024-01-15	closed	0	mw:104760
+1566	2024-01-15	closed	0	mw:200039
+1565	2024-01-15	closed	0	mw:234653
+1564	2024-01-15	closed	0	mwe:Duz
+1563	2024-01-15	closed	0	mw:234608
+1562	2024-01-15	closed	0	mw:234629
+1560	2024-01-15	closed	0	mw:221615
+1559	2024-01-15	closed	0	shs:39019
+1558	2024-01-15	closed	0	mw:234528
+1557	2024-01-15	closed	0	mw:234087
+1556	2024-01-15	closed	0	mw:234080
+1555	2024-01-15	closed	0	mw:233869
+1554	2024-01-15	closed	0	shs:18927
+1553	2024-01-15	closed	0	shs:1313
+1551	2024-01-24	closed	2	mw:233676
+1550	2024-01-15	closed	0	mw:66184.1
+1549	2024-01-15	closed	0	shs:46221
+1548	2024-01-15	closed	0	shs:46221
+1547	2024-01-15	closed	0	mw:233627
+1546	2024-01-15	closed	0	mw:9357
+1545	2024-01-15	closed	0	mw:233464
+1544	2024-01-15	closed	0	mw:233448
+1543	2024-01-15	closed	0	mw:233694
+1542	2024-01-15	closed	0	mw:233618
+1541	2024-01-15	closed	0	mw:202077
+1539	2024-01-15	closed	0	mw:153058
+1538	2024-01-15	closed	0	mw:153058
+1536	2024-01-15	closed	0	shs:
+1535	2024-01-15	closed	0	mw:51743
+1534	2024-01-24	closed	1	mw:51446
+1533	2024-01-15	closed	0	mw:263004
+1532	2024-01-15	closed	0	mw:263004
+1531	2024-01-15	closed	0	shs:10580
+1530	2024-01-15	closed	0	mwe:22740
+1529	2024-01-15	closed	0	mw:226605
+1528	2024-01-15	closed	0	mw:66884
+1527	2024-01-15	closed	0	mw:12
+1525	2024-01-15	closed	0	mw:153856
+1523	2024-01-15	closed	1	mw:63712
+1522	2024-01-15	closed	0	skd:36711
+1521	2024-01-15	closed	0	shs:2934
+1520	2024-01-15	closed	0	shs:34490
+1519	2024-01-15	closed	0	mw:99446
+1518	2024-01-15	closed	0	mw:89885.1
+1517	2024-01-15	closed	0	mw:89888
+1516	2024-01-15	closed	0	mw:89889
+1515	2024-01-15	closed	0	mw:dadrūṇa
+1514	2024-01-15	closed	0	mw:rene
+1513	2024-01-15	closed	0	mw:111656
+1511	2024-01-15	closed	0	mw:240914
+1510	2024-01-15	closed	0	mw:240934
+1508	2024-01-15	closed	1	mw:187442.1
+1507	2024-01-24	closed	1	mw:187442.1
+1506	2024-01-15	closed	0	mw:240944
+1505	2024-01-15	closed	0	pw:117718
+1504	2024-01-15	closed	0	mw:258426
+1503	2024-01-15	closed	0	pw:1095
+1502	2024-01-15	closed	4	mw:243579
+1501	2024-01-15	closed	0	mw:243354
+1500	2024-01-15	closed	0	mw:173134
+1499	2024-01-15	closed	0	mw:257348
+1498	2024-01-15	closed	0	mw:243727
+1497	2024-01-15	closed	0	mw:214221.2
+1496	2024-01-15	closed	0	mw:214221.1
+1495	2024-01-15	closed	0	ap90:28519
+1494	2024-01-15	closed	0	mw:238387
+1493	2024-01-15	closed	0	mw:243332
+1492	2024-01-15	closed	0	mw:244294
+1491	2024-01-15	closed	0	mw:ID=184900
+1490	2024-01-03	closed	0	ACPH provide missing syns

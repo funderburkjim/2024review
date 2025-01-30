@@ -1,0 +1,43 @@
+repo	date	issue	state	Andhrabharati	title
+COLOGNE	2024-08-28	426	closed	9	Replacing lrv_hwextra with Lbody
+COLOGNE	2024-01-17	419	open	3	With or without linebreaks
+COLOGNE	2023-04-02	411	open	1	Github remote host problem and solution
+COLOGNE	2023-03-12	407	closed	8	A very peculiar error associated with 'accent' marking preceding a vowel
+COLOGNE	2023-03-12	405	open	3	Discussion about metaline for anekArthaka dictionaries (अनेकार्थक कोश)
+COLOGNE	2023-01-07	400	open	2	Ideas for 2023
+COLOGNE	2022-12-28	399	open	1	Time for v03?
+COLOGNE	2022-12-11	398	closed	1	AP90 printed pages not landing in SIMPLE
+COLOGNE	2022-04-27	394	open	1	User generated definitions / informations
+COLOGNE	2022-02-17	392	open	1	Cologne standard IAST extension
+COLOGNE	2022-02-15	391	open	1	Request for digitized frontmatter and endmatter
+COLOGNE	2022-02-12	390	open	2	Tracker for scanned literary sources linking
+COLOGNE	2022-01-30	388	open	1	Expand terse definitions (the same vs. id.)
+COLOGNE	2021-12-21	387	open	1	Add a Three Language Sanskrit reader Dictionary
+COLOGNE	2021-12-17	385	open	2	The 'early' digitizations
+COLOGNE	2021-12-03	383	open	3	source for Scans of mahabharata, etc
+COLOGNE	2021-10-07	377	closed	1	arI|a 
+COLOGNE	2021-10-06	376	open	1	Semantic analysis of Cologne dictionaries
+COLOGNE	2021-10-03	372	open	4	Literary source links to scanned images
+COLOGNE	2021-09-26	371	open	18	MBh. i, 806 and 809
+COLOGNE	2021-09-14	367	open	3	PDFs not available for download?
+COLOGNE	2021-09-13	366	open	1	xmltags in csl-orig
+COLOGNE	2021-09-11	363	open	1	Scanning/digitization 
+COLOGNE	2021-09-01	360	open	11	Indische Sprüche preparation
+COLOGNE	2021-08-27	359	closed	2	AP90 and AE edition discussion
+COLOGNE	2021-08-16	356	open	1	credit / acknowledgement / bibliography to Cologne Dictionaries
+COLOGNE	2021-08-13	355	open	1	A shiny frontend to Cologne data
+COLOGNE	2021-07-06	352	open	1	Halle literature reference
+COLOGNE	2021-04-18	348	open	1	Please specify a Sanskrit or an English word, not both (Advanced Search)
+COLOGNE	2021-03-21	343	open	1	Headwords in all genders
+COLOGNE	2021-01-20	338	closed	1	Metaline format for synonymic dictionaries / thesaura
+COLOGNE	2021-01-17	336	open	5	How do I submit a new dictionary?
+COLOGNE	2021-01-01	331	open	4	CAE abbreviation error
+COLOGNE	2020-02-05	301	closed	1	question re sūtrakrīḍā
+COLOGNE	2019-02-17	254	open	1	AP90 - Indentation of subheadwords in compounds
+COLOGNE	2018-05-16	222	open	1	MW literary source incompletenesses, open questions
+COLOGNE	2017-12-20	196	open	3	<VN> tag in PWG
+COLOGNE	2017-09-04	180	open	1	MW72 - Devanagari IAST comparision
+COLOGNE	2017-07-13	163	open	1	Preference for Siddhanta font for Devanagari
+COLOGNE	2017-01-05	94	open	1	Advanced Search resolving line break
+COLOGNE	2015-01-04	66	open	1	Review section about dictionaries
+COLOGNE	2014-01-19	16	closed	1	Devanagari Input Issues

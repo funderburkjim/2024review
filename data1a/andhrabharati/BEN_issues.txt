@@ -1,0 +1,7 @@
+repo	date	issue	state	Andhrabharati	title
+BEN	2022-05-20	8	closed	6	Greek text proofreading
+BEN	2022-05-10	6	closed	3	Greek text
+BEN	2021-10-03	5	open	1	Mine Andhrabharati's version 
+BEN	2021-10-02	4	closed	2	New scanned images 
+BEN	2021-09-19	3	closed	3	Addl. strings for ab, ls and bot markings
+BEN	2021-08-21	2	closed	1	Abbreviation markup

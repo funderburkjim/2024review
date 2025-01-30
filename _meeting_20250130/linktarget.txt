@@ -1,0 +1,127 @@
+cdsl Dictionaries with ls markup and ls tooltips
+/c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles
+$ ls */pywork/*auth
+ap90/pywork/ap90auth:tooltip.txt 
+
+ben/pywork/benauth:tooltip.txt
+
+bhs/pywork/bhsauth:tooltip.txt 
+
+gra/pywork/graauth:tooltip.txt 
+
+mw/pywork/mwauth:tooltip.txt
+
+pw/pywork/pwauth:pwbib_input.txt 
+
+pwg/pywork/pwgauth: pwgbib_input.txt 
+
+pwkvn/pywork/pwkvnauth:pwkvnbib_input.txt
+  v0001	ABHINAVAGUPTA	Abhinavagupta	N. of a well-known author[CA]
+
+sch/pywork/schauth:tooltip.txt
+
+Note: Maybe change pwbib_input, pwgbib_input, pwkvnbib_input
+  to tooltip.txt, coordinate with csl-websanlexicon - basicadjust.php
+  
+---------------------------------------------------------
+/c/xampp/htdocs/cologne/csl-websanlexicon/v02/makotemplates/web/webtc
+ basicadjust.php turns <ls> tags into html tooltips and
+ generates hyperlinks where available.
+ls_callback_pwg pw,pwg,pwkvn
+  ls_callback_pwg_href
+    *"Spr. (II) N" boesp-prep (funderburkjim)
+    *"Spr. N" boesp-prep ? (funderburkjim)
+    *"MBH. N,N" mbhcalc
+    *"MBH. N,N,N" (Bombay?) mbhcalc
+    *"HARIV. N" hariv
+    *"Verz. d. Oxf. H[.] N" Oxf_Cat_Aufrecht
+    *"KATHĀS. N,N"  kss
+    *"M. N,N" manu
+   ?*"Chr. N" bchrest
+    *"DHĀTUP. N" https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-westergaard/disp/index.ph
+    *"BHĀG. P. S,N,N" bhagp_bur if S=1..9, bhagp_bom if S= 10-12
+    *"ṚV. N,N,N" https://sanskrit-lexicon.github.io/rvlinks
+    *"AV. N,N,N" https://sanskrit-lexicon.github.io/avlinks
+    *"P. N,N,N"  https://ashtadhyayi.com/sutraani
+    *"R. GORR. N,N,N"  ramayanagorr also "R. ed. GORR.", "GORR."
+    *"R. M,N,N" ramayanaschl if M=1,2 , M=3-8, ramayanagorr (Also "R. SCHL.")
+
+-------------------------------------------------------------
+
+ls_callback_mw  mw,ap90,ben,sch,gra,bhs
+ lscallback_mw_href  mw, gra,bhs,
+ "RV. N,N,N" https://sanskrit-lexicon.github.io/rvlinks
+ "AV. N.N.N" https://sanskrit-lexicon.github.io/avlinks
+ "Pāṇ. N,N,N" https://ashtadhyayi.com/sutraani
+ "R. M,N,N" Also "R. G.", "R. (G)", "R. (G.)",  "R. [G]", "R. ed. Gorresio"
+     If (mw AND M = 1,2)  ramayanaschl ELSE ramayanagorr 
+ "MBh. N,N" mbhcalc
+ "Hariv. N"  hariv
+ "Dhātup. N" OR"Dhāt. N" https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-westergaard/
+ "Kathās. N,N" kathas
+ "Mn. N,N" manu
+ "BhP. M,N" IF M=1,2 bhagp_bur ELSE bhagp_bom
+
+  
+ "MBh. (ed. Calc.)'MBh. (ed. Calc.)' => 'MBHC' N,N"  Not implemented. Same as MBh.
+    NOTE: change basicadjust.php:
+      old: 'MBh. (ed. Calc.)' => 'MBHC'
+      new: 'MBh. (ed. Calc.)' => 'MBH'  (3 instances)
+      
+ "MBh. (ed. Bomb.)"  Not implemented. no link target. 2 instances in MW
+
+-------------------------------------------------------------
+
+ ls_callback_sch_href 
+ "Spr. N" boesp_prep (funderburkjim!)
+ "Verz. d. Oxf. H. N"  Oxf_Cat_Aufrecht
+ "Kathās. N,N"  kss
+ "M. N,N" manu
+ "Bhāg. P. M,N,N" IF M=10,11,12 bhagp_bom ELSE bhagp_bur
+ "P. N,N,N" https://ashtadhyayi.com/sutraani
+ "ṚV. N,N,N" https://sanskrit-lexicon.github.io/rvlinks
+ "AV. N,N,N" https://sanskrit-lexicon.github.io/avlinks
+ "Hariv. N"  hariv
+ "R. Gorr. N,N,N" ramayanagorr
+ "R. M,N,N" IF M=1,2 ramayanaschl ELSE ramayanagorr
+ "Dhātup. N" https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-westergaard/disp/index.php
+
+-------------------------------------------------------------
+ ls_callback_ap90_href    ap90
+ "Rv. N,N,N" https://sanskrit-lexicon.github.io/rvlinks
+ "Av. N,N,N" https://sanskrit-lexicon.github.io/avlinks
+ "P. N,N,N" https://ashtadhyayi.com/sutraani
+-------------------------------------------------------------
+ lanman_link_callback ?
+ dict = lan only
+ Two types:
+  <ls n="lan,16,4">16^4^</ls>  # cross-reference 
+     https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=LAN
+  <ls n="wg,1235">1235b</ls> 
+  https://funderburkjim.github.io/WhitneyGrammar/step1/pages2c.html
+   Example under aMSumant
+   https://funderburkjim.github.io/WhitneyGrammar/step1/pages2c.html#section_1235
+-------------------------------------------------------------
+
+Link targets in sanskrit-lexicon-scans repository
+
+bchrest
+bhagp_bom
+bhagp_bur
+hariv
+manu
+mbhcalc
+Oxf_Cat_Aufrecht
+ramayanagorr
+ramayanaschl
+
+---------------------
+Other link targets: 
+boesp-prep  in funderburkji,  move  to sanskrit-lexicon ?
+https://ashtadhyayi.com/sutraani
+https://sanskrit-lexicon/rvlinks
+https://sanskrit-lexicon/avlinks
+https://sanskrit-lexicon/rvlinks
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-westergaard/
+https://funderburkjim.github.io/WhitneyGrammar/step1/pages2c.html
+---------------------

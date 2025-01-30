@@ -1,0 +1,2 @@
+repo	date	issue	state	Andhrabharati	title
+ArabicInSanskrit	2022-05-26	16	open	2	List the CSL works having Arabic strings

@@ -1,0 +1,4 @@
+repo	date	issue	state	Andhrabharati	title
+ApteES	2024-05-08	9	open	24	markup needed for display usefulness
+ApteES	2016-10-14	6	closed	9	Ngram approach to finding errors in Sanskrit words of AE
+ApteES	2014-07-15	1	open	1	Normalizing pada-gana 'spelling' in digitization

@@ -1,0 +1,233 @@
+d
+  url for a commit to csl-orig with a given sha
+  Example:
+  https://github.com/sanskrit-lexicon/csl-orig/commit/b3846c4a7f16ff703ee521d9bf3ae8e53fc52eac
+
+NOTE:  This report could have also the committer name
+
+ate	sha	title
+2024-12-30	b3846c4a7f16ff703ee521d9bf3ae8e53fc52eac	bhs. LB Ref: https://github.com/sanskrit-lexicon/BHS/issues/4 - bhs version 1
+2024-12-21	bf5bfd1658d336895d824e78e46bbd3c6e6d18f4	PW: bot tags LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/111
+2024-12-10	2f98062a22a0b3be203471fc58f78cf695038a97	SCH: standardization of links for 'Bhāg. P.' LB Ref: https://github.com/sanskrit-lexicon/SCH/issues/10
+2024-12-10	4f4d2e210f1f2c59c0dec0f0f16c70490e118359	MW: correction LB Ref: https://github.com/sanskrit-lexicon/mws/issues/182#issuecomment-2530678105
+2024-12-09	4597b6355c6ff0111f4df236dd184de01bee37f9	MW: restore spaces in <ls>: ',N' -> ', N' (N a digit) LB Ref: https://github.com/sanskrit-lexicon/MWS/mwsissues/issue182
+2024-12-09	682dad1a2b46e0dde48d4e2bacb0902459812e2c	MW: standardization of links for 'BhP.' LB Ref: https://github.com/sanskrit-lexicon/MWS/mwsissues/issue182
+2024-12-09	193db3bcdba2831ad743e3021db2449f7fd17b72	MW: ', N' -> ',N' in <lsX</ls> (where N is a digit sequence)' LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/182
+2024-12-09	8da969104a97e2a6b8e79b7b1e2b66a7afb931fd	PW: apravizwa 7,12,15 LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/109
+2024-12-09	ee1a012f12214182e572aed3119a67fca3303b77	apravizwa 7,12,15 LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/110
+2024-12-08	8ddb1f0ef6e320fbc5d545ee33ee29649400d402	SCH: standardization of links for 'Bhāg. P.' LB Ref: https://github.com/sanskrit-lexicon/SCH/issues/110
+2024-12-07	f87f373f9dc250108a8d8f781c1f7bf0afa86da9	PWKVN: standardization of links for 'Bhāg. P.' LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/110
+2024-12-07	1f19539e3881454064c1aa3a6191edf7771dffa9	PW: standardization of links for 'Bhāg. P.', version 2 LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/109
+2024-12-06	0c75b1638ac483a88277f9ede301a55e6ac55ee1	PWG:sarj  Revise previous correction. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/81
+2024-12-06	86f1ed82e4eb935b710d8ba2f4f2ed6bb32027f8	PWG: standardization of links for 'Bhāg. P.', version 3 LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/81
+2024-12-06	18d3877d352edba65e335ca78545fc7026137801	PWG: standardization of links for 'Bhāg. P.' LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/81
+2024-11-16	dcad583bad36280f82123bd07ddfd74be2f0505f	MW minor correction. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/181
+2024-11-11	dd3bf24682a983d3b10fc5a4a905754e37a6c3fd	VEI: apacit  #614
+2024-11-11	5fa0960254e95c83c94d73f74e9e0a73783cc27b	MW: See corrections_extra3.AB.comments.txt, diff_mw_15_16.txt, Study.revsuphom.summary.txt. LB Revisions based on comments from @aumsanskrit and @Andhrabharati. LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-11-07	f34839892fd635c211691cff427f1cc65145cd6b	MW: See corrections_response_20241105.txt, diff_mw_14_15.txt LB Revisions based on comments from @aumsanskrit and @Andhrabharati. LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-11-05	25032ef8b0d7febdd4f33f2d3cf6c1ded9c8577d	MW: See corrections_extra3.txt, diff_mw_13_14.txt LB a few additional revisions. LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-11-03	483f010120006e39991e65a0f1aae1261e8c959e	MW: See corrections_extra2.txt, diff_mw_12_13.txt LB a few additional revisions. LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-11-03	68e5b6ff93b87494ad764efd260d64d018cd1730	MW: See corrections_extra2.txt, diff_mw_12_13.txt LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-11-02	1eaed6b2956924f7e7b1ce1bb7eb798990d64dbe	MW: See corrections_extra1_insert.txt, diff_mw_11_12.txt LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-11-02	c0215cbaf65666ae08ef122f68939f0ddf5c6e3a	MW: See corrections_extra1_not_insert.txt, diff_mw_10_11.txt LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-30	728bbdad53f0139dd64152fb64622bd95793be9c	MW additional corrections to version 10 mw at LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-29	046725bcf31f463f5d32465c7aa1426e6f1315c6	MW: See diff_mw_9_3B_10.txt at LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-27	82d8815a9fd7c3cf70c742ee2ab9e8b664013e0a	MW: See diff_mw_9_2B_9_3B.txt at LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-27	c2b8f7e796e83ab11d78a56f5255c804e0d12050	MW: See diff_mw_9_1B_9_2B.txt at LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-27	82a78cc389ab11aa51150b296922f3198379f656	MW: See diff_mw_9_1C_9_1B.txt at LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-27	a62b8b34a9ea73857d30204885ac6578d799138b	MW: See diff_mw_8b_9_1C.txt at LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-27	2a5a881a6a7ca1ff0c0eb78c560013afce444731	MW: See change_search_insert_2.txt LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-27	83d32f170988cca5f8736a29e8acbbcc3bcbfc4c	MW: See change_search_insert_1.txt LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-26	a890c2d1e044e820e9f343bf355a55558c1cd142	MW: See  at corrections_mw_extra1_insert.txt LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-24	d81beef0454363a8592792ab2b5b46da4c0843b3	MW: See corrections_mw_alpha.AB.comments.txt at LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-22	f1aaded1e0494696827d82a7e0958a153fb994ac	MW: See corrections_mw_insert.txt at LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-21	73fff004ecd38dc97c9ff6896bdc491bf6e23e12	MW: See corrections_mw_alpha.txt at LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-21	c6f0ee8b9f4df16485adf91d5e076715a74edc20	MW: See changes_mw_3.txt at LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-20	7ddc438aa94a659ff8efffbc4815db758188ffca	MW: See changes_abbrev.txt at LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-19	b11e4a9e4de5b2d6f4245f9d7595d19c1ac8623d	MW: See corrections_mw_not_abbrev.txt at LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-14	7c2b9139b47f097ed038ce8af8ea284c2855327e	MW: See corrections_mw_abbrev.txt at LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-14	19da2b4cc753c56b9bf2167e7484316ab76339cc	MW: See corrections_mw_abbrev.txt at LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-12	d524dae00b835e1eda00c2a549153efdc2702631	AP90: See corrections_ap90.txt at LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-12	df7c3b88b00585f33486b0933c6cd194ccd2cac4	PUI: See corrections_pui.txt at LB Ref https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-12	7b22938b947b37b0b34e2b2348dd12df8b16f673	SHS: see shs_corrections.txt in LB Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/91
+2024-10-11	79fb4fc47cad49d16fbe57af3977767e800f31f6	LRV: add missing {#..#} markup. LB Ref: https://github.com/sanskrit-lexicon/lrv/issues/25
+2024-10-11	e2a9d2d544d8d4532419caca292cf0f572e157b1	LRV: edit of lrvheader.xml. LB Ref: https://github.com/sanskrit-lexicon/LRV/issues/25#issuecomment-2167412951
+2024-10-11	1f589975b169cd4317699e10ee98d05d89dc953d	gra 9360: Ref. https://github.com/sanskrit-lexicon/csl-orig/issues/1774
+2024-10-10	784cab8af458dab7a63511ed33d727351232034f	User Corrections
+2024-10-07	985e819ae05a9909ccc85ae01358354bc8700f94	PWG: missing VN LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/76
+2024-09-20	40d3269407ac82a093e98b719598600b9ada68e3	PWG: LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/34#issuecomment-2364472837 LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/77#issuecomment-2364178541
+2024-09-20	9da0685f8e18427a694aa3d3551a0b13782cd1a2	PWG: LB Ref1: https://github.com/sanskrit-lexicon/PWG/issues/77#issuecomment-2362846857 LB Ref2: https://github.com/sanskrit-lexicon/PWG/issues/77#issuecomment-2364157515
+2024-09-20	98e0ad565980e92df67f7a7409a94104e95b056f	Ref: https://github.com/sanskrit-lexicon/PWG/issues/77
+2024-09-17	ab27f766ce871ec85878e8e9db9cf7ce78cf4b8e	PWG: Ref. https://github.com/sanskrit-lexicon/PWG/issues/74 local version 10
+2024-09-17	2a3323979a4509c74875127a45acbd44b8f92ffb	PWG: LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/74.
+2024-09-11	66edae4f0bdd1a0f0cd46dd6dd3878ee7f311389	PWG link standardization for M. (Manava dharmashastra) LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/74
+2024-09-09	afabed1faabbd2696008d8837b521b966f7f7eb7	sch: link target standardization for 'M.' (manu-smfti). LB  Ref: https://github.com/sanskrit-lexicon/PWG/issues/73
+2024-09-01	989e371725adb839115b5359935a0247a9a11718	VCP: hwxetra-Lbody conversion. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/432
+2024-09-01	e8cb1b637e838fc36357f1ac3c58038b1e6a923b	SKD: hwxetra-Lbody conversion. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/431
+2024-09-01	61187c836ccc2283ad977047ecb7023e0ab7a5a1	SHS: hwxetra-Lbody conversion. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/429
+2024-09-01	0bcff9d01e17529d2ff517ad24b7da0cebc01e2e	PWKVN: hwxetra-Lbody conversion LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/428
+2024-08-31	d92c3f782dd2caf8623e6fdf14ecd838414c1084	PW: hwxetra-Lbody conversion LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/427
+2024-08-31	1b4a2eaca928ead36e2f5cca3085f650aa00f4c6	LRV: hwxetra-Lbody conversion - addendum 6 LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/426
+2024-08-31	37b4e0391fdd0362fda19a2a40d7e5b7c9fea92a	LRV: hwxetra-Lbody conversion. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/426
+2024-08-28	35297468cdec68e372c10279e15ac9eb18ff430c	CAE: hwxetra-Lbody conversion. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/425
+2024-08-28	e5817b872ee124c81ad3bf6aaf5c3fd6d05f5a61	BUR: hwxetra-Lbody conversion. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/424
+2024-08-27	f8c6bf73209721fd43ed026d7b497eb5fefdaafb	AP90: hwxetra-Lbody conversion. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/423
+2024-08-27	40eb85cec6857f21f313ac623e50d8f5da640a5f	ACC: hwxetra-Lbody conversion. LB Ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/422
+2024-08-27	090fa0323deeb6c4be455dea72a1c1656351f502	BEN: Lbody groups. LB Ref: https://github.com/sanskrit-lexicon/BEN/tree/master/issues/issue9
+2024-08-26	2a225bbfff972baf0f53afb8ebfbebe77ca02bf7	GRA: Lbody groups. LB Ref: https://github.com/sanskrit-lexicon/GRA/tree/master/issues/issue34
+2024-08-24	a421f7aab90b2e51e6297c013ebcb50c0e08a9a9	#176 - revise 'groups' (Lbody) and LB hui (list display UI links at real and artificial homs)
+2024-08-11	f677a655c4876c7adf668df631317b449d5c2100	MW: and/or group standardization. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/175
+2024-08-03	8a35c84b0c3b3ba9bbb56db324b38e636defe162	MW: supplement placement. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/171
+2024-08-01	b219da352a738c8ab12fd3e0af6d00b69114b72f	MW: 51192. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/70#issuecomment-2254862625
+2024-08-01	35083bccb79e4f7b6314a898304ad7d2070bab6f	PWG: KATHĀS. links. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/71
+2024-07-28	0c4d0e81f65b80414ef27a595fa63b7f9a075586	Sch: Improve markup for literary source 'Kathās.'. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/70
+2024-07-22	245797cd9f257d6c4fdfaf25609f66ab5eef6c64	MW: revisions re supplement. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/171 (legacy1)
+2024-07-16	d2993bbb443e4e33cc7b006616718e1d3a7a1441	AP90:821:adaDryaMc #1700
+2024-07-15	0c2ecced11c4d542660a8d7cc1c03ed55032f6e1	MW: sup-replacement. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/171
+2024-07-05	45cad97424c2ab8c9a6bfb7cb8c14c7cc9a508cf	GRA 11011 aRu.  Another minor correction. LB Ref: #1652
+2024-07-04	43ba76274dc5797e33ff96637af8b17b7724701d	MW: hastinApura. #1736
+2024-07-04	8fe060e931c4e154a8a0ad46f4d90b0dc1ac0e9d	GRA: typo at hw aRu. LB REF: https://github.com/sanskrit-lexicon/csl-orig/issues/1652
+2024-07-01	01a232158906f0894d4481d2b96dd7f58cb969c5	MW stray errors : LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/167
+2024-06-29	7e7a5efff69a80cecb7a9b9d68ee1886db6d38a7	MW: L=203569  deleted. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/166
+2024-06-29	32f6c0667ea69e71b92f9b35804a8c7f19d2b265	MW dot.corrections : LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1645#issuecomment-2198054242 LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/166
+2024-06-29	0f763c00b11218fce54d9976043d489daf70ee2c	MW:  '</bio> <bio>' -> ' '; LB #1645
+2024-06-29	86b74ecb6b6b778607a977d34776d05f4ed2a60e	MW: Some changes from 'See' to 'see'; #1645
+2024-06-29	6848d7f8c61ce9f3e7894269f5ee08fc1678848a	mW:  'according to, <ls>'  remove comma; LB Ref: #1645
+2024-06-28	5eaef19c5198bd64990e96503c6e426023a1d886	MW: 'X <ab>cf.</ab>'  -> 'X, <ab>cf.</ab>'; LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1645#issuecomment-2197559503
+2024-06-28	0653af04a613ffd74fcc97081acf187081ef8f21	mw: ’ <ab>N.</ab>  ->  ’, <ab>N.</ab>. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1645#issuecomment-2197335994
+2024-06-27	51a4a8658c26780e3e130f36065cc4dd8feec357	vcp: user corrections
+2024-06-27	8c5d321be710172a72a8d6dbe3db012db852c28d	stc: user corrections
+2024-06-27	a88d616f51306815da217b38be929e71b81182c9	pw: user corrections
+2024-06-27	f7385b70b69a5c9a6748eaf94cff933156445b9a	mwe: user corrections
+2024-06-27	e934c2a5a34b0bfde9075d6958c5ccf73973bf8b	mw: user corrections
+2024-06-27	980e86879a5026795a0355c83ff3956a68517e7b	gra: user corrections
+2024-06-27	98a2ff7d0bc2680b75f67aac7c4a3442f87c4079	bur: user corrections
+2024-06-27	a801935734537c571f5e2730cb81559d932fa964	bor: user corrections
+2024-06-27	eb49de524b202f267ad72fa380e77427d413582f	ap90: user corrections
+2024-06-27	555929d5b6b588b252aea7cdc1b6e06ef768fd16	ae: user corrections
+2024-06-25	70201cb6c962ed0f31c0f98619fd4acc4113a392	SHS: correction backlog, 6.  missed these in last commit LB  Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1645
+2024-06-25	65dfebb34aff4f164556a73126664c55e90b80a6	PUI:  correction backlog, 6. LB  Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1645
+2024-06-25	87e1bae035970a457cdfd8fe1210819213d33cd9	SHS: correction backlog, 6. LB  Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1645
+2024-06-25	45aec08c1c489bf40cffcd15d853605b19681cbb	AP90:  correction backlog, 6. LB  Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1645
+2024-06-25	482f50b29cb332a8dcfe6dbbdd31d23435955569	MW:  correction backlog, 6. LB  Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1645
+2024-06-23	704bc62c5662327eb280435d1cdff075e7e231d9	SCH:  recode <ls>Verz. d. Oxf. H. ...</ls> for link. LB Ref: https://github.com/sanskrit-lexicon/PWG/issues/69
+2024-06-23	ede0ee14610acf603fdcb36723d2444c2356ae2b	PWG 53773 BaganarAya. #1644
+2024-06-21	e5ec6f63787fa8abc1f349b95b252aab2ec657a9	MW: LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/165#issuecomment-2179293508
+2024-06-21	3c0c0752166533d6ad40d3e38308aad59384f397	MW: 61878 : v.l. kArd. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1643#issuecomment-2169099447
+2024-06-19	796ffcfc8de79af5881c27c3e3ea442fc083bc9f	small misc rewrite Ref: https://github.com/sanskrit-lexicon/MWS/issues/165
+2024-06-19	baf9edea91ff9584a74ab988fae5b5a81caaffc2	change_unique_ab Ref: https://github.com/sanskrit-lexicon/MWS/issues/165
+2024-06-19	cd5659925902b77a42ecad011a9888b105eea457	change_unique_cdsl Ref: https://github.com/sanskrit-lexicon/MWS/issues/165
+2024-06-19	682edf2c6b6fa0861246af1a7eaebddb0341e6bf	change_1 Ref: https://github.com/sanskrit-lexicon/MWS/issues/165
+
+----------  shortlong markup in MW, suggested by  @aumsanskrit 
+2024-06-17	cecd350ac61459f07ddb7610de71f3857e1243d7	MW: shortlong headwords, AB revisions, 2 #1639 LB  Ref: https://github.com/sanskrit-lexicon/MWS/issues/164  change_ LB  5
+2024-06-17	89c06d5c0fdb55cd73fc04bb4b327c7276c60add	MW: shortlong headwords, AB revisions #1639 LB  Ref: https://github.com/sanskrit-lexicon/MWS/issues/164  change_4
+2024-06-16	09bcaa10d595cf10fefab7d30856d26ad5abd1c2	MW: LB  Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1643#issuecomment-2171829518
+2024-06-16	3d4d50505e04b3397106ca23a6f9b02045fcd999	MW: non-headword shortlong expansion, the rest of them #1639 LB  Ref: https://github.com/sanskrit-lexicon/MWS/issues/164
+2024-06-16	f6854aedf8e41fcc1f4b5ee8b6d82b574d4bf545	MW: non-headword shortlong expansion #1639 LB  Ref: https://github.com/sanskrit-lexicon/MWS/issues/164
+2024-06-16	7e4071f242df839a3fcc007bf6908f92338e38f1	MW: shortlong headwords. #1639 LB  Ref: https://github.com/sanskrit-lexicon/MWS/issues/164
+
+----------  @aumsanskrit 2nd batch  all issue 1643
+2024-06-15	cc39ac1ea1f27a9f1e452092f0c882a7e9cba606	MW:  dityavah; 180506 : vajrahUna -> vajrahURa LB  Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1643
+2024-06-14	7ce041fa2b16c4503cebdbf1afcf3bd0a81fd129	MW:  'mn.' -> 'm. n.' LB  Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1643
+2024-06-14	88780a109f4b3e747a175fbdbca2e635a479b099	MW:  'mf.' -> 'm. f.' LB  Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1643
+2024-06-14	33ca0014e48d251511e371fc8ef78233ed1fa1f8	MW: minor edits, 1' LB  Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1643
+2024-06-14	cdd49657ca383095c6fcaa3bbba94ca906d12254	MW: sanskrit spelling corrections '<s>[^<]*n[kKgG]' LB  Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1643
+2024-06-14	34c7c07dc977a360818e4c94b4905a58668f917e	MW: ' a,' -> ' a' ; ' an,' -> ' an' LB  Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1643
+2024-06-14	a65c65dbff931909e764acd0760b2cfd1af94985	MW: '</ab> -' -> '</ab>-' LB  Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1643
+2024-06-13	90398aeabba69449dc94cbf1ba681d1a254a50f0	MW: '</lex>, <ab>N.</ab>' -> '</lex> <ab>N.</ab>' LB  Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1643
+2024-06-13	e6d2a667be0cca75b317191a8c17e4b37254fd19	MW: mw_todo_dhatup1 LB  Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1643
+2024-06-13	f9dd93d11e452bf64a02c574004026a7629cd6ea	MW: #1643 mw_todo_misc1.txt
+
+2024-06-12	f5c15d27c0132d5f9e5e46890a76fcfdc62171c4	MW: incomplete dhatup references. #1639
+2024-06-11	b2564deaad61cd926307aa1cbf852896b899a2e9	MW: 213663 SaraRa. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1639#issuecomment-2161353202
+2024-06-10	ec301a45ca27cc64859d2814bf6005bf6fc9477a	MW: Ref #1639
+2024-06-09	99d4ece686da0d2a65f91d7e9496730cc44af50f	PUI: #1642
+2024-06-09	fae4190f705afccd8b500fd1d248bf2fbcb43733	AP90: Ref #1642
+2024-06-08	3eedf42046d74b041ab7c314fe412a3217b3c967	SHS: Ref #1640
+2024-06-08	d9812c6c4a03d83d81b12ac43857842bba85e504	MW: Ref #1638
+2024-06-06	bae4561ff84319811ece7c41961edbe9dffefeac	MW: Ref #1639
+2024-06-03	6d99ae2efd1b232e68d101ee60874e0eded75475	MW: Ref #1638
+2024-05-30	7a6f63bf68449bce852096f1a285cc368eee6f3a	MW: Ref #1637
+2024-05-28	99d47df80e1f43bf205262a9cf9dfe3b7e8a0451	#1635, #1636
+2024-05-16	989d6af3ce4a9c8aab0d8cab1f7a74c2fd595738	MW: druh. LB Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/74
+2024-05-16	d12c2be29cff8accd20a88231a481a57e67324d2	correction corrections .. LB Ref: https://github.com/sanskrit-lexicon/csl-corrections/issues/89
+2024-05-10	3f1706b87de67d7c59aadbcb4c51c3520a70d655	MW:63712. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1509#issuecomment-2104077780
+2024-05-09	ddaa06e9482c015366bd375ffd75bc5ed20f3753	MW: GArteya. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1634
+
+----------  Andhrabharati guided changes to BOP 
+2024-05-07	8f8a0cb4a89dfb9e5d8897bc3c03a4be594fd2b1	BOP: https://github.com/sanskrit-lexicon/BOP/issues/6
+2024-04-17	4fde1c49c7329b28400878876b50ae2a03902cd3	STC: markup <ab>flex.</ab>.  Courtesy user Odile C.
+
+----------  Andhrabharati suggests new 'use' for lang tag -- Jim not sure how previous and current usages interact.
+2024-04-17	46a2a51177e1eaf822326f982bd2cc8f7d7456a7	MW minor corrections re ',;' LB Ref: https://github.com/sanskrit-lexicon/mws/issues/65
+2024-04-16	d4e4117ed134634240f034c301297cc373ab0d97	MW lang tag and related. LB Ref: https://github.com/sanskrit-lexicon/mws/issues/65
+2024-04-03	640c6e43e740004c051aed435f77d911a1de5b68	MW cleanup. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/66
+
+----------- Odile (non-github user) submits these (and many other) corrections to the French dictionaries.
+2024-03-30	8d90e462a24ad7e4f28255a6093ad7e4a02c172e	more bur update related to <ab> markup; LB Ref: https://github.com/sanskrit-lexicon/BUR/issues/5
+2024-03-29	00cd106d19bae420a9b56ad0cf163537433f4b5d	bur update related to <ab> markup; LB Ref: https://github.com/sanskrit-lexicon/BUR/issues/5
+
+-----------  issue 106 is BIG
+2024-03-25	e2fa90685bf743390552a7f5a0a482dc60882d84	PW: Alternate headwords and other work. LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/106 LB Installed temp_pw_9c.txt
+2024-03-15	2bff3dc17e2f0313657cdc760e8dde88b77969c1	MW L=243366 print change. LB Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1633
+2024-02-26	a5f98599b4b72274dcd93f88dcb75cb042224d8e	close #1632
+
+----------  Dhaval corrections to abch dictionary.
+2024-02-26	10bdcf89598e159fc63e0146999091a3e75d26fc	ABCH corrections till date
+2024-02-26	6046ddff3820331e46d4a60994c9c4eb23053b58	abch1 corrections based on sanskrit-lexica-ocr as on 26 Feb 2024
+
+2024-02-26	e23a0f296bcf99b0145bf6428c52cca00bdef10f	corrected https://github.com/sanskrit-lexicon/PWK/issues/106#issuecomment-1962453212 in MW
+-----------  what to do with https://raw.githubusercontent.com/sanskrit-lexicon/PWK/refs/heads/master/pwkissues/issue105/pw_e_metalines.txt
+2024-02-09	a63f7049bb3e238527ad7cf4b9b5ad4766a1a079	PW: remove <e>N codes from metaline. LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/105
+----------- Since PWKVN is now also in PW, what is status of PWKVN? (dalglob1)
+2024-02-09	04d06196fd868a23748401168f848e14aa226601	Append PWKVN to PW. LB Ref: https://github.com/sanskrit-lexicon/PWK/issues/104
+
+2024-02-07	4494759f16eb74534a52c2509f13377a6842c701	close https://github.com/sanskrit-lexicon/csl-ldev/pull/21
+
+----------- 'per' tag. Also see https://github.com/sanskrit-lexicon/COLOGNE/blob/master/xmltag/all_xmltags.txt
+2024-02-05	858f639cf7d1a81a191721f610b65eeb38312c36	gra, md  and 'per' tag; LB Ref: https://github.com/sanskrit-lexicon/csl-pywork/issues/32
+
+----------- Links to Westergaard DHĀTUPĀṬHA
+2024-02-05	1dd36646da9f7ba380d49e658c09b7f40a98fd7e	SCH:Kadana, can. LB Ref: https://github.com/sanskrit-lexicon/mws/issues/126
+2024-02-05	c3eec18ba3c4eea49da6ad94e5441b446cb53132	MW:250321 suzupsa -> suzupsu. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/161
+2024-02-01	21e1b3fd36ba3ee19e2882511a5db48cad808fa2	Sch: markup for Westergaard's dhatupatha. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/126
+2024-02-01	47c9b8f974e7aaa175663b47a4bdb286e579cec3	pwg changes related to Westergaard dhatupatha. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/126
+2024-01-30	ff1180e0e05b2845d997cdc9fc1df8f62fca5b48	MW: vekz, hillolaya. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/126#issuecomment-1916078204
+
+-----------  Dhaval's handling of user-corrections, including first batch from Scott.
+
+2024-01-30	63411fcc626fb1049d53b167513f0b13329dfe34	corrections post PR #1631
+2024-01-30	eae8f8e488f13d66ed67625d92c4cb0394950d86	Merge pull request #1631 from aumsanskrit/master LB  LB 5 corrections to MW dictionary
+2024-01-29	cb71528f14a3c83c89ed047c36010b29b9049e3e	MW: Dhātup. corrections. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/126
+2024-01-29	84bde73d08240291a1c60707fb957aac1959aa61	MW  letter in <ls>Gram. N a/c</ls>. LB Ref: https://github.com/sanskrit-lexicon/MWS/issues/159
+2024-01-28	1b9ed61d7df44ae0ed713c5cf3e3a060c166e766	ptA reverted
+2024-01-28	1e6a17dd7cd6bb6b9667dbbb857d3c8597a2c905	Merge pull request #1630 from aumsanskrit/master LB  LB 5 corrections to MW dictionary
+2024-01-26	dff124d0d5f1bda53cf39732b514d0db22926d85	close #1524
+2024-01-26	117440f62d0d339547ad5efe36fbf5c99fd9f75a	user corrections till 26 Jan 2024 handled
+2024-01-26	6683df458b45cd73e7f1fe99c4fa49be1d8c11ce	Merge remote-tracking branch 'refs/remotes/origin/master'
+2024-01-26	f2b6e9c2030277f3e7b682616ed9b1346145b2b2	Merge remote-tracking branch 'refs/remotes/origin/master'
+2024-01-26	9c163576a2c65f94a7ad6626af19ad13b6ce7311	minor edits
+2024-01-24	cbee876bb9687f7d92ea1e46271a3d41c8be236b	close #1507
+2024-01-24	2b22f977bfdf85c0a6722526fec40722e7075b90	close #1526
+2024-01-24	b2fc69211a8fcb888630be4d94c4e947a34543a4	close #1534
+2024-01-24	6efcd12a6fb4efd81965967a6eec5c37e3f80c64	close #1610
+2024-01-24	e075c45280a47eeadd865bae17fcba1f79bfdd48	correction of #1617
+2024-01-24	9ae5f1264a3e89462565f613a19c0e5a4447e0ce	close #1615
+2024-01-24	df8230e81f5cb9854bf99c7a406653e34ed3863f	MW update after PR #1620
+2024-01-24	35815b6140ee2c8a1e18dc480b6163fd12958dd0	Merge pull request #1620 from aumsanskrit/master LB  LB 6 corrections to MW dictionary (submitted on Jan. 22nd)
+2024-01-22	f387a72276467b7fd92949fc5ce93999627f68c0	PE:5949. LB Ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/36
+2024-01-20	2a06afb3ad6d1aca2066806e3da0349f9722aee2	PE corrections. LB Ref: https://github.com/sanskrit-lexicon/csl-devanagari/issues/36
+2024-01-17	36307e957ae992b350fbe4137b215dbdd3b1144f	MW 226839
+2024-01-17	3918dee901666b3ec1b43f8a582fad7280ac483d	reverted homonym change
+2024-01-17	772abc61068eba2a34435da8f2055d3a4a732506	Merge pull request #1618 from aumsanskrit/master LB  LB Edits by aumsanskrit
+2024-01-16	9af638db6eea1b2eab913804435d42b14c16038a	BOP changes https://github.com/sanskrit-lexicon/csl-devanagari/issues/39
+2024-01-15	62cd7291ac2f05cb65aab71ad64560500fc370b5	user corrections
+2024-01-15	f849b56811a963add9c86b34ae87be15f9764a70	user corrections as on 15 Jan 2024
+2024-01-15	8d15a999c30d2460a4fc653f76b03744a94b45fe	removed duplicate line
+2024-01-15	677f93fbc010339d0cc8d1538c4d14d44f1840b0	Merge pull request #1606 from aumsanskrit/master LB  LB Update mw.txt
+2024-01-14	616eea57e486fca0e786118c21b99faa9513728d	user corrections in MW
+2024-01-14	9a7af2f00138be9cd24fcab1c5b2fb514da68cd9	user corrections
+2024-01-13	2fe8bc84067ce150af5eb3e6122cb909634f351f	Merge remote-tracking branch 'refs/remotes/origin/master'
+2024-01-13	1ee8c58dd20245d7ff44b00084426313c3252e2b	MW corrections
+2024-01-12	33b0419d58ea4845183c38e2bc7a74ac5f3587c6	user corrections

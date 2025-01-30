@@ -1,0 +1,22 @@
+repo	date	issue	state	Andhrabharati	title
+GRA	2024-08-14	34	closed	1	Replacing grahwextra with Lbody
+GRA	2023-06-28	32	closed	29	CDSL display of AB version, part 3
+GRA	2023-06-19	31	closed	31	CDSL display of AB version, part 2
+GRA	2023-06-19	30	closed	3	Error in AV digitisation provided by Marcis
+GRA	2023-06-09	29	closed	39	CDSL display of AB version
+GRA	2023-06-01	28	closed	26	GRA VN data "integration" into main text
+GRA	2023-05-31	27	closed	37	GRA abbr. markup
+GRA	2023-05-29	25	closed	6	GRA corrections/changes while (AB) re-working
+GRA	2023-05-26	24	open	3	RV Roman transliteration provided by Marcis has no m̐, but only ṃ in its place!!
+GRA	2023-04-24	22	open	1	Displays with x.y.z instead of {a,b}
+GRA	2023-04-14	21	closed	71	Grassman corrections digitization
+GRA	2023-03-25	20	closed	1	Accented semivowels
+GRA	2022-12-15	19	closed	2	Grassman improved scans
+GRA	2021-09-12	18	closed	2	A startup file for GRA <ab> and <ls> entries
+GRA	2021-09-03	17	closed	5	Grasmann annexure pages missing?
+GRA	2020-04-28	11	open	1	verbs01
+GRA	2020-03-26	10	closed	1	Space after comma missing
+GRA	2020-03-14	9	closed	10	Mark nonexisting words *gva, *cākṣa, *ghrabh
+GRA	2020-03-13	8	closed	2	Grassman Abbreviations Without Tooltips
+GRA	2020-03-07	6	closed	1	Prǎpositionen -> Präpositionen
+GRA	2020-01-02	5	closed	1	Unlinked Numbered References

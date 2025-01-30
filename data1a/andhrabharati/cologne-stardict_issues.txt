@@ -1,0 +1,2 @@
+repo	date	issue	state	Andhrabharati	title
+cologne-stardict	2021-10-04	32	closed	1	Give Devanagari to interested people to correct

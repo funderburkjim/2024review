@@ -1,0 +1,29 @@
+The base form, xxx.txt,  of each dictionary xxx is in csl-orig repo.
+
+This base form is converted to an xml form xxx.xml by csl-pywork scripts.
+
+xxx.xml is valid relative to a dtd (document type definition) xxx.dtd
+In fact, xxx.dtd = one.dtd  (same dtd for all dictionaries)
+https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/makotemplates/pywork/one.dtd
+
+---------------------------------------------------------
+
+xxx.txt is a mixture of xml markup and non-xml markup.
+Some markup statistics for the xml markup in xxx.txt:
+https://github.com/sanskrit-lexicon/COLOGNE/tree/master/xmltag
+
+cd /c/xampp/htdocs/sanskrit-lexicon/COLOGNE/xmltag
+
+all_xmltags.txt (07-01-2024)
+
+NOTE : Some 'new' dictionaries not included
+NOTE : Some non-xml markup in xxx.txt is converted to xml markup in xxx.xml
+       This done in make_xml.py (by code in csl-pywork repo)
+  example 1: k1 of metaline converted to <key1>
+  example 2: {#deva#} -> <s>deva</s>
+
+
+dictionaries with an <ls> tag:
+ tooltips: ap90 ben bhs gra# mw pw pwg sch
+ no tooltips: bor md lan 
+ # gra: the RV tooltips special markup (not ls) {661,10}

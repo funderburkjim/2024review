@@ -1,0 +1,7 @@
+repo	date	issue	state	Andhrabharati	title
+SKD	2023-10-19	17	open	1	transcoding skd.txt
+SKD	2022-12-15	16	closed	6	SKD replace scans
+SKD	2022-03-26	15	closed	12	Metaline <pc> not containing the column data
+SKD	2022-03-13	14	closed	17	High-resolution scans used by Thomas Malten for digitization
+SKD	2021-08-05	13	open	12	Corrections in digitisation: Andhrabharati
+SKD	2020-02-15	8	open	8	All Dhatu Entries (SKD)

@@ -205,14 +205,42 @@ python count_lines.py data1 sanskrit-lexicon-scans issues data1/sanskrit-lexicon
 cd data1
 python repo_activity.py sanskrit-lexicon-scans './' sanskrit-lexicon-scans_activity.txt
 
+
 ***************************************************************************
 commit this work and update associated issue
 
 ***************************************************************************
+01-28-2015
+mkdir data1a
+mkdir data1a/andhrabharati
+
+--- test 1
+python github_repo_issues1a.py sohilpandya octocat Hello-World 2024-06-01 2050-12-31 temp_octocat.txt
+
+--- test 2
+python github_repo_issues1a.py Andhrabharati sanskrit-lexicon pwg 2024-01-01 2050-12-31 temp_test2.txt
+
+python github_repo_issues1a.py Andhrabharati sanskrit-lexicon mws 2024-01-01 2050-12-31 temp_test3.txt
+
+python github_repo_issues1a.py Andhrabharati sanskrit-lexicon mws 2024-01-01 2050-12-31 andhrabharati/mws_issues.txt
+
+
+# make script for all repos
+sh make_redo_issues1a.sh sanskrit-lexicon 2000-01-01 2050-12-31 Andhrabharati > redo_issues1a.sh
+
+# run the script
+sh redo_issues1a.sh  # takes several minutes
+
+# aggregate
+cat andhrabharati/*_issues.txt > andhrabharati_activity.txt
 
 
 ***************************************************************************
-------------------------------------
+***************************************************************************
+miscellany
+***************************************************************************
+
+
 sh make_redo_issues.sh sanskrit-lexicon-scans 2024-01-01 > redo_sanskrit-lexicon-scans_issues.sh
 sh redo_sanskrit-lexicon-scans_issues.sh
 #  creates data/sanskrit-lexicon-scans/X_issues.txt   for all repos X owned by sanskrit-lexicon-scans
@@ -221,10 +249,6 @@ sh redo_sanskrit-lexicon-scans_issues.sh
 wc -l data/sanskrit-lexicon-scans/*issues.txt > sanskrit-lexicon-scans_2024_issue_counts.txt
 
 python github_repo_commits.py sanskrit-lexicon AP90 2023-01-01,2024-01-01 temp1.txt
-
-***************************************************************************
-miscellany
-***************************************************************************
 
 ------------------------------
 test_get_comments_from_issue.py is from copilot.
@@ -249,9 +273,6 @@ python test_get_comments_from_issue_1.py sanskrit-lexicon pwg 72
 
 
 ------------------------------
-python issue_comments_
-------------------------------
-
 
 
 Miscellany
@@ -269,12 +290,7 @@ unexpected error(s)
 python github_repo_commits.py funderburkjim ben 2000-01-01 data/funderburkjim/ben_commits.txt
 Error fetching commits: 409
 get_commits_main: no commits for ben
----
-------------------------------------
-------------------------------------
-------------------------------------
-------------------------------------
-------------------------------------
+
 
 python github_repo_issues.py funderburkjim ankiwork '2000-01-01' data/funderburkjim_ankiwork_issues.txt
 
@@ -434,3 +450,8 @@ https://docs.github.com/en/rest?apiVersion=2022-11-28
 
 ========================================================
 https://docs.github.com/en/rest/issues?apiVersion=2022-11-28
+
+https://api.github.com/repos/{owner}/{repo}/issues/{issue_number}/comments
+
+https://api.github.com/repos/sanskrit-lexicon/mws/issues/1/comments
+

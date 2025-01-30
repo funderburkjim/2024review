@@ -1,0 +1,6 @@
+repo	date	issue	state	Andhrabharati	title
+csl-websanlexicon	2024-11-08	43	closed	3	`<listinfo n="sup1"/>` markup in list display
+csl-websanlexicon	2024-07-04	42	closed	2	GRA display bug : abbrevs after chg
+csl-websanlexicon	2024-06-20	41	closed	1	Homonym repetition in pwg display
+csl-websanlexicon	2023-04-06	29	open	2	link targets
+csl-websanlexicon	2021-04-10	22	closed	1	Links for Panini in MW

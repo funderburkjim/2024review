@@ -1,0 +1,616 @@
+Andhrabharati activity in sanskrit-lexicon repo-issues
+To see a given issue in a given repo,
+https://github.com/sanskrit-lexicon/REPO/issues/ISSUENUM
+e.g. for the first below:
+https://github.com/sanskrit-lexicon/AMAR/issues/1
+
+Andhrabharati made one or more issue comments in 35 repos of sanskrit-lexicon
+AP90, ApteES, ArabicInSanskrit, BEN, BHS,  
+BOP, BOR, BUR, COLOGNE, CORRECTIONS, 
+Frish, GRA, GreekInSanskrit, INM, LRV, 
+MD, MW72, MWS, PWG, PWK, SCH, 
+SKD, VCP, alternateheadwords, avlinks, cologne-stardict, 
+csl-apidev, csl-corrections, csl-devanagari, csl-ldev, csl-orig, 
+csl-pywork, csl-websanlexicon, literarysource, mw-dev, temp_corrections_ap90,
+
+Andhrabharati made comments in 560 issues, as in the following table.
+
+repo	date	issue	state	Andhrabharati	title
+
+AMAR	2024-01-30	1	open	6	Gender information for meanings in nAnArthavarga
+
+AP90	2022-06-30	25	closed	2	Errata in APPENDIX I. SANSKRIT PROSODY
+AP90	2021-08-25	24	closed	6	Additional literary sources from ap90ab_v2
+AP90	2021-06-26	23	open	12	ap57_90 literary source
+AP90	2021-05-31	22	closed	4	Devanagari Font ligature problem: zWy
+AP90	2021-05-29	20	closed	2	nyAya maxims, appendix writers/places
+AP90	2021-05-28	19	closed	3	ap90ab_v2: {} around Devanagari
+AP90	2021-05-28	18	closed	4	ap90ab -- missing hyphens in  derivations
+AP90	2021-05-20	17	open	30	Andhrabharati coding of AP90
+AP90	2021-05-19	16	open	10	Misc markup changes, Part 2
+AP90	2021-05-09	15	open	13	Misc. markup corrections
+AP90	2021-05-08	14	open	1	Devanagari markup changes
+AP90	2021-05-05	13	closed	5	?? missing characters
+AP90	2021-04-28	11	open	6	Markup of literary source references, continued
+AP90	2021-04-13	7	closed	2	Hyphenated non-Devanagari 
+AP90	2021-03-26	6	open	5	Newline for some entries in Apte Practical Sanskrit-English Dictionary, 1890
+AP90	2020-12-24	5	open	15	Expansion of composite HWs from the reduced parts used in the print books
+AP90	2020-10-28	4	closed	5	Abbreviation Markup
+AP90	2020-03-16	2	open	1	verbs from 1957 ap
+
+ApteES	2024-05-08	9	open	24	markup needed for display usefulness
+ApteES	2016-10-14	6	closed	9	Ngram approach to finding errors in Sanskrit words of AE
+ApteES	2014-07-15	1	open	1	Normalizing pada-gana 'spelling' in digitization
+
+ArabicInSanskrit	2022-05-26	16	open	2	List the CSL works having Arabic strings
+
+BEN	2022-05-20	8	closed	6	Greek text proofreading
+BEN	2022-05-10	6	closed	3	Greek text
+BEN	2021-10-03	5	open	1	Mine Andhrabharati's version 
+BEN	2021-10-02	4	closed	2	New scanned images 
+BEN	2021-09-19	3	closed	3	Addl. strings for ab, ls and bot markings
+BEN	2021-08-21	2	closed	1	Abbreviation markup
+
+BHS	2023-08-20	4	open	4	Tooltip revision
+BHS	2023-08-09	3	closed	19	words in different languages
+BHS	2023-08-08	2	open	3	Semantic line breaks 
+BHS	2021-10-12	1	closed	25	BHS issues- Andhrabharati
+
+BOP	2024-02-09	7	closed	4	Explanation of LS numbers in BOP
+BOP	2024-01-16	6	closed	4	Incorporate changes from BOP-Main-L2 file
+BOP	2023-04-15	5	closed	5	Proofread Slavonic text
+BOP	2023-03-24	4	closed	17	Proofread Greek text
+BOP	2022-05-05	3	closed	3	Additional entry in AB version
+BOP	2022-05-02	1	closed	3	Greek text
+
+BOR	2024-05-13	3	open	1	BOR possible additional material 
+
+BUR	2023-02-17	4	closed	3	Proofread Greek text
+BUR	2022-05-10	3	closed	17	Misc. corrections
+BUR	2022-05-10	2	closed	1	greek text
+
+COLOGNE	2024-08-28	426	closed	9	Replacing lrv_hwextra with Lbody
+COLOGNE	2024-01-17	419	open	3	With or without linebreaks
+COLOGNE	2023-04-02	411	open	1	Github remote host problem and solution
+COLOGNE	2023-03-12	407	closed	8	A very peculiar error associated with 'accent' marking preceding a vowel
+COLOGNE	2023-03-12	405	open	3	Discussion about metaline for anekArthaka dictionaries (अनेकार्थक कोश)
+COLOGNE	2023-01-07	400	open	2	Ideas for 2023
+COLOGNE	2022-12-28	399	open	1	Time for v03?
+COLOGNE	2022-12-11	398	closed	1	AP90 printed pages not landing in SIMPLE
+COLOGNE	2022-04-27	394	open	1	User generated definitions / informations
+COLOGNE	2022-02-17	392	open	1	Cologne standard IAST extension
+COLOGNE	2022-02-15	391	open	1	Request for digitized frontmatter and endmatter
+COLOGNE	2022-02-12	390	open	2	Tracker for scanned literary sources linking
+COLOGNE	2022-01-30	388	open	1	Expand terse definitions (the same vs. id.)
+COLOGNE	2021-12-21	387	open	1	Add a Three Language Sanskrit reader Dictionary
+COLOGNE	2021-12-17	385	open	2	The 'early' digitizations
+COLOGNE	2021-12-03	383	open	3	source for Scans of mahabharata, etc
+COLOGNE	2021-10-07	377	closed	1	arI|a 
+COLOGNE	2021-10-06	376	open	1	Semantic analysis of Cologne dictionaries
+COLOGNE	2021-10-03	372	open	4	Literary source links to scanned images
+COLOGNE	2021-09-26	371	open	18	MBh. i, 806 and 809
+COLOGNE	2021-09-14	367	open	3	PDFs not available for download?
+COLOGNE	2021-09-13	366	open	1	xmltags in csl-orig
+COLOGNE	2021-09-11	363	open	1	Scanning/digitization 
+COLOGNE	2021-09-01	360	open	11	Indische Sprüche preparation
+COLOGNE	2021-08-27	359	closed	2	AP90 and AE edition discussion
+COLOGNE	2021-08-16	356	open	1	credit / acknowledgement / bibliography to Cologne Dictionaries
+COLOGNE	2021-08-13	355	open	1	A shiny frontend to Cologne data
+COLOGNE	2021-07-06	352	open	1	Halle literature reference
+COLOGNE	2021-04-18	348	open	1	Please specify a Sanskrit or an English word, not both (Advanced Search)
+COLOGNE	2021-03-21	343	open	1	Headwords in all genders
+COLOGNE	2021-01-20	338	closed	1	Metaline format for synonymic dictionaries / thesaura
+COLOGNE	2021-01-17	336	open	5	How do I submit a new dictionary?
+COLOGNE	2021-01-01	331	open	4	CAE abbreviation error
+COLOGNE	2020-02-05	301	closed	1	question re sūtrakrīḍā
+COLOGNE	2019-02-17	254	open	1	AP90 - Indentation of subheadwords in compounds
+COLOGNE	2018-05-16	222	open	1	MW literary source incompletenesses, open questions
+COLOGNE	2017-12-20	196	open	3	<VN> tag in PWG
+COLOGNE	2017-09-04	180	open	1	MW72 - Devanagari IAST comparision
+COLOGNE	2017-07-13	163	open	1	Preference for Siddhanta font for Devanagari
+COLOGNE	2017-01-05	94	open	1	Advanced Search resolving line break
+COLOGNE	2015-01-04	66	open	1	Review section about dictionaries
+COLOGNE	2014-01-19	16	closed	1	Devanagari Input Issues
+
+CORRECTIONS	2020-12-19	439	open	2	AP / AP90 - review pending 160 entries
+CORRECTIONS	2019-07-25	433	closed	1	AP90 - {#(#} - Sanskrit marking for parenthesis?
+CORRECTIONS	2018-07-22	419	open	13	PW IAST corrections
+CORRECTIONS	2017-11-19	414	open	7	Russian in PWG, a few more
+CORRECTIONS	2017-08-20	362	open	15	Etymology coding in MW
+CORRECTIONS	2016-11-07	319	closed	1	Abbreviations of Mâlatîmâdhava  in AP90
+CORRECTIONS	2016-04-23	292	open	1	Question about multi-word headwords
+CORRECTIONS	2015-03-21	92	closed	12	Missing data in INM
+CORRECTIONS	2014-10-11	10	closed	3	Hiatus
+
+Frish	2024-01-26	1	open	2	Sanskrtská čítanka 1956
+
+GRA	2024-08-14	34	closed	1	Replacing grahwextra with Lbody
+GRA	2023-06-28	32	closed	29	CDSL display of AB version, part 3
+GRA	2023-06-19	31	closed	31	CDSL display of AB version, part 2
+GRA	2023-06-19	30	closed	3	Error in AV digitisation provided by Marcis
+GRA	2023-06-09	29	closed	39	CDSL display of AB version
+GRA	2023-06-01	28	closed	26	GRA VN data "integration" into main text
+GRA	2023-05-31	27	closed	37	GRA abbr. markup
+GRA	2023-05-29	25	closed	6	GRA corrections/changes while (AB) re-working
+GRA	2023-05-26	24	open	3	RV Roman transliteration provided by Marcis has no m̐, but only ṃ in its place!!
+GRA	2023-04-24	22	open	1	Displays with x.y.z instead of {a,b}
+GRA	2023-04-14	21	closed	71	Grassman corrections digitization
+GRA	2023-03-25	20	closed	1	Accented semivowels
+GRA	2022-12-15	19	closed	2	Grassman improved scans
+GRA	2021-09-12	18	closed	2	A startup file for GRA <ab> and <ls> entries
+GRA	2021-09-03	17	closed	5	Grasmann annexure pages missing?
+GRA	2020-04-28	11	open	1	verbs01
+GRA	2020-03-26	10	closed	1	Space after comma missing
+GRA	2020-03-14	9	closed	10	Mark nonexisting words *gva, *cākṣa, *ghrabh
+GRA	2020-03-13	8	closed	2	Grassman Abbreviations Without Tooltips
+GRA	2020-03-07	6	closed	1	Prǎpositionen -> Präpositionen
+GRA	2020-01-02	5	closed	1	Unlinked Numbered References
+
+GreekInSanskrit	2021-10-03	44	closed	2	MW: Διϝός / δϝι in 'dva' headword?
+GreekInSanskrit	2021-10-03	43	closed	3	MW questions
+GreekInSanskrit	2021-09-14	41	closed	2	Greek text in Benfey
+GreekInSanskrit	2021-09-12	40	closed	3	Greek text in VEI dictionary
+GreekInSanskrit	2021-09-11	39	closed	2	Greek in BUR
+GreekInSanskrit	2021-09-10	36	closed	9	Which dictionaries have Greek text
+GreekInSanskrit	2019-09-15	33	closed	1	Greek text in Benfey and BOESP verses
+GreekInSanskrit	2018-10-08	27	closed	1	Greek in INM, 2
+GreekInSanskrit	2017-04-28	21	closed	1	Greek in INM
+GreekInSanskrit	2017-03-28	20	closed	2	Greek in MW72, part 4 
+GreekInSanskrit	2016-05-21	19	closed	1	Greek in BOP
+GreekInSanskrit	2015-06-03	13	open	3	PWG Greek section headings v. Greek text
+GreekInSanskrit	2015-04-26	10	open	1	PERSEUS_LINKS spreadsheet
+GreekInSanskrit	2015-04-15	2	closed	1	Greek in MW: review
+
+INM	2022-05-25	9	closed	7	Greek text remove lang tag
+INM	2022-05-10	8	open	8	Space Missing (1000 names2 --> 1000 names 2)
+INM	2021-12-11	5	closed	1	INM widely spaced text
+INM	2021-12-10	4	closed	14	Greek text added.
+INM	2021-12-05	3	closed	11	Transcoding Bug? 
+INM	2021-12-03	1	open	1	INM Concordance 
+
+LRV	2024-06-14	25	closed	3	LRV headwords not marked as per CDSL style
+LRV	2022-10-06	14	closed	1	Potential places to find new headwords
+LRV	2022-10-05	13	open	7	Debatable entries
+LRV	2022-09-22	9	closed	1	Multiple headword as first part and single word as second part of compound
+LRV	2022-09-22	8	closed	3	Duplicate page-sequence
+LRV	2022-09-20	1	closed	4	18 odd entries 
+
+MD	2024-01-04	12	open	19	MD subheadwords
+MD	2023-08-10	11	open	20	Abbreviation tooltips
+MD	2022-03-03	8	closed	9	More corrections-- iast related etc.
+MD	2022-02-17	6	closed	13	Python deva_iast_comp step2
+MD	2022-01-18	4	closed	8	Python deva_iast_comp step1
+
+MW72	2021-12-09	5	closed	4	Unfilled </lang> cases
+
+MWS	2024-12-09	182	closed	2	Standardizing ls markup in MW (BhP)
+MWS	2024-11-16	181	open	1	Grassmanizing and/or groups, continued
+MWS	2024-09-02	178	open	11	AB3 alternate form for mws
+MWS	2024-08-11	176	closed	22	Grassmanizing and/or groups
+MWS	2024-08-04	175	closed	1	Standardize group entries
+MWS	2024-08-04	174	closed	4	Jumbled up order of P. Ā. (at the qualifier portion of the dhātu entries), as Ā. P.
+MWS	2024-07-06	173	closed	2	DIsplay of 'rev' and 'sup' items in mw
+MWS	2024-07-04	172	open	10	Different markup for 'titular abbreviations'
+MWS	2024-07-04	171	closed	8	Hierarchy placement of supplement entries
+MWS	2024-07-02	169	closed	7	The accent saga continues
+MWS	2024-06-30	167	closed	6	Some stray errors in mw data
+MWS	2024-06-29	166	closed	1	dot corrections
+MWS	2024-06-16	165	closed	1	k1-k2 discrepancies
+MWS	2024-06-15	164	closed	2	recoding shortlong
+MWS	2024-05-16	163	open	5	Grouped entries like GRA
+MWS	2024-04-02	162	open	2	'Bad' Side-effects of <ab n="> and <ls> tagging
+MWS	2024-02-02	161	closed	1	सुषुप्स question
+MWS	2024-01-25	160	closed	2	A strange error in display-code
+MWS	2023-07-23	159	closed	3	Gram. 54 Link to Whitney Sanskrit Grammar
+MWS	2023-03-16	157	closed	2	Advanced search vs. Simple search results
+MWS	2023-02-05	153	closed	30	Greek text review
+MWS	2023-02-02	152	closed	4	Should the <ls>Gr.</ls> link to Monier Williams's own Grammar book, instead of Whitney's Grammar?
+MWS	2023-01-23	151	closed	3	Should Ramayana links in MW be pointed to the Schlegel ed. for 1st & 2nd Kandas (as in PWG)?
+MWS	2023-01-07	147	open	1	Possible new markup for alternates
+MWS	2022-12-22	145	closed	26	MWS accent correction, continue, phase 4
+MWS	2022-12-15	144	closed	19	MW Scan review
+MWS	2022-11-14	143	closed	2	Headword Stats
+MWS	2022-10-21	142	closed	8	MWS accent correction, continue phase 3
+MWS	2022-09-19	141	closed	23	MW accent correction
+MWS	2022-09-04	140	closed	19	Accent representation in MW, PW, PWG, PWKVN
+MWS	2022-08-04	139	closed	3	Investigate dcs as source for link targets.
+MWS	2022-07-23	137	closed	27	Miscellaneous corrections
+MWS	2022-07-08	136	closed	13	Further <ls> cleanup
+MWS	2022-07-01	135	closed	63	Corrections in lsextract_mw.txt
+MWS	2022-07-01	134	closed	3	RV references without the RV -- AND general<ls> cleanup
+MWS	2022-06-22	133	closed	3	<bio> tagging
+MWS	2022-06-20	132	closed	14	About 6800 missing ¦ (Broken Vertical bar) in the L-entries
+MWS	2022-06-20	131	closed	3	Consistency in <hom> tagging
+MWS	2022-03-07	130	closed	7	Links wrongly rendered due to space between the digits
+MWS	2022-02-23	129	open	4	Missing Links: ib. viii, 103, 10
+MWS	2022-02-20	128	closed	1	nikāya lost
+MWS	2021-12-01	127	closed	13	non-english mw words
+MWS	2021-10-25	126	closed	9	Links to Dhātup. xix, 74
+MWS	2021-10-18	125	closed	2	SivaPurana refs in tIrTa entries : Should they be SkandaPurana?
+MWS	2021-10-17	124	closed	1	<ab> v. <lex> gender markup
+MWS	2021-10-08	121	closed	18	Capital letter words
+MWS	2021-10-08	120	closed	2	panini links in mw
+MWS	2021-10-03	119	closed	5	Entries requiring discussion for Etymology tags
+MWS	2021-10-03	118	closed	2	Lithuanian in mAs
+MWS	2021-10-03	117	closed	1	Lithuanian in mA
+MWS	2021-10-03	115	closed	2	plIhan 
+MWS	2021-10-03	114	closed	4	Is 'Zend' or 'Zd.' a language?
+MWS	2021-10-03	113	closed	2	'kâ' -> 'kÂ' : Some systematic conversion error?
+MWS	2021-09-12	112	closed	7	Missing ls tags
+MWS	2021-08-24	111	closed	3	Singular (sg.), Dual (du.) and Plural (pl.) indication/marking with "Person" number included
+MWS	2021-04-17	109	closed	1	Too Much White-space
+MWS	2021-04-10	107	closed	4	IAST in literary sources (was Divyâv. xxxv, 231.)
+MWS	2021-03-22	106	closed	2	Missed gender endings 
+MWS	2021-03-08	105	closed	14	MW supplement fresh look, part 7: missed 'or'/'and' entries
+MWS	2021-03-08	104	closed	21	MW supplement fresh look, part 6: Missed comp. word header entries from the Annexure pages
+MWS	2021-03-02	103	closed	18	MW Accent
+MWS	2021-02-27	102	closed	9	Typos under √ saMtuS
+MWS	2021-02-23	101	closed	19	MW supplement fresh look, part 5: Missed entries from the Annexure pages
+MWS	2021-02-22	100	closed	21	MW supplement fresh look, part 4: "rev" implementation
+MWS	2021-02-12	99	closed	9	Split portions of MW data for easier handling
+MWS	2021-02-04	98	open	1	MW resolving 'idems'
+MWS	2021-02-02	97	closed	42	MW supplement fresh look, part 4: "rev" marked entries
+MWS	2021-01-21	96	closed	60	MW supplement fresh look, part 3
+MWS	2021-01-05	95	closed	3	Numbering under <ls>...</ls> portions of Koeln MW99 data
+MWS	2021-01-05	94	closed	3	List of works and Authors in MW99
+MWS	2021-01-03	93	closed	2	Ka or KA
+MWS	2021-01-03	92	closed	4	MW alternate headwords markup explanation
+MWS	2021-01-03	91	closed	8	IdfSIdfktA to be converted to IdfktA
+MWS	2021-01-03	90	open	4	mw transcoding versions
+MWS	2021-01-02	89	closed	20	Full set of Greek words in MW99
+MWS	2021-01-01	88	closed	13	A query on MW search & display
+MWS	2021-01-01	87	closed	1	How is <bot> tag applied?
+MWS	2021-01-01	86	open	5	&c. Abbreviation
+MWS	2020-12-27	85	closed	7	the missing (head)word endings before the gender indication, in the data
+MWS	2020-12-27	84	closed	3	MW missing feminine data
+MWS	2020-12-27	83	closed	72	MW supplement fresh look, part 2
+MWS	2020-12-27	82	closed	1	MW supplement brief history
+MWS	2020-12-24	81	closed	10	Two pages skipped from the attention of all for so long
+MWS	2020-12-24	80	closed	15	Fresh relook at the "Additions and Corrections" warranted
+MWS	2020-12-14	79	closed	20	Lithuanian words IAST
+MWS	2020-12-13	78	closed	2	tooltip for med.
+MWS	2020-06-19	74	open	7	bot listing 
+MWS	2020-03-16	72	closed	1	Missing space between tags
+MWS	2019-02-26	68	closed	1	Markup &amp;c.
+MWS	2019-02-26	67	closed	2	Missing markup: Ved. neut. & Gr.
+MWS	2019-02-26	66	closed	3	No space after dot (inf.with)
+MWS	2019-02-19	65	closed	25	Hindi language markup
+MWS	2019-01-19	64	open	3	Cross-entry links in MW
+MWS	2018-03-17	58	closed	1	Last five missing _$_ etymologies
+MWS	2017-11-18	55	closed	1	Coding of Sanskrit words in MW - 
+MWS	2017-11-08	54	closed	1	Punctuation between literary source references
+MWS	2017-11-08	53	closed	4	Tooltips for H1, etc.
+MWS	2017-11-08	52	closed	1	Review of MW abbreviations
+MWS	2017-11-03	51	closed	1	2008 vs. 2018 <bot> markup cleanup
+MWS	2017-10-30	44	closed	2	yesterdayRV.
+MWS	2017-10-30	43	closed	5	Old Germ. glat
+MWS	2017-10-30	42	closed	2	Mod. Germ. ga0hne 
+MWS	2017-07-26	39	closed	1	ā*di (accents in MW)
+MWS	2015-07-20	26	closed	1	MW display variant:  (H2B/H2C cases)
+MWS	2015-05-18	24	open	2	Proper Names in SLP1 ({r}Ama for Rāma)
+MWS	2014-11-03	19	closed	1	Request of IDs for MW meanings (additional to L for entries)
+MWS	2014-10-16	17	closed	5	Unhide abbr.html (Boh. or Bohem. = Bohemian)
+MWS	2014-10-04	15	closed	1	11 Undeciphered Source Abbreviations
+MWS	2014-10-04	14	closed	1	Normalized Lexical Information
+MWS	2014-10-04	13	closed	1	ifc forms of paYcasahasrI
+MWS	2014-09-24	12	closed	1	List of Proper Names (N.)
+MWS	2014-09-17	7	closed	1	Questions Regarding "Current markup of Monier Williams Sanskrit-English Dictionary"
+MWS	2014-09-13	6	closed	1	Link to Source Text
+MWS	2014-09-13	5	closed	1	Monier Williams Grammar Markup
+MWS	2014-09-13	4	closed	1	Replica of Printed Fonts for Web Display
+
+PWG	2025-01-26	85	open	1	Several Formatting Issues: <ls>MÜLLER</ls>?'S
+PWG	2025-01-25	84	open	5	ŚATAPATHABRĀHMAṆA link target
+PWG	2025-01-13	83	open	10	BHĀGAVATAPURĀṆA link target problems
+PWG	2024-12-13	82	open	1	Index for BHĀGAVATAPURĀṆA, Bombay edition.
+PWG	2024-11-19	81	closed	14	BHĀGAVATAPURĀṆA link target
+PWG	2024-09-28	78	open	2	Transcoding vowel-marker characters
+PWG	2024-09-18	77	closed	9	Remove gratuitous spaces in ls
+PWG	2024-09-18	76	open	19	VN missing pages, continued
+PWG	2024-09-17	75	open	8	Ramayana prakshipta link target
+PWG	2024-09-09	74	open	15	Standardization of pwg links for 'M.' (Manu)
+PWG	2024-09-06	73	closed	6	Manu-smfti link target
+PWG	2024-08-14	72	open	10	[INDOLOGY] Upgrade to online Koln Bohtlink-Roth dictionary?
+PWG	2024-07-27	71	closed	1	Standardization of pwg links for KATHĀS.
+PWG	2024-07-27	70	closed	10	katha-sarit-sagara link target 
+PWG	2024-06-21	69	closed	3	Verz. D. Oxf. H. links
+PWG	2024-02-26	68	closed	3	An interesting observation wrt displaying homonym numbers in PWG!!
+PWG	2023-02-04	66	closed	4	Resolving the {?} places
+PWG	2023-01-20	65	closed	1	PWG ls markup: numeric orphans
+PWG	2022-09-11	62	open	1	Amarakosha markup
+PWG	2022-07-28	61	open	7	Enhancing PWG content with Weber's Nachlass
+PWG	2022-06-28	60	open	4	Bombay edition for Ramayana
+PWG	2022-06-26	59	open	1	provide additional links to different sources for the same work 
+PWG	2022-06-24	58	open	2	Minor abbrev suggestions
+PWG	2022-06-23	57	open	34	Ramayana link markup in pwg
+PWG	2022-05-24	56	closed	2	single-letter italic
+PWG	2022-03-08	53	closed	3	RGorr link target
+PWG	2022-02-27	52	open	1	Apply VN
+PWG	2022-02-13	51	open	19	PWG ls markup 
+PWG	2022-01-28	50	closed	1	[Printed book page 5-1383]
+PWG	2022-01-28	49	open	19	HarivaMSa links via MBH Calcutta
+PWG	2022-01-24	48	closed	15	Links to MBH Calcutta edition
+PWG	2022-01-23	47	open	1	<ls>? -> <ls>
+PWG	2022-01-23	46	closed	1	ls markup corrections for pwg
+PWG	2021-08-06	43	closed	7	M2 and f2 in SLP1 encoding of Devanagari 
+PWG	2021-08-06	42	open	7	Taittirīya Prātiśākhya link target
+PWG	2021-08-02	41	open	5	Prātiśākhya ls references
+PWG	2021-07-27	40	closed	3	PWG scan page errors in  vol 6
+PWG	2021-07-25	39	open	14	VN missing pages
+PWG	2021-05-17	37	open	75	Cologne Additions to PWG
+PWG	2021-04-17	36	closed	2	aufschreien(?) -> aufschreien (?)
+PWG	2021-04-16	34	closed	4	Hyphens vs. em dashes vs. en dashes
+PWG	2019-03-11	29	closed	5	Scansion Symbols [Metrum, a: {Ç} {Ç} b. c. d: {Ç}]
+PWG	2017-04-21	26	open	3	Expanding abbreviations to number only references
+PWG	2017-04-21	25	closed	2	Page numbers clickable
+PWG	2017-04-21	23	open	3	Ṛv. 10, 16, 4. 1. Vs. 21, 9.  pwgauth.html
+PWG	2017-03-06	22	open	8	PWG Bibliography Cleaning
+PWG	2015-01-27	16	open	1	Bad scan page(s)
+PWG	2015-01-22	12	open	2	PWG Bibliographical Issues
+PWG	2014-10-04	9	closed	1	accents.html PWG Accents
+PWG	2014-09-25	5	closed	44	Rare Accent Coding Issues (ढ्य१ः॒᳠)
+
+PWK	2024-12-07	110	closed	1	BHĀGAVATAPURĀṆA PWKVN literary source markup
+PWK	2024-12-06	109	open	5	BHĀGAVATAPURĀṆA PW literary source markup
+PWK	2024-03-25	108	open	2	Ideas for further work following issue 106
+PWK	2024-02-09	106	closed	73	Alternate headwords for pw
+PWK	2024-02-07	104	closed	1	appending pwkvn to pwk
+PWK	2023-11-15	103	closed	20	pwkvn revisions, based on AB version(s)
+PWK	2023-11-14	102	closed	13	pw revisions based on AB version(s), continued
+PWK	2023-11-13	101	closed	6	Malten corrections (German words/bot tags)
+PWK	2023-07-28	98	open	6	Interesting observation: ṚV citations in pwk
+PWK	2023-07-25	97	open	3	basicdisplay revisions
+PWK	2023-07-21	96	open	5	pw/pwg literary source display 
+PWK	2023-07-17	95	closed	35	Fresh Look, starting with `<is>` tag
+PWK	2023-06-28	94	closed	2	<pc> errors at pwk-volume change
+PWK	2023-03-30	93	closed	7	Chrestomathy ls markup
+PWK	2022-06-10	90	closed	2	Gorresio Ramayana links
+PWK	2022-06-08	89	closed	3	Small error in "[Page...]" marking
+PWK	2022-06-07	88	closed	85	unmarked abbreviations
+PWK	2022-05-08	87	closed	7	PWKVN althws editing
+PWK	2022-04-26	86	closed	22	PWKVN  
+PWK	2022-02-06	84	open	19	MBH Bombay edition links
+PWK	2022-02-06	83	open	31	Ramayana links
+PWK	2022-02-04	82	closed	4	MBH Calcutta edition links in PWK
+PWK	2022-01-21	81	open	2	links to BOESP
+PWK	2021-10-27	79	closed	13	PWK ls corrections
+PWK	2021-10-26	78	closed	2	muhUrtawIkA  multiple entries
+PWK	2021-09-30	77	open	4	PWKVN3 vs Schmidt
+PWK	2021-09-26	76	open	1	Typing of pwk3_vn_page256-265
+PWK	2021-09-23	75	open	4	PWK VN7 Schmidt
+PWK	2021-09-23	74	open	3	PWK-VN Schmidt preparation
+PWK	2021-08-04	73	closed	3	PW(K) corrections-2: Andhrabharati
+PWK	2021-08-04	72	closed	7	PW(K) corrections-1: Andhrabharati
+PWK	2021-07-30	70	open	3	PWK VN and SCH
+PWK	2016-10-12	67	open	2	Missing markup
+PWK	2016-08-04	64	closed	1	<ls> corrections from purenumberabbrvlist
+PWK	2016-02-16	60	open	1	Revise pwbib_unused.txt
+PWK	2016-01-01	50	open	1	WILSON in references
+PWK	2015-12-22	40	closed	1	'ls' starting with a number
+PWK	2015-12-18	24	open	1	New literary resources caught
+PWK	2015-11-16	14	open	3	Editing changes to pwbib0.txt
+PWK	2015-11-08	11	closed	2	Pure numbers in references
+PWK	2015-07-09	10	open	1	Many alternate headwords
+PWK	2014-09-16	5	open	1	Nachtrage Implementation
+PWK	2014-09-16	4	open	1	Formatting of Entries
+
+SCH	2024-12-07	10	closed	1	BHĀGAVATAPURĀṆA SCH literary source markup
+SCH	2024-02-03	9	open	3	SCH -- AB version for adopting into CDSL system
+
+SKD	2023-10-19	17	open	1	transcoding skd.txt
+SKD	2022-12-15	16	closed	6	SKD replace scans
+SKD	2022-03-26	15	closed	12	Metaline <pc> not containing the column data
+SKD	2022-03-13	14	closed	17	High-resolution scans used by Thomas Malten for digitization
+SKD	2021-08-05	13	open	12	Corrections in digitisation: Andhrabharati
+SKD	2020-02-15	8	open	8	All Dhatu Entries (SKD)
+
+VCP	2021-08-11	27	open	2	aNgirAuvAca
+VCP	2021-08-08	25	open	1	Query regarding any addenda / corrigenda to Vachaspatyam
+VCP	2021-08-07	23	open	12	Debatable items
+VCP	2021-03-18	20	open	9	pUrbb vs. pUrvv
+VCP	2021-03-18	19	open	12	vac2a - picture data in TE
+VCP	2021-03-17	18	open	4	meld-prep: 'ai'/'au'
+VCP	2021-03-16	16	closed	1	Correction of {??} missing text in vcp.txt
+VCP	2021-03-14	15	open	8	Meld as a diff viewer for VAC-VCP comparision
+VCP	2021-03-13	13	closed	6	New VCP scans
+VCP	2020-10-28	11	open	5	abbreviation preparation
+VCP	2020-03-01	10	open	2	All Dhatu Entries: verbs01
+VCP	2014-09-02	3	open	3	Link to Preface
+
+alternateheadwords	2016-10-03	2	open	2	WIL has only verb anubandhas in brackets
+
+avlinks	2021-04-09	1	open	1	Initial avhymns
+
+cologne-stardict	2021-10-04	32	closed	1	Give Devanagari to interested people to correct
+
+csl-apidev	2021-01-25	26	open	3	simple search, v1.1
+
+csl-corrections	2025-01-15	92	open	4	Scott backlog of 2025-01-14
+csl-corrections	2024-10-08	91	closed	48	Another backlog of user corrections.
+csl-corrections	2024-05-29	90	closed	2	bulk handling of part of backlog
+csl-corrections	2024-05-12	89	closed	5	Some user corrections skipped entering the cdsl texts
+csl-corrections	2024-05-12	88	closed	2	No updates (?) from users for last 4 months, surprising!!
+csl-corrections	2024-01-25	87	open	1	How can we use the printchange files?
+csl-corrections	2021-08-07	78	open	6	it markers to be marked up in SKD
+csl-corrections	2021-08-07	76	closed	3	YAT ?? case
+csl-corrections	2021-08-07	75	open	3	comma, period etc outside Devanagari scope
+csl-corrections	2021-08-01	74	closed	2	metr. abbreviation in MW
+csl-corrections	2021-07-31	71	closed	3	औ in Lanman - question
+csl-corrections	2021-07-31	69	open	6	IEG diestruck (non-Sanskrit headwords)
+csl-corrections	2021-07-31	68	open	1	GiMR:YAT
+csl-corrections	2021-07-04	67	closed	2	VEI english word corrections
+csl-corrections	2021-04-23	64	closed	2	SHS English word errors
+csl-corrections	2021-03-19	54	closed	8	bor: bad scan pages
+csl-corrections	2021-01-13	46	open	1	PUI - Kannada / Telugu influence
+csl-corrections	2021-01-07	38	open	7	IEG ळ / ड़ errors
+csl-corrections	2019-12-24	10	open	1	WIL separating genders
+
+csl-devanagari	2024-01-16	43	open	1	SKD diff
+csl-devanagari	2022-04-28	40	closed	18	BOP study-2
+csl-devanagari	2022-03-28	39	closed	2	BOP study-1
+csl-devanagari	2022-03-05	38	open	7	slp1 to slp1_accented in transliteration-- Side effects!!
+csl-devanagari	2022-01-30	37	open	25	BUR Study
+csl-devanagari	2021-12-16	36	closed	4	 PE non-Skt entries
+csl-devanagari	2021-10-30	35	open	1	SKD study
+csl-devanagari	2021-10-30	34	open	34	INM Study
+csl-devanagari	2021-09-27	32	open	27	BEN Study
+csl-devanagari	2021-09-16	31	open	15	IEG Study
+csl-devanagari	2021-09-06	30	closed	1	Small changes in correction file
+csl-devanagari	2021-09-06	29	open	2	PGN issues
+csl-devanagari	2021-09-04	27	open	2	SCH issues
+csl-devanagari	2021-09-03	26	closed	9	Line markers for "body portion"
+csl-devanagari	2021-09-03	25	closed	1	Not all metalines to be with Devanagari text!!
+csl-devanagari	2021-09-03	24	closed	1	Devanagari in other than {#...#} tagging
+csl-devanagari	2021-09-03	23	closed	1	GRA issues
+csl-devanagari	2021-09-03	18	closed	2	SCH diff
+csl-devanagari	2021-09-03	11	closed	1	BUR diff
+csl-devanagari	2021-09-03	10	closed	2	BOR diff
+csl-devanagari	2021-09-02	5	closed	1	meta line to be converted
+csl-devanagari	2021-09-02	4	open	5	MD issues
+csl-devanagari	2021-09-02	3	open	2	CAE issues
+csl-devanagari	2021-09-02	2	open	1	LAN issues
+csl-devanagari	2021-09-02	1	closed	13	MW72 questions
+
+csl-ldev	2022-04-03	11	open	1	वीभत्सं बीभत्सीकुरु
+csl-ldev	2022-02-17	7	open	3	consistent उदात्त svara notation
+csl-ldev	2022-02-13	3	closed	1	Update 12531.txt
+
+csl-orig	2024-10-09	1762	open	1	mw:8622.1
+csl-orig	2024-10-09	1759	closed	1	ap90:22629
+csl-orig	2024-10-09	1755	closed	1	pwg:13239
+csl-orig	2024-06-25	1700	closed	1	ap:916
+csl-orig	2024-06-25	1652	closed	3	gra:áṇu
+csl-orig	2024-06-23	1645	closed	6	Correction backlog, 6
+csl-orig	2024-06-11	1643	closed	21	Correction backlog, mw_todo items
+csl-orig	2024-06-06	1639	closed	18	Correction backlog, 3
+csl-orig	2024-06-03	1638	closed	5	Correction backlog, 2
+csl-orig	2024-05-30	1637	closed	6	Correction backlog, 1
+csl-orig	2024-05-28	1635	closed	2	MW: adas
+csl-orig	2024-05-09	1634	closed	1	MW: GArteya
+csl-orig	2024-03-15	1633	closed	1	MW: 243366 sAvaisirole 
+csl-orig	2024-02-25	1632	closed	11	'ks' in slp1 - which mostly should've been 'kz' or at times a typo/print error
+csl-orig	2024-01-27	1630	closed	2	5 corrections to MW dictionary
+csl-orig	2024-01-15	1617	open	5	Indentation / data error for headword categories in MW
+csl-orig	2024-01-15	1616	open	1	Wrong parsing of subheadwords in MW
+csl-orig	2024-01-15	1615	closed	1	Somehow missed correction
+csl-orig	2024-01-15	1610	closed	1	mw:226096
+csl-orig	2024-01-12	1582	closed	2	mw:32257
+csl-orig	2024-01-12	1570	closed	1	mw:102255.2
+csl-orig	2024-01-12	1561	closed	1	mw:234597
+csl-orig	2024-01-12	1552	closed	2	mw:23212
+csl-orig	2024-01-12	1551	closed	1	mw:233676
+csl-orig	2024-01-12	1537	open	4	Capitalization in Proper Names (earlier was mw:179760)
+csl-orig	2024-01-12	1534	closed	1	mw:51446
+csl-orig	2024-01-12	1526	closed	1	mw:58471
+csl-orig	2024-01-12	1524	closed	3	mw:178029
+csl-orig	2024-01-12	1523	closed	1	mw:63712
+csl-orig	2024-01-12	1512	closed	2	mw:240910
+csl-orig	2024-01-12	1509	closed	4	mw:63712
+csl-orig	2024-01-12	1508	closed	1	mw:187442.1
+csl-orig	2024-01-12	1507	closed	1	mw:187442.1
+csl-orig	2024-01-12	1502	closed	2	mw:243579
+csl-orig	2023-12-12	1405	closed	1	vcp:18921
+csl-orig	2023-12-12	1345	closed	1	pwg:11999
+csl-orig	2023-06-05	1226	closed	1	gra:10283
+csl-orig	2023-06-05	1218	closed	1	gra:7736
+csl-orig	2023-06-05	1187	closed	1	mw:239532
+csl-orig	2023-06-05	1183	closed	1	gra:8336
+csl-orig	2023-06-05	1177	closed	1	gra:5524
+csl-orig	2023-06-05	1173	open	8	pwg:7452
+csl-orig	2023-06-05	1170	closed	2	mw:169508
+csl-orig	2023-06-05	1167	closed	3	gra:255
+csl-orig	2023-06-05	1159	closed	1	mw:78984
+csl-orig	2023-03-07	1072	closed	1	stc:9894
+csl-orig	2023-03-07	1068	closed	5	bur:3461
+csl-orig	2023-03-07	1066	closed	3	mw:187224
+csl-orig	2023-02-13	1060	open	1	MW - data without any meaning - only lexical information
+csl-orig	2023-02-12	1059	open	2	MW '-' v/s '—'
+csl-orig	2022-12-22	1017	closed	1	gra:5737
+csl-orig	2022-12-22	1015	closed	3	gra:1305
+csl-orig	2022-09-12	923	open	2	mw:12831
+csl-orig	2022-09-12	866	closed	1	mw:47344
+csl-orig	2022-07-19	855	closed	4	Space before punctuation marks (reg. PWG, pwk and pwkvn)
+csl-orig	2022-07-19	854	closed	3	Vedic accents in pwkvn_deva version, and the <ls> entries
+csl-orig	2022-04-27	853	open	2	Merge entries with dangling 'ls'
+csl-orig	2022-04-26	836	closed	14	bop:8155
+csl-orig	2022-04-26	821	closed	1	mw:
+csl-orig	2022-04-26	802	closed	1	mw:204114.1
+csl-orig	2022-04-26	800	open	2	bur:16777
+csl-orig	2022-04-26	799	closed	1	bur:12994
+csl-orig	2022-04-26	780	closed	2	sch:ID=8336
+csl-orig	2022-04-26	770	open	1	mw:41336.3
+csl-orig	2022-04-26	769	closed	2	mw:55577
+csl-orig	2022-02-26	748	closed	1	AP90 etymology markup error
+csl-orig	2022-02-17	746	closed	16	VCP - Degree sign needed instead of anusvAra?
+csl-orig	2021-12-20	724	closed	1	ap90:
+csl-orig	2021-12-20	711	open	1	mw:28747
+csl-orig	2021-12-20	695	closed	4	md:ID=18471
+csl-orig	2021-09-30	646	closed	1	gra:4726
+csl-orig	2021-09-30	639	closed	4	mw:200853  (shortlong display problem)
+csl-orig	2021-09-28	633	open	2	ab tag inside the `{%....%}` tag in BEN
+csl-orig	2021-09-16	631	open	3	IAST - ऌ  v/s ळ
+csl-orig	2021-09-13	624	open	1	vcp:8433 izwakarman
+csl-orig	2021-09-08	616	closed	8	GRA:  7, aMsa
+csl-orig	2021-09-06	615	open	7	WIL image in text
+csl-orig	2021-09-06	614	closed	4	VEI question 
+csl-orig	2021-09-06	613	open	19	KRM suggestion
+csl-orig	2021-09-06	612	closed	1	INM a print error?
+csl-orig	2021-09-06	610	closed	1	GST tag for script / language
+csl-orig	2021-09-06	609	closed	1	GRA importance of special characters
+csl-orig	2021-09-06	607	closed	5	BUR Greek as Sanskrit
+csl-orig	2021-09-06	606	open	1	Remove punctuation marks out of Devanagari
+csl-orig	2021-09-03	605	open	1	Are we putting accents at wrong place?
+csl-orig	2021-09-02	604	open	1	Fix data format for Andhrabharati and other willing individuals
+csl-orig	2021-09-01	603	open	2	Readme for csl-orig
+csl-orig	2021-06-21	586	closed	1	mw:133874
+csl-orig	2021-06-21	533	open	2	mw:30009
+csl-orig	2021-06-19	527	closed	1	ap90 ls markup consistency with ap57
+csl-orig	2021-04-10	519	closed	8	MW: Panini references
+csl-orig	2021-03-04	469	closed	21	VCP:  L=44490, zaqaBijYa
+csl-orig	2021-02-08	468	open	3	PE batches 1 and 2 review
+csl-orig	2021-01-12	463	closed	2	SKD:15785
+csl-orig	2020-05-10	271	closed	1	MW: reposition nAnAvasTa
+csl-orig	2020-05-09	270	open	1	MW: L=669, akzanvat
+csl-orig	2020-03-02	182	closed	5	skd: BnASa, BnAsa reversion
+csl-orig	2020-03-01	181	open	6	VCP:  another upasarga format
+csl-orig	2020-02-25	174	open	1	SKD verb headwords handling.
+csl-orig	2020-02-24	169	closed	2	skd: 24660, etc. spelling changes
+csl-orig	2019-12-22	88	closed	1	SHS - semi indeclinables
+csl-orig	2019-12-22	87	closed	1	Alternate headwords in SHS
+csl-orig	2019-12-19	31	closed	2	mw:p= 215,2
+
+csl-pywork	2024-01-22	32	closed	1	one.dtd: pe tag in pe dictionary
+
+
+csl-websanlexicon	2024-11-08	43	closed	3	`<listinfo n="sup1"/>` markup in list display
+csl-websanlexicon	2024-07-04	42	closed	2	GRA display bug : abbrevs after chg
+csl-websanlexicon	2024-06-20	41	closed	1	Homonym repetition in pwg display
+csl-websanlexicon	2023-04-06	29	open	2	link targets
+csl-websanlexicon	2021-04-10	22	closed	1	Links for Panini in MW
+
+literarysource	2022-02-18	3	open	1	AP90 ls entries
+literarysource	2022-02-17	2	open	2	BEN literary sources extracted
+literarysource	2022-02-17	1	open	10	MW72 literary sources listing
+
+mw-dev	2023-02-16	23	open	4	MW full-review-012: On the use of Em Dash in the CDSL text vs. the intent of MW print!!
+mw-dev	2023-02-16	22	open	1	MW full-review-011: The homonym number marking (either indicated, or skipped) in the print is to be present completely in the digital text version
+mw-dev	2023-02-16	21	open	2	MW full-review-005b: Cognate words and the related tagging
+mw-dev	2023-02-16	20	open	3	MW full-review-010: <ls> orphan numbers lookout & new tags added around the numbers
+mw-dev	2023-02-14	18	open	5	xml corrections
+mw-dev	2023-02-14	17	closed	1	ūrdhvajānu two entries needed
+mw-dev	2023-02-13	15	open	1	MW full-review-009: Verbal word endings printed as samAsa type
+mw-dev	2023-02-12	14	closed	3	spelling changes during transcoding
+mw-dev	2023-02-12	13	closed	2	; delete  problem
+mw-dev	2023-02-11	12	open	6	mw_ab observations, 1
+mw-dev	2023-02-10	10	open	1	MW full-review-008: <s> tag corrections
+mw-dev	2023-02-09	9	open	1	MW full-review-007: <ns> tag corrections
+mw-dev	2023-02-09	8	open	1	MW full-review-006: <s1 ....</s1> adjustments and corrections
+mw-dev	2023-02-08	7	open	2	MW full-review-005a: Cognate words and Languages
+mw-dev	2023-02-08	6	open	1	MW full-review-004: <bot> tag adjustments and corrections
+mw-dev	2023-01-19	1	open	11	Welcome Andhrabharati
+mw-dev	2023-01-18	4	open	1	MW full-review-003: Issues wrt dual-form vowel (<shortlong/>)
+mw-dev	2023-01-13	3	closed	6	MW full-review-002: Issues wrt vowel-sandhi marker (<srs/>)
+mw-dev	2023-01-11	5	open	3	Discussion with Andhrabharati to smoothen out processes for major revisions
+mw-dev	2022-12-26	2	open	8	MW full-review-001: Issues wrt the body marker (¦)
+
+temp_corrections_ap90	2021-06-14	1	closed	1	transcode apte 1965 literary sources

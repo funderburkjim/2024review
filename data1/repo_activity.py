@@ -37,8 +37,8 @@ issues columns=['date', 'issue', 'state', 'title']
   self.commits = self.init_summary(datadir,owner,reponame,'commits')
   self.issues =  self.init_summary(datadir,owner,reponame,'issues')
  def init_summary(self,datadir,owner,reponame,typename):
-  filein = '%s/%s/%s_commits.txt' % (datadir,owner,reponame)
-  #typename = 'commits'
+  #filein = '%s/%s/%s_commits.txt' % (datadir,owner,reponame)
+  filein = '%s/%s/%s_%s.txt' % (datadir,owner,reponame,typename)
   lines = read_lines(filein)
   lines1 = lines[1:]  # skip tsv-colnames
   columns = lines[0].split('\t')

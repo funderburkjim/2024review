@@ -1,0 +1,104 @@
+repo	date	issue	state	Andhrabharati	title
+csl-orig	2024-10-09	1762	open	1	mw:8622.1
+csl-orig	2024-10-09	1759	closed	1	ap90:22629
+csl-orig	2024-10-09	1755	closed	1	pwg:13239
+csl-orig	2024-06-25	1700	closed	1	ap:916
+csl-orig	2024-06-25	1652	closed	3	gra:áṇu
+csl-orig	2024-06-23	1645	closed	6	Correction backlog, 6
+csl-orig	2024-06-11	1643	closed	21	Correction backlog, mw_todo items
+csl-orig	2024-06-06	1639	closed	18	Correction backlog, 3
+csl-orig	2024-06-03	1638	closed	5	Correction backlog, 2
+csl-orig	2024-05-30	1637	closed	6	Correction backlog, 1
+csl-orig	2024-05-28	1635	closed	2	MW: adas
+csl-orig	2024-05-09	1634	closed	1	MW: GArteya
+csl-orig	2024-03-15	1633	closed	1	MW: 243366 sAvaisirole 
+csl-orig	2024-02-25	1632	closed	11	'ks' in slp1 - which mostly should've been 'kz' or at times a typo/print error
+csl-orig	2024-01-27	1630	closed	2	5 corrections to MW dictionary
+csl-orig	2024-01-15	1617	open	5	Indentation / data error for headword categories in MW
+csl-orig	2024-01-15	1616	open	1	Wrong parsing of subheadwords in MW
+csl-orig	2024-01-15	1615	closed	1	Somehow missed correction
+csl-orig	2024-01-15	1610	closed	1	mw:226096
+csl-orig	2024-01-12	1582	closed	2	mw:32257
+csl-orig	2024-01-12	1570	closed	1	mw:102255.2
+csl-orig	2024-01-12	1561	closed	1	mw:234597
+csl-orig	2024-01-12	1552	closed	2	mw:23212
+csl-orig	2024-01-12	1551	closed	1	mw:233676
+csl-orig	2024-01-12	1537	open	4	Capitalization in Proper Names (earlier was mw:179760)
+csl-orig	2024-01-12	1534	closed	1	mw:51446
+csl-orig	2024-01-12	1526	closed	1	mw:58471
+csl-orig	2024-01-12	1524	closed	3	mw:178029
+csl-orig	2024-01-12	1523	closed	1	mw:63712
+csl-orig	2024-01-12	1512	closed	2	mw:240910
+csl-orig	2024-01-12	1509	closed	4	mw:63712
+csl-orig	2024-01-12	1508	closed	1	mw:187442.1
+csl-orig	2024-01-12	1507	closed	1	mw:187442.1
+csl-orig	2024-01-12	1502	closed	2	mw:243579
+csl-orig	2023-12-12	1405	closed	1	vcp:18921
+csl-orig	2023-12-12	1345	closed	1	pwg:11999
+csl-orig	2023-06-05	1226	closed	1	gra:10283
+csl-orig	2023-06-05	1218	closed	1	gra:7736
+csl-orig	2023-06-05	1187	closed	1	mw:239532
+csl-orig	2023-06-05	1183	closed	1	gra:8336
+csl-orig	2023-06-05	1177	closed	1	gra:5524
+csl-orig	2023-06-05	1173	open	8	pwg:7452
+csl-orig	2023-06-05	1170	closed	2	mw:169508
+csl-orig	2023-06-05	1167	closed	3	gra:255
+csl-orig	2023-06-05	1159	closed	1	mw:78984
+csl-orig	2023-03-07	1072	closed	1	stc:9894
+csl-orig	2023-03-07	1068	closed	5	bur:3461
+csl-orig	2023-03-07	1066	closed	3	mw:187224
+csl-orig	2023-02-13	1060	open	1	MW - data without any meaning - only lexical information
+csl-orig	2023-02-12	1059	open	2	MW '-' v/s '—'
+csl-orig	2022-12-22	1017	closed	1	gra:5737
+csl-orig	2022-12-22	1015	closed	3	gra:1305
+csl-orig	2022-09-12	923	open	2	mw:12831
+csl-orig	2022-09-12	866	closed	1	mw:47344
+csl-orig	2022-07-19	855	closed	4	Space before punctuation marks (reg. PWG, pwk and pwkvn)
+csl-orig	2022-07-19	854	closed	3	Vedic accents in pwkvn_deva version, and the <ls> entries
+csl-orig	2022-04-27	853	open	2	Merge entries with dangling 'ls'
+csl-orig	2022-04-26	836	closed	14	bop:8155
+csl-orig	2022-04-26	821	closed	1	mw:
+csl-orig	2022-04-26	802	closed	1	mw:204114.1
+csl-orig	2022-04-26	800	open	2	bur:16777
+csl-orig	2022-04-26	799	closed	1	bur:12994
+csl-orig	2022-04-26	780	closed	2	sch:ID=8336
+csl-orig	2022-04-26	770	open	1	mw:41336.3
+csl-orig	2022-04-26	769	closed	2	mw:55577
+csl-orig	2022-02-26	748	closed	1	AP90 etymology markup error
+csl-orig	2022-02-17	746	closed	16	VCP - Degree sign needed instead of anusvAra?
+csl-orig	2021-12-20	724	closed	1	ap90:
+csl-orig	2021-12-20	711	open	1	mw:28747
+csl-orig	2021-12-20	695	closed	4	md:ID=18471
+csl-orig	2021-09-30	646	closed	1	gra:4726
+csl-orig	2021-09-30	639	closed	4	mw:200853  (shortlong display problem)
+csl-orig	2021-09-28	633	open	2	ab tag inside the `{%....%}` tag in BEN
+csl-orig	2021-09-16	631	open	3	IAST - ऌ  v/s ळ
+csl-orig	2021-09-13	624	open	1	vcp:8433 izwakarman
+csl-orig	2021-09-08	616	closed	8	GRA:  7, aMsa
+csl-orig	2021-09-06	615	open	7	WIL image in text
+csl-orig	2021-09-06	614	closed	4	VEI question 
+csl-orig	2021-09-06	613	open	19	KRM suggestion
+csl-orig	2021-09-06	612	closed	1	INM a print error?
+csl-orig	2021-09-06	610	closed	1	GST tag for script / language
+csl-orig	2021-09-06	609	closed	1	GRA importance of special characters
+csl-orig	2021-09-06	607	closed	5	BUR Greek as Sanskrit
+csl-orig	2021-09-06	606	open	1	Remove punctuation marks out of Devanagari
+csl-orig	2021-09-03	605	open	1	Are we putting accents at wrong place?
+csl-orig	2021-09-02	604	open	1	Fix data format for Andhrabharati and other willing individuals
+csl-orig	2021-09-01	603	open	2	Readme for csl-orig
+csl-orig	2021-06-21	586	closed	1	mw:133874
+csl-orig	2021-06-21	533	open	2	mw:30009
+csl-orig	2021-06-19	527	closed	1	ap90 ls markup consistency with ap57
+csl-orig	2021-04-10	519	closed	8	MW: Panini references
+csl-orig	2021-03-04	469	closed	21	VCP:  L=44490, zaqaBijYa
+csl-orig	2021-02-08	468	open	3	PE batches 1 and 2 review
+csl-orig	2021-01-12	463	closed	2	SKD:15785
+csl-orig	2020-05-10	271	closed	1	MW: reposition nAnAvasTa
+csl-orig	2020-05-09	270	open	1	MW: L=669, akzanvat
+csl-orig	2020-03-02	182	closed	5	skd: BnASa, BnAsa reversion
+csl-orig	2020-03-01	181	open	6	VCP:  another upasarga format
+csl-orig	2020-02-25	174	open	1	SKD verb headwords handling.
+csl-orig	2020-02-24	169	closed	2	skd: 24660, etc. spelling changes
+csl-orig	2019-12-22	88	closed	1	SHS - semi indeclinables
+csl-orig	2019-12-22	87	closed	1	Alternate headwords in SHS
+csl-orig	2019-12-19	31	closed	2	mw:p= 215,2

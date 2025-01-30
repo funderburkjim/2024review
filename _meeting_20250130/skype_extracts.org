@@ -1,0 +1,125 @@
+
+Comments pulled by Jim from Marcis skype 'sanskrit-lexicon' 
+ meeting of Jan 7, 2025  
+THERE MAY BE OTHERS TO ADD!
+
+* hrishikesh.txt
+There was a course on Vyoma, about Sanskrit Kosha, 
+which promoted many of such dictionaries, MW, Apte and provided information 
+about applications such as GoldenDict that use StarDict format dictionaries.
+ I personally use GoldenDict heavily with several dictionaries.
+
+https://pypi.org/project/PyCDSL/
+
+* -----------------------------------------------------------------
+* Dhaval
+
+https://github.com/sanskrit-lexicon/Cologne/issues/289
+Todo list in 2020
+-----
+todo list in 2021 (in descending order of importance)
+https://github.com/sanskrit-lexicon/COLOGNE/issues/325
+-----
+https://github.com/sanskrit-kosha/kosha
+Status of Amarakosha?
+-----
+
+
+* -----------------------------------------------------------------
+* felix
+Katerina: is the project hosted by a university? 
+  Perhaps, getting a PhD student to work on it would be an option as well?
+Felix:
+Yes, the resource is hosted by the University of Cologne.
+
+However, the situation of Sanskrit studies in Cologne isn't as good as it 
+used to be. There is no professor for Sanskrit anymore. 
+However, there are activities in Cologne, that might be of relevance here:
+https://c-salt.uni-koeln.de/
+
+
+* -----------------------------------------------------------------
+* Katerina
+
+ (as an option) I think it would also be interesting to consider incorporating 
+the dictionary data into an LLM using RAG (for search and retrieval):
+ https://en.wikipedia.org/wiki/Retrieval-augmented_generation
+
+I think it would be great to identify/list the existing issues and specify 
+the project desiderata if possible. 
+I would certainly be interested in contributing into making the dict structure
+ more systematic and cleaning the data, etc.
+
+
+* -----------------------------------------------------------------
+* vladimir
+Dear colleagues and friends!
+I would like to bring to your attention a free tool that may be useful to you in your work.
+This program is a set of tools for Sanskrit researchers, teachers and students providing the following functions:
+• multi-dictionary - 17 dictionaries, 304,493 lemmas, 841,282 dictionary entries (using materials from the University of Göttingen and the Cologne database, etc.);
+• library with complex search for text fragments, containing 244 sources - 4,577,913 word usages, 621,445 phrases (using the Digital Corpus of Sanskrit - DCS);
+• the program allows you to find a text fragment by a combination of lemmas, look at a lemma in a grammatical, historical, semantic context, see its compatibility with other lemmas in various texts and historical periods;
+• viewing and analyzing frequency lexical cores of Sanskrit literature texts from different eras;
+• analyzing layers of vocabulary falling out of the cores:
+• analyzing the similarity of lemma compatibility vectors;
+• conducting a stylistic analysis of corpus texts based on more than 210 parameters, obtaining a kind of stylistic profile of the test that can be used for comparison with a similar profile of another text in order to determine the “closeness” of these texts and their belonging to the same era or style;
+• analyzing parallel fragments of texts;
+• obtaining lists of lemmas based on specified conditions (keywords in dictionary entries, phonetic mask, etc.);
+• stanza analysis - dividing the stanza into lemmas (DCS lemmatization data are used);
+• a module for training the correct reading of Sanskrit texts from the point of view of Chandah Shastra.
+Additional materials and analytics:
+• lexical frequency cores of different periods of Sanskrit;
+• reference books (verb forms, grammatical forms, homoforms, synonyms, definitions, lemma compatibility, examples of verb conjugations and declensions of names and pronouns, etc.);
+• author's analytics - 41 analytical works on Sanskrit linguistics.
+The program is developed for Windows and works offline.
+At the moment, it supports two interface languages - Russian and English (the English interface is not fully developed)
+To run the program
+1. download the archive from the link: https://samskrtam.ru/saudamani/
+or directly:
+https://disk.yandex.ru/d/aa0uNBHxyWYyTQ
+or directly:
+https://drive.google.com/drive/folders/1LF9Q4YmQLZHTpcVUZzIgbqRzmr7ngAEA?usp=sharing
+2. unzip it to a folder convenient for use;
+3. Run Rundic.exe.
+4. The startup time is about 40 seconds.
+System requirements: Windows 64-bit OS. 8 GB RAM. 2 GB hard drive, the ability to save  temporary files in the current program folder.
+The help system for working with the program has not yet been developed, so address all possible questions and suggestions to me personally. I will be happy to answer..
+Version updates with bug fixes and new features are regular.
+Best regards, Vladimir.
+
+
+* -----------------------------------------------------------------
+* misc links
+https://kosh-docs.vercel.app/
+https://vedaweb.uni-koeln.de/
+https://pypi.org/project/PyCDSL/  hrishikesh
+
+https://www.youtube.com/watch?v=AEaA7hhGjCI
+    Future of Cologne Digital Lexicons - Marcis
+https://www.youtube.com/watch?v=5NVkR0Bad0o History of Cologne Digital Lexicons
+
+https://github.com/orgs/sanskrit-lexicon/dashboard
+
+
+* -----------------------------------------------------------------
+* some of people attending
+
+Hrishikesh Terdalkar
+
+Katerina Willamow
+Ирина Ковальчук
+
+Prasanna Venkatesh
+
+Shankararamasharama
+
+Felix Rau
+
+Suhasini Pandey
+
+Aryaman Chetas Pandey
+
+@anna слушателем попробует. @Serge окончательно отпал
+
+
+

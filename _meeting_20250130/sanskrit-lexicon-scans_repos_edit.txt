@@ -1,0 +1,70 @@
+Dictionary scanned images
+https://github.com/sanskrit-lexicon-scans/
+
+Scanned images for original cdsl dictionaries (35)
+acc
+ae
+ap90
+ben
+bhs
+bop
+bor
+bur
+cae
+ccs
+gra
+gst
+ieg
+inm
+krm
+mci
+md
+mw
+mw72
+mwe
+pe
+pgn
+pui
+pw
+pwg
+sch
+shs
+skd
+snp
+stc
+vcp
+vei
+wil
+yat 
+----------------------------
+'New' dictionaries
+abch
+acph
+acsj
+armh
+lan
+lrv
+----------------------------
+link targets in sanskrit-lexicon-scans
+bchrest
+bhagp_bom
+bhagp_bur
+hariv
+manu
+mbhcalc
+Oxf_Cat_Aufrecht
+ramayanagorr
+ramayanaschl
+kss
+
+------------------------
+
+------------------------
+Other repos -- deletable or renamed: e.g. old_ben-v0?
+ben-v0
+gra-v0
+mw-v0
+skd-v0
+documentation  almost empty!
+
+------------------------

@@ -1,0 +1,44 @@
+repo	date	issue	state	Andhrabharati	title
+PWK	2024-12-07	110	closed	1	BHĀGAVATAPURĀṆA PWKVN literary source markup
+PWK	2024-12-06	109	open	5	BHĀGAVATAPURĀṆA PW literary source markup
+PWK	2024-03-25	108	open	2	Ideas for further work following issue 106
+PWK	2024-02-09	106	closed	73	Alternate headwords for pw
+PWK	2024-02-07	104	closed	1	appending pwkvn to pwk
+PWK	2023-11-15	103	closed	20	pwkvn revisions, based on AB version(s)
+PWK	2023-11-14	102	closed	13	pw revisions based on AB version(s), continued
+PWK	2023-11-13	101	closed	6	Malten corrections (German words/bot tags)
+PWK	2023-07-28	98	open	6	Interesting observation: ṚV citations in pwk
+PWK	2023-07-25	97	open	3	basicdisplay revisions
+PWK	2023-07-21	96	open	5	pw/pwg literary source display 
+PWK	2023-07-17	95	closed	35	Fresh Look, starting with `<is>` tag
+PWK	2023-06-28	94	closed	2	<pc> errors at pwk-volume change
+PWK	2023-03-30	93	closed	7	Chrestomathy ls markup
+PWK	2022-06-10	90	closed	2	Gorresio Ramayana links
+PWK	2022-06-08	89	closed	3	Small error in "[Page...]" marking
+PWK	2022-06-07	88	closed	85	unmarked abbreviations
+PWK	2022-05-08	87	closed	7	PWKVN althws editing
+PWK	2022-04-26	86	closed	22	PWKVN  
+PWK	2022-02-06	84	open	19	MBH Bombay edition links
+PWK	2022-02-06	83	open	31	Ramayana links
+PWK	2022-02-04	82	closed	4	MBH Calcutta edition links in PWK
+PWK	2022-01-21	81	open	2	links to BOESP
+PWK	2021-10-27	79	closed	13	PWK ls corrections
+PWK	2021-10-26	78	closed	2	muhUrtawIkA  multiple entries
+PWK	2021-09-30	77	open	4	PWKVN3 vs Schmidt
+PWK	2021-09-26	76	open	1	Typing of pwk3_vn_page256-265
+PWK	2021-09-23	75	open	4	PWK VN7 Schmidt
+PWK	2021-09-23	74	open	3	PWK-VN Schmidt preparation
+PWK	2021-08-04	73	closed	3	PW(K) corrections-2: Andhrabharati
+PWK	2021-08-04	72	closed	7	PW(K) corrections-1: Andhrabharati
+PWK	2021-07-30	70	open	3	PWK VN and SCH
+PWK	2016-10-12	67	open	2	Missing markup
+PWK	2016-08-04	64	closed	1	<ls> corrections from purenumberabbrvlist
+PWK	2016-02-16	60	open	1	Revise pwbib_unused.txt
+PWK	2016-01-01	50	open	1	WILSON in references
+PWK	2015-12-22	40	closed	1	'ls' starting with a number
+PWK	2015-12-18	24	open	1	New literary resources caught
+PWK	2015-11-16	14	open	3	Editing changes to pwbib0.txt
+PWK	2015-11-08	11	closed	2	Pure numbers in references
+PWK	2015-07-09	10	open	1	Many alternate headwords
+PWK	2014-09-16	5	open	1	Nachtrage Implementation
+PWK	2014-09-16	4	open	1	Formatting of Entries

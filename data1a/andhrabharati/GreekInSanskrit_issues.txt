@@ -1,0 +1,15 @@
+repo	date	issue	state	Andhrabharati	title
+GreekInSanskrit	2021-10-03	44	closed	2	MW: Διϝός / δϝι in 'dva' headword?
+GreekInSanskrit	2021-10-03	43	closed	3	MW questions
+GreekInSanskrit	2021-09-14	41	closed	2	Greek text in Benfey
+GreekInSanskrit	2021-09-12	40	closed	3	Greek text in VEI dictionary
+GreekInSanskrit	2021-09-11	39	closed	2	Greek in BUR
+GreekInSanskrit	2021-09-10	36	closed	9	Which dictionaries have Greek text
+GreekInSanskrit	2019-09-15	33	closed	1	Greek text in Benfey and BOESP verses
+GreekInSanskrit	2018-10-08	27	closed	1	Greek in INM, 2
+GreekInSanskrit	2017-04-28	21	closed	1	Greek in INM
+GreekInSanskrit	2017-03-28	20	closed	2	Greek in MW72, part 4 
+GreekInSanskrit	2016-05-21	19	closed	1	Greek in BOP
+GreekInSanskrit	2015-06-03	13	open	3	PWG Greek section headings v. Greek text
+GreekInSanskrit	2015-04-26	10	open	1	PERSEUS_LINKS spreadsheet
+GreekInSanskrit	2015-04-15	2	closed	1	Greek in MW: review

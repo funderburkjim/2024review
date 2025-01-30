@@ -1,0 +1,4 @@
+repo	date	issue	state	Andhrabharati	title
+csl-ldev	2022-04-03	11	open	1	वीभत्सं बीभत्सीकुरु
+csl-ldev	2022-02-17	7	open	3	consistent उदात्त svara notation
+csl-ldev	2022-02-13	3	closed	1	Update 12531.txt

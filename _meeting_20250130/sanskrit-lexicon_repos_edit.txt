@@ -1,0 +1,88 @@
+sanskrit-lexicon repos with some comments, classification
+
+repos for work on individual dictionaries
+ACC
+AMAR
+AP90
+ApteES
+BEN
+BHS
+BOP
+BOR
+BUR
+CAE
+CCS
+GRA
+INM
+KRM
+LRV
+MD
+MW72
+MWS
+PWG
+PWK
+SCH
+SKD
+STC
+VCP
+VEI
+WIL
+
+-----------------
+Repos linked to on homepage
+csl-homepage website https://sanskrit-lexicon.uni-koeln.de/
+
+csl-apidev        "Simple-Search" ; 
+csl-doc           "Documentation"
+csl-inflect       "MW inflected forms"
+csl-kale          "Kale Higher Sanskrit Grammar, 1894 (Scanned)"
+csl-newsletter    "Newsletter"
+csl-santam        "Sanskrit and Tamil Dictionaries, 2005"
+csl-westergaard   "Westergaard Linguae Sanscritae, 1841 (Scanned)"
+csl-whitroot      "Whitney's Roots, 1885 (Scanned)"
+
+-------------------
+repos for maintaining dictionary links
+csl-orig          Dictionary digitizations
+csl-pywork        XML form, dictionary display creation
+csl-websanlexicon php dictionary code.
+csl-corrections Where user correction submission land; xxx_printchange files
+
+---------------
+ArabicInSanskrit    @Andhrabharati cdsl works having Arabic strings. 
+GreekInSanskrit     Greek text for most cdsl dictionaries user @jmigliori
+avlinks             Atharvaveda link target
+rvlinks             Rigveda link target
+
+COLOGNE    various purposes -- put more 'cdsl utilities' here?
+CORRECTIONS  superceded by csl-corrections.
+DCS      @gasyoun. from digital corpus sanskrit.
+Frish    Proposed Sans-Russ/Eng/Czech dictionary. @gasyoun, @artanat. dev
+hwnorm1  normalized headwords, hwnorm1c.sqlite used by simple search
+hwnorm2  redo_final_all.sh.sqlite, used by dalglob1.php -- complicated.
+   
+mw-dev  collaborate with Andhrabharati -- Jim thinks this abandoned ?, too hard.
+MWinflect        early form of csl-inflect.
+sanskrit-fonts  siddhanta.ttf.  Should other cdsl fonts be copied here?
+sanskrit-lexicon.github.io  Misc: VAC-VCP, etc. 
+temp_corrections_acc  english word corrections on acc, gst. Used with Sampada
+temp_corrections_ae   Correction work: ae, bhs, bor, mwe, pgn, snp, vei Sampada
+temp_corrections_ap90 Correction work: ap90, md, mw72, shs, wil
+temp_corrections_mw   Correction work: mw
+Wil-YAT               Study: Compare Wilson and Yates Headword
+
+-----------------------------------------------------------------------------
+santamlegacy    perl form of santam not used. 
+MCI  No commits for work on MCI dictionary delete?
+test_cologne_push     Used in solving a technical problem. delete?
+
+-----------------------------------------------------------------------------
+Repos created/maintained by Dhaval
+csl-json   json form of dictionaries, for https://ashtadhyayi.com. Maintained?
+csl-lnum   based on csl-orig, stardict corrections to xxx.txt. Status?
+csl-devanagari  Devanagari form of csl-orig files.  Status?
+csl-ldev   based on csl-devanagari, stardict corrections to xxx.xml.  Status?
+alternateheadwords  Dhaval
+literarysource   dhaval literary sources: ben, mw, mw72,pw,pwg
+cologne-hugo     experiment with static website.  Delete?
+cologne-stardict Cologne XMLs into babylon format for merging into Stardict

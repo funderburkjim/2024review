@@ -1,0 +1,2 @@
+repo	date	issue	state	Andhrabharati	title
+AMAR	2024-01-30	1	open	6	Gender information for meanings in nAnArthavarga

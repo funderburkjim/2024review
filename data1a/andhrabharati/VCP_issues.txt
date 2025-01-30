@@ -1,0 +1,13 @@
+repo	date	issue	state	Andhrabharati	title
+VCP	2021-08-11	27	open	2	aNgirAuvAca
+VCP	2021-08-08	25	open	1	Query regarding any addenda / corrigenda to Vachaspatyam
+VCP	2021-08-07	23	open	12	Debatable items
+VCP	2021-03-18	20	open	9	pUrbb vs. pUrvv
+VCP	2021-03-18	19	open	12	vac2a - picture data in TE
+VCP	2021-03-17	18	open	4	meld-prep: 'ai'/'au'
+VCP	2021-03-16	16	closed	1	Correction of {??} missing text in vcp.txt
+VCP	2021-03-14	15	open	8	Meld as a diff viewer for VAC-VCP comparision
+VCP	2021-03-13	13	closed	6	New VCP scans
+VCP	2020-10-28	11	open	5	abbreviation preparation
+VCP	2020-03-01	10	open	2	All Dhatu Entries: verbs01
+VCP	2014-09-02	3	open	3	Link to Preface

@@ -1,0 +1,26 @@
+repo	date	issue	state	Andhrabharati	title
+csl-devanagari	2024-01-16	43	open	1	SKD diff
+csl-devanagari	2022-04-28	40	closed	18	BOP study-2
+csl-devanagari	2022-03-28	39	closed	2	BOP study-1
+csl-devanagari	2022-03-05	38	open	7	slp1 to slp1_accented in transliteration-- Side effects!!
+csl-devanagari	2022-01-30	37	open	25	BUR Study
+csl-devanagari	2021-12-16	36	closed	4	 PE non-Skt entries
+csl-devanagari	2021-10-30	35	open	1	SKD study
+csl-devanagari	2021-10-30	34	open	34	INM Study
+csl-devanagari	2021-09-27	32	open	27	BEN Study
+csl-devanagari	2021-09-16	31	open	15	IEG Study
+csl-devanagari	2021-09-06	30	closed	1	Small changes in correction file
+csl-devanagari	2021-09-06	29	open	2	PGN issues
+csl-devanagari	2021-09-04	27	open	2	SCH issues
+csl-devanagari	2021-09-03	26	closed	9	Line markers for "body portion"
+csl-devanagari	2021-09-03	25	closed	1	Not all metalines to be with Devanagari text!!
+csl-devanagari	2021-09-03	24	closed	1	Devanagari in other than {#...#} tagging
+csl-devanagari	2021-09-03	23	closed	1	GRA issues
+csl-devanagari	2021-09-03	18	closed	2	SCH diff
+csl-devanagari	2021-09-03	11	closed	1	BUR diff
+csl-devanagari	2021-09-03	10	closed	2	BOR diff
+csl-devanagari	2021-09-02	5	closed	1	meta line to be converted
+csl-devanagari	2021-09-02	4	open	5	MD issues
+csl-devanagari	2021-09-02	3	open	2	CAE issues
+csl-devanagari	2021-09-02	2	open	1	LAN issues
+csl-devanagari	2021-09-02	1	closed	13	MW72 questions

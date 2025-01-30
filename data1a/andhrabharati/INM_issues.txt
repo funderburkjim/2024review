@@ -1,0 +1,7 @@
+repo	date	issue	state	Andhrabharati	title
+INM	2022-05-25	9	closed	7	Greek text remove lang tag
+INM	2022-05-10	8	open	8	Space Missing (1000 names2 --> 1000 names 2)
+INM	2021-12-11	5	closed	1	INM widely spaced text
+INM	2021-12-10	4	closed	14	Greek text added.
+INM	2021-12-05	3	closed	11	Transcoding Bug? 
+INM	2021-12-03	1	open	1	INM Concordance 

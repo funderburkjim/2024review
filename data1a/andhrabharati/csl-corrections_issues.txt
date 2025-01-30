@@ -1,0 +1,20 @@
+repo	date	issue	state	Andhrabharati	title
+csl-corrections	2025-01-15	92	open	4	Scott backlog of 2025-01-14
+csl-corrections	2024-10-08	91	closed	48	Another backlog of user corrections.
+csl-corrections	2024-05-29	90	closed	2	bulk handling of part of backlog
+csl-corrections	2024-05-12	89	closed	5	Some user corrections skipped entering the cdsl texts
+csl-corrections	2024-05-12	88	closed	2	No updates (?) from users for last 4 months, surprising!!
+csl-corrections	2024-01-25	87	open	1	How can we use the printchange files?
+csl-corrections	2021-08-07	78	open	6	it markers to be marked up in SKD
+csl-corrections	2021-08-07	76	closed	3	YAT ?? case
+csl-corrections	2021-08-07	75	open	3	comma, period etc outside Devanagari scope
+csl-corrections	2021-08-01	74	closed	2	metr. abbreviation in MW
+csl-corrections	2021-07-31	71	closed	3	औ in Lanman - question
+csl-corrections	2021-07-31	69	open	6	IEG diestruck (non-Sanskrit headwords)
+csl-corrections	2021-07-31	68	open	1	GiMR:YAT
+csl-corrections	2021-07-04	67	closed	2	VEI english word corrections
+csl-corrections	2021-04-23	64	closed	2	SHS English word errors
+csl-corrections	2021-03-19	54	closed	8	bor: bad scan pages
+csl-corrections	2021-01-13	46	open	1	PUI - Kannada / Telugu influence
+csl-corrections	2021-01-07	38	open	7	IEG ळ / ड़ errors
+csl-corrections	2019-12-24	10	open	1	WIL separating genders

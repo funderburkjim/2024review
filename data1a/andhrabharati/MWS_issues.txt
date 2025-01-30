@@ -1,0 +1,116 @@
+repo	date	issue	state	Andhrabharati	title
+MWS	2024-12-09	182	closed	2	Standardizing ls markup in MW (BhP)
+MWS	2024-11-16	181	open	1	Grassmanizing and/or groups, continued
+MWS	2024-09-02	178	open	11	AB3 alternate form for mws
+MWS	2024-08-11	176	closed	22	Grassmanizing and/or groups
+MWS	2024-08-04	175	closed	1	Standardize group entries
+MWS	2024-08-04	174	closed	4	Jumbled up order of P. Ā. (at the qualifier portion of the dhātu entries), as Ā. P.
+MWS	2024-07-06	173	closed	2	DIsplay of 'rev' and 'sup' items in mw
+MWS	2024-07-04	172	open	10	Different markup for 'titular abbreviations'
+MWS	2024-07-04	171	closed	8	Hierarchy placement of supplement entries
+MWS	2024-07-02	169	closed	7	The accent saga continues
+MWS	2024-06-30	167	closed	6	Some stray errors in mw data
+MWS	2024-06-29	166	closed	1	dot corrections
+MWS	2024-06-16	165	closed	1	k1-k2 discrepancies
+MWS	2024-06-15	164	closed	2	recoding shortlong
+MWS	2024-05-16	163	open	5	Grouped entries like GRA
+MWS	2024-04-02	162	open	2	'Bad' Side-effects of <ab n="> and <ls> tagging
+MWS	2024-02-02	161	closed	1	सुषुप्स question
+MWS	2024-01-25	160	closed	2	A strange error in display-code
+MWS	2023-07-23	159	closed	3	Gram. 54 Link to Whitney Sanskrit Grammar
+MWS	2023-03-16	157	closed	2	Advanced search vs. Simple search results
+MWS	2023-02-05	153	closed	30	Greek text review
+MWS	2023-02-02	152	closed	4	Should the <ls>Gr.</ls> link to Monier Williams's own Grammar book, instead of Whitney's Grammar?
+MWS	2023-01-23	151	closed	3	Should Ramayana links in MW be pointed to the Schlegel ed. for 1st & 2nd Kandas (as in PWG)?
+MWS	2023-01-07	147	open	1	Possible new markup for alternates
+MWS	2022-12-22	145	closed	26	MWS accent correction, continue, phase 4
+MWS	2022-12-15	144	closed	19	MW Scan review
+MWS	2022-11-14	143	closed	2	Headword Stats
+MWS	2022-10-21	142	closed	8	MWS accent correction, continue phase 3
+MWS	2022-09-19	141	closed	23	MW accent correction
+MWS	2022-09-04	140	closed	19	Accent representation in MW, PW, PWG, PWKVN
+MWS	2022-08-04	139	closed	3	Investigate dcs as source for link targets.
+MWS	2022-07-23	137	closed	27	Miscellaneous corrections
+MWS	2022-07-08	136	closed	13	Further <ls> cleanup
+MWS	2022-07-01	135	closed	63	Corrections in lsextract_mw.txt
+MWS	2022-07-01	134	closed	3	RV references without the RV -- AND general<ls> cleanup
+MWS	2022-06-22	133	closed	3	<bio> tagging
+MWS	2022-06-20	132	closed	14	About 6800 missing ¦ (Broken Vertical bar) in the L-entries
+MWS	2022-06-20	131	closed	3	Consistency in <hom> tagging
+MWS	2022-03-07	130	closed	7	Links wrongly rendered due to space between the digits
+MWS	2022-02-23	129	open	4	Missing Links: ib. viii, 103, 10
+MWS	2022-02-20	128	closed	1	nikāya lost
+MWS	2021-12-01	127	closed	13	non-english mw words
+MWS	2021-10-25	126	closed	9	Links to Dhātup. xix, 74
+MWS	2021-10-18	125	closed	2	SivaPurana refs in tIrTa entries : Should they be SkandaPurana?
+MWS	2021-10-17	124	closed	1	<ab> v. <lex> gender markup
+MWS	2021-10-08	121	closed	18	Capital letter words
+MWS	2021-10-08	120	closed	2	panini links in mw
+MWS	2021-10-03	119	closed	5	Entries requiring discussion for Etymology tags
+MWS	2021-10-03	118	closed	2	Lithuanian in mAs
+MWS	2021-10-03	117	closed	1	Lithuanian in mA
+MWS	2021-10-03	115	closed	2	plIhan 
+MWS	2021-10-03	114	closed	4	Is 'Zend' or 'Zd.' a language?
+MWS	2021-10-03	113	closed	2	'kâ' -> 'kÂ' : Some systematic conversion error?
+MWS	2021-09-12	112	closed	7	Missing ls tags
+MWS	2021-08-24	111	closed	3	Singular (sg.), Dual (du.) and Plural (pl.) indication/marking with "Person" number included
+MWS	2021-04-17	109	closed	1	Too Much White-space
+MWS	2021-04-10	107	closed	4	IAST in literary sources (was Divyâv. xxxv, 231.)
+MWS	2021-03-22	106	closed	2	Missed gender endings 
+MWS	2021-03-08	105	closed	14	MW supplement fresh look, part 7: missed 'or'/'and' entries
+MWS	2021-03-08	104	closed	21	MW supplement fresh look, part 6: Missed comp. word header entries from the Annexure pages
+MWS	2021-03-02	103	closed	18	MW Accent
+MWS	2021-02-27	102	closed	9	Typos under √ saMtuS
+MWS	2021-02-23	101	closed	19	MW supplement fresh look, part 5: Missed entries from the Annexure pages
+MWS	2021-02-22	100	closed	21	MW supplement fresh look, part 4: "rev" implementation
+MWS	2021-02-12	99	closed	9	Split portions of MW data for easier handling
+MWS	2021-02-04	98	open	1	MW resolving 'idems'
+MWS	2021-02-02	97	closed	42	MW supplement fresh look, part 4: "rev" marked entries
+MWS	2021-01-21	96	closed	60	MW supplement fresh look, part 3
+MWS	2021-01-05	95	closed	3	Numbering under <ls>...</ls> portions of Koeln MW99 data
+MWS	2021-01-05	94	closed	3	List of works and Authors in MW99
+MWS	2021-01-03	93	closed	2	Ka or KA
+MWS	2021-01-03	92	closed	4	MW alternate headwords markup explanation
+MWS	2021-01-03	91	closed	8	IdfSIdfktA to be converted to IdfktA
+MWS	2021-01-03	90	open	4	mw transcoding versions
+MWS	2021-01-02	89	closed	20	Full set of Greek words in MW99
+MWS	2021-01-01	88	closed	13	A query on MW search & display
+MWS	2021-01-01	87	closed	1	How is <bot> tag applied?
+MWS	2021-01-01	86	open	5	&c. Abbreviation
+MWS	2020-12-27	85	closed	7	the missing (head)word endings before the gender indication, in the data
+MWS	2020-12-27	84	closed	3	MW missing feminine data
+MWS	2020-12-27	83	closed	72	MW supplement fresh look, part 2
+MWS	2020-12-27	82	closed	1	MW supplement brief history
+MWS	2020-12-24	81	closed	10	Two pages skipped from the attention of all for so long
+MWS	2020-12-24	80	closed	15	Fresh relook at the "Additions and Corrections" warranted
+MWS	2020-12-14	79	closed	20	Lithuanian words IAST
+MWS	2020-12-13	78	closed	2	tooltip for med.
+MWS	2020-06-19	74	open	7	bot listing 
+MWS	2020-03-16	72	closed	1	Missing space between tags
+MWS	2019-02-26	68	closed	1	Markup &amp;c.
+MWS	2019-02-26	67	closed	2	Missing markup: Ved. neut. & Gr.
+MWS	2019-02-26	66	closed	3	No space after dot (inf.with)
+MWS	2019-02-19	65	closed	25	Hindi language markup
+MWS	2019-01-19	64	open	3	Cross-entry links in MW
+MWS	2018-03-17	58	closed	1	Last five missing _$_ etymologies
+MWS	2017-11-18	55	closed	1	Coding of Sanskrit words in MW - 
+MWS	2017-11-08	54	closed	1	Punctuation between literary source references
+MWS	2017-11-08	53	closed	4	Tooltips for H1, etc.
+MWS	2017-11-08	52	closed	1	Review of MW abbreviations
+MWS	2017-11-03	51	closed	1	2008 vs. 2018 <bot> markup cleanup
+MWS	2017-10-30	44	closed	2	yesterdayRV.
+MWS	2017-10-30	43	closed	5	Old Germ. glat
+MWS	2017-10-30	42	closed	2	Mod. Germ. ga0hne 
+MWS	2017-07-26	39	closed	1	ā*di (accents in MW)
+MWS	2015-07-20	26	closed	1	MW display variant:  (H2B/H2C cases)
+MWS	2015-05-18	24	open	2	Proper Names in SLP1 ({r}Ama for Rāma)
+MWS	2014-11-03	19	closed	1	Request of IDs for MW meanings (additional to L for entries)
+MWS	2014-10-16	17	closed	5	Unhide abbr.html (Boh. or Bohem. = Bohemian)
+MWS	2014-10-04	15	closed	1	11 Undeciphered Source Abbreviations
+MWS	2014-10-04	14	closed	1	Normalized Lexical Information
+MWS	2014-10-04	13	closed	1	ifc forms of paYcasahasrI
+MWS	2014-09-24	12	closed	1	List of Proper Names (N.)
+MWS	2014-09-17	7	closed	1	Questions Regarding "Current markup of Monier Williams Sanskrit-English Dictionary"
+MWS	2014-09-13	6	closed	1	Link to Source Text
+MWS	2014-09-13	5	closed	1	Monier Williams Grammar Markup
+MWS	2014-09-13	4	closed	1	Replica of Printed Fonts for Web Display

@@ -1,0 +1,10 @@
+repo	date	issue	state	Andhrabharati	title
+CORRECTIONS	2020-12-19	439	open	2	AP / AP90 - review pending 160 entries
+CORRECTIONS	2019-07-25	433	closed	1	AP90 - {#(#} - Sanskrit marking for parenthesis?
+CORRECTIONS	2018-07-22	419	open	13	PW IAST corrections
+CORRECTIONS	2017-11-19	414	open	7	Russian in PWG, a few more
+CORRECTIONS	2017-08-20	362	open	15	Etymology coding in MW
+CORRECTIONS	2016-11-07	319	closed	1	Abbreviations of Mâlatîmâdhava  in AP90
+CORRECTIONS	2016-04-23	292	open	1	Question about multi-word headwords
+CORRECTIONS	2015-03-21	92	closed	12	Missing data in INM
+CORRECTIONS	2014-10-11	10	closed	3	Hiatus

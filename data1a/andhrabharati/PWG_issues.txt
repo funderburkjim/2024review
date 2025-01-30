@@ -1,0 +1,51 @@
+repo	date	issue	state	Andhrabharati	title
+PWG	2025-01-26	85	open	1	Several Formatting Issues: <ls>MÜLLER</ls>?'S
+PWG	2025-01-25	84	open	5	ŚATAPATHABRĀHMAṆA link target
+PWG	2025-01-13	83	open	10	BHĀGAVATAPURĀṆA link target problems
+PWG	2024-12-13	82	open	1	Index for BHĀGAVATAPURĀṆA, Bombay edition.
+PWG	2024-11-19	81	closed	14	BHĀGAVATAPURĀṆA link target
+PWG	2024-09-28	78	open	2	Transcoding vowel-marker characters
+PWG	2024-09-18	77	closed	9	Remove gratuitous spaces in ls
+PWG	2024-09-18	76	open	19	VN missing pages, continued
+PWG	2024-09-17	75	open	8	Ramayana prakshipta link target
+PWG	2024-09-09	74	open	15	Standardization of pwg links for 'M.' (Manu)
+PWG	2024-09-06	73	closed	6	Manu-smfti link target
+PWG	2024-08-14	72	open	10	[INDOLOGY] Upgrade to online Koln Bohtlink-Roth dictionary?
+PWG	2024-07-27	71	closed	1	Standardization of pwg links for KATHĀS.
+PWG	2024-07-27	70	closed	10	katha-sarit-sagara link target 
+PWG	2024-06-21	69	closed	3	Verz. D. Oxf. H. links
+PWG	2024-02-26	68	closed	3	An interesting observation wrt displaying homonym numbers in PWG!!
+PWG	2023-02-04	66	closed	4	Resolving the {?} places
+PWG	2023-01-20	65	closed	1	PWG ls markup: numeric orphans
+PWG	2022-09-11	62	open	1	Amarakosha markup
+PWG	2022-07-28	61	open	7	Enhancing PWG content with Weber's Nachlass
+PWG	2022-06-28	60	open	4	Bombay edition for Ramayana
+PWG	2022-06-26	59	open	1	provide additional links to different sources for the same work 
+PWG	2022-06-24	58	open	2	Minor abbrev suggestions
+PWG	2022-06-23	57	open	34	Ramayana link markup in pwg
+PWG	2022-05-24	56	closed	2	single-letter italic
+PWG	2022-03-08	53	closed	3	RGorr link target
+PWG	2022-02-27	52	open	1	Apply VN
+PWG	2022-02-13	51	open	19	PWG ls markup 
+PWG	2022-01-28	50	closed	1	[Printed book page 5-1383]
+PWG	2022-01-28	49	open	19	HarivaMSa links via MBH Calcutta
+PWG	2022-01-24	48	closed	15	Links to MBH Calcutta edition
+PWG	2022-01-23	47	open	1	<ls>? -> <ls>
+PWG	2022-01-23	46	closed	1	ls markup corrections for pwg
+PWG	2021-08-06	43	closed	7	M2 and f2 in SLP1 encoding of Devanagari 
+PWG	2021-08-06	42	open	7	Taittirīya Prātiśākhya link target
+PWG	2021-08-02	41	open	5	Prātiśākhya ls references
+PWG	2021-07-27	40	closed	3	PWG scan page errors in  vol 6
+PWG	2021-07-25	39	open	14	VN missing pages
+PWG	2021-05-17	37	open	75	Cologne Additions to PWG
+PWG	2021-04-17	36	closed	2	aufschreien(?) -> aufschreien (?)
+PWG	2021-04-16	34	closed	4	Hyphens vs. em dashes vs. en dashes
+PWG	2019-03-11	29	closed	5	Scansion Symbols [Metrum, a: {Ç} {Ç} b. c. d: {Ç}]
+PWG	2017-04-21	26	open	3	Expanding abbreviations to number only references
+PWG	2017-04-21	25	closed	2	Page numbers clickable
+PWG	2017-04-21	23	open	3	Ṛv. 10, 16, 4. 1. Vs. 21, 9.  pwgauth.html
+PWG	2017-03-06	22	open	8	PWG Bibliography Cleaning
+PWG	2015-01-27	16	open	1	Bad scan page(s)
+PWG	2015-01-22	12	open	2	PWG Bibliographical Issues
+PWG	2014-10-04	9	closed	1	accents.html PWG Accents
+PWG	2014-09-25	5	closed	44	Rare Accent Coding Issues (ढ्य१ः॒᳠)

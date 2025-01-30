@@ -1,0 +1,7 @@
+repo	date	issue	state	Andhrabharati	title
+LRV	2024-06-14	25	closed	3	LRV headwords not marked as per CDSL style
+LRV	2022-10-06	14	closed	1	Potential places to find new headwords
+LRV	2022-10-05	13	open	7	Debatable entries
+LRV	2022-09-22	9	closed	1	Multiple headword as first part and single word as second part of compound
+LRV	2022-09-22	8	closed	3	Duplicate page-sequence
+LRV	2022-09-20	1	closed	4	18 odd entries 

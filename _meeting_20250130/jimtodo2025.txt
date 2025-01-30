@@ -1,0 +1,28 @@
+
+help in transition to no-Jim
+  -- Cologne server maintenance. Dhaval/Jim 
+  -- Need for another since
+     -- Jim is retiring, and
+     -- Dhaval's cdsl time is limited.
+     
+fix bugs
+  -- broken links and other internal inconsistencies
+  -- santamlegacy, mci
+link targets  (Andhrabharati, Anna, and others)
+php code improvements (Hrishikesh)
+boesp-prep https://funderburkjim.github.io/boesp-prep/web1/boesp.html?185
+ Sampada did a proofread of the Sanskrit.
+ Another proofread of German, Sanskrit?
+ move to sanskrit-lexicon, csl-websanexicon
+
+Frish (anatoly/Marcis) --  new CDSL dictionary (sanskrit-Russian, English, Czech
+
+ae MW-ize sub-headwords (Andhrabharati)
+  https://github.com/sanskrit-lexicon/aptees/issues/9 begun in May 2024
+
+admin tools help
+ap57  advise and help to get started.
+Guide to sanskrit-lexicon.uni-koeln.de file system.
+email history of sanskrit-lexicon project
+
+

@@ -1,0 +1,4 @@
+repo	date	issue	state	Andhrabharati	title
+literarysource	2022-02-18	3	open	1	AP90 ls entries
+literarysource	2022-02-17	2	open	2	BEN literary sources extracted
+literarysource	2022-02-17	1	open	10	MW72 literary sources listing
